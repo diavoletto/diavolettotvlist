@@ -1,8 +1,176 @@
-#EXTM3U 
+﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 25/07/2015 19h00*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 26/07/2015 12h00*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1,[COLOR red]******Sport Events******[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,[COLOR green]14.00 f1 GP UNGHERIA[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it
+http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it_opz 2
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it_opz 3
+http://streaming-hub.com/tv/i/rai1_1@97382/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rsi la 2 ch
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,Antena 3 es
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,[COLOR green]14.00 15.00 e 17.00 motocross LOKET – CZECH REP.[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,eurosport 2 ru_2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
+
+#EXTINF:-1 group-title=” 15.00 emirates.cup LYON – VILLAREAL “,bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 15.00 emirates.cup LYON – VILLAREAL “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,[COLOR green]16.00 swi VADUZ – ZURICH[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,[COLOR green]16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai sport 1 it
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai3 it
+http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai3 it_2
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rsi la 2 ch
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtp2 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtp2 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,france 2
+http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,ARD de
+http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtl lux
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport ru
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport ru_2
+http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
+
+#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,[COLOR green]16.30 aus WAC – AUSTRIA WIEN[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,sportklub 3 sr
+http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,[COLOR green]17.20 emirates.cup ARSENAL – WOLFSBURG[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,[COLOR green]18.00 bel ANDERLECHT – WAASLAND BEVEREN[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,Sportitalia
+rtmp://spi.hystream.com:1935/spilive/spistream_480
+#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 18.30 ukr OLEKSANDRIA – METALURG Z “,[COLOR green]18.30 ukr OLEKSANDRIA – METALURG Z[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 18.30 ukr OLEKSANDRIA – METALURG Z “,sportklub 3 sr
+http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,[COLOR green]20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,[COLOR green]20.30 mls NEW YORK CITY – ORLANDO CITY[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,[COLOR green]21.00 bra SAO PAULO – CRUZEIRO[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 21.00 friendly TENERIFE – SP.GIJON “,[COLOR green]21.00 friendly TENERIFE – SP.GIJON[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 21.00 friendly TENERIFE – SP.GIJON “,tv canaria es
+rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+
+#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,[COLOR green]23.00 mls DC UNITED – PHILADELPHIA UNION[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,[COLOR green]23.15 arg HURACAN – ESTUDIANTES LP[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 23.30 bra VASCO DA GAMA – CRUZEIRO “,[COLOR green]23.30 bra VASCO DA GAMA – CRUZEIRO[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 23.30 bra VASCO DA GAMA – CRUZEIRO “,digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 group-title=” 1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES “,[COLOR green]1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,[COLOR green]1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,[COLOR green]1.30 gold.cup.Final JAMAICA – MEXICO[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+
+#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,[COLOR green]2.30 arg BELGRANO – BOCA JUNIORS[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+
 #EXTINF:-1,[COLOR red] Test TV [/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1 tvg-logo="espn.png" tvg-id="ESPN" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN USA [/B][/I][/COLOR]
