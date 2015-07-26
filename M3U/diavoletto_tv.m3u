@@ -7,6 +7,15 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR red]******Sport Events******[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
+#EXTINF:-1,Sporttv3
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/426.ts
+#EXTINF:-1,Sporttv2
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/425.ts
+#EXTINF:-1,Sporttv1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/424.ts
 #EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,[COLOR green]14.00 f1 GP UNGHERIA[/COLOR] http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it
 http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
