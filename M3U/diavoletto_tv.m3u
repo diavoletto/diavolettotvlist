@@ -6,6 +6,14 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]******Sport Events******[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,BBC 1
+acestream://0056794950904c1f169566c045d5d747253c7e36
+#EXTINF:-1,BBC 2
+acestream://99c436f9882b07c92ed7a5bfffdb47e639976b04
+#EXTINF:-1,SkySports 1
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1,Sky Sports 2
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
 
 #EXTINF:-1,Sporttv3
 #EXTVLCOPT:http-user-agent=Lavf/55.19.104
