@@ -7,169 +7,41 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,[COLOR green]14.00 f1 GP UNGHERIA[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it
-http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it_opz 2
-http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it_opz 3
-http://streaming-hub.com/tv/i/rai1_1@97382/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,Antena 3 es
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,[COLOR green]14.00 15.00 e 17.00 motocross LOKET – CZECH REP.[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 14.00 15.00 e 17.00 motocross LOKET – CZECH REP. “,eurosport 2 ru_2
-http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
-
-#EXTINF:-1 group-title=” 15.00 emirates.cup LYON – VILLAREAL “,bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 15.00 emirates.cup LYON – VILLAREAL “,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,[COLOR green]16.00 swi VADUZ – ZURICH[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.00 swi VADUZ – ZURICH “,srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,[COLOR green]16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai sport 1 it
-http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai3 it
-http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rai3 it_2
-http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtp2 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtp2 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,france 2
-http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,ARD de
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,rtl lux
-http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport ru
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 16.15 cycling TOUR de FRANCE – etape 21 Sevres-Grand Paris Seine Ouest – Parigi Champs-Elysée “,eurosport ru_2
-http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
-
-#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,[COLOR green]16.30 aus WAC – AUSTRIA WIEN[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.30 aus WAC – AUSTRIA WIEN “,sportklub 3 sr
-http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,[COLOR green]17.20 emirates.cup ARSENAL – WOLFSBURG[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 17.20 emirates.cup ARSENAL – WOLFSBURG “,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,[COLOR green]18.00 bel ANDERLECHT – WAASLAND BEVEREN[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,Sportitalia
-rtmp://spi.hystream.com:1935/spilive/spistream_480
-#EXTINF:-1 group-title=” 18.00 bel ANDERLECHT – WAASLAND BEVEREN “,sport tv 1 pt
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,[COLOR green]14.00 Int.Cham.cup INTER – REAL MADRID[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=” 18.30 ukr OLEKSANDRIA – METALURG Z “,[COLOR green]18.30 ukr OLEKSANDRIA – METALURG Z[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 18.30 ukr OLEKSANDRIA – METALURG Z “,sportklub 3 sr
-http://balkanstream.com/stream/sportklub3hr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,[COLOR green]20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 20.00 arg NEWELLS OLD BOYS – ROSARIO CENTRAL “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,[COLOR green]20.30 mls NEW YORK CITY – ORLANDO CITY[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.30 mls NEW YORK CITY – ORLANDO CITY “,sky sports 5 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,[COLOR green]21.00 bra SAO PAULO – CRUZEIRO[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 21.00 bra SAO PAULO – CRUZEIRO “,bt sport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 21.00 friendly TENERIFE – SP.GIJON “,[COLOR green]21.00 friendly TENERIFE – SP.GIJON[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 21.00 friendly TENERIFE – SP.GIJON “,tv canaria es
-rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
-
-#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,[COLOR green]23.00 mls DC UNITED – PHILADELPHIA UNION[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 23.00 mls DC UNITED – PHILADELPHIA UNION “,sky sports 5 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,[COLOR green]23.15 arg HURACAN – ESTUDIANTES LP[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 23.15 arg HURACAN – ESTUDIANTES LP “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=” 23.30 bra VASCO DA GAMA – CRUZEIRO “,[COLOR green]23.30 bra VASCO DA GAMA – CRUZEIRO[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 23.30 bra VASCO DA GAMA – CRUZEIRO “,digi sport 1 ro
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,digi sport 1 ro
 rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 group-title=” 1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES “,[COLOR green]1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 1.00 mls VANCOUVER WHITECAPS – SAN JOSE EARTHQUAKES “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,[COLOR green]1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,sport tv 1 pt
+#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,[COLOR green]18.00 friendly SCHALKE 04 – PORTO[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 1.30 Int.Cham.cup NEW YORK RED BULLS – BENFICA “,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,[COLOR green]1.30 gold.cup.Final JAMAICA – MEXICO[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,bt sport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 1.30 gold.cup.Final JAMAICA – MEXICO “,irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,[COLOR green]20.15 ger2 FREIBURG – NUREMBERG[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,eurosport 2 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,eurosport 2 ru_2
+http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
 
-#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,[COLOR green]2.30 arg BELGRANO – BOCA JUNIORS[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar
+#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,[COLOR green]23.00 arg ARSENAL SARANDI – ARGENTINOS JRS[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar_opz 2
+#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 2.30 arg BELGRANO – BOCA JUNIORS “,tv publica ar_opz 3
+#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1530,6 +1402,148 @@ http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 #EXTINF:-1,TVA Montréal
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 
+#EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:1800 group-title=”?????????????? ?????????”,?????? ?????
+http://188.128.118.189:4001
+#EXTINF:0,?????? 1
+http://188.128.118.189:4002
+#EXTINF:0 audio-track=”ru”,Discovery Channel
+http://95.191.248.31:1234/udp/233.7.70.26:5000
+#EXTINF:0 audio-track=”ru”,Discovery Channel HD
+http://176.51.73.3:1234/udp/233.7.70.253:5000
+#EXTINF:0,?? 3
+http://188.128.118.189:4015
+#EXTINF:0,???
+http://188.128.118.189:4013
+#EXTINF:0,???
+http://188.128.118.189:4019
+#EXTINF:0 audio-track=”ru”,???-Comedy
+http://31.130.17.213:81/udp/238.1.2.24:1234
+#EXTINF:0,???
+http://188.128.118.189:4004
+#EXTINF:0,??? ??
+http://188.128.118.189:4011
+#EXTINF:0,TV1000
+http://95.191.197.100:1234/udp/233.7.70.36:5000
+#EXTINF:0,TV1000 ??????? ????
+http://95.191.250.91:1234/udp/233.7.70.67:5000
+#EXTINF:0 audio-track=”ru”,TV1000 Comedy HD
+http://95.191.243.170:1234/udp/233.7.70.179:5000
+#EXTINF:0,???? ????
+http://62.122.90.72:4022/udp/238.1.2.133:1234
+#EXTINF:0 audio-track=”ru”,Da Vinci
+http://178.49.164.220:81/udp/239.1.5.6:1234
+#EXTINF:0,???
+http://188.128.118.189:4009
+#EXTINF:0,??????
+http://188.128.118.189:4017
+#EXTINF:0,??????? ?????
+http://92.127.251.181:1234/udp/233.7.70.153:5000
+#EXTINF:0,??????? ????????
+http://37.192.121.41:81/udp/239.1.4.11:1234
+#EXTINF:0,????????+
+http://95.191.247.89:1234/udp/233.7.70.62:5000
+#EXTINF:0,?
+http://176.51.67.154:1234/udp/239.1.128.47:5000
+#EXTINF:0,2?2
+http://176.51.57.3:1234/udp/233.7.70.124:5000
+#EXTINF:0,??? ???????
+http://37.195.235.48:81/udp/239.1.5.17:1234
+#EXTINF:0,???????
+http://37.194.164.28:81/udp/239.1.2.17:1234
+#EXTINF:0,????? ? ???????
+http://37.194.46.12:81/udp/239.1.2.5:1234
+#EXTINF:0,?????
+http://37.195.63.56:81/udp/239.1.2.4:1234
+#EXTINF:0,Russian Travel Guide
+http://31.130.19.248:81/udp/238.1.2.96:1234
+#EXTINF:0 audio-track=”1?,Viasat Explore
+http://95.191.248.62:1234/udp/233.7.70.33:5000
+#EXTINF:0,Viasat Nature
+http://95.191.197.124:1234/udp/233.7.70.103:5000
+#EXTINF:0,Viasat History
+http://185.74.221.29:9011
+#EXTINF:0 audio-track=”ru”,????? 2.0
+http://176.51.109.254:1234/udp/233.7.70.243:5000
+#EXTINF:0 audio-track=”ru”,?????
+http://37.194.127.9:81/udp/239.1.15.14:1234
+#EXTINF:0,?????? 2
+http://188.128.118.189:4003
+#EXTINF:0,?????? 24
+http://188.128.118.189:4010
+#EXTINF:0,5 ?????
+http://188.128.118.189:4005
+#EXTINF:0 audio-track=”ru”,????????
+http://31.130.19.37:81/udp/238.1.1.81:1234
+#EXTINF:0 audio-track=”ru”,?????? ?
+http://37.193.163.26:81/udp/239.1.10.7:1234
+#EXTINF:0 audio-track=”ru”,???
+http://37.193.41.139:81/udp/239.1.15.8:1234
+#EXTINF:0,????????
+http://188.128.118.189:4014
+#EXTINF:0 audio-track=”ru”,Disney
+http://37.194.45.38:81/udp/239.1.15.12:1234
+#EXTINF:0 audio-track=”ru”,???????
+http://37.194.169.224:81/udp/239.1.3.5:1234
+#EXTINF:0 audio-track=”ru”,???
+http://37.192.61.61:81/udp/239.1.1.2:1234
+#EXTINF:0 audio-track=”ru”,?????
+http://92.127.221.96:1234/udp/233.7.70.57:5000
+#EXTINF:0 audio-track=”ru”,Nickelodeon
+http://37.195.241.131:81/udp/239.1.3.4:1234
+#EXTINF:0 audio-track=”ru”,???????
+http://176.51.16.248:5555/udp/239.1.128.54:5000
+#EXTINF:0,??? ??
+http://188.128.118.189:4020
+#EXTINF:0 audio-track=”ru”,????
+http://37.193.147.178:4022/udp/239.1.15.19:1234
+#EXTINF:0 audio-track=”ru”,Euronews
+http://178.49.105.83:81/udp/239.1.1.5:1234
+#EXTINF:0 audio-track=”ru”,????? ??
+http://37.193.105.200:81/udp/239.1.2.15:1234
+#EXTINF:0 group-title=”?????????? ??????”,Eurosport
+http://95.191.199.139:1234/udp/233.7.70.45:5000
+#EXTINF:0 audio-track=”ru”,Eurosport HD
+http://37.193.200.228:81/udp/239.1.11.6:1234
+#EXTINF:0 audio-track=”ru”,Eurosport 2
+http://5.128.174.81:81/udp/239.1.12.4:1234
+#EXTINF:0 audio-track=”ru”,Eurosport 2 HD
+http://langamepp.com/loc/B8CF368252ED031D95CC7C1650D499E489FB05B56BDB3B28ACFB007E24A0E9DE97E003AC63DF3B33A7FC443862E5A1DE80FE19F7369D2C2FA6F552277EE5A1CA8AF507B061D9
+#EXTINF:0 audio-track=”ru”,Extreme Sports
+http://langamepp.com/loc/0A3D3A41FA95DD40CB99851770BB38CC3B090976C3A3E575F2AEF97F04CF48F625120976D4A4E475E5A8B4205E8A0CFC30050B6E8FF1AD6FF9AABC39419509FE240C0B7BCBA7EE74
+#EXTINF:0 audio-track=”ru”,??????? ???????
+http://langamepp.com/loc/4D89F3DB2B83BEA69EE45197F85565987CBDC0EC12B58693A7D32DFF8C2115A262A6CAEE05B28797B0D662A5D66457AE77B8C1E81FACCBC2EECB63A4CB7B52B67AB9DDEA18BA8493AED461
+#EXTINF:0 audio-track=”ru”,??????
+http://langamepp.com/loc/6B8AE56B5A810BA08961C3B3F67CB75B5ABED65C63B73395B056BFDB8208C76144A5DC5E74B03291A753F085D84D83615AB8D65F75F46FD0A653F080D84B996C5BA4D75A6ABB3E90B951
+#EXTINF:0 audio-track=”ru”,???+ ??? ?????? HD
+http://95.191.224.8:1234/udp/233.7.70.194:5000
+#EXTINF:0 audio-track=”ru”,??? + ?????? 1
+http://91.233.44.1:8888/udp/239.255.1.1:2002
+#EXTINF:0 audio-track=”ru”,???+ ?????????
+http://langamepp.com/loc/46F92F34DB27FB0A90159C6C029DE95A77CD1C03E211C33FA922E00476E9996069D61606F516C93DBE27AC552CACD9687CC81D07EF088E6EE03AAE5F31B3DE7471C90106EF11C13FA025AC
+#EXTINF:0 audio-track=”ru”,?????????? ????
+http://37.193.201.182:81/udp/239.1.12.9:1234
+#EXTINF:0,?????
+http://176.51.96.182:1234/udp/233.7.70.254:5000
+#EXTINF:-1, ????? 1
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+#EXTINF:-1, ????? 1 HD
+http://90.189.198.75:1234/udp/233.7.70.131:5000
+#EXTINF:0,????? ????
+http://188.128.118.189:4016
+#EXTINF:0 audio-track=”ru”,?????????
+http://langamepp.com/loc/BE05B1C08B314BB9210DF854B38620118F3182F7B207738C183A843CC7F2502B912A88F5A50072880F3FCB639DBF1A208C3685EFFE553B96133ECB7A84A81721903785F6B1047B8911
+#EXTINF:0 audio-track=”ru”,???
+http://langamepp.com/loc/9D989DB207B63893EC85818FD502A342ACACAE853E8000A6D5B2FDE7A176D378B2B7A487298701A2C2B4B8B8FB339176A7A9AF8133994DF79CAAB3BCE62C946CAAA8B381308C0DA3DCB5
+#EXTINF:0 audio-track=”ru”,??? HD
+http://langamepp.com/loc/511B194DBF2D6E55079698A5F71DB298602F2A7A861B56603EA1E4CD8369C2A27E342B7C8D035F6333B8AA94C53383AF6721287F8C19412063E6B797C42E9CAF7F2C29638D1C566F32A6A895
+#EXTINF:0 audio-track=”ru”,Viasat Sport
+http://langamepp.com/loc/51B9BA10EBD6E354551AA0CC17D4FADB608D8927D2E0DB616C2DDCA463A08AE17E968322C5E7D1637B2B99F939E6CAE26B888823DFF99630253592FF24FACDF566899421D8EED961652A90
+#EXTINF:0 audio-track=”ru”,Super Tennis HD
+http://langamepp.com/loc/4EA0CA9A98617960F6CCBA5E13FD4C027F94F9ADA1574155CFFBC63667893C38618FFBAAA14F4157D8FE8E683DC97E387698F2A2B7141D10D9FE89663DCD6233788EFCA9A2504B53C2
+
 #EXTINF:-1,[COLOR red]****************Africa TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:0,Vox Africa
@@ -1690,338 +1704,72 @@ http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:0,MBC
-http://216.105.40.244/live/mbc/index.m3u8
-#EXTINF:0,DREAM1
-http://216.105.40.244/live/dream1/index.m3u8
-#EXTINF:0,DREAM2
-http://216.105.40.244/live/dream2/index.m3u8
-#EXTINF:0,rotana_classic
-http://216.105.40.244/live/rotana_classic/index.m3u8
-#EXTINF:0,rotana_massriya
-http://216.105.40.244/live/rotana_massriya/index.m3u8
-#EXTINF:0,rotana_khalijiah
-http://216.105.40.244/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,rotana_cinema_plus
-http://216.105.40.244/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://216.105.40.244/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,rotana_massriya
-http://216.105.40.244/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,Set ElBait
-http://216.105.40.244/live/set_el_bait/index.m3u8
-#EXTINF:0,Set Elbait plus
-http://216.105.40.244/live/set_el_bait_plus/index.m3u8
-#EXTINF:0,ON TV
-http://216.105.40.244/live/ontv/index.m3u
-#EXTINF:0,ON TV LIVE
-http://216.105.40.244/live/ontv_live/index.m3u8
-#EXTINF:0,ON TV PLUS
-http://216.105.40.244live/ontv_plus/index.m3u8
-#EXTINF:0,ON TV LIVE PLUS
-http://216.105.40.244/live/ontv_live_plus/index.m3u8
-#EXTINF:0,el_mehwar_plus
-http://216.105.40.244/live/el_mehwar_plus/index.m3u8
-#EXTINF:0,al nahar + 2
-http://216.105.40.244/live/al-nahar_plus2/index.m3u8
-#EXTINF:0,al-nahar_drama
-http://216.105.40.244/live/al-nahar_drama/index.m3u8
-#EXTINF:0,al-nahar_al_youm
-http://216.105.40.244/live/al-nahar_al_youm/index.m3u8
-#EXTINF:0,al-nahar_al_youm
-http://216.105.40.244/live/al-nahar_al_youm/index.m3u8
-#EXTINF:0,al-nahar_drama
-http://216.105.40.244/live/al_kahera_wal_nas/index.m3u8
-#EXTINF:0,faraeen_channel
-http://216.105.40.244/live/al_kahera_wal_nas_plus/index.m3u8
-#EXTINF:0,faraeen_channel
-http://216.105.40.244/live/faraeen_channel/index.m3u8
-#EXTINF:0,cbc_extra
-http://216.105.40.244/live/cbc_plus/index.m3u8
-#EXTINF:0,cbc_extra
-http://216.105.40.244/live/cbc_extra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://216.105.40.244/live/cbc_sofra/index.m3u8
-#EXTINF:0,cbc_sofra
-http://216.105.40.244/live/cbc_sofra/index.m3u8
-#EXTINF:0,cbc_drama
-http://216.105.40.244/live/cbc_drama/index.m3u8
-#EXTINF:0,cbc_extra_plus
-http://216.105.40.244/live/cbc_extra_plus/index.m3u8
-#EXTINF:0,cbc_sofra_plus
-http://216.105.40.244/live/cbc_sofra_plus/index.m3u8
-#EXTINF:0,cbc_drama_plus
-http://216.105.40.244/live/cbc_drama_plus/index.m3u8
-#EXTINF:0,al_oula_egypt
-http://216.105.40.244/live/al_oula_egypt/index.m3u8
-#EXTINF:0,CBC TWO
-http://216.105.40.244/live/cbc_two/index.m3u8
-#EXTINF:0,CBC TWO +
-http://216.105.40.244/live/cbc_two_plus/index.m3u8
-#EXTINF:0,sada_el_balad
-http://216.105.40.244/live/sada_el_balad/index.m3u8
-#EXTINF:0,sada_el_balad
-http://216.105.40.244/live/sada_el_balad/index.m3u8
-#EXTINF:0,sada_el_balad_drama
-http://216.105.40.244/live/sada_el_balad_drama/index.m3u8
-#EXTINF:0,sada_el_balad_plus
-http://216.105.40.244/live/sada_el_balad_plus/index.m3u8
-#EXTINF:0,sada_el_balad_drama_plus
-http://216.105.40.244/live/sada_el_balad_drama_plus/index.m3u8
-#EXTINF:0,nile_cinema
-http://216.105.40.244/live/nile_cinema/index.m3u8
-#EXTINF:0,nile_comedy
-http://216.105.40.244/live/nile_comedy/index.m3u8
-#EXTINF:0,nile_news
-http://216.105.40.244/live/nile_news/index.m3u8
-#EXTINF:0,nile_family
-http://216.105.40.244/live/nile_family/index.m3u8
-#EXTINF:0,nile_culture
-http://216.105.40.244/live/nile_culture/index.m3u8
-#EXTINF:0,nile_culture
-http://216.105.40.244/live/nile_culture/index.m3u8
-#EXTINF:0,nile_life
-http://216.105.40.244/live/nile_life/index.m3u8
-#EXTINF:0,nile_cinema_plus
-http://216.105.40.244/live/nile_cinema_plus/index.m3u8
-#EXTINF:0,nile_comedy_plus
-http://216.105.40.244/live/nile_comedy_plus/index.m3u8
-#EXTINF:0,nile_news_plus
-http://216.105.40.244/live/nile_news_plus/index.m3u8
-#EXTINF:0,nile_family_plus
-http://216.105.40.244/live/nile_family_plus/index.m3u8
-#EXTINF:0,nile_culture_plus
-http://216.105.40.244/live/nile_culture_plus/index.m3u8
-#EXTINF:0,nile_life_plus
-http://216.105.40.244/live/nile_life_plus/index.m3u8
-#EXTINF:0,nile_life_plus
-http://216.105.40.244/live/nile_life_plus/index.m3u8
-#EXTINF:0,panorama_film
-http://216.105.40.244/live/panorama_film/index.m3u8
-#EXTINF:0,panorama_drama
-http://216.105.40.244/live/panorama_cinema/index.m3u8
-#EXTINF:0,panorama_drama_1
-http://216.105.40.244/live/panorama_drama_i/index.m3u8
-#EXTINF:0,panorama_drama_2
-http://216.105.40.244/live/panorama_drama_ii/index.m3u8
-#EXTINF:0,panorama_comedy
-http://216.105.40.244/live/panorama_comedy/index.m3u8
-#EXTINF:0,panorama_comedy
-http://216.105.40.244/live/panorama_comedy/index.m3u8
-#EXTINF:0,panorama_film_plus
-http://216.105.40.244/live/panorama_film_plus/index.m3u8
-#EXTINF:0,panorama_cinema_plus
-http://216.105.40.244/live/panorama_cinema_plus/index.m3u8
-#EXTINF:0,panorama_drama_1_plus
-http://216.105.40.244/live/panorama_drama_i_plus/index.m3u8
-#EXTINF:0,panorama_drama_2_plus
-http://216.105.40.244/live/panorama_drama_ii_plus/index.m3u8
-#EXTINF:0,panorama_comedy_plus
-http://216.105.40.244/live/panorama_comedy_plus/index.m3u8
-#EXTINF:0,time_drama
-http://216.105.40.244/live/time_drama/index.m3u8
-#EXTINF:0,time_comedy
-http://216.105.40.244/live/time_comedy/index.m3u8
-#EXTINF:0,time_turki
-http://216.105.40.244/live/time_turki/index.m3u8
-#EXTINF:0,time_film
-http://216.105.40.244/live/time_film/index.m3u8
-#EXTINF:0,time_film
-http://216.105.40.244/live/time_film/index.m3u8
-#EXTINF:0,time_action
-http://216.105.40.244/live/time_action/index.m3u
-#EXTINF:0,time_cinema_1_plus
-http://216.105.40.244/live/time_cinema_i_plus/index.m3u8
-#EXTINF:0,time_cinema_2_plus
-http://216.105.40.244/live/time_cinema_2_plus/index.m3u8
-#EXTINF:0,time_drama_plus
-http://216.105.40.244/live/time_drama_plus/index.m3u8
-#EXTINF:0,time_comedy_plus
-http://216.105.40.244/live/time_comedy_plus/index.m3u8
-#EXTINF:0,time_turki_plus
-http://216.105.40.244/live/time_turki_plus/index.m3u8
-#EXTINF:0,time_film_plus
-http://216.105.40.244/live/time_film_plus/index.m3u8
-#EXTINF:0,time_taxi_plus
-http://216.105.40.244/live/time_taxi_plus/index.m3u8
-#EXTINF:0,time_action_plus
-http://216.105.40.244/live/time_action_plus/index.m3u8
-#EXTINF:0,time_action_plus
-http://216.105.40.244/live/time_action_plus/index.m3u8
-#EXTINF:0,darbaka_aflam
-http://216.105.40.244/live/darbaka_aflam/index.m3u8
-#EXTINF:0,darbaka_aflam
-http://216.105.40.244/live/darbaka_aflam/index.m3u8
-#EXTINF:0,darbaka_cinema
-http://216.105.40.244/live/darbaka_cinema/index.m3u8
-#EXTINF:0,darbaka_aflam_plus
-http://216.105.40.244/live/darbaka_aflam_plus/index.m3u8
-#EXTINF:0,cairo_zaman
-http://216.105.40.244/live/cairo_zaman/index.m3u8
-#EXTINF:0,cairo_cinema
-http://216.105.40.244/live/cairo_cinema/index.m3u8
-#EXTINF:0,cairo_drama
-http://216.105.40.244/live/cairo_drama/index.m3u8
-#EXTINF:0,cairo_cinema_plus
-http://216.105.40.244/live/cairo_cinema_plus/index.m3u8
-#EXTINF:0,airo_zaman_plus
-http://216.105.40.244/live/cairo_zaman_plus/index.m3u8
-#EXTINF:0,cairo_drama_plus
-http://216.105.40.244/live/cairo_drama_plus/index.m3u8
-#EXTINF:0,lcd_aflam
-http://216.105.40.244/live/lcd_aflam/index.m3u8
-#EXTINF:0,toktok_cinema
-http://216.105.40.244/live/toktok_cinema/index.m3u8
-#EXTINF:0,almasraweya_aflam
-http://216.105.40.244/live/almasraweya_aflam/index.m3u8
-#EXTINF:0,cima_shobra_palace
-http://216.105.40.244/live/cima_shobra_palace/index.m3u8
-#EXTINF:0,al_shasha
-http://216.105.40.244/live/al_shasha/index.m3u8
-#EXTINF:0,al_shasha
-http://216.105.40.244/live/al_shasha/index.m3u8
-#EXTINF:0,kalb_el_asad
-http://216.105.40.244/live/kalb_el_asad/index.m3u8
-#EXTINF:0,time_ekhtarna_lak
-http://216.105.40.244/live/time_ekhtarna_lak/index.m3u8
-#EXTINF:0,halawet_rooh
-http://216.105.40.244/live/halawet_rooh/index.m3u8
-#EXTINF:0,abla_fahita
-http://216.105.40.244/live/abla_fahita/index.m3u8
-#EXTINF:0,abc_aflam
-http://216.105.40.244/live/abc_aflam/index.m3u8
-#EXTINF:0,rotana_moussica
-http://216.105.40.244/live/rotana_moussica/index.m3u8
-#EXTINF:0,rotana_moussica
-http://216.105.40.244/live/rotana_moussica/index.m3u8
-#EXTINF:0,rotana_clip
-http://216.105.40.244/live/rotana_clip/index.m3u8
-#EXTINF:0,sha3beyat
-http://216.105.40.244/live/sha3beyat/index.m3u8
-#EXTINF:0,top_movies
-http://216.105.40.244/live/top_movies/index.m3u8
-#EXTINF:0,top_movies
-http://216.105.40.244/live/top_movies/index.m3u8
-#EXTINF:0,sama_dubai
-http://216.105.40.244/live/sama_dubai/index.m3u8
-#EXTINF:0,al_qithara_tv
-http://216.105.40.244/live/al_qithara_tv/index.m3u8
-#EXTINF:0,arab_woman
-http://216.105.40.244/live/arab_woman/index.m3u8
-#EXTINF:0,nile_sport
-http://216.105.40.244/live/al_nahar_sport/index.m3u8
-#EXTINF:0,nile_sport_plus7
-http://216.105.40.244/live/al_nahar_sport_plus7/index.m3u8
-#EXTINF:0,nile_sport
-http://216.105.40.244/live/nile_sport/index.m3u8
-#EXTINF:0,nile_sport_plus7
-http://216.105.40.244/live/nile_sport_plus7/index.m3u8
-#EXTINF:0,abu_dhabi_sports
-http://216.105.40.244/live/abu_dhabi_sports/index.m3u8
-#EXTINF:0,syria_drama
-http://216.105.40.244/live/syria_drama/index.m3u8
-#EXTINF:0,nessma
-http://216.105.40.244/live/nessma/index.m3u8
-#EXTINF:0,syria_sat
-http://216.105.40.244/live/syria_sat/index.m3u8
-#EXTINF:0,jordan_tv
-http://216.105.40.244/live/jordan_tv/index.m3u8
-#EXTINF:0,libya_alhurra
-http://216.105.40.244/live/libya_alhurra/index.m3u8
-#EXTINF:0,al_maghribia
-http://216.105.40.244/live/al_maghribia/index.m3u8
-#EXTINF:0,ktv_1
-http://216.105.40.244/live/ktv_i/index.m3u8
-#EXTINF:0,ktv_2
-http://216.105.40.244/live/ktv_ii/index.m3u8
-#EXTINF:0,ktv_3
-http://216.105.40.244/live/ktv_iii/index.m3u8
-#EXTINF:0,TRT 6
-http://216.105.40.244/live/trt_6/index.m3u8
-#EXTINF:0,al_sumariya
-http://216.105.40.244/al_sumariya/index.m3u8
-#EXTINF:0,al_sharqiya
-http://216.105.40.244/live/al_sharqiya/index.m3u8
-#EXTINF:0,al_sharqiya
-http://216.105.40.244/live/al_sharqiya/index.m3u8
-#EXTINF:0,al_baghdadia
-http://216.105.40.244/live/al_baghdadia/index.m3u8
-#EXTINF:0,france_24_english
-http://216.105.40.244/live/france_24_english/index.m3u8
-#EXTINF:0,russia_today
-http://216.105.40.244/live/russia_today/index.m3u8
-#EXTINF:0,BBC ARABIC
-http://216.105.40.244/live/bbc_arabic/index.m3u8
-#EXTINF:0,koky_kids
-http://216.105.40.244/live/koky_kids/index.m3u8
-#EXTINF:0,smile_of_a_child
-http://216.105.40.244/live/smile_of_a_child/index.m3u8
-#EXTINF:0,kidzinia
-http://216.105.40.244/live/kidzinia/index.m3u8
-#EXTINF:0,sat7_kids
-http://216.105.40.244/live/sat7_kids/index.m3u8
-#EXTINF:0,CTV
-http://216.105.40.244/live/ctv/index.m3u8
-#EXTINF:0,logos
-http://216.105.40.244/live/logos/index.m3u8
-#EXTINF:0,al_horreya
-http://216.105.40.244live/al_horreya/index.m3u8
-#EXTINF:0,cyc_tv
-http://216.105.40.244/live/cyc_tv/index.m3u8
-#EXTINF:0,coptic_sat
-http://216.105.40.244/live/coptic_sat/index.m3u8
-#EXTINF:0,me_sat
-http://216.105.40.244/live/me_sat/index.m3u8
-#EXTINF:0,al_resalla
-http://216.105.40.244/live/al_resalla/index.m3u8
-#EXTINF:0,al_resalla
-http://216.105.40.244/live/al_resalla/index.m3u8
-#EXTINF:0,azhari
-http://216.105.40.244/live/azhari/index.m3u8
-#EXTINF:0,time_quran
-http://216.105.40.244/live/time_quran/index.m3u8
-#EXTINF:0,amjad_tv
-http://216.105.40.244/live/amjad_tv/index.m3u8
-#EXTINF:0,amjad_tv
-http://216.105.40.244/live/amjad_tv/index.m3u8
-#EXTINF:0,al_majd
-http://216.105.40.244/live/al_majd/index.m3u8
-#EXTINF:0,al_majd
-http://216.105.40.244/live/al_majd/index.m3u8
-#EXTINF:0,al_naeem_tv
-http://216.105.40.244/live/al_naeem_tv/index.m3u8
-#EXTINF:0,russia_today
-http://216.105.40.244/live/russia_today/index.m3u8
-#EXTINF:0,BeIN 1
-http://185.56.30.123:8082/TV4001
-#EXTINF:0,BeIN 2
-http://185.56.30.123:8082/TV4002
-#EXTINF:0,BeIN 3
-http://185.56.30.123:8082/TV4003
-#EXTINF:0,BeIN 4
-http://185.56.30.123:8082/TV4004
-#EXTINF:0,BeIN 5
-http://185.56.30.123:8082/TV4005
-#EXTINF:0,BeIN 6
-http://185.56.30.123:8082/TV4006
-#EXTINF:0,BeIN 7
-http://185.56.30.123:8082/TV4007
-#EXTINF:0,BeIN 8
-http://185.56.30.123:8082/TV4008
-#EXTINF:0,BeIN 9
-http://185.56.30.123:8082/TV4009
-#EXTINF:0,BeIN 10
-http://185.56.30.123:8082/TV4010
-#EXTINF:0,BeIN 11 HD
-http://185.56.30.123:8082/TV4011
-#EXTINF:0,BeIN 12 HD
-http://185.56.30.123:8082/TV4012
-#EXTINF:0,BeIN 13 HD
-http://185.56.30.123:8082/TV4013
-#EXTINF:0,BeIN 14 HD
-http://185.56.30.123:8082/TV4014
-#EXTINF:0,BeIN 15 HD
-http://185.56.30.123:8082/TV4015
+#EXTINF:-1,Addounia TV
+rtmp://sama-tv.net/live/samatv
+#EXTINF:-1,Al Aoula
+rtmp://stream2.jmm.yacast.net/jmm_snrt//jt/lundi/addahirra/jt
+#EXTINF:-1,Al Baghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1,Al Falstiniah TV
+rtmp://46.43.64.166/flv/flv
+#EXTINF:-1,Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1,Al Hayat 2
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
+#EXTINF:-1,Al Ikhbaria syria
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:-1,Al Kawthar
+http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
+#EXTINF:-1,Al Maaref
+http://almaareftv.com:1935/live/1/playlist.m3u8
+#EXTINF:-1,Al Maaref TV
+rtmp://almaareftv.com/live/1
+#EXTINF:-1,Al Nabaa
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,Al Oula TV
+rtmp://82.137.248.21/Aloula/AloulaLive2
+#EXTINF:-1,Al Sahraa 1
+rtmp://navigatorsjo.com/live/Sahraa.stream
+#EXTINF:-1,Al Sahraa 2
+rtmp://navigatorsjo.com/liveS2/Sahraa2.stream
+#EXTINF:-1,Al Sahraa 3
+rtmp://navigatorsjo.com/amjad/amjad.stream
+#EXTINF:-1,Al Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1,Al Sharqiya Television
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:-1,Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1,Albaghdadia
+http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+#EXTINF:-1,Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1,Alfady TV
+rtmp://stream.truth-voice.net/FadyLive//FadyLive
+#EXTINF:-1,alhayat 1 m3u8
+http://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream/playlist.m3u8
+#EXTINF:-1,Alhurra TV
+rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+#EXTINF:-1,Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1,AlJazeera Children
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Aljazeera En
+http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
+#EXTINF:-1,Al-Manar TV
+rtmp://38.96.148.204/liveedge//livestream_360p
+#EXTINF:-1,Al-Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,Alriadia_sport
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+#EXTINF:-1,Alriadia_sport m3u8
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/playlist.m3u8
+#EXTINF:-1,ANN News
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1,AQTV
+rtmp://178.214.64.157/hd1-3//hd1-3
 
 #EXTINF:-1,[COLOR red]****************USA TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
