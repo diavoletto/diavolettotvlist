@@ -1,10 +1,11 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 26/07/2015 12h00*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 27/07/2015 14h12*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1,[COLOR red]******Sport Events******[/COLOR]
+#EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,[COLOR green]14.00 f1 GP UNGHERIA[/COLOR] http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=” 14.00 f1 GP UNGHERIA “,rai1 it
@@ -170,102 +171,79 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 
-#EXTINF:-1,[COLOR red] Test TV [/COLOR]
+#EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 tvg-logo="espn.png" tvg-id="ESPN" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN USA [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:-1 tvg-logo="espn2.png" tvg-id="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN2 USA [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:-1,CANAL+
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
-#EXTINF:-1,CANAL+ Cinéma
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
-#EXTINF:-1,CANAL+ Décalé
-http://mystreams.fr.mu/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
-#EXTINF:-1,CANAL+ Family
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
-#EXTINF:-1,CANAL+ Séries
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
-#EXTINF:-1,CANAL+ Sport
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
-#EXTINF:-1,CINE+ Emotion
-http://mystreams.fr.mu/80E803/Scam/hls/Cine_Emotion_HD.m3u8
-#EXTINF:-1,CINE+ Premier
-http://mystreams.fr.mu/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://mystreams.fr.mu/80E803/Scam/hls/National_Geo_FR_HD.m3u8
-#EXTINF:-1,PLANETE+
-http://mystreams.fr.mu/80E803/Scam/hls/Planet_Plus_HD.m3u8
-#EXTINF:-1,ID (EN)
-http://80.77.52.6:3917/udp/226.0.3.1:12345
-#EXTINF:-1,CN (EN)
-http://80.77.52.6:3917/udp/226.0.3.2:12345
-#EXTINF:-1,Disc. World (EN)
-http://80.77.52.6:3917/udp/226.0.3.3:12345
-#EXTINF:-1,Disc. Sc. (EN)
-http://80.77.52.6:3917/udp/226.0.3.4:12345
-#EXTINF:-1,AMC (EN)
-http://80.77.52.6:3917/udp/226.0.3.5:12345
-#EXTINF:-1,CBS Reality (EN)
-http://80.77.52.6:3917/udp/226.0.3.6:12345
-#EXTINF:-1,Extreme Sports (EN)
-http://80.77.52.6:3917/udp/226.0.3.7:12345
-#EXTINF:-1,Jim Jam (EN)
-http://80.77.52.6:3917/udp/226.0.3.8:12345
-#EXTINF:-1,Disc. Ch. (EN)
-http://80.77.52.6:3917/udp/226.0.3.17:12345
-#EXTINF:-1,Nick Jr. (EN)
-http://80.77.52.6:3917/udp/226.0.3.18:12345
-#EXTINF:-1,Animal Planet (EN)
-http://80.77.52.6:3917/udp/226.0.3.19:12345
-#EXTINF:-1,TLC (EN)
-http://80.77.52.6:3917/udp/226.0.3.20:12345
-#EXTINF:-1,Eurosport (EN)
-http://80.77.52.6:3917/udp/226.0.3.21:12345
-#EXTINF:-1,Nat Geo Wild (EN)
-http://80.77.52.6:3917/udp/226.0.3.23:12345
-#EXTINF:-1,NGC (EN)
-http://80.77.52.6:3917/udp/226.0.3.24:12345
-#EXTINF:-1,Fox (EN)
-http://80.77.52.6:3917/udp/226.0.7.13:12345
-#EXTINF:-1,MTV Rocks
-http://80.77.52.6:3917/udp/226.0.7.15:12345
-#EXTINF:-1,Fox Life (EN)
-http://80.77.52.6:3917/udp/226.0.7.16:12345
-#EXTINF:-1,MTV Hits
-http://80.77.52.6:3917/udp/226.0.7.17:12345
-#EXTINF:-1,Fine Living (EN)
-http://80.77.52.6:3917/udp/226.0.7.24:12345
-#EXTINF:-1,Al Jazeera
-http://80.77.52.6:3917/udp/226.0.1.4:12345
-#EXTINF:-1,CCTV News
-http://80.77.52.6:3917/udp/226.0.1.5:12345
-#EXTINF:-1,WF HD
-http://80.77.52.6:3917/udp/226.0.1.10:12345
-#EXTINF:-1,DW
-http://80.77.52.6:3917/udp/226.0.1.17:12345
-#EXTINF:-1,Rai Sport2
-http://80.77.52.6:3917/udp/226.0.1.25:12345
-#EXTINF:-1,France 24
-http://80.77.52.6:3917/udp/226.0.1.33:12345
-#EXTINF:-1,France 24 (EN)
-http://80.77.52.6:3917/udp/226.0.1.34:12345
-#EXTINF:-1,Fashion TV HD
-http://80.77.52.6:3917/udp/226.0.1.41:12345
-#EXTINF:-1,Fashion TV
-http://80.77.52.6:3917/udp/226.0.1.42:12345
-#EXTINF:-1,Bloomberg
-http://80.77.52.6:3917/udp/226.0.1.49:12345
-#EXTINF:-1,TV5 Monde FBS
-http://80.77.52.6:3917/udp/226.0.1.50:12345
-#EXTINF:-1,Tv5 Monde Europe
-http://80.77.52.6:3917/udp/226.0.1.51:12345
-#EXTINF:-1,NHK World
-http://80.77.52.6:3917/udp/226.0.1.52:12345
-#EXTINF:-1,Fashion One
-http://80.77.52.6:3917/udp/226.0.1.61:12345
 
-#EXTINF:-1,[COLOR red] Latino [/COLOR]
+#EXTINF:-1,SKY SPORTS 1
+plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+SKY SPORTS 1
+
+#EXTINF:-1,BBC 1
+plugin://plugin.video.p2p-streams/?url=acestream://0056794950904c1f169566c045d5d747253c7e36&mode=1&name=acestream+BBC 1
+
+#EXTINF:-1,BBC 2
+plugin://plugin.video.p2p-streams/?url=acestream://99c436f9882b07c92ed7a5bfffdb47e639976b04&mode=1&name=acestream+BBC 2
+
+#EXTINF:-1,SkySports 1
+plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SkySports 1
+
+#EXTINF:-1,SkySports 2
+plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SkySports 2
+
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.p2p-streams/?url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream+Sky Sports 3
+
+#EXTINF:-1,Sky sports 4
+plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+Sky sports 4
+
+#EXTINF:-1,Sky sports 5
+plugin://plugin.video.p2p-streams/?url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream+Sky sports 5
+
+#EXTINF:-1,Sky sports F1
+plugin://plugin.video.p2p-streams/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+Sky sports F1
+
+#EXTINF:-1,Bt Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+Bt Sport 1
+
+#EXTINF:-1,Bt Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+Bt Sport 2
+
+#EXTINF:-1,Setanta
+plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+Setanta
+
+#EXTINF:-1,Espn usa
+plugin://plugin.video.p2p-streams/?url=acestream://1bfa6e870c963a4dcbcb4a76bf3624d1335a0e23&mode=1&name=acestream+Espn usa
+
+#EXTINF:-1,Premier Sport
+plugin://plugin.video.p2p-streams/?url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+Premier Sport
+
+#EXTINF:-1,Bein Sports 1 France
+plugin://plugin.video.p2p-streams/?url=acestream://662ba846eba5ce96697d0798641e7aa7e3ae8edc&mode=1&name=acestream+Bein Sports 1 France
+
+#EXTINF:-1,Sport tv 1
+plugin://plugin.video.p2p-streams/?url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+Sport tv 1
+
+#EXTINF:-1,Sport tv 2
+plugin://plugin.video.p2p-streams/?url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream+Sport tv 2
+
+#EXTINF:-1,Sport tv 3
+plugin://plugin.video.p2p-streams/?url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream+Sport tv 3
+
+#EXTINF:-1,Sport tv 4
+plugin://plugin.video.p2p-streams/?url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream+Sport tv 4
+
+#EXTINF:-1,Sport tv 5
+plugin://plugin.video.p2p-streams/?url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream+Sport tv 5
+
+#EXTINF:-1,Canal+Liga
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+Canal+Liga
+
+#EXTINF:-1,Arena Sport 1
+plugin://plugin.video.p2p-streams/?url=acestream://6471e6c7e981d8c52b6f8c564e4422c0bfcb98eb&mode=1&name=acestream+Arena Sport 1
+
+#EXTINF:-1,Arena Sport 2
+plugin://plugin.video.p2p-streams/?url=acestream://9242021b9ba566d96a51d11e457e94e60abc9f18&mode=1&name=acestream+Arena Sport 2
+
+#EXTINF:-1,[COLOR red]******Latino******[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:0,Univision
 http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
@@ -340,7 +318,7 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
-#EXTINF:-1,[COLOR red] UK [/COLOR]
+#EXTINF:-1,[COLOR red]****************UK Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,SKY SPORTS 1
 http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
@@ -597,8 +575,8 @@ http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/CANAL+?auth=test+tes
 #EXTINF:0,BFMTV
 http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BFMTV?auth=test+test
 
-#EXTINF:-1,[COLOR magenta][I][B]Italy[/B][/I][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,[COLOR red]****************Italy Channel****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:0,Rai 1 HD
 http://planetiptv-test.ddns.net:9088/hbird/tivu/planet/iptv/Rai_1_HD?auth=test+test
 #EXTINF:0,Rai 2 HD
@@ -1069,8 +1047,8 @@ http://teleboy.customers.cdn.iptv.ch/104902/2290000/index.m3u8
 #EXTINF:0,RAISPORT1
 http://teleboy.customers.cdn.iptv.ch/3021/2290000/index.m3u8
 
-#EXTINF:-1,[COLOR magenta][I][B]Sport[/B][/I][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR yellow]» » Sport« «[/COLOR]
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
@@ -1451,8 +1429,8 @@ http://xrxs.net/video/live-p12losa-4728.m3u8
 #EXTINF:-1,USA - PAC-12 Net. (National) HD 1080
 http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#EXTINF:-1,[COLOR red] FRENCH TV [/COLOR]
-http://diavoletto-beats.com
+#EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,TF1 HD
 http://178.250.208.141/1/play.m3u8
 #EXTINF:-1 ,TF1 (link 2)
@@ -1552,8 +1530,8 @@ http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 #EXTINF:-1,TVA Montréal
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 
-#EXTINF:-1,[COLOR Red] AFRICA TV[/COLOR]
-http://diavoletto-beats.com
+#EXTINF:-1,[COLOR red]****************Africa TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:0,Vox Africa
 rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
 #EXTINF:0,Gabon TV
@@ -1569,28 +1547,16 @@ wowzasessionid=598321747
 #EXTINF:0,RTS 1
 rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream 
 swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/tv/sen/rts1.html
-#EXTINF:-1,[COLOR RED] FRENCH NEWS[/COLOR]
-http://diavoletto-beats.com
-#EXTINF:-1,Euronews
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
-#EXTINF:-1,BFM TV
-http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1 ,i Télé
-http://178.250.208.141/16/play.m3u8
-#EXTINF:-1,i24News
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:0,France 24
-rtmp://myafricanmega4.tulix.tv:1935/map-france24/map-france24roku.stream
 
-#EXTINF:-1,[COLOR red] Switzerland TV [/COLOR]
-http://diavoletto-beats.com
+#EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1 ,RTS un
 http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
 #EXTINF:,RTS Deux
 http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
 
-#EXTINF:-1,[COLOR red]  Belgium  TV [/COLOR]
-http://diavoletto-beats.com
+#EXTINF:-1,[COLOR red]****************Belgium TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1 ,TÈlÈ MB
 http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
 #EXTINF:-1 ,TÈlÈ Sambre
@@ -1600,26 +1566,8 @@ rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout
 #EXTINF:-1 ,TV Lux
 rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
-#EXTINF:-1,[COLOR red]-----Deutsch TV ------[/COLOR] 
-http://diavoletto-beats.com
-#EXTINF:0,RTL1025
-http://teleboy.customers.cdn.iptv.ch/3010/2290000/index.m3u8
-#EXTINF:0,TELETICINO
-http://teleboy.customers.cdn.iptv.ch/3036/2290000/index.m3u8
-#EXTINF:0,SRF1HD
-http://teleboy.customers.cdn.iptv.ch/1008/2290000/index.m3u8
-#EXTINF:0,SRF2HD
-http://teleboy.customers.cdn.iptv.ch/1009/2290000/index.m3u8
-#EXTINF:0,3+HD
-http://teleboy.customers.cdn.iptv.ch/1013/2290000/index.m3u8
-#EXTINF:0,4+HD
-http://teleboy.customers.cdn.iptv.ch/1031/2290000/index.m3u8
-#EXTINF:0,5+
-http://teleboy.customers.cdn.iptv.ch/1047/2290000/index.m3u8
-#EXTINF:0,ORF1HD
-http://teleboy.customers.cdn.iptv.ch/1010/2290000/index.m3u8
-#EXTINF:0,ORF2HD
-http://teleboy.customers.cdn.iptv.ch/1011/2290000/index.m3u8
+#EXTINF:-1,[COLOR red]****************Deutsch TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, Das Erste
 http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
 #EXTINF:-1, ZDF
@@ -1718,15 +1666,15 @@ http://streaming-hub.com/tv/i/sfinfo_1@97408/index_1300_av-p.m3u8
 http://streaming-hub.com/tv/i/3plus_1@97489/index_1300_av-p.m3u8
 #EXTINF:-1, JOIZ CH
 http://streaming-hub.com/tv/i/joiz_1@135266/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Zьri
+#EXTINF:-1, Tele Z?ri
 http://streaming-hub.com/tv/i/tzurich_1@135275/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Bдrn
+#EXTINF:-1, Tele B?rn
 http://streaming-hub.com/tv/i/tbarn_1@135272/index_1300_av-p.m3u8
 #EXTINF:-1, Tele Basel
 http://streaming-hub.com/tv/i/tbasel_1@135273/index_1300_av-p.m3u8
 #EXTINF:-1, Tele Bielingue
 http://streaming-hub.com/tv/i/tbielingue_1@135280/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Sьdostschweiz
+#EXTINF:-1, Tele S?dostschweiz
 http://streaming-hub.com/tv/i/tsudost_1@135274/index_1300_av-p.m3u8
 #EXTINF:-1, Tele Ostschweiz
 http://streaming-hub.com/tv/i/tost_1@135270/index_1300_av-p.m3u8
@@ -1739,8 +1687,8 @@ http://streaming-hub.com/tv/i/ttzh_1@135271/index_1300_av-p.m3u8
 #EXTINF:-1, Tele M1 Ost
 http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
 
-#EXTINF:-1,[COLOR red]-----Arabe TV ------[/COLOR] 
-http://diavoletto-beats.com
+#EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:0,MBC
 http://216.105.40.244/live/mbc/index.m3u8
@@ -2075,9 +2023,8 @@ http://185.56.30.123:8082/TV4014
 #EXTINF:0,BeIN 15 HD
 http://185.56.30.123:8082/TV4015
 
-#EXTINF:-1,[COLOR red] USA TV [/COLOR]
-http://diavoletto-beats.com
-
+#EXTINF:-1,[COLOR red]****************USA TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
@@ -2373,3 +2320,31 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,USA Live TV Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,[COLOR red]****************Test TV****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1 tvg-logo="espn.png" tvg-id="ESPN" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN USA [/B][/I][/COLOR]
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:-1 tvg-logo="espn2.png" tvg-id="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN2 USA [/B][/I][/COLOR]
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+#EXTINF:-1,CANAL+
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
+#EXTINF:-1,CANAL+ Cinéma
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
+#EXTINF:-1,CANAL+ Décalé
+http://mystreams.fr.mu/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
+#EXTINF:-1,CANAL+ Family
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
+#EXTINF:-1,CANAL+ Séries
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
+#EXTINF:-1,CANAL+ Sport
+http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
+#EXTINF:-1,CINE+ Emotion
+http://mystreams.fr.mu/80E803/Scam/hls/Cine_Emotion_HD.m3u8
+#EXTINF:-1,CINE+ Premier
+http://mystreams.fr.mu/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://mystreams.fr.mu/80E803/Scam/hls/National_Geo_FR_HD.m3u8
+#EXTINF:-1,PLANETE+
+http://mystreams.fr.mu/80E803/Scam/hls/Planet_Plus_HD.m3u8
