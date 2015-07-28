@@ -206,910 +206,85 @@ http://usa.01.cdnstreams.in:8081/view/ch09/playlist.m3u8
 http://usa.01.cdnstreams.in:8081/view/ch08/playlist.m3u8
 #EXTINF:-1,BT SPORT 2
 http://usa.01.cdnstreams.in:8081/view/ch14/playlist.m3u8
-#EXTINF:-1,GB: Yesterday
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3962.ts
-#EXTINF:-1,GB: Watch
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3961.ts
-#EXTINF:-1,GB: Sy-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3939.ts
-#EXTINF:-1,GB: More4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4000.ts
-#EXTINF:-1,GB: Sky 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3938.ts
-#EXTINF:-1,GB: Sky Movies ShowCase
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3923.ts
-#EXTINF:-1,GB: Sky Movies Modern Great HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3925.ts
-#EXTINF:-1,GB: Sky Movies Family HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3926.ts
-#EXTINF:-1,GB: Sky Movies Disney HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3927.ts
-#EXTINF:-1,GB: Really
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3947.ts
-#EXTINF:-1,GB: Quest
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3959.ts
-#EXTINF:-1,GB: Pick TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3958.ts
-#EXTINF:-1,GB: PBS America
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3995.ts
-#EXTINF:-1,GB: Nick JR
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3963.ts
-#EXTINF:-1,GB: Watch UK
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4014.ts
-#EXTINF:-1,GB: Mototrs TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4009.ts
-#EXTINF:-1,GB: ITV ENC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4027.ts
-#EXTINF:-1,GB: Horror Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3941.ts
-#EXTINF:-1,GB: Home
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3993.ts
-#EXTINF:-1,GB: Good Food
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3990.ts
-#EXTINF:-1,GB: Food Network
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3991.ts
-#EXTINF:-1,GB: Flava
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4020.ts
-#EXTINF:-1,GB: EuroNews
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4005.ts
-#EXTINF:-1,GB: Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3957.ts
-#EXTINF:-1,GB: DisneyXD Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3971.ts
-#EXTINF:-1,GB: Disney Junior Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3970.ts
-#EXTINF:-1,GB: Disney Junior
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3969.ts
-#EXTINF:-1,GB: Discovery Turbo
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3978.ts
-#EXTINF:-1,GB: Discovery Science HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4069.ts
-#EXTINF:-1,GB: Discovery Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3976.ts
-#EXTINF:-1,GB: Discovery Investigation
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3982.ts
-#EXTINF:-1,GB: Comedy Central
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3948.ts
-#EXTINF:-1,GB: CBS Reality
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3946.ts
-#EXTINF:-1,GB: CBS Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3945.ts
-#EXTINF:-1,GB: CBS Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3944.ts
-#EXTINF:-1,GB: Cartoonito
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3966.ts
-#EXTINF:-1,GB: Cartoon NetWork
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3967.ts
-#EXTINF:-1,GB: Box Nation HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4010.ts
-#EXTINF:-1,GB: Atlantic Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3943.ts
-#EXTINF:-1,GB: Alibi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3954.ts
-#EXTINF:-1,GB: 3E
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3953.ts
-#EXTINF:-1,GB: Sky Two
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3573.ts
-#EXTINF:-1,GB: Sky Thriller
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3575.ts
-#EXTINF:-1,GB: Sky Sport News
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3604.ts
-#EXTINF:-1,GB: Sky Sport F1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3603.ts
-#EXTINF:-1,GB: Sky Sport F1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3602.ts
-#EXTINF:-1,GB: SKY SPORT 5 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4458.ts
-#EXTINF:-1,GB: Sky Sport 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3601.ts
-#EXTINF:-1,GB: Sky Sport 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3600.ts
-#EXTINF:-1,GB: Sky Sport 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3599.ts
-#EXTINF:-1,GB: Sky Sport 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3598.ts
-#EXTINF:-1,GB: Sky Sport 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3597.ts
-#EXTINF:-1,GB: Sky Sport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3596.ts
-#EXTINF:-1,GB: Sky Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3595.ts
-#EXTINF:-1,GB: Sky Sport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3594.ts
-#EXTINF:-1,GB: Sky Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3593.ts
-#EXTINF:-1,GB: Sky Sci-Fi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3574.ts
-#EXTINF:-1,GB: Sky One
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3571.ts
-#EXTINF:-1,GB: Sky News
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3570.ts
-#EXTINF:-1,GB: Sky Movie Premiere
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3569.ts
-#EXTINF:-1,GB: LiverPool TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3568.ts
-#EXTINF:-1,GB: Sky Living
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3567.ts
-#EXTINF:-1,GB: Sky Family
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3566.ts
-#EXTINF:-1,GB: Sky MOVIE Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3565.ts
-#EXTINF:-1,GB: Sky Disney
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3564.ts
-#EXTINF:-1,GB: Sky Comedy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3563.ts
-#EXTINF:-1,GB: Sky Atlantic
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3562.ts
-#EXTINF:-1,GB: NATIONAL GEOGRAPHIC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3561.ts
-#EXTINF:-1,GB: Sky Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3559.ts
-#EXTINF:-1,GB: Setanta Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3583.ts
-#EXTINF:-1,GB: Racing
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3585.ts
-#EXTINF:-1,GB: Premiere Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3584.ts
-#EXTINF:-1,GB: ITV 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3579.ts
-#EXTINF:-1,GB: ITV 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3578.ts
-#EXTINF:-1,GB: ITV 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3577.ts
-#EXTINF:-1,GB: ITV 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3576.ts
-#EXTINF:-1,GB: EuroSport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3591.ts
-#EXTINF:-1,GB: EuroSport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3590.ts
-#EXTINF:-1,GB: BT Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3588.ts
-#EXTINF:-1,GB: BT Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3586.ts
-#EXTINF:-1,GB: BBC 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3582.ts
-#EXTINF:-1,GB: BBC 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3581.ts
-#EXTINF:-1,GB: BBC 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3580.ts
-#EXTINF:-1,GB: True Movies 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2662.ts
-#EXTINF:-1,GB: True Movies 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2661.ts
-#EXTINF:-1,GB: Sky Sci-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2668.ts
-#EXTINF:-1,GB: PlayBoy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2684.ts
-#EXTINF:-1,GB: Nick
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2669.ts
-#EXTINF:-1,GB: MUTV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2655.ts
-#EXTINF:-1,GB: MTV MUSIC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2670.ts
-#EXTINF:-1,GB: Fox
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2656.ts
-#EXTINF:-1,GB: ESPN HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2673.ts
-#EXTINF:-1,GB: E4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2674.ts
-#EXTINF:-1,GB: Disney XD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2675.ts
-#EXTINF:-1,GB: Discovery World
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2678.ts
-#EXTINF:-1,GB: Discovery Science
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2679.ts
-#EXTINF:-1,GB: Channel 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2680.ts
-#EXTINF:-1,GB: Channel 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2681.ts
-#EXTINF:-1,GB: Box Nation
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2682.ts
-#EXTINF:-1,GB: Animal Planet
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2683.ts
-#EXTINF:-1,GB: 5 USA
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2652.ts
-#EXTINF:-1,GB: Vivo 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1953.ts
-#EXTINF:-1,GB: Vivo 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1952.ts
-#EXTINF:-1,GB: Vivo 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1951.ts
-#EXTINF:-1,GB: Sky Sports News HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1954.ts
-#EXTINF:-1,GB: Sky Movies Thriller HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1955.ts
-#EXTINF:-1,GB: Sky Movies Sci-Fi HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1957.ts
-#EXTINF:-1,GB: Sky Movies Premiere HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1958.ts
-#EXTINF:-1,GB: Sky Movies Modern Great
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1959.ts
-#EXTINF:-1,GB: Sky Movies Drama HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1960.ts
-#EXTINF:-1,GB: Sky Movies Action HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1961.ts
-#EXTINF:-1,GB: Sky Atlantic HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1962.ts
-#EXTINF:-1,GB: Sky Arts 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1963.ts
-#EXTINF:-1,GB: Setanta Ireland
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1965.ts
-#EXTINF:-1,GB: RTE 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1967.ts
-#EXTINF:-1,GB: RTE 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1966.ts
-#EXTINF:-1,GB: National Geography Wild
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1968.ts
-#EXTINF:-1,GB: Movies 4 Men
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1971.ts
-#EXTINF:-1,GB: Living
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1972.ts
-#EXTINF:-1,GB: ITV 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1976.ts
-#EXTINF:-1,GB: ITV 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1975.ts
-#EXTINF:-1,GB: ITV 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1974.ts
-#EXTINF:-1,GB: ITV 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1973.ts
-#EXTINF:-1,GB: Gold
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1977.ts
-#EXTINF:-1,GB: Five
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1978.ts
-#EXTINF:-1,GB: Film 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1979.ts
-#EXTINF:-1,GB: Eurosport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1981.ts
-#EXTINF:-1,GB: Eurosport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1980.ts
-#EXTINF:-1,GB: Dmax
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1983.ts
-#EXTINF:-1,GB: Disney Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1984.ts
-#EXTINF:-1,GB: Discovery History
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1985.ts
-#EXTINF:-1,GB: Discovery
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1986.ts
-#EXTINF:-1,GB: Dave
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1987.ts
-#EXTINF:-1,GB: Colors
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1988.ts
-#EXTINF:-1,GB: Chelsea FC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1990.ts
-#EXTINF:-1,GB: BT Sports 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1992.ts
-#EXTINF:-1,GB: BT Sports 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1991.ts
-#EXTINF:-1,GB: BBC 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1996.ts
-#EXTINF:-1,GB: BBC 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1995.ts
-#EXTINF:-1,GB: BBC 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1994.ts
-#EXTINF:-1,GB: BBC 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1993.ts
-#EXTINF:-1,GB: At The Races
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1997.ts
-#EXTINF:-1,Sky Action UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1553.ts
-#EXTINF:-1,Sky Drama UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1552.ts
-#EXTINF:-1,Sky Family UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1551.ts
-#EXTINF:-1,Sky Movies Premiere UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1549.ts
-#EXTINF:-1,Sky Thriller UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1555.ts
-#EXTINF:-1,Sky Fox Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1560.ts
-#EXTINF:-1,Sky Living UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1550.ts
-#EXTINF:-1,Sky One Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1556.ts
-#EXTINF:-1,Sky Two Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1557.ts
-#EXTINF:-1,Sky Atlantic Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1559.ts
-#EXTINF:-1,Sky SciFi UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1554.ts
-#EXTINF:-1,Sky Comedy Central UK
-http://bstream.universostream.net:8000/live/guidop/guidop/1561.ts
-#EXTINF:-1,Cartoon Network Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1564.ts
-#EXTINF:-1,Disney XD Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1566.ts
-#EXTINF:-1,Disney Movies Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1565.ts
-#EXTINF:-1,Disney Junior Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1569.ts
-#EXTINF:-1,Disney Channel Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1570.ts
-#EXTINF:-1,Nickelodeon Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1567.ts
-#EXTINF:-1,Nickelodeon Jr Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1568.ts
-#EXTINF:-1,Nat Geo Wild Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1575.ts
-#EXTINF:-1,History Channel Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1574.ts
-#EXTINF:-1,Food Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1588.ts
-#EXTINF:-1,ESPN Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1589.ts
-#EXTINF:-1,Discovery Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1572.ts
-#EXTINF:-1,Discovery Turbo Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1573.ts
-#EXTINF:-1,Discovery Science Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1576.ts
-#EXTINF:-1,Discovery ID Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1577.ts
-#EXTINF:-1,Discovery Home & Heath Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1578.ts
-#EXTINF:-1,Discovery History Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1579.ts
-#EXTINF:-1,CI Crime Investigation Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1580.ts
-#EXTINF:-1,Animal Planet Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1571.ts
-#EXTINF:-1,Sky News Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1558.ts
-#EXTINF:-1,Sky Sports 1 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1593.ts
-#EXTINF:-1,Sky Sports 2 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1594.ts
-#EXTINF:-1,Sky Sports 3 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1595.ts
-#EXTINF:-1,Sky Sports 4 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1596.ts
-#EXTINF:-1,Sky Sports 5 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1597.ts
-#EXTINF:-1,Sky Sports F1 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1600.ts
-#EXTINF:-1,Sky Sports News Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1601.ts
-#EXTINF:-1,EuroSport 1 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1598.ts
-#EXTINF:-1,EuroSport 2 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1599.ts
-#EXTINF:-1,Racing Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1590.ts
-#EXTINF:-1,At The Races
-http://bstream.universostream.net:8000/live/guidop/guidop/1585.ts
-#EXTINF:-1,Premier Sports Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1591.ts
-#EXTINF:-1,Setanta Sports Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1592.ts
-#EXTINF:-1,Channel 4 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1581.ts
-#EXTINF:-1,Channel 5 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1582.ts
-#EXTINF:-1,BT Sports 1 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1583.ts
-#EXTINF:-1,BT Sports 2 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1584.ts
-#EXTINF:-1,RTE Two Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1587.ts
-#EXTINF:-1,RTE One Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1586.ts
-#EXTINF:-1,TLC Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1614.ts
-#EXTINF:-1,VH1 Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1613.ts
-#EXTINF:-1,ITV 1 (SV)
-http://bstream.universostream.net:8000/live/guidop/guidop/1602.ts
-#EXTINF:-1,ITV 2
-http://bstream.universostream.net:8000/live/guidop/guidop/1603.ts
-#EXTINF:-1,ITV 3
-http://bstream.universostream.net:8000/live/guidop/guidop/1604.ts
-#EXTINF:-1,ITV 4
-http://bstream.universostream.net:8000/live/guidop/guidop/1605.ts
-#EXTINF:-1,BBC Entertainment Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1612.ts
-#EXTINF:-1,BBC News Uk
-http://bstream.universostream.net:8000/live/guidop/guidop/1611.ts
+#EXTINF:0,BBC1HD
+http://teleboy.customers.cdn.iptv.ch/4017/2290000/index.m3u8
+#EXTINF:0,BBC2HD
+http://teleboy.customers.cdn.iptv.ch/4012/2290000/index.m3u8
+#EXTINF:0,BBC3
+http://teleboy.customers.cdn.iptv.ch/4008/2290000/index.m3u8
+#EXTINF:0,CNBC
+http://teleboy.customers.cdn.iptv.ch/4001/index.m3u8
+#EXTINF:0,CNN
+http://teleboy.customers.cdn.iptv.ch/4002/index.m3u8
+#EXTINF:0,FILM4
+http://teleboy.customers.cdn.iptv.ch/4023/index.m3u8
+#EXTINF:0,ITV1HD
+http://teleboy.customers.cdn.iptv.ch/4018/index.m3u8
+#EXTINF:0,ITV3
+http://teleboy.customers.cdn.iptv.ch/4025/index.m3u8
+#EXTINF:0,ALJAZEERAEN
+http://teleboy.customers.cdn.iptv.ch/4013/index.m3u8
+#EXTINF:0,BBCWN
+http://teleboy.customers.cdn.iptv.ch/4003/index.m3u8
+#EXTINF:0,EUNEWS-E
+http://teleboy.customers.cdn.iptv.ch/104903/index.m3u8
+
 
 #EXTINF:-1,[COLOR red]****************Italy Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1,Rai 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/125.ts
-#EXTINF:-1,Rai 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/126.ts
-#EXTINF:-1,Rai 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/127.ts
-#EXTINF:-1,Rete 4 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/760.ts
-#EXTINF:-1,Canale 5 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/15.ts
-#EXTINF:-1,Italia 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/16.ts
-#EXTINF:-1,Mediaset Italia 2
-http://bstream.universostream.net:8000/live/guidop/guidop/983.ts
-#EXTINF:-1,Rai 4
-http://bstream.universostream.net:8000/live/guidop/guidop/1472.ts
-#EXTINF:-1,Rai Movie
-http://bstream.universostream.net:8000/live/guidop/guidop/1471.ts
-#EXTINF:-1,Rai Premium
-http://bstream.universostream.net:8000/live/guidop/guidop/1505.ts
-#EXTINF:-1,Rai News 24
-http://bstream.universostream.net:8000/live/guidop/guidop/1477.ts
-#EXTINF:-1,Rai Sport 1
-http://bstream.universostream.net:8000/live/guidop/guidop/2327.ts
-#EXTINF:-1,Rai Sport 2
-http://bstream.universostream.net:8000/live/guidop/guidop/2328.ts
-#EXTINF:-1,La 7
-http://bstream.universostream.net:8000/live/guidop/guidop/1361.ts
-#EXTINF:-1,La 5
-http://bstream.universostream.net:8000/live/guidop/guidop/984.ts
-#EXTINF:-1,Iris
-http://bstream.universostream.net:8000/live/guidop/guidop/982.ts
-#EXTINF:-1,Mediaset Extra
-http://bstream.universostream.net:8000/live/guidop/guidop/1336.ts
-#EXTINF:-1,Top Crime
-http://bstream.universostream.net:8000/live/guidop/guidop/1398.ts
-#EXTINF:-1,RSI LA 1
-http://bstream.universostream.net:8000/live/guidop/guidop/1007.ts
-#EXTINF:-1,RSI LA 2
-http://bstream.universostream.net:8000/live/guidop/guidop/1008.ts
-#EXTINF:-1,TGcom24
-http://bstream.universostream.net:8000/live/guidop/guidop/1354.ts
-#EXTINF:-1,#########VARI#########
-http://bstream.universostream.net:8000/live/guidop/guidop/751.ts
-#EXTINF:-1,Bstream Cinema 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1540.ts
-#EXTINF:-1,Bstream Cinema 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1951.ts
-#EXTINF:-1,Bstream Cinema 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2424.ts
-#EXTINF:-1,Bstream Cinema Cult 1
-http://bstream.universostream.net:8000/live/guidop/guidop/1654.ts
-#EXTINF:-1,Bstream Cinema Cult 2
-http://bstream.universostream.net:8000/live/guidop/guidop/1763.ts
-#EXTINF:-1,Bstream Serie Tv
-http://bstream.universostream.net:8000/live/guidop/guidop/1623.ts
-#EXTINF:-1,Cielo HD
-http://bstream.universostream.net:8000/live/guidop/guidop/18.ts
-#EXTINF:-1,Mtv
-http://bstream.universostream.net:8000/live/guidop/guidop/1060.ts
-#EXTINF:-1,Focus
-http://bstream.universostream.net:8000/live/guidop/guidop/1356.ts
-#EXTINF:-1,Gazzetta Tv
-http://bstream.universostream.net:8000/live/guidop/guidop/2382.ts
-#EXTINF:-1,Videolina
-http://bstream.universostream.net:8000/live/guidop/guidop/17.ts
-#EXTINF:-1,------------- Bambini ----------
-http://bstream.universostream.net:8000/live/guidop/guidop/819.ts
-#EXTINF:-1,Cartoon Network
-http://bstream.universostream.net:8000/live/guidop/guidop/29.ts
-#EXTINF:-1,Sky Disney XD HD
-http://bstream.universostream.net:8000/live/guidop/guidop/829.ts
-#EXTINF:-1,Disney Channel HD
-http://bstream.universostream.net:8000/live/guidop/guidop/852.ts
-#EXTINF:-1,Super!
-http://bstream.universostream.net:8000/live/guidop/guidop/2330.ts
-#EXTINF:-1,Rai Gulp
-http://bstream.universostream.net:8000/live/guidop/guidop/2332.ts
-#EXTINF:-1,Rai Yoyo
-http://bstream.universostream.net:8000/live/guidop/guidop/2337.ts
-#EXTINF:-1,DeaKids
-http://bstream.universostream.net:8000/live/guidop/guidop/2334.ts
-#EXTINF:-1,Disney Junior
-http://bstream.universostream.net:8000/live/guidop/guidop/531.ts
-#EXTINF:-1,Premium Disney Channel +1
-http://bstream.universostream.net:8000/live/guidop/guidop/530.ts
-#EXTINF:-1,Manga
-http://bstream.universostream.net:8000/live/guidop/guidop/994.ts
-#EXTINF:-1,Boomerang
-http://bstream.universostream.net:8000/live/guidop/guidop/1003.ts
-#EXTINF:-1,Boing
-http://bstream.universostream.net:8000/live/guidop/guidop/865.ts
-#EXTINF:-1,Fresbee
-http://bstream.universostream.net:8000/live/guidop/guidop/1473.ts
-#EXTINF:-1,K2
-http://bstream.universostream.net:8000/live/guidop/guidop/1355.ts
-#EXTINF:-1,Cartonito
-http://bstream.universostream.net:8000/live/guidop/guidop/1393.ts
-#EXTINF:-1,Barbie Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/1500.ts
-#EXTINF:-1,Masha E Orso
-http://bstream.universostream.net:8000/live/guidop/guidop/1499.ts
-#EXTINF:-1,Tom & Jerry Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/1101.ts
-#EXTINF:-1,###### MEDIASET PREMIUM ######
-http://bstream.universostream.net:8000/live/guidop/guidop/19.ts
-#EXTINF:-1,--------Premium Cinema-------
-http://bstream.universostream.net:8000/live/guidop/guidop/752.ts
-#EXTINF:-1,Premium Cinema HD
-http://bstream.universostream.net:8000/live/guidop/guidop/20.ts
-#EXTINF:-1,Premium Cinema +24
-http://bstream.universostream.net:8000/live/guidop/guidop/981.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2226.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://bstream.universostream.net:8000/live/guidop/guidop/2225.ts
-#EXTINF:-1,Premium Action HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2326.ts
-#EXTINF:-1,Premium Action +24
-http://bstream.universostream.net:8000/live/guidop/guidop/28.ts
-#EXTINF:-1,Premium Crime HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2336.ts
-#EXTINF:-1,Premium Crime +24
-http://bstream.universostream.net:8000/live/guidop/guidop/22.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://bstream.universostream.net:8000/live/guidop/guidop/32.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://bstream.universostream.net:8000/live/guidop/guidop/23.ts
-#EXTINF:-1,Premium Cinema Energy
-http://bstream.universostream.net:8000/live/guidop/guidop/24.ts
-#EXTINF:-1,Premium Studio Universal
-http://bstream.universostream.net:8000/live/guidop/guidop/27.ts
-#EXTINF:-1,--------Premium Intrettenimento-----
-http://bstream.universostream.net:8000/live/guidop/guidop/753.ts
-#EXTINF:-1,Premium Joy
-http://bstream.universostream.net:8000/live/guidop/guidop/25.ts
-#EXTINF:-1,Premium Stories
-http://bstream.universostream.net:8000/live/guidop/guidop/26.ts
-#EXTINF:-1,Premium Discovery
-http://bstream.universostream.net:8000/live/guidop/guidop/34.ts
-#EXTINF:-1,Premium BBC
-http://bstream.universostream.net:8000/live/guidop/guidop/35.ts
-#EXTINF:-1,------Premium Sport-------
-http://bstream.universostream.net:8000/live/guidop/guidop/754.ts
-#EXTINF:-1,Premium Sport HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2335.ts
-#EXTINF:-1,SportItalia
-http://bstream.universostream.net:8000/live/guidop/guidop/1396.ts
-#EXTINF:-1,Premium Calcio HD
-http://bstream.universostream.net:8000/live/guidop/guidop/706.ts
-#EXTINF:-1,Premium Calcio
-http://bstream.universostream.net:8000/live/guidop/guidop/37.ts
-#EXTINF:-1,Premium Calcio 1
-http://bstream.universostream.net:8000/live/guidop/guidop/38.ts
-#EXTINF:-1,Premium Calcio 2
-http://bstream.universostream.net:8000/live/guidop/guidop/39.ts
-#EXTINF:-1,Premium Calcio 3
-http://bstream.universostream.net:8000/live/guidop/guidop/40.ts
-#EXTINF:-1,Premium Calcio 4
-http://bstream.universostream.net:8000/live/guidop/guidop/1402.ts
-#EXTINF:-1,Premium Calcio 5
-http://bstream.universostream.net:8000/live/guidop/guidop/1401.ts
-#EXTINF:-1,Premium calcio 6
-http://bstream.universostream.net:8000/live/guidop/guidop/1400.ts
-#EXTINF:-1,########### SKY ITALIA #########
-http://bstream.universostream.net:8000/live/guidop/guidop/41.ts
-#EXTINF:-1,-----------CINEMA-----------
-http://bstream.universostream.net:8000/live/guidop/guidop/755.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/773.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1390.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/42.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://bstream.universostream.net:8000/live/guidop/guidop/513.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://bstream.universostream.net:8000/live/guidop/guidop/771.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1388.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://bstream.universostream.net:8000/live/guidop/guidop/44.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://bstream.universostream.net:8000/live/guidop/guidop/657.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://bstream.universostream.net:8000/live/guidop/guidop/769.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1394.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://bstream.universostream.net:8000/live/guidop/guidop/678.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://bstream.universostream.net:8000/live/guidop/guidop/763.ts
-#EXTINF:-1,Sky 3D
-http://bstream.universostream.net:8000/live/guidop/guidop/957.ts
-#EXTINF:-1,---------Intrattenimento--------
-http://bstream.universostream.net:8000/live/guidop/guidop/756.ts
-#EXTINF:-1,Sky Uno HD
-http://bstream.universostream.net:8000/live/guidop/guidop/640.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1395.ts
-#EXTINF:-1,Sky Atlantic HD
-http://bstream.universostream.net:8000/live/guidop/guidop/783.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1385.ts
-#EXTINF:-1,Fox HD
-http://bstream.universostream.net:8000/live/guidop/guidop/710.ts
-#EXTINF:-1,Sky Fox +1
-http://bstream.universostream.net:8000/live/guidop/guidop/1397.ts
-#EXTINF:-1,Fox Life HD
-http://bstream.universostream.net:8000/live/guidop/guidop/673.ts
-#EXTINF:-1,Sky Fox Life +1
-http://bstream.universostream.net:8000/live/guidop/guidop/1391.ts
-#EXTINF:-1,Fox Crime HD
-http://bstream.universostream.net:8000/live/guidop/guidop/670.ts
-#EXTINF:-1,Sky Fox Crime  +1
-http://bstream.universostream.net:8000/live/guidop/guidop/1392.ts
-#EXTINF:-1,Fox Comedy HD
-http://bstream.universostream.net:8000/live/guidop/guidop/672.ts
-#EXTINF:-1,Fox Animation HD
-http://bstream.universostream.net:8000/live/guidop/guidop/671.ts
-#EXTINF:-1,AXN HD
-http://bstream.universostream.net:8000/live/guidop/guidop/636.ts
-#EXTINF:-1,Sky AXN +1
-http://bstream.universostream.net:8000/live/guidop/guidop/2374.ts
-#EXTINF:-1,AXN Sci Fi
-http://bstream.universostream.net:8000/live/guidop/guidop/976.ts
-#EXTINF:-1,Comedy Central
-http://bstream.universostream.net:8000/live/guidop/guidop/995.ts
-#EXTINF:-1,Animal Planet
-http://bstream.universostream.net:8000/live/guidop/guidop/996.ts
-#EXTINF:-1,Sky Real Time HD
-http://bstream.universostream.net:8000/live/guidop/guidop/864.ts
-#EXTINF:-1,Sky GamberoRosso HD
-http://bstream.universostream.net:8000/live/guidop/guidop/781.ts
-#EXTINF:-1,LEI
-http://bstream.universostream.net:8000/live/guidop/guidop/1017.ts
-#EXTINF:-1,PokerIttalia 24
-http://bstream.universostream.net:8000/live/guidop/guidop/1018.ts
-#EXTINF:-1,SKY  TG24 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/45.ts
-#EXTINF:-1,---------Cultura---------
-http://bstream.universostream.net:8000/live/guidop/guidop/759.ts
-#EXTINF:-1,Sky discovery HD
-http://bstream.universostream.net:8000/live/guidop/guidop/830.ts
-#EXTINF:-1,Sky NationalGeo HD
-http://bstream.universostream.net:8000/live/guidop/guidop/784.ts
-#EXTINF:-1,Sky NatGeo People HD
-http://bstream.universostream.net:8000/live/guidop/guidop/782.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://bstream.universostream.net:8000/live/guidop/guidop/828.ts
-#EXTINF:-1,Sky History HD
-http://bstream.universostream.net:8000/live/guidop/guidop/676.ts
-#EXTINF:-1,Sky Discovery science HD
-http://bstream.universostream.net:8000/live/guidop/guidop/679.ts
-#EXTINF:-1,CI Crime+Investigation HD
-http://bstream.universostream.net:8000/live/guidop/guidop/680.ts
-#EXTINF:-1,Sky Discovery Travel & Living HD
-http://bstream.universostream.net:8000/live/guidop/guidop/478.ts
-#EXTINF:-1,Sky Arte HD
-http://bstream.universostream.net:8000/live/guidop/guidop/980.ts
-#EXTINF:-1,Sky Dmax HD
-http://bstream.universostream.net:8000/live/guidop/guidop/814.ts
-#EXTINF:-1,Sky eXplora HD
-http://bstream.universostream.net:8000/live/guidop/guidop/674.ts
-#EXTINF:-1,Sky Pesca & Caccia
-http://bstream.universostream.net:8000/live/guidop/guidop/677.ts
-#EXTINF:-1,Caccia
-http://bstream.universostream.net:8000/live/guidop/guidop/997.ts
-#EXTINF:-1,------------Sport--------------
-http://bstream.universostream.net:8000/live/guidop/guidop/757.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/124.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://bstream.universostream.net:8000/live/guidop/guidop/777.ts
-#EXTINF:-1,Sky Fox Sport HD
-http://bstream.universostream.net:8000/live/guidop/guidop/410.ts
-#EXTINF:-1,Sky Fox Sport 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/719.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/129.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/165.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/628.ts
-#EXTINF:-1,Sky Eurosport 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/894.ts
-#EXTINF:-1,Sky Eurosport 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/895.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/131.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://bstream.universostream.net:8000/live/guidop/guidop/538.ts
-#EXTINF:-1,Sky Supertennis HD
-http://bstream.universostream.net:8000/live/guidop/guidop/956.ts
-#EXTINF:-1,Sky SuperCalcio HD
-http://bstream.universostream.net:8000/live/guidop/guidop/128.ts
-#EXTINF:-1,Juve Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/989.ts
-#EXTINF:-1,Inter Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/988.ts
-#EXTINF:-1,Milan Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/990.ts
-#EXTINF:-1,Roma Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/1089.ts
-#EXTINF:-1,Lazio Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/1225.ts
-#EXTINF:-1,Bike Channel
-http://bstream.universostream.net:8000/live/guidop/guidop/1224.ts
-#EXTINF:-1,------------Calcio------------
-http://bstream.universostream.net:8000/live/guidop/guidop/758.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/46.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/761.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/762.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/718.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/50.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/51.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/52.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/978.ts
-#EXTINF:-1,############ PRIMAFILA ###########
-http://bstream.universostream.net:8000/live/guidop/guidop/56.ts
-#EXTINF:-1,Primafila Vetrina
-http://bstream.universostream.net:8000/movie/guidop/guidop/1358.mkv
-#EXTINF:-1,Primafila 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1437.ts
-#EXTINF:-1,Primafila 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1438.ts
-#EXTINF:-1,Primafila 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1439.ts
-#EXTINF:-1,Primafila 4 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1440.ts
-#EXTINF:-1,Primafila 5 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1441.ts
-#EXTINF:-1,Primafila 6 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1442.ts
-#EXTINF:-1,Primafila 7 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1443.ts
-#EXTINF:-1,Primafila 8 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1444.ts
-#EXTINF:-1,Primafila 9 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1445.ts
-#EXTINF:-1,Primafila 10 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1446.ts
-#EXTINF:-1,Primafila 11 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1447.ts
-#EXTINF:-1,Primafila 12 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1453.ts
-#EXTINF:-1,Primafila 13 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1448.ts
-#EXTINF:-1,Primafila 14 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1449.ts
-#EXTINF:-1,Primafila 15 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1450.ts
-#EXTINF:-1,Primafila 16 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1454.ts
-#EXTINF:-1,Primafila 17 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1451.ts
-#EXTINF:-1,Primafila 18 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1452.ts
-#EXTINF:-1,Primafila 19 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1436.ts
-#EXTINF:-1,Primafila 1 HD Il Ricco Il Povero E Il Maggiordomo (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1065.mkv
-#EXTINF:-1,Primafila 3 HD Andiamo a quel paese (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1270.mkv
-#EXTINF:-1,Primafila 5 HD La spia - A Most Wanted Man (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1038.mkv
-#EXTINF:-1,Primafila 7 HD Storie pazzesche (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/2338.mkv
-#EXTINF:-1,Primafila 9 HD Cinquanta sfumature di grigio (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1041.mkv
-#EXTINF:-1,Primafila 11 HD The Gambler (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/952.mkv
-#EXTINF:-1,Primafila 13 HD  Il Settimo Figlio (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1043.mkv
-#EXTINF:-1,Primafila 15 HD Posh (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/947.mkv
-#EXTINF:-1,Primafila 17 Nessuno si salva da solo (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1079.mkv
-#EXTINF:-1,Primafila 19 HD Taken 3 - L'ora della verita' (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/1066.mkv
-#EXTINF:-1,SpongeBob - Fuori dall'acqua (VOD)
-http://bstream.universostream.net:8000/movie/guidop/guidop/2371.mkv
-#EXTINF:-1,########### CANALI MUSICALI ##########
-http://bstream.universostream.net:8000/live/guidop/guidop/75.ts
-#EXTINF:-1,For Music
-http://bstream.universostream.net:8000/live/guidop/guidop/76.ts
-#EXTINF:-1,Radio Italia Tv
-http://bstream.universostream.net:8000/live/guidop/guidop/79.ts
-#EXTINF:-1,Montecarlo Music
-http://bstream.universostream.net:8000/live/guidop/guidop/77.ts
-#EXTINF:-1,Radio 105 TV
-http://bstream.universostream.net:8000/live/guidop/guidop/78.ts
-#EXTINF:-1,###### DEUTSCHE #######
-http://bstream.universostream.net:8000/live/guidop/guidop/741.ts
-#EXTINF:-1,DE: ARD
-http://bstream.universostream.net:8000/live/guidop/guidop/2500.ts
-#EXTINF:-1,DE: ZDF
-http://bstream.universostream.net:8000/live/guidop/guidop/2462.ts
-#EXTINF:-1,DE: ZDF Neo
-http://bstream.universostream.net:8000/live/guidop/guidop/2463.ts
-#EXTINF:-1,DE: zdf kultur
-http://bstream.universostream.net:8000/live/guidop/guidop/2492.ts
-#EXTINF:-1,DE: ZDF Info
-http://bstream.universostream.net:8000/live/guidop/guidop/2464.ts
-#EXTINF:-1,DE: VOX
-http://bstream.universostream.net:8000/live/guidop/guidop/2502.ts
-#EXTINF:-1,DE: RTL HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2469.ts
-#EXTINF:-1,DE: RTL 2
-http://bstream.universostream.net:8000/live/guidop/guidop/2470.ts
-#EXTINF:-1,DE: RTL Nitro
-http://bstream.universostream.net:8000/live/guidop/guidop/2468.ts
-#EXTINF:-1,DE: Sat 1
-http://bstream.universostream.net:8000/live/guidop/guidop/2504.ts
-#EXTINF:-1,DE: Kabel 1
-http://bstream.universostream.net:8000/live/guidop/guidop/2477.ts
-#EXTINF:-1,DE: Eins Festival
-http://bstream.universostream.net:8000/live/guidop/guidop/2484.ts
-#EXTINF:-1,DE: NDR
-http://bstream.universostream.net:8000/live/guidop/guidop/2472.ts
-#EXTINF:-1,DE: N-TV
-http://bstream.universostream.net:8000/live/guidop/guidop/2474.ts
-#EXTINF:-1,DE: TNT Film
-http://bstream.universostream.net:8000/live/guidop/guidop/2501.ts
-#EXTINF:-1,DE: MDR
-http://bstream.universostream.net:8000/live/guidop/guidop/2475.ts
-#EXTINF:-1,DE: 3sat
-http://bstream.universostream.net:8000/live/guidop/guidop/2490.ts
-#EXTINF:-1,DE: 13th Street
-http://bstream.universostream.net:8000/live/guidop/guidop/2491.ts
-#EXTINF:-1,DE: SRF 1
-http://bstream.universostream.net:8000/live/guidop/guidop/2467.ts
-#EXTINF:-1,DE: SRF 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2499.ts
-#EXTINF:-1,DE: Sky Cinema
-http://bstream.universostream.net:8000/live/guidop/guidop/2487.ts
-#EXTINF:-1,DE: Sky Cinema  Action HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2494.ts
-#EXTINF:-1,DE Sky Cinema Hits HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2497.ts
-#EXTINF:-1,DE: Sky Comedy
-http://bstream.universostream.net:8000/live/guidop/guidop/2485.ts
-#EXTINF:-1,DE  SKY CINEMA EMOTION
-http://bstream.universostream.net:8000/live/guidop/guidop/2498.ts
-#EXTINF:-1,DE: Sky SyFy
-http://bstream.universostream.net:8000/live/guidop/guidop/2465.ts
-#EXTINF:-1,DE: Sky Krimi
-http://bstream.universostream.net:8000/live/guidop/guidop/2476.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://bstream.universostream.net:8000/live/guidop/guidop/2488.ts
-#EXTINF:-1,DE: Sky FOX
-http://bstream.universostream.net:8000/live/guidop/guidop/2481.ts
-#EXTINF:-1,DE: Sky FOX life
-http://bstream.universostream.net:8000/live/guidop/guidop/2480.ts
-#EXTINF:-1,DE: Sky National Geographic
-http://bstream.universostream.net:8000/live/guidop/guidop/2473.ts
-#EXTINF:-1,DE: Sky Nat Geo Wild
-http://bstream.universostream.net:8000/live/guidop/guidop/2503.ts
-#EXTINF:-1,DE: Sky History
-http://bstream.universostream.net:8000/live/guidop/guidop/2479.ts
-#EXTINF:-1,DE: Sky Arte
-http://bstream.universostream.net:8000/live/guidop/guidop/2489.ts
-#EXTINF:-1,DE: Sky Eurosport 1
-http://bstream.universostream.net:8000/live/guidop/guidop/2482.ts
-#EXTINF:-1,DE: Sky Eurosnews
-http://bstream.universostream.net:8000/live/guidop/guidop/2483.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://bstream.universostream.net:8000/live/guidop/guidop/2493.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/737.ts
-#EXTINF:-1,DE: Sky Sport 2  HD
-http://bstream.universostream.net:8000/live/guidop/guidop/738.ts
-#EXTINF:-1,Sky Select 1 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1482.ts
-#EXTINF:-1,Sky Select 2 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1483.ts
-#EXTINF:-1,Sky Select 3 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1484.ts
-#EXTINF:-1,Sky Select 4 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1485.ts
-#EXTINF:-1,Sky Select 5 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1486.ts
-#EXTINF:-1,Sky Select 6 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1487.ts
-#EXTINF:-1,Sky Select 7 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1488.ts
-#EXTINF:-1,Sky Select 8 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1489.ts
-#EXTINF:-1,Sky Select 9 HD
-http://bstream.universostream.net:8000/live/guidop/guidop/1490.ts
+#EXTINF:-1,TeleBielingue 
+http://teleboy.customers.cdn.iptv.ch/2040/index.m3u8
+#EXTINF:-1,Canale5HD 
+http://teleboy.customers.cdn.iptv.ch/3026/index.m3u8
+#EXTINF:-1,Cielo 
+http://teleboy.customers.cdn.iptv.ch/3041/index.m3u8
+#EXTINF:-1,EuNews-i 
+http://teleboy.customers.cdn.iptv.ch/104902/index.m3u8
+#EXTINF:-1,Italia1HD 
+http://teleboy.customers.cdn.iptv.ch/3028/index.m3u8
+#EXTINF:-1,LA7 
+http://teleboy.customers.cdn.iptv.ch/3027/index.m3u8
+#EXTINF:-1,MTVit 
+http://teleboy.customers.cdn.iptv.ch/3009/index.m3u8
+#EXTINF:-1,Rai1 
+http://teleboy.customers.cdn.iptv.ch/3003/index.m3u8
+#EXTINF:-1,Rai2 
+http://teleboy.customers.cdn.iptv.ch/3004/index.m3u8
+#EXTINF:-1,Rai3 
+http://teleboy.customers.cdn.iptv.ch/3005/index.m3u8
+#EXTINF:-1,Rete4HD 
+http://teleboy.customers.cdn.iptv.ch/3032/index.m3u8
+#EXTINF:-1,RSILA1HD 
+http://teleboy.customers.cdn.iptv.ch/3045/index.m3u8
+#EXTINF:-1,RSILA2HD 
+http://teleboy.customers.cdn.iptv.ch/3046/index.m3u8
+#EXTINF:-1,TeleTicino 
+http://teleboy.customers.cdn.iptv.ch/3036/index.m3u8
+#EXTINF:-1,BBCwn 
+http://teleboy.customers.cdn.iptv.ch/4003/index.m3u8
+#EXTINF:-1,CNBC 
+http://teleboy.customers.cdn.iptv.ch/4001/index.m3u8
+#EXTINF:-1,CNN 
+http://teleboy.customers.cdn.iptv.ch/4002/index.m3u8
+#EXTINF:-1,AlJazeeraEn 
+http://teleboy.customers.cdn.iptv.ch/4013/index.m3u8
+#EXTINF:-1,BBC3 
+http://teleboy.customers.cdn.iptv.ch/4008/index.m3u8
+#EXTINF:-1,EuNews-e 
+http://teleboy.customers.cdn.iptv.ch/104903/index.m3u8
+#EXTINF:-1,Film4 
+http://teleboy.customers.cdn.iptv.ch/4023/index.m3u8
+#EXTINF:-1,ITV1HD 
+http://teleboy.customers.cdn.iptv.ch/4018/index.m3u8
+#EXTINF:-1,ITV3 
+http://teleboy.customers.cdn.iptv.ch/4025/index.m3u8
+#EXTINF:-1,RTPi 
+http://teleboy.customers.cdn.iptv.ch/5001/index.m3u8
+#EXTINF:-1,TVEi 
+http://teleboy.customers.cdn.iptv.ch/5003/index.m3u8
+#EXTINF:-1,TRT1 
+http://teleboy.customers.cdn.iptv.ch/5030/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1495,210 +670,6 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,FR: beINSport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3609.ts
-#EXTINF:-1,FR: beINSport 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4477.ts
-#EXTINF:-1,FR: beINSport Max 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4478.ts
-#EXTINF:-1,FR: beINSport Max 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3205.ts
-#EXTINF:-1,FR: WéO
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4464.ts
-#EXTINF:-1,FR: VH1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4476.ts
-#EXTINF:-1,FR: TV5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4471.ts
-#EXTINF:-1,FR: TeleToon
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4466.ts
-#EXTINF:-1,FR: Sciences & Vie TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4468.ts
-#EXTINF:-1,FR: RTS La Une HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4473.ts
-#EXTINF:-1,FR: RTS La Deux HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4474.ts
-#EXTINF:-1,FR: PentHouse HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4491.ts
-#EXTINF:-1,FR: OL TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4470.ts
-#EXTINF:-1,FR: Nat Geo HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4467.ts
-#EXTINF:-1,FR: MCM Pop
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4475.ts
-#EXTINF:-1,FR: Histoire
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4472.ts
-#EXTINF:-1,FR: Gulli
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4465.ts
-#EXTINF:-1,FR: Dorcel HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4490.ts
-#EXTINF:-1,FR: D 17
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4459.ts
-#EXTINF:-1,FR: Canal Plus Decale HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4460.ts
-#EXTINF:-1,FR:GOLF+
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4479.ts
-#EXTINF:-1,FR: EQUIDIA
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4480.ts
-#EXTINF:-1,FR: Animaux HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4469.ts
-#EXTINF:-1,FR: Action HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4507.ts
-#EXTINF:-1,FR: W9 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3770.ts
-#EXTINF:-1,FR: TV5 Monde Europe HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3769.ts
-#EXTINF:-1,FR: TMC HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3768.ts
-#EXTINF:-1,FR: RTL 9 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3771.ts
-#EXTINF:-1,FR: OCS Max HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3761.ts
-#EXTINF:-1,FR: OCS Géants HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3762.ts
-#EXTINF:-1,FR: OCS City HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3763.ts
-#EXTINF:-1,FR: NRJ 12 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3760.ts
-#EXTINF:-1,FR: Notélé HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3759.ts
-#EXTINF:-1,FR: M6 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3758.ts
-#EXTINF:-1,FR: ScienceetVieTV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3757.ts
-#EXTINF:-1,FR: France O HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3752.ts
-#EXTINF:-1,FR: France 24 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3753.ts
-#EXTINF:-1,FR: EuroNews HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3751.ts
-#EXTINF:-1,FR: Enorme TV HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3750.ts
-#EXTINF:-1,FR: D8 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3747.ts
-#EXTINF:-1,FR: Comedie Plus HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3746.ts
-#EXTINF:-1,FR: Ciné Plus Premier HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3739.ts
-#EXTINF:-1,FR: Ciné Plus Frisson HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3740.ts
-#EXTINF:-1,FR: Ciné Plus Fil HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3743.ts
-#EXTINF:-1,FR: Ciné Plus Etolie HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3738.ts
-#EXTINF:-1,FR: Ciné Plus Emotion HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3741.ts
-#EXTINF:-1,FR: Ciné Plus Classic HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3742.ts
-#EXTINF:-1,FR: Canal Plus HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3736.ts
-#EXTINF:-1,FR: Canal Plus Family HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3735.ts
-#EXTINF:-1,FR: Canal Plus Décalé HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3733.ts
-#EXTINF:-1,FR: BFM Business HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3731.ts
-#EXTINF:-1,FR: Arte HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3726.ts
-#EXTINF:-1,FR: AB1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3724.ts
-#EXTINF:-1,FR: 6TER HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3723.ts
-#EXTINF:-1,FR: National Geo Wild
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3606.ts
-#EXTINF:-1,FR: BloomBerg
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3605.ts
-#EXTINF:-1,FR: BFM TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3607.ts
-#EXTINF:-1,FR: XXL
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2262.ts
-#EXTINF:-1,FR: Tiji
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2234.ts
-#EXTINF:-1,FR: TF1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2204.ts
-#EXTINF:-1,FR: Teva
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2225.ts
-#EXTINF:-1,FR: TeleToon Plus
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2238.ts
-#EXTINF:-1,FR: TCM
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2218.ts
-#EXTINF:-1,FR: Sy-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2228.ts
-#EXTINF:-1,FR: Serie Club HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2221.ts
-#EXTINF:-1,FR: Planete Plus HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2247.ts
-#EXTINF:-1,FR: Planete Plus CI
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2249.ts
-#EXTINF:-1,FR: Planete Plus AE
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2248.ts
-#EXTINF:-1,FR: RMC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2235.ts
-#EXTINF:-1,FR: Paris Premiere
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2224.ts
-#EXTINF:-1,FR: 13 rue
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2250.ts
-#EXTINF:-1,FR: MTV Hits
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2259.ts
-#EXTINF:-1,FR: MTV Dance
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2258.ts
-#EXTINF:-1,FR: Mangas
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2245.ts
-#EXTINF:-1,FR: MA Chaine Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2251.ts
-#EXTINF:-1,FR: Tv Breizh
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2230.ts
-#EXTINF:-1,FR: Hustler HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2263.ts
-#EXTINF:-1,FR: France O
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2199.ts
-#EXTINF:-1,FR: France 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2203.ts
-#EXTINF:-1,FR: France 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2202.ts
-#EXTINF:-1,FR: France 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2201.ts
-#EXTINF:-1,FR: France 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2200.ts
-#EXTINF:-1,FR: E!
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2229.ts
-#EXTINF:-1,FR: Disney Cine Magic
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2244.ts
-#EXTINF:-1,FR: Disney Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2241.ts
-#EXTINF:-1,FR: D8
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2227.ts
-#EXTINF:-1,FR: Comedie Plus
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2220.ts
-#EXTINF:-1,FR: Cine Plus Premier HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2213.ts
-#EXTINF:-1,FR: Cine Plus Frisson HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2212.ts
-#EXTINF:-1,FR: Cine Plus Famiz HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2215.ts
-#EXTINF:-1,FR: Cine Plus Emotion HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2214.ts
-#EXTINF:-1,FR: Cine Classic HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2217.ts
-#EXTINF:-1,FR: Chasse & Peche
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2257.ts
-#EXTINF:-1,FR: Cartoon NetWork
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2246.ts
-#EXTINF:-1,FR: Canal Plus Sport HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2210.ts
-#EXTINF:-1,FR: Canal Plus Series HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2211.ts
-#EXTINF:-1,FR: Canal Plus Cinema HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2207.ts
-#EXTINF:-1,FR: Canal Plus
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2206.ts
-#EXTINF:-1,FR: Canal J
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2239.ts
-#EXTINF:-1,FR: BoomeRang
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2240.ts
-#EXTINF:-1,FR: Boing
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2237.ts
-#EXTINF:-1,FR: EuroSport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2013.ts
 #EXTINF:-1,TF1 HD
 http://178.250.208.141/1/play.m3u8
 #EXTINF:-1 ,TF1 (link 2)
@@ -1942,21 +913,7 @@ http://langamepp.com/loc/4EA0CA9A98617960F6CCBA5E13FD4C027F94F9ADA1574155CFFBC63
 
 #EXTINF:-1,[COLOR red]****************Africa TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,Vox Africa
-rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
-#EXTINF:0,Gabon TV
-rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
-#EXTINF:0,Digital Congo
-rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
-#EXTINF:0,Music Afrika
-rtmp://strfla13.streamakaci.com:1935/lc2new/ playpath=lc2 swfUrl=http://tv.filmover.com/jwp5/player.swf 
-pageUrl=http://www.ghanatvon.com/music-africa-tv.html
-#EXTINF:0,Afric Nigeria TV
-http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?
-wowzasessionid=598321747
-#EXTINF:0,RTS 1
-rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream 
-swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/tv/sen/rts1.html
+
 
 #EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1964,6 +921,10 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
 #EXTINF:,RTS Deux
 http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47
+#EXTINF:-1,RTS1HD 
+http://teleboy.customers.cdn.iptv.ch/2034/index.m3u8
+#EXTINF:-1,RTS2HD
+http://teleboy.customers.cdn.iptv.ch/2035/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************Belgium TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1978,6 +939,124 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
 #EXTINF:-1,[COLOR red]****************Deutsch TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,SRF1HD 
+http://teleboy.customers.cdn.iptv.ch/1008/index.m3u8
+#EXTINF:-1,SRF2HD 
+http://teleboy.customers.cdn.iptv.ch/1009/index.m3u8
+#EXTINF:-1,ARDHD 
+http://teleboy.customers.cdn.iptv.ch/1165/index.m3u8
+#EXTINF:-1,ZDFHD 
+http://teleboy.customers.cdn.iptv.ch/1166/index.m3u8
+#EXTINF:-1,ORF1HD 
+http://teleboy.customers.cdn.iptv.ch/1010/index.m3u8
+#EXTINF:-1,ORF2HD 
+http://teleboy.customers.cdn.iptv.ch/1011/index.m3u8
+#EXTINF:-1,ArteHD 
+http://teleboy.customers.cdn.iptv.ch/1150/index.m3u8
+#EXTINF:-1,3satHD
+http://teleboy.customers.cdn.iptv.ch/1117/index.m3u8
+#EXTINF:-1,Pro7chHD 
+http://teleboy.customers.cdn.iptv.ch/1037/index.m3u8
+#EXTINF:-1,Sat.1chHD 
+http://teleboy.customers.cdn.iptv.ch/1038/index.m3u8
+#EXTINF:-1,RTLchHD 
+http://teleboy.customers.cdn.iptv.ch/1020/index.m3u8
+#EXTINF:-1,RTL2chHD 
+http://teleboy.customers.cdn.iptv.ch/1024/index.m3u8
+#EXTINF:-1,S-RTLchHD 
+http://teleboy.customers.cdn.iptv.ch/1023/index.m3u8
+#EXTINF:-1,VOXchHD 
+http://teleboy.customers.cdn.iptv.ch/1021/index.m3u8
+#EXTINF:-1,Kabel1chHD 
+http://teleboy.customers.cdn.iptv.ch/1039/index.m3u8
+#EXTINF:-1,3+HD 
+http://teleboy.customers.cdn.iptv.ch/1013/index.m3u8
+#EXTINF:-1,4+HD 
+http://teleboy.customers.cdn.iptv.ch/1031/index.m3u8
+#EXTINF:-1,BRHD 
+http://teleboy.customers.cdn.iptv.ch/1112/index.m3u8
+#EXTINF:-1,NDRHD 
+http://teleboy.customers.cdn.iptv.ch/1115/index.m3u8
+#EXTINF:-1,WR-BW-HD 
+http://teleboy.customers.cdn.iptv.ch/1114/index.m3u8
+#EXTINF:-1,WDRHD 
+http://teleboy.customers.cdn.iptv.ch/1113/index.m3u8
+#EXTINF:-1,RTLNitroHD 
+http://teleboy.customers.cdn.iptv.ch/1027/index.m3u8
+#EXTINF:-1,ServusTVHD 
+http://teleboy.customers.cdn.iptv.ch/1012/index.m3u8
+#EXTINF:-1,PHOENIXHD 
+http://teleboy.customers.cdn.iptv.ch/1122/index.m3u8
+#EXTINF:-1,sixxHD 
+http://teleboy.customers.cdn.iptv.ch/1040/index.m3u8
+#EXTINF:-1,BBC1HD 
+http://teleboy.customers.cdn.iptv.ch/4017/index.m3u8
+#EXTINF:-1,BBC2HD 
+http://teleboy.customers.cdn.iptv.ch/4012/index.m3u8
+#EXTINF:-1,SRFi 
+http://teleboy.customers.cdn.iptv.ch/1003/index.m3u8
+#EXTINF:-1,5+ 
+http://teleboy.customers.cdn.iptv.ch/1047/index.m3u8
+#EXTINF:-1,CHTVHD 
+http://teleboy.customers.cdn.iptv.ch/1032/index.m3u8
+#EXTINF:-1,Joiz 
+http://teleboy.customers.cdn.iptv.ch/1171/index.m3u8
+#EXTINF:-1,S1 
+http://teleboy.customers.cdn.iptv.ch/1035/index.m3u8
+#EXTINF:-1,StarTV 
+http://teleboy.customers.cdn.iptv.ch/1107/index.m3u8
+#EXTINF:-1,TBasel 
+http://teleboy.customers.cdn.iptv.ch/1135/index.m3u8
+#EXTINF:-1,TB%E4rn 
+http://teleboy.customers.cdn.iptv.ch/1137/index.m3u8
+#EXTINF:-1,Tele1 
+http://teleboy.customers.cdn.iptv.ch/1128/index.m3u8
+#EXTINF:-1,TeleTop 
+http://teleboy.customers.cdn.iptv.ch/1129/index.m3u8
+#EXTINF:-1,TSO 
+http://teleboy.customers.cdn.iptv.ch/1130/index.m3u8
+#EXTINF:-1,TV24 
+http://teleboy.customers.cdn.iptv.ch/1042/index.m3u8
+#EXTINF:-1,TVO 
+http://teleboy.customers.cdn.iptv.ch/1131/index.m3u8
+#EXTINF:-1,TZüri 
+http://teleboy.customers.cdn.iptv.ch/1160/index.m3u8
+#EXTINF:-1,MDR 
+http://teleboy.customers.cdn.iptv.ch/1069/index.m3u8
+#EXTINF:-1,Tele5 
+http://teleboy.customers.cdn.iptv.ch/1090/index.m3u8
+#EXTINF:-1,EuSp 
+http://teleboy.customers.cdn.iptv.ch/1051/index.m3u8
+#EXTINF:-1,Sport1 
+http://teleboy.customers.cdn.iptv.ch/1095/index.m3u8
+#EXTINF:-1,DeluxeMusic 
+http://teleboy.customers.cdn.iptv.ch/1153/index.m3u8
+#EXTINF:-1,EuNews 
+http://teleboy.customers.cdn.iptv.ch/1049/index.m3u8
+#EXTINF:-1,KiKaHD 
+http://teleboy.customers.cdn.iptv.ch/1116/index.m3u8
+#EXTINF:-1,n-tv 
+http://teleboy.customers.cdn.iptv.ch/1025/index.m3u8
+#EXTINF:-1,Pro7Maxx 
+http://teleboy.customers.cdn.iptv.ch/1041/index.m3u8
+#EXTINF:-1,VIVA 
+http://teleboy.customers.cdn.iptv.ch/1014/index.m3u8
+#EXTINF:-1,MTV 
+http://teleboy.customers.cdn.iptv.ch/1033/index.m3u8
+#EXTINF:-1,zdf.kultur 
+http://teleboy.customers.cdn.iptv.ch/1119/index.m3u8
+#EXTINF:-1,DisneyChannel 
+http://teleboy.customers.cdn.iptv.ch/1124/index.m3u8
+#EXTINF:-1,DMAX 
+http://teleboy.customers.cdn.iptv.ch/1018/index.m3u8
+#EXTINF:-1,ZDFneo 
+http://teleboy.customers.cdn.iptv.ch/1121/index.m3u8
+#EXTINF:-1,ArteFrHD 
+http://teleboy.customers.cdn.iptv.ch/2029/index.m3u8
+#EXTINF:-1,Canal9 
+http://teleboy.customers.cdn.iptv.ch/2041/index.m3u8
+#EXTINF:-1,CanalAlpha 
+http://teleboy.customers.cdn.iptv.ch/2045/index.m3u8
 #EXTINF:-1, Das Erste
 http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
 #EXTINF:-1, ZDF
@@ -2464,6 +1543,36 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,USA Live TV Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,[COLOR red]****************Adult Only****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32001
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32002
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32003
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32004
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32005
+#EXTINF:-1,xxx +18
+http://199.195.195.108:32006
+#EXTINF:-1,Brazzers TV Europe
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/bw900000/variant.m3u8?version=2
+#EXTINF:-1,Русская Ночь
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/bw900000/variant.m3u8?version=2
+#EXTINF:-1,Blue Hustler
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/bw900000/variant.m3u8?version=2
+#EXTINF:-1,XXL
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_XXL/bw900000/variant.m3u8?version=2
+#EXTINF:-1,O-la-la
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_OLALA/bw900000/variant.m3u8?version=2
+#EXTINF:-1,Playboy TV
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/bw900000/variant.m3u8?version=2
+#EXTINF:-1,Ночной Клуб
+http://46.181.237.75:1234/udp/239.255.42.217:1234
+
 
 #EXTINF:-1,[COLOR red]****************Test TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
