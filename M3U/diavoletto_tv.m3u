@@ -9,41 +9,45 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,[COLOR green]14.00 Int.Cham.cup INTER – REAL MADRID[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport tv 1 pt
+#EXTINF:-1 group-title=” 18.15 friendly NICE – GALATASARAY “,[COLOR green]18.15 friendly NICE – GALATASARAY[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 18.15 friendly NICE – GALATASARAY “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sport 1 ru
+
+#EXTINF:-1 group-title=” 20.15 ch.lea YOUNG BOYS – MONACO “,[COLOR green]20.15 ch.lea YOUNG BOYS – MONACO[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.15 ch.lea YOUNG BOYS – MONACO “,rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.15 ch.lea YOUNG BOYS – MONACO “,srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 21.00 ch.lea DINAMO ZAGREB – MOLDE “,[COLOR green]21.00 ch.lea DINAMO ZAGREB – MOLDE[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 21.00 ch.lea DINAMO ZAGREB – MOLDE “,hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=” 21.00 ch.lea DINAMO ZAGREB – MOLDE “,hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,[COLOR green]2.05 Int.Cham.cup CHELSEA – BARCELONA[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,sport 1 ru
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,turkmen sport
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,turkmen sport
 rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,sky sports 1 uk
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 2.05 Int.Cham.cup CHELSEA – BARCELONA “,sky sports 1 uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 14.00 Int.Cham.cup INTER – REAL MADRID “,digi sport 1 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,[COLOR green]18.00 friendly SCHALKE 04 – PORTO[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,sport tv 1 pt
+#EXTINF:-1 group-title=” 4.05 Int.Cham.cup CLUB AMERICA – BENFICA “,[COLOR green]4.05 Int.Cham.cup CLUB AMERICA – BENFICA[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 4.05 Int.Cham.cup CLUB AMERICA – BENFICA “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 18.00 friendly SCHALKE 04 – PORTO “,sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,[COLOR green]20.15 ger2 FREIBURG – NUREMBERG[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 20.15 ger2 FREIBURG – NUREMBERG “,eurosport 2 ru_2
-http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
-
-#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,[COLOR green]23.00 arg ARSENAL SARANDI – ARGENTINOS JRS[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 23.00 arg ARSENAL SARANDI – ARGENTINOS JRS “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=” 4.05 Int.Cham.cup CLUB AMERICA – BENFICA “,sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 4.05 Int.Cham.cup CLUB AMERICA – BENFICA “,supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 4.05 Int.Cham.cup CLUB AMERICA – BENFICA “,arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -230,7 +234,6 @@ http://teleboy.customers.cdn.iptv.ch/4013/index.m3u8
 http://teleboy.customers.cdn.iptv.ch/4003/index.m3u8
 #EXTINF:0,EUNEWS-E
 http://teleboy.customers.cdn.iptv.ch/104903/index.m3u8
-
 
 #EXTINF:-1,[COLOR red]****************Italy Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
