@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 30/07/2015 17h00*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 31/07/2015 14h27*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -9,67 +9,49 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1 group-title=” 3.00 friendly MLS ALL STARS – TOTTENHAM HOTSPURS “,eurosport 2 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 3.00 friendly MLS ALL STARS – TOTTENHAM HOTSPURS “,eurosport 2 ru_2
-http://edge.ailetv.net/org9/eurosport2_me/playlist.m3u8
-#EXTINF:-1 group-title=” 3.00 friendly MLS ALL STARS – TOTTENHAM HOTSPURS “,sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 18.00 den VIBORG – ESBJERG “,[COLOR green]18.00 den VIBORG – ESBJERG[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 18.00 den VIBORG – ESBJERG “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
 
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,arena sport 1 sr
+#EXTINF:-1 group-title=” 20.00 ser RED STAR BELGRADE – RADNICKI NIS “,[COLOR green]20.00 ser RED STAR BELGRADE – RADNICKI NIS[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.00 ser RED STAR BELGRADE – RADNICKI NIS “,arena sport 1 sr
 http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final TIGRES (Mex) – RIVER PLATE (Arg) “,sport ru
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
 
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,sport tv 1 pt
+#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,[COLOR green]20.30 bel GENT – GENK[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,arena sport 3 sr
+#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,arena sport 3 sr
 http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,digi sport 1 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=” 3.05 Int.Cham.cup MANCHESTER UTD – PSG “,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#‎EXTINF‬:-1, SPORT TV AMERICAS [POR] http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1, SPORT1 (HOL)
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1, SPORT1 (ALE)
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN (USA)
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1, ESPN UK FOXSPORT
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:-1, ESPN 2 UK
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:-1, ARENA SPORT (IND)
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-#EXTINF:-1, LIVERPOOL TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-#EXTINF:-1, CHELSEA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:-1, REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, BARÇA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
-#EXTINF:-1, BARÇA TV HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
-#EXTINF:-1, TVA Sport CANADA
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
+
+#EXTINF:-1 group-title=” 20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG “,[COLOR green]20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG “,s@y bundesliga 1 de
+http://balkanstream.com/stream/skybundes/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 20.45 friendly WATFORD – SEVILLA “,[COLOR green]20.45 friendly WATFORD – SEVILLA[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 friendly WATFORD – SEVILLA “,sportklub 1 sr
+http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 21.00 cro NK ZAGREB – DIN.ZAGREB “,[COLOR green]21.00 cro NK ZAGREB – DIN.ZAGREB[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 cro NK ZAGREB – DIN.ZAGREB “,arena sport 2 sr
+http://balkanstream.com/stream/arenasport2sr/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,[COLOR green]23.00 arg ATL.RAFAELA – ALDOSIVI[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,[COLOR green]2.10 arg TEMPERLEY – VEL.SARSFIELD[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
