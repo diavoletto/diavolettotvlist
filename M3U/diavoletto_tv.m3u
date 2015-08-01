@@ -157,14 +157,382 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
-#EXTINF:-1,[COLOR red]****************UK Channel Coming soon****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************UK IT Deu FR Channel ****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
-
-#EXTINF:-1,[COLOR red]****************Italy Channel coming soon****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-
-
+#EXTINF:-1,SRF1
+http://81.92.105.134:5555/pl.m3u8?channel=1&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SRF2
+http://81.92.105.134:5555/pl.m3u8?channel=2&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SRFinfo
+http://81.92.105.134:5555/pl.m3u8?channel=3&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DasErste
+http://81.92.105.134:5555/pl.m3u8?channel=4&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ZDF
+http://81.92.105.134:5555/pl.m3u8?channel=5&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SWRFernsehenBW
+http://81.92.105.134:5555/pl.m3u8?channel=6&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ORF1
+http://81.92.105.134:5555/pl.m3u8?channel=7&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ORF2
+http://81.92.105.134:5555/pl.m3u8?channel=8&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,3sat
+http://81.92.105.134:5555/pl.m3u8?channel=9&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,arte
+http://81.92.105.134:5555/pl.m3u8?channel=10&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ATV
+http://81.92.105.134:5555/pl.m3u8?channel=11&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BibelTV
+http://81.92.105.134:5555/pl.m3u8?channel=12&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Alpha
+http://81.92.105.134:5555/pl.m3u8?channel=13&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RadioBremen
+http://81.92.105.134:5555/pl.m3u8?channel=14&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DisneyChannel
+http://81.92.105.134:5555/pl.m3u8?channel=15&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DeluxeMusic
+http://81.92.105.134:5555/pl.m3u8?channel=16&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DMAX
+http://81.92.105.134:5555/pl.m3u8?channel=17&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DW
+http://81.92.105.134:5555/pl.m3u8?channel=18&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,EinsFestival
+http://81.92.105.134:5555/pl.m3u8?channel=19&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,EinsPlus
+http://81.92.105.134:5555/pl.m3u8?channel=20&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=21&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Eurosport
+http://81.92.105.134:5555/pl.m3u8?channel=24&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,intv
+http://81.92.105.134:5555/pl.m3u8?channel=25&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Bloomberg
+http://81.92.105.134:5555/pl.m3u8?channel=26&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=27&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=28&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Kabel1
+http://81.92.105.134:5555/pl.m3u8?channel=29&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Kabel1
+http://81.92.105.134:5555/pl.m3u8?channel=30&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Kika
+http://81.92.105.134:5555/pl.m3u8?channel=31&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,K-tv
+http://81.92.105.134:5555/pl.m3u8?channel=32&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Munchentv
+http://81.92.105.134:5555/pl.m3u8?channel=33&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,N24
+http://81.92.105.134:5555/pl.m3u8?channel=34&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Nickelodeon
+http://81.92.105.134:5555/pl.m3u8?channel=35&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Nickelodeon Austria
+http://81.92.105.134:5555/pl.m3u8?channel=36&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,n-tv
+http://81.92.105.134:5555/pl.m3u8?channel=37&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Phoenix
+http://81.92.105.134:5555/pl.m3u8?channel=38&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,PRO7
+http://81.92.105.134:5555/pl.m3u8?channel=39&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Pro7
+http://81.92.105.134:5555/pl.m3u8?channel=40&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,PRO7MAXX
+http://81.92.105.134:5555/pl.m3u8?channel=41&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RNF
+http://81.92.105.134:5555/pl.m3u8?channel=42&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTL
+http://81.92.105.134:5555/pl.m3u8?channel=43&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTL
+http://81.92.105.134:5555/pl.m3u8?channel=44&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTL2
+http://81.92.105.134:5555/pl.m3u8?channel=45&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTL2
+http://81.92.105.134:5555/pl.m3u8?channel=46&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTL
+http://81.92.105.134:5555/pl.m3u8?channel=47&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=48&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SAT.1
+http://81.92.105.134:5555/pl.m3u8?channel=49&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SAT.1A
+http://81.92.105.134:5555/pl.m3u8?channel=50&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ServusTVOesterreich
+http://81.92.105.134:5555/pl.m3u8?channel=51&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SIXX
+http://81.92.105.134:5555/pl.m3u8?channel=52&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,sixxAustria
+http://81.92.105.134:5555/pl.m3u8?channel=53&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SPORT1
+http://81.92.105.134:5555/pl.m3u8?channel=54&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SUPERRTL
+http://81.92.105.134:5555/pl.m3u8?channel=55&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SUPERRTLA
+http://81.92.105.134:5555/pl.m3u8?channel=56&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,tagesschau24
+http://81.92.105.134:5555/pl.m3u8?channel=57&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TELE5
+http://81.92.105.134:5555/pl.m3u8?channel=58&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BTV
+http://81.92.105.134:5555/pl.m3u8?channel=59&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ATV2
+http://81.92.105.134:5555/pl.m3u8?channel=60&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ComedyCentral/VIVA
+http://81.92.105.134:5555/pl.m3u8?channel=61&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,VOX
+http://81.92.105.134:5555/pl.m3u8?channel=63&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,VOXAustria
+http://81.92.105.134:5555/pl.m3u8?channel=64&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,WDRKoln
+http://81.92.105.134:5555/pl.m3u8?channel=65&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ZDFinfo
+http://81.92.105.134:5555/pl.m3u8?channel=66&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,zdf.kultur
+http://81.92.105.134:5555/pl.m3u8?channel=67&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,zdf_neo
+http://81.92.105.134:5555/pl.m3u8?channel=68&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BayerischesFSSud
+http://81.92.105.134:5555/pl.m3u8?channel=69&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SWRFernsehenRP
+http://81.92.105.134:5555/pl.m3u8?channel=70&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SRFernsehen
+http://81.92.105.134:5555/pl.m3u8?channel=71&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,rbbBerlin
+http://81.92.105.134:5555/pl.m3u8?channel=72&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,hr-fernsehen
+http://81.92.105.134:5555/pl.m3u8?channel=73&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,LT1
+http://81.92.105.134:5555/pl.m3u8?channel=74&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,3plusSD
+http://81.92.105.134:5555/pl.m3u8?channel=75&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,4plusSD
+http://81.92.105.134:5555/pl.m3u8?channel=76&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TeleBasel
+http://81.92.105.134:5555/pl.m3u8?channel=78&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TeleBern
+http://81.92.105.134:5555/pl.m3u8?channel=79&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TeleZuri
+http://81.92.105.134:5555/pl.m3u8?channel=80&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,zueriplus
+http://81.92.105.134:5555/pl.m3u8?channel=81&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Joiz
+http://81.92.105.134:5555/pl.m3u8?channel=82&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ORFSPORT+
+http://81.92.105.134:5555/pl.m3u8?channel=84&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,PULS4Austria
+http://81.92.105.134:5555/pl.m3u8?channel=85&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BayerischesFSNord
+http://81.92.105.134:5555/pl.m3u8?channel=86&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ORFIII
+http://81.92.105.134:5555/pl.m3u8?channel=88&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV
+http://81.92.105.134:5555/pl.m3u8?channel=89&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV2
+http://81.92.105.134:5555/pl.m3u8?channel=90&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV3
+http://81.92.105.134:5555/pl.m3u8?channel=91&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV4
+http://81.92.105.134:5555/pl.m3u8?channel=92&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,E4
+http://81.92.105.134:5555/pl.m3u8?channel=93&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,More4
+http://81.92.105.134:5555/pl.m3u8?channel=94&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Film4
+http://81.92.105.134:5555/pl.m3u8?channel=95&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Channel4
+http://81.92.105.134:5555/pl.m3u8?channel=96&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SRF1 HD
+http://81.92.105.134:5555/pl.m3u8?channel=97&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SRF2 HD
+http://81.92.105.134:5555/pl.m3u8?channel=98&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Servus HD
+http://81.92.105.134:5555/pl.m3u8?channel=99&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ARD HD
+http://81.92.105.134:5555/pl.m3u8?channel=100&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ZDF HD
+http://81.92.105.134:5555/pl.m3u8?channel=101&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ArteHD
+http://81.92.105.134:5555/pl.m3u8?channel=104&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TVP Historia
+http://81.92.105.134:5555/pl.m3u8?channel=105&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TELE 5
+http://81.92.105.134:5555/pl.m3u8?channel=106&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TV POLONIA
+http://81.92.105.134:5555/pl.m3u8?channel=107&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TVS
+http://81.92.105.134:5555/pl.m3u8?channel=108&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TVTRWAM
+http://81.92.105.134:5555/pl.m3u8?channel=109&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,SHANTTV
+http://81.92.105.134:5555/pl.m3u8?channel=111&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RUMUSIC
+http://81.92.105.134:5555/pl.m3u8?channel=112&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NEWSONE
+http://81.92.105.134:5555/pl.m3u8?channel=113&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Rossiya24
+http://81.92.105.134:5555/pl.m3u8?channel=114&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RBC-TV
+http://81.92.105.134:5555/pl.m3u8?channel=115&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RussiaToday
+http://81.92.105.134:5555/pl.m3u8?channel=116&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,1TVRUSEurope
+http://81.92.105.134:5555/pl.m3u8?channel=117&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTR
+http://81.92.105.134:5555/pl.m3u8?channel=118&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,2+2
+http://81.92.105.134:5555/pl.m3u8?channel=120&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Channel5(Ukraine)
+http://81.92.105.134:5555/pl.m3u8?channel=121&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,AZTV
+http://81.92.105.134:5555/pl.m3u8?channel=122&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,LIDERTVAZERBAIJAN
+http://81.92.105.134:5555/pl.m3u8?channel=123key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ARM_1
+http://81.92.105.134:5555/pl.m3u8?channel=124&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CT24
+http://81.92.105.134:5555/pl.m3u8?channel=125&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,M2
+http://81.92.105.134:5555/pl.m3u8?channel=126&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTK-SAT
+http://81.92.105.134:5555/pl.m3u8?channel=127&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,TVSH-SAT
+http://81.92.105.134:5555/pl.m3u8?channel=128&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,WDR
+http://81.92.105.134:5555/pl.m3u8?channel=129&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,QVC
+http://81.92.105.134:5555/pl.m3u8?channel=148&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NDRFSHH
+http://81.92.105.134:5555/pl.m3u8?channel=139&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NDRFSSH
+http://81.92.105.134:5555/pl.m3u8?channel=140&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC One Lon
+http://81.92.105.134:5555/pl.m3u8?channel=141&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC Two Eng
+http://81.92.105.134:5555/pl.m3u8?channel=142&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC Entertainment Europe
+http://81.92.105.134:5555/pl.m3u8?channel=143&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC World
+http://81.92.105.134:5555/pl.m3u8?channel=144&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC One NI
+http://81.92.105.134:5555/pl.m3u8?channel=145&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CBBC
+http://81.92.105.134:5555/pl.m3u8?channel=146&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,QVCDeutschland
+http://81.92.105.134:5555/pl.m3u8?channel=147&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,QVCBEAUTY&STYLE
+http://81.92.105.134:5555/pl.m3u8?channel=149&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,MDRSachsen
+http://81.92.105.134:5555/pl.m3u8?channel=150&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,MDRS-Anhalt
+http://81.92.105.134:5555/pl.m3u8?channel=151&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,HAYAT PLUS
+http://81.92.105.134:5555/pl.m3u8?channel=153&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,HayatFolk
+http://81.92.105.134:5555/pl.m3u8?channel=154&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,HAYATTV
+http://81.92.105.134:5555/pl.m3u8?channel=155&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Hayat Music
+http://81.92.105.134:5555/pl.m3u8?channel=156&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BN Music
+http://81.92.105.134:5555/pl.m3u8?channel=157&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BN SAT
+http://81.92.105.134:5555/pl.m3u8?channel=158&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ServusTVOesterreich
+http://81.92.105.134:5555/pl.m3u8?channel=159&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,MKTV2Sat
+http://81.92.105.134:5555/pl.m3u8?channel=160&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DugaTV
+http://81.92.105.134:5555/pl.m3u8?channel=161&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NDRFSNDS
+http://81.92.105.134:5555/pl.m3u8?channel=162&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Dobro TV
+http://81.92.105.134:5555/pl.m3u8?channel=163&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,HRT1
+http://81.92.105.134:5555/pl.m3u8?channel=164&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,rbb Brandenburg
+http://81.92.105.134:5555/pl.m3u8?channel=165&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Sat 1
+http://81.92.105.134:5555/pl.m3u8?channel=170&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Pro Sieben Schweiz
+http://81.92.105.134:5555/pl.m3u8?channel=171&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Euronews
+http://81.92.105.134:5555/pl.m3u8?channel=172&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTS Un
+http://81.92.105.134:5555/pl.m3u8?channel=173&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTS Deux
+http://81.92.105.134:5555/pl.m3u8?channel=174&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,RTS SAT
+http://81.92.105.134:5555/pl.m3u8?channel=252&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CBeebies
+http://81.92.105.134:5555/pl.m3u8?channel=300&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Horse & Country
+http://81.92.105.134:5555/pl.m3u8?channel=301&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,UTV
+http://81.92.105.134:5555/pl.m3u8?channel=302&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CBSAction
+http://81.92.105.134:5555/pl.m3u8?channel=303&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CITV
+http://81.92.105.134:5555/pl.m3u8?channel=304&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV
+http://81.92.105.134:5555/pl.m3u8?channel=305&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,movies 4 men
+http://81.92.105.134:5555/pl.m3u8?channel=306&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,movies+1
+http://81.92.105.134:5555/pl.m3u8?channel=307&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France 24(inEnglish)
+http://81.92.105.134:5555/pl.m3u8?channel=309&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Sky News Intl
+http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CNBC Europe
+http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Bloomberg Europe TV
+http://81.92.105.134:5555/pl.m3u8?channel=312&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France2
+http://81.92.105.134:5555/pl.m3u8?channel=401&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France3
+http://81.92.105.134:5555/pl.m3u8?channel=402&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France4
+http://81.92.105.134:5555/pl.m3u8?channel=403&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France5
+http://81.92.105.134:5555/pl.m3u8?channel=404&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BFMBusiness
+http://81.92.105.134:5555/pl.m3u8?channel=405&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France24(enFrancais)
+http://81.92.105.134:5555/pl.m3u8?channel=406&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,M6
+http://81.92.105.134:5555/pl.m3u8?channel=407&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,W9
+http://81.92.105.134:5555/pl.m3u8?channel=410&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,France
+http://81.92.105.134:5555/pl.m3u8?channel=411&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,D17
+http://81.92.105.134:5555/pl.m3u8?channel=414&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NT1
+http://81.92.105.134:5555/pl.m3u8?channel=416&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,i TELE
+http://81.92.105.134:5555/pl.m3u8?channel=417&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Gulli
+http://81.92.105.134:5555/pl.m3u8?channel=418&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BFMTV
+http://81.92.105.134:5555/pl.m3u8?channel=419&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Alsace20
+http://81.92.105.134:5555/pl.m3u8?channel=420&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CCTVF
+http://81.92.105.134:5555/pl.m3u8?channel=421&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#?EXTINF?:-1,TMC
+http://81.92.105.134:5555/pl.m3u8?channel=412&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NRJ12
+http://81.92.105.134:5555/pl.m3u8?channel=413&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Rai 1
+http://81.92.105.134:5555/pl.m3u8?channel=500&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Rai 2
+http://81.92.105.134:5555/pl.m3u8?channel=531&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Rai 3
+http://81.92.105.134:5555/pl.m3u8?channel=501&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Rete 4
+http://81.92.105.134:5555/pl.m3u8?channel=537&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Canale 5
+http://81.92.105.134:5555/pl.m3u8?channel=532&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Italia 1
+http://81.92.105.134:5555/pl.m3u8?
 
 #EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
