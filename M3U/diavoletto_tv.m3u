@@ -9,49 +9,6 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1 group-title=” 18.00 den VIBORG – ESBJERG “,[COLOR green]18.00 den VIBORG – ESBJERG[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 18.00 den VIBORG – ESBJERG “,tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-
-#EXTINF:-1 group-title=” 20.00 ser RED STAR BELGRADE – RADNICKI NIS “,[COLOR green]20.00 ser RED STAR BELGRADE – RADNICKI NIS[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.00 ser RED STAR BELGRADE – RADNICKI NIS “,arena sport 1 sr
-http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,[COLOR green]20.30 bel GENT – GENK[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,digi sport 2 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=” 20.30 bel GENT – GENK “,arena sport 3 sr
-http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG “,[COLOR green]20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.30 ger2 KAISERSLAUTERN – BRAUNSCHWEIG “,s@y bundesliga 1 de
-http://balkanstream.com/stream/skybundes/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 20.45 friendly WATFORD – SEVILLA “,[COLOR green]20.45 friendly WATFORD – SEVILLA[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 friendly WATFORD – SEVILLA “,sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 21.00 cro NK ZAGREB – DIN.ZAGREB “,[COLOR green]21.00 cro NK ZAGREB – DIN.ZAGREB[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 21.00 cro NK ZAGREB – DIN.ZAGREB “,arena sport 2 sr
-http://balkanstream.com/stream/arenasport2sr/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,[COLOR green]23.00 arg ATL.RAFAELA – ALDOSIVI[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 23.00 arg ATL.RAFAELA – ALDOSIVI “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,[COLOR green]2.10 arg TEMPERLEY – VEL.SARSFIELD[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 2.10 arg TEMPERLEY – VEL.SARSFIELD “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -200,100 +157,14 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
-#EXTINF:-1,[COLOR red]****************UK Channel****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,SKY SPORTS 1
-http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
-#EXTINF:-1,SKY SPORTS 2
-http://usa.01.cdnstreams.in:8081/view/ch07/playlist.m3u8
-#EXTINF:-1,SKY SPORTS 3
-http://usa.01.cdnstreams.in:8081/view/ch15/playlist.m3u8
-#EXTINF:-1,SKY SPORTS 4
-http://usa.01.cdnstreams.in:8081/view/ch16/playlist.m3u8
-#EXTINF:-1SKY SPORTS 5
-http://usa.01.cdnstreams.in:8081/view/ch09/playlist.m3u8
-#EXTINF:-1,BT SPORT 1
-http://usa.01.cdnstreams.in:8081/view/ch08/playlist.m3u8
-#EXTINF:-1,BT SPORT 2
-http://usa.01.cdnstreams.in:8081/view/ch14/playlist.m3u8
-#EXTINF:0,BBC1HD
-http://teleboy.customers.cdn.iptv.ch/4017/2290000/index.m3u8
-#EXTINF:0,BBC2HD
-http://teleboy.customers.cdn.iptv.ch/4012/2290000/index.m3u8
-#EXTINF:0,BBC3
-http://teleboy.customers.cdn.iptv.ch/4008/2290000/index.m3u8
-#EXTINF:0,CNBC
-http://teleboy.customers.cdn.iptv.ch/4001/index.m3u8
-#EXTINF:0,CNN
-http://teleboy.customers.cdn.iptv.ch/4002/index.m3u8
-#EXTINF:0,FILM4
-http://teleboy.customers.cdn.iptv.ch/4023/index.m3u8
-#EXTINF:0,ITV1HD
-http://teleboy.customers.cdn.iptv.ch/4018/index.m3u8
-#EXTINF:0,ITV3
-http://teleboy.customers.cdn.iptv.ch/4025/index.m3u8
-#EXTINF:0,ALJAZEERAEN
-http://teleboy.customers.cdn.iptv.ch/4013/index.m3u8
-#EXTINF:0,BBCWN
-http://teleboy.customers.cdn.iptv.ch/4003/index.m3u8
-#EXTINF:0,EUNEWS-E
-http://teleboy.customers.cdn.iptv.ch/104903/index.m3u8
-
-#EXTINF:-1,[COLOR red]****************Italy Channel****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************UK Channel Coming soon****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1,TeleBielingue 
-http://teleboy.customers.cdn.iptv.ch/2040/index.m3u8
-#EXTINF:-1,Canale5HD 
-http://teleboy.customers.cdn.iptv.ch/3026/index.m3u8
-#EXTINF:-1,Cielo 
-http://teleboy.customers.cdn.iptv.ch/3041/index.m3u8
-#EXTINF:-1,EuNews-i 
-http://teleboy.customers.cdn.iptv.ch/104902/index.m3u8
-#EXTINF:-1,Italia1HD 
-http://teleboy.customers.cdn.iptv.ch/3028/index.m3u8
-#EXTINF:-1,LA7 
-http://teleboy.customers.cdn.iptv.ch/3027/index.m3u8
-#EXTINF:-1,MTVit 
-http://teleboy.customers.cdn.iptv.ch/3009/index.m3u8
-#EXTINF:-1,Rai1 
-http://teleboy.customers.cdn.iptv.ch/3003/index.m3u8
-#EXTINF:-1,Rai2 
-http://teleboy.customers.cdn.iptv.ch/3004/index.m3u8
-#EXTINF:-1,Rai3 
-http://teleboy.customers.cdn.iptv.ch/3005/index.m3u8
-#EXTINF:-1,Rete4HD 
-http://teleboy.customers.cdn.iptv.ch/3032/index.m3u8
-#EXTINF:-1,RSILA1HD 
-http://teleboy.customers.cdn.iptv.ch/3045/index.m3u8
-#EXTINF:-1,RSILA2HD 
-http://teleboy.customers.cdn.iptv.ch/3046/index.m3u8
-#EXTINF:-1,TeleTicino 
-http://teleboy.customers.cdn.iptv.ch/3036/index.m3u8
-#EXTINF:-1,BBCwn 
-http://teleboy.customers.cdn.iptv.ch/4003/index.m3u8
-#EXTINF:-1,CNBC 
-http://teleboy.customers.cdn.iptv.ch/4001/index.m3u8
-#EXTINF:-1,CNN 
-http://teleboy.customers.cdn.iptv.ch/4002/index.m3u8
-#EXTINF:-1,AlJazeeraEn 
-http://teleboy.customers.cdn.iptv.ch/4013/index.m3u8
-#EXTINF:-1,BBC3 
-http://teleboy.customers.cdn.iptv.ch/4008/index.m3u8
-#EXTINF:-1,EuNews-e 
-http://teleboy.customers.cdn.iptv.ch/104903/index.m3u8
-#EXTINF:-1,Film4 
-http://teleboy.customers.cdn.iptv.ch/4023/index.m3u8
-#EXTINF:-1,ITV1HD 
-http://teleboy.customers.cdn.iptv.ch/4018/index.m3u8
-#EXTINF:-1,ITV3 
-http://teleboy.customers.cdn.iptv.ch/4025/index.m3u8
-#EXTINF:-1,RTPi 
-http://teleboy.customers.cdn.iptv.ch/5001/index.m3u8
-#EXTINF:-1,TVEi 
-http://teleboy.customers.cdn.iptv.ch/5003/index.m3u8
-#EXTINF:-1,TRT1 
-http://teleboy.customers.cdn.iptv.ch/5030/index.m3u8
+
+#EXTINF:-1,[COLOR red]****************Italy Channel coming soon****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+
 
 #EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1305,225 +1176,6 @@ http://78.30.254.27:8989/udp/239.0.0.141:4000
 #EXTINF:-1, CBS Reality
 http://78.30.254.27:8989/udp/239.0.0.91:4000
 
-#EXTINF:-1,[COLOR red]****************Turkish TV****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,2000 TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/1a4d50ea1292157a0d9d2e5ca25d2f7f_live_0_0/index.m3u8
-#EXTINF:-1,24 SAAT TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/19eea1ea025f9383254e2f1b49f83b41/index.m3u8
-#EXTINF:-1,360 TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/7b1c4724e7c32f1554013ca5977fd903_live_0_0/index.m3u8
-#EXTINF:-1,A SPOR m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1,A9 TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/78bd37307331e90c6056a0fa2a30c767_live_0_0/index.m3u8
-#EXTINF:-1,ADANA TV
-http://origin.live.web.tv.streamprovider.net/streams/ee802cfd24e722459e0a951a51648495_live_0_0/index.m3u8
-#EXTINF:-1,AKILLI TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/8da780618e63e48c414168d9ddf1fb83_live_0_0/index.m3u8
-#EXTINF:-1,ANADOLUM TV
-http://origin2.live.web.tv.streamprovider.net/streams/28c6e67a7e77785c42005dcca6e164b7/index.m3u8
-#EXTINF:-1,ANGORA TV
-http://origin2.live.web.tv.streamprovider.net/streams/4a2e6c9b0d4f21ed04275483173a79b0/index.m3u8
-#EXTINF:-1,ARAFAT TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f5568b3fa9487e4aacece7056a472db1_live_0_0/index.m3u8
-#EXTINF:-1,ATV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/0a982dbefc5e9d29952bda5a981a9c6d_live_0_0/index.m3u8
-#EXTINF:-1,BARAN TV
-http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
-#EXTINF:-1,BARIŞ TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/2f020a96752d7bf732730a96997965bc_live_0_0/index.m3u8
-#EXTINF:-1,BARTIN TV
-http://origin.live.web.tv.streamprovider.net/streams/77fc704fac7648ff2e9bcf3f4b7f8da8/index.m3u8
-#EXTINF:-1,BEDİR TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/b4ece92f557f5703734f06b737cd5bd7_live_0_0/index.m3u8
-#EXTINF:-1,BEREKET TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/ad51a4b6cb67e828c782cf55b495e019_live_0_0/index.m3u8
-#EXTINF:-1,BEST TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/86ebe1c298d11029a92cadd9ab24f337_live_0_0/index.m3u8
-#EXTINF:-1,BEYKENT TV
-http://origin.live.web.tv.streamprovider.net/streams/e2277ed7ca6c3d1aed2edbdd1eb07862_live_0_0/index.m3u8
-#EXTINF:-1,BITLIS TV
-http://origin.live.web.tv.streamprovider.net/streams/521c23048d5bb7e722bb3ed4ac166f42_live_0_0/index.m3u8
-#EXTINF:-1,BRT – 3
-http://origin.live.web.tv.streamprovider.net/streams/6f001b3bdb3b24f728514acde0a7b05b_live_0_0/index.m3u8
-#EXTINF:-1,BUGÜN TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/8c07e13958b710030ccf40163739f3b8_live_0_0/index.m3u8
-#EXTINF:-1,ÇANKIRI TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/7fde360de33fe28bf2c8e2d5d8ba7a7a/index.m3u8
-#EXTINF:-1,CAROON NETWORK – 2
-http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8
-#EXTINF:-1,CAT WALK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/d9d36ec8292fc3eacb4f93ee659918c8_live_0_0/index.m3u8
-#EXTINF:-1,ÇAY TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/1ba7e8156947b84c6fd066f3635e1ee0_live_0_0/index.m3u8
-#EXTINF:-1,CHANEL TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/0faf6f7052bdc8bf19a7ec766055938b/index.m3u8
-#EXTINF:-1,CINERAMA TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/63b6f16ae8d3cbb98af11a442e118605/index.m3u8
-#EXTINF:-1,CNBC-e m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8
-#EXTINF:-1,DAMAR TV
-http://origin.live.web.tv.streamprovider.net/streams/41d1630daf5a724edd7d057eed6fe147_live_0_0/index.m3u8
-#EXTINF:-1,DAMLA TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/8c4a5bd6d3c5d3c21c11deb333bd4b7d/index.m3u8
-#EXTINF:-1,DOĞU TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/573cd8d2a1ea24fdd0bfeaeb397dd30d_live_0_0/index.m3u8
-#EXTINF:-1,DOLUNAY TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/7cee7b22a7a2b0a671e122144f103989_live_0_0/index.m3u8
-#EXTINF:-1,DOST TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/6bbd8225db6161fb3550ff61be7546da_live_0_0/index.m3u8
-#EXTINF:-1,DREAM TÜRK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f9051a29d5def26626ff1fba0fa12872_live_0_0/index.m3u8
-#EXTINF:-1,DREAM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/287b096e02ad5f19c0e92d4f39c33213_live_0_0/index.m3u8
-#EXTINF:-1,DUMAN TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/241d91d49c3557f57d5f9a735ea461da_live_0_0/index.m3u8
-#EXTINF:-1,DURU TV – 2
-http://origin.live.web.tv.streamprovider.net/streams/83960babe64dcf836d56af87904850a6_live_0_0/index.m3u8
-#EXTINF:-1,e2 m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/5dac5e87d17d40f5bca18d2b211a4dd2_live_0_0/index.m3u8
-#EXTINF:-1,EREN TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/833d68aa089289df8714c076eff6cd12/index.m3u8
-#EXTINF:-1,FHM TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/855123b7f47ee1c87c8444d8de43c15f/index.m3u8
-#EXTINF:-1,FLASH TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8
-#EXTINF:-1,GAZİANTEP OLAY TV
-http://origin.live.web.tv.streamprovider.net/streams/1560563af9bfc862951d527a5e783e9d_live_0_0/index.m3u8
-#EXTINF:-1,GENÇ CLUB m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/7672470184dc342cdda177aa8c7f3e29_live_0_0/index.m3u8
-#EXTINF:-1,GENC TURKU TV
-http://origin.live.web.tv.streamprovider.net/streams/86d21f47598ca63b063558727a16ea86_live_0_0/index.m3u8
-#EXTINF:-1,GENÇ TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/45b3a774008e07aa0958f4c63addf718_live_0_0/index.m3u8
-#EXTINF:-1,HABER AKS m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/2c2d806ae066aaa4ad4d855f480ab82f_live_0_0/index.m3u8
-#EXTINF:-1,HANCI TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/1e7922f5e1d5ae233ae0d7df60bfb603/index.m3u8
-#EXTINF:-1,HAYAT TELEVİZYONU m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/8afa5b0b23429365abd7dbbb4ba22326_live_0_0/index.m3u8
-#EXTINF:-1,HAZAN TV
-http://origin.live.web.tv.streamprovider.net/streams/a08f67a20eb40636d388e220da5053c9_live_0_0/index.m3u8
-#EXTINF:-1,HM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f398a8f012a06de0705b26b10334e07a_live_0_0/index.m3u8
-#EXTINF:-1,HRT AKDENİZ
-http://origin.live.web.tv.streamprovider.net/streams/446bd377239e9a7f1d70761860e26185_live_0_0/index.m3u8
-#EXTINF:-1,İKRAM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/160ce96d193faffef7f049f5bb6f4e69/index.m3u8
-#EXTINF:-1,İMC TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/205a2db5a33b65589f22dd1c159bdb44_live_0_0/index.m3u8
-#EXTINF:-1,KABE TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/41d7fc079c43afd02d4c6e31046bcfad/index.m3u8
-#EXTINF:-1,KANAL 24
-http://origin.live.web.tv.streamprovider.net/streams/b232c71927aa18c7735e826a7ccac39a/index.m3u8
-#EXTINF:-1,KANAL 42 KONYA TV
-http://origin.live.web.tv.streamprovider.net/streams/06d50e47170ba78cae0b09a6189f6677_live_0_0/index.m3u8
-#EXTINF:-1,KANAL 5 m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/5747926c24dc4e872c1f341e11c66ab6_live_0_0/index.m3u8
-#EXTINF:-1,KANAL C m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/40520412f47f8e95e36dfb92e45d12c6_live_0_0/index.m3u8
-#EXTINF:-1,KANAL TEK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/ea68c838ea4aa3b2865b5df3f7167bbd_live_0_0/index.m3u8
-#EXTINF:-1,KANALTÜRK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/1a38fbc57c3fcf24a4b401d9d6d327be_live_0_0/index.m3u8
-#EXTINF:-1,KEVSER TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f52f6836486202654ca0f53b874697e4_live_0_0/index.m3u8
-#EXTINF:-1,KOMEDİ TÜRK m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/b66b9472f4b570fb7dd36b56a062c1e9/index.m3u8
-#EXTINF:-1,KOZA TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/80e5c726f66cefb75dfd330dfc00a8bc_live_0_0/index.m3u8
-#EXTINF:-1,KRM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/3fc0b418eab6a83120e672fe6a74797a_live_0_0/index.m3u8
-#EXTINF:-1,KRT TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/b549125bde3db0bf349b170bc5deb2e6/index.m3u8
-#EXTINF:-1,KUDÜS TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/3a3e84f862424b5c0154c12c3c4c7e90/index.m3u8
-#EXTINF:-1,LINE TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/c69ce1f7ba995108996775f5b0db1243_live_0_0/index.m3u8
-#EXTINF:-1,MARKAFONI TV
-http://origin.live.web.tv.streamprovider.net/streams/44a0d0db9878631614126f55dbebc4da_live_0_0/index.m3u8
-#EXTINF:-1,MEGA TURK
-http://origin.live.web.tv.streamprovider.net/streams/0fbf2b4871485d41c22604eef2a26646_live_0_0/index.m3u8
-#EXTINF:-1,MEGA TV
-http://origin.live.web.tv.streamprovider.net/streams/67e549d113af70425ad2b3283d2ddb2b_live_0_0/index.m3u8
-#EXTINF:-1,MİNİKA ÇOCUK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
-#EXTINF:-1,MİNİKA GO m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
-#EXTINF:-1,MİSKET TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/b66b9472f4b570fb7dd36b56a062c1e9/index.m3u8
-#EXTINF:-1,MUNZUR TV
-http://origin2.live.web.tv.streamprovider.net/streams/4672f632ceea86cd6e3a6b3567409205/index.m3u8
-#EXTINF:-1,NİSA TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9e3491ace5209397b0e48a981e330b9d_live_0_0/index.m3u8
-#EXTINF:-1,NTV SPOR m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1,NUMBER ONE TÜRK m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/28093c3307f7e9afe35a7e35899953dc_live_0_0/index.m3u8
-#EXTINF:-1,ON4 TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/0a249fd14dfd9f974b70bbfb14d692af_live_0_0/index.m3u8
-#EXTINF:-1,ORDU TV
-http://origin.live.web.tv.streamprovider.net/streams/3ae409b95ecc57d26a07eba03ea8fc68_live_0_0/index.m3u8
-#EXTINF:-1,OSMANLI TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9d73456081fd8dddcfa287627b2023e1/index.m3u8
-#EXTINF:-1,PAMUKKALE TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/accfdac42409800cf26b3f83bf09a609_live_0_0/index.m3u8
-#EXTINF:-1,PMC m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/865b7386a9255176acbe89385ce4ec33_live_0_0/index.m3u8
-#EXTINF:-1,POPÜLER TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/51fd8c46e0535f019706cc3744934cad_live_0_0/index.m3u8
-#EXTINF:-1,RTV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/5f7acb582bab4f3ead69348aefbda582/index.m3u8
-#EXTINF:-1,RUMELİ TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/1f6733dc05a14e13bc4d6e6a00af634f_live_0_0/index.m3u8
-#EXTINF:-1,SANCAK TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/1b5f58203ba87733e4b9e2645db1d3dc/index.m3u8
-#EXTINF:-1,SKY TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/79b8bd30bf1cb3e5f3a6f15f0814cc89_live_0_0/index.m3u8
-#EXTINF:-1,SPORTS TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-#EXTINF:-1,SRT m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9accee87d9bf141c1dce04a5a11d1393_live_0_0/index.m3u8
-#EXTINF:-1,STAR TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF:-1,SU MEDYA m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/587f2710ce68dce6015851c5338168ea/index.m3u8
-#EXTINF:-1,SÜPER TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/44a0d0db9878631614126f55dbebc4da_live_0_0/index.m3u8
-#EXTINF:-1,TGRT EU
-http://origin.live.web.tv.streamprovider.net/streams/99a610c5f6a6f9f1e99b74ad343d0565/index.m3u8
-#EXTINF:-1,TİVİTİ TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/228859126d300be35fe23056f3003caf_live_0_0/index.m3u8
-#EXTINF:-1,TÜRKİYEM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/f48868e4bf07b9d36b94863412d45156_live_0_0/index.m3u8
-#EXTINF:-1,TV 2 m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/d1281a2cc49f4f48ff63484373210976_live_0_0/index.m3u8
-#EXTINF:-1,TV 4 m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/ffbc4ac453d1a5a599313cd0e2bdc50d/index.m3u8
-#EXTINF:-1,TV 5 m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/2a6b8773facea199a116b28119c87b55_live_0_0/index.m3u8
-#EXTINF:-1,TV 52
-http://origin.live.web.tv.streamprovider.net/streams/1451e305f588c1f950a784bf90f1d8a3_live_0_0/index.m3u8
-#EXTINF:-1,TV EM m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9e934a80708484ceb7910af3e89b8ce4_live_0_0/index.m3u8
-#EXTINF:-1,UZAY TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/8a826ace9736a19a1e00657dd1d8fa3c_live_0_0/index.m3u8
-#EXTINF:-1,VİZYON 58 TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/4ba4759c9851da616825b7756c318b9c/index.m3u8
-#EXTINF:-1,VTV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/09a54a049012505f53787fffa903272e_live_0_0/index.m3u8
-#EXTINF:-1,YABAN TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/b5bcc039336d725a0a4aab44347e5b36_live_0_0/index.m3u8
-#EXTINF:-1,YASİN TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/aca528eca7d0b51d0987b746258de63f_live_0_0/index.m3u8
-#EXTINF:-1,YILDIZ TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/0cdd51a2fd423939c7d5e117fac93bee/index.m3u8
-#EXTINF:-1,YURDUM TV m3u8 640*360
-http://origin.live.web.tv.streamprovider.net/streams/9c332525d11e8af026616ef6999099bc/index.m3u8
-#EXTINF:-1,ZEYNO TV m3u8 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/f9804150295e0d67755899b3e55134e1/index.m3u8
-
 #EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1 ,RTS un
@@ -1548,126 +1200,32 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
 #EXTINF:-1,[COLOR red]****************Deutsch TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,SRF1HD 
-http://teleboy.customers.cdn.iptv.ch/1008/index.m3u8
-#EXTINF:-1,SRF2HD 
-http://teleboy.customers.cdn.iptv.ch/1009/index.m3u8
-#EXTINF:-1,ARDHD 
-http://teleboy.customers.cdn.iptv.ch/1165/index.m3u8
-#EXTINF:-1,ZDFHD 
-http://teleboy.customers.cdn.iptv.ch/1166/index.m3u8
-#EXTINF:-1,ORF1HD 
-http://teleboy.customers.cdn.iptv.ch/1010/index.m3u8
-#EXTINF:-1,ORF2HD 
-http://teleboy.customers.cdn.iptv.ch/1011/index.m3u8
-#EXTINF:-1,ArteHD 
-http://teleboy.customers.cdn.iptv.ch/1150/index.m3u8
-#EXTINF:-1,3satHD
-http://teleboy.customers.cdn.iptv.ch/1117/index.m3u8
-#EXTINF:-1,Pro7chHD 
-http://teleboy.customers.cdn.iptv.ch/1037/index.m3u8
-#EXTINF:-1,Sat.1chHD 
-http://teleboy.customers.cdn.iptv.ch/1038/index.m3u8
-#EXTINF:-1,RTLchHD 
-http://teleboy.customers.cdn.iptv.ch/1020/index.m3u8
-#EXTINF:-1,RTL2chHD 
-http://teleboy.customers.cdn.iptv.ch/1024/index.m3u8
-#EXTINF:-1,S-RTLchHD 
-http://teleboy.customers.cdn.iptv.ch/1023/index.m3u8
-#EXTINF:-1,VOXchHD 
-http://teleboy.customers.cdn.iptv.ch/1021/index.m3u8
-#EXTINF:-1,Kabel1chHD 
-http://teleboy.customers.cdn.iptv.ch/1039/index.m3u8
-#EXTINF:-1,3+HD 
-http://teleboy.customers.cdn.iptv.ch/1013/index.m3u8
-#EXTINF:-1,4+HD 
-http://teleboy.customers.cdn.iptv.ch/1031/index.m3u8
-#EXTINF:-1,BRHD 
-http://teleboy.customers.cdn.iptv.ch/1112/index.m3u8
-#EXTINF:-1,NDRHD 
-http://teleboy.customers.cdn.iptv.ch/1115/index.m3u8
-#EXTINF:-1,WR-BW-HD 
-http://teleboy.customers.cdn.iptv.ch/1114/index.m3u8
-#EXTINF:-1,WDRHD 
-http://teleboy.customers.cdn.iptv.ch/1113/index.m3u8
-#EXTINF:-1,RTLNitroHD 
-http://teleboy.customers.cdn.iptv.ch/1027/index.m3u8
-#EXTINF:-1,ServusTVHD 
-http://teleboy.customers.cdn.iptv.ch/1012/index.m3u8
-#EXTINF:-1,PHOENIXHD 
-http://teleboy.customers.cdn.iptv.ch/1122/index.m3u8
-#EXTINF:-1,sixxHD 
-http://teleboy.customers.cdn.iptv.ch/1040/index.m3u8
-#EXTINF:-1,BBC1HD 
-http://teleboy.customers.cdn.iptv.ch/4017/index.m3u8
-#EXTINF:-1,BBC2HD 
-http://teleboy.customers.cdn.iptv.ch/4012/index.m3u8
-#EXTINF:-1,SRFi 
-http://teleboy.customers.cdn.iptv.ch/1003/index.m3u8
-#EXTINF:-1,5+ 
-http://teleboy.customers.cdn.iptv.ch/1047/index.m3u8
-#EXTINF:-1,CHTVHD 
-http://teleboy.customers.cdn.iptv.ch/1032/index.m3u8
-#EXTINF:-1,Joiz 
-http://teleboy.customers.cdn.iptv.ch/1171/index.m3u8
-#EXTINF:-1,S1 
-http://teleboy.customers.cdn.iptv.ch/1035/index.m3u8
-#EXTINF:-1,StarTV 
-http://teleboy.customers.cdn.iptv.ch/1107/index.m3u8
-#EXTINF:-1,TBasel 
-http://teleboy.customers.cdn.iptv.ch/1135/index.m3u8
-#EXTINF:-1,TB%E4rn 
-http://teleboy.customers.cdn.iptv.ch/1137/index.m3u8
-#EXTINF:-1,Tele1 
-http://teleboy.customers.cdn.iptv.ch/1128/index.m3u8
-#EXTINF:-1,TeleTop 
-http://teleboy.customers.cdn.iptv.ch/1129/index.m3u8
-#EXTINF:-1,TSO 
-http://teleboy.customers.cdn.iptv.ch/1130/index.m3u8
-#EXTINF:-1,TV24 
-http://teleboy.customers.cdn.iptv.ch/1042/index.m3u8
-#EXTINF:-1,TVO 
-http://teleboy.customers.cdn.iptv.ch/1131/index.m3u8
-#EXTINF:-1,TZüri 
-http://teleboy.customers.cdn.iptv.ch/1160/index.m3u8
-#EXTINF:-1,MDR 
-http://teleboy.customers.cdn.iptv.ch/1069/index.m3u8
-#EXTINF:-1,Tele5 
-http://teleboy.customers.cdn.iptv.ch/1090/index.m3u8
-#EXTINF:-1,EuSp 
-http://teleboy.customers.cdn.iptv.ch/1051/index.m3u8
-#EXTINF:-1,Sport1 
-http://teleboy.customers.cdn.iptv.ch/1095/index.m3u8
-#EXTINF:-1,DeluxeMusic 
-http://teleboy.customers.cdn.iptv.ch/1153/index.m3u8
-#EXTINF:-1,EuNews 
-http://teleboy.customers.cdn.iptv.ch/1049/index.m3u8
-#EXTINF:-1,KiKaHD 
-http://teleboy.customers.cdn.iptv.ch/1116/index.m3u8
-#EXTINF:-1,n-tv 
-http://teleboy.customers.cdn.iptv.ch/1025/index.m3u8
-#EXTINF:-1,Pro7Maxx 
-http://teleboy.customers.cdn.iptv.ch/1041/index.m3u8
-#EXTINF:-1,VIVA 
-http://teleboy.customers.cdn.iptv.ch/1014/index.m3u8
-#EXTINF:-1,MTV 
-http://teleboy.customers.cdn.iptv.ch/1033/index.m3u8
-#EXTINF:-1,zdf.kultur 
-http://teleboy.customers.cdn.iptv.ch/1119/index.m3u8
-#EXTINF:-1,DisneyChannel 
-http://teleboy.customers.cdn.iptv.ch/1124/index.m3u8
-#EXTINF:-1,DMAX 
-http://teleboy.customers.cdn.iptv.ch/1018/index.m3u8
-#EXTINF:-1,ZDFneo 
-http://teleboy.customers.cdn.iptv.ch/1121/index.m3u8
-#EXTINF:-1,ArteFrHD 
-http://teleboy.customers.cdn.iptv.ch/2029/index.m3u8
-#EXTINF:-1,Canal9 
-http://teleboy.customers.cdn.iptv.ch/2041/index.m3u8
-#EXTINF:-1,CanalAlpha 
-http://teleboy.customers.cdn.iptv.ch/2045/index.m3u8
-#EXTINF:-1, Das Erste
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
+#EXTINF:-1, DAS ERSTE
+http://81.92.105.134:5555/pl.m3u8?channel=4&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1, ZDF
+http://81.92.105.134:5555/pl.m3u8?channel=5&key=J5dFc4LWvCHyaDOGKp4EZwr5KGx0L4&client=freeAllTVUser
+#EXTINF:-1, RTL
+http://81.92.105.134:5555/pl.m3u8?channel=43&key=4bIS5aGuXp5BlGB4J5HRi4sgPjJrCk&client=freeAllTVUser
+#EXTINF:-1, RTL 2
+http://81.92.105.134:5555/pl.m3u8?channel=45&key=ETPqgOtV4uLJBoJ4vs5AVrqEgASxr8&client=freeAllTVUser
+#EXTINF:-1, SAT1
+http://81.92.105.134:5555/pl.m3u8?channel=49&key=AFfhZjelw8hB6qbFgQrIqgJMqt5HEh&client=freeAllTVUser
+#EXTINF:-1, SPORT 1
+http://81.92.105.134:5555/pl.m3u8?channel=54&key=VuOOuTZB7dHEftYMPGFh7PA0zMAVs8&client=freeAllTVUser
+#EXTINF:-1, SERVUS TV
+http://81.92.105.134:5555/pl.m3u8?channel=51&key=BeVQvQDMk4vMvCV0PAroJ3c50L9ZM0&client=freeAllTVUser
+#EXTINF:-1, KABEL EINS
+http://81.92.105.134:5555/pl.m3u8?channel=29&key=WTt8NHfnP94Z34BnlKl2gD8DhgLf21&client=freeAllTVUser
+#EXTINF:-1, EUROSPORT DE
+http://81.92.105.134:5555/pl.m3u8?channel=24&key=oj4yKaMHHORmmQZErLX6BCjW71V5Ta&client=freeAllTVUser
+#EXTINF:-1, ORF EINS
+http://81.92.105.134:5555/pl.m3u8?channel=7&key=4d6UGANq2jFX5csjJC6SqeKEsfQmOb&client=freeAllTVUser
+#EXTINF:-1, ORF 2
+http://81.92.105.134:5555/pl.m3u8?channel=8&key=tqR0BSxIw56jICWl58xGYJXgtG3Usw&client=freeAllTVUser
+#EXTINF:-1, SRF 1
+http://81.92.105.134:5555/pl.m3u8?channel=1&key=WdCfwN8RL7fj51PbSTpd481fzbL0Sb&client=freeAllTVUser
+#EXTINF:-1, SRF 2
+http://81.92.105.134:5555/pl.m3u8?channel=2&key=n4MPbIPVY2RHbrJrq9eJLj6lQYV0V5&client=freeAllTVUser
 #EXTINF:-1, ZDF
 http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-p.m3u8
 #EXTINF:-1, RTL
@@ -1787,77 +1345,641 @@ http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+http://38.99.146.36:7777/4Shbab_HD.m3u8
+#EXTINF:-1,Arabic Tv:7Stars
+http://38.99.146.36:7777/7Stars_HD.m3u8
+#EXTINF:-1,Arabic Tv:A1 Jordan
+http://38.99.146.36:7777/A1Jordan_HD.m3u8
+#EXTINF:-1,Arabic Tv:AAAMusic
+http://38.99.146.36:7777/AAAMusic_HD.m3u8
+#EXTINF:-1,Arabic Tv:ABN
+http://38.99.146.36:7777/ABN_HD.m3u8
+#EXTINF:-1,Arabic Tv:Abu Dhabi
+http://38.99.146.36:7777/ADAlOula_HD.m3u8
+#EXTINF:-1,Arabic Tv:Abu Dhabi Drama
+http://38.99.146.36:7777/ADDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Abu Dhabi Emirates
+http://38.99.146.36:7777/ADEmirates_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aden
+http://38.99.146.36:7777/Aden_HD.m3u8
+#EXTINF:-1,Arabic Tv:National Geo Ad
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1,Arabic Tv:Abu Dhabi Sports 1
+http://38.99.146.36:7777/ADSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aghanina
+http://38.99.146.36:7777/Aghanina_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aghapy
+http://38.99.146.36:7777/Aghapy_HD.m3u8
+#EXTINF:-1,Arabic Tv:Ajman
+http://38.99.146.36:7777/Ajman_HD.m3u8
+#EXTINF:-1,Arabic Tv:Ajyal
+http://38.99.146.36:7777/AjyalTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alan
+http://38.99.146.36:7777/AlAan_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Adala
+http://38.99.146.36:7777/AlAdala_HD.m3u8
+#EXTINF:-1,Arabic Tv:AL AHLY
+http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Libya
+http://38.99.146.36:7777/AlAhrar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Amaken Drama
+http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Anwar
+http://38.99.146.36:7777/AlAnwar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al oula Maroc
+http://38.99.146.36:7777/AlAoulaEurope_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alarabiya
+http://38.99.146.36:7777/AlArabiya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alarabiya Ahdas
+http://38.99.146.36:7777/AlArabiyaHadath_HD.m3u8
+#EXTINF:-1,Arabic Tv:EnnaharTV algerie
+http://38.99.146.36:7777/AlAtlas_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlBabeleyia
+http://38.99.146.36:7777/AlBabeleyia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Baghdadia
+http://38.99.146.36:7777/AlBaghdadia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Baghdadia 2
+http://38.99.146.36:7777/AlBaghdadia2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Albait Baitak Cinema
+http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Dafra
+http://38.99.146.36:7777/AlDafra_HD.m3u8
+#EXTINF:-1,Arabic Tv:alkass
+http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aldiyar
+http://38.99.146.36:7777/AldiyarSat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Ikhbaria
+http://38.99.146.36:7777/AlEkhbariya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Eman
+http://38.99.146.36:7777/AlEman_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Eqtisadiyah
+http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Fayhaa
+http://38.99.146.36:7777/AlFayhaa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Forat
+http://38.99.146.36:7777/AlForat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Haqeeqa
+http://38.99.146.36:7777/AlHaqeeqa_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlHayat_Christian
+http://38.99.146.36:7777/ALhayat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alhayat2
+http://38.99.146.36:7777/Alhayat2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alhayat-Series
+http://38.99.146.36:7777/AlHayatMousalsalat_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlHayat Sport
+http://38.99.146.36:7777/AlHayatSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Hiwar
+http://38.99.146.36:7777/AlHiwar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi
+http://38.99.146.36:7777/Tounisa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al-hurra Iraq
+http://38.99.146.36:7777/AlhurraIraq_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Iraqiya Documentary
+http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aliraqia 2
+http://38.99.146.36:7777/AlIraqia2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aliraqiya
+http://38.99.146.36:7777/AlIraqiya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljadeed
+http://38.99.146.36:7777/AlJadeed_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlJazeera
+http://38.99.146.36:7777/AlJazeera_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera Doc
+http://38.99.146.36:7777/AlJazeeraDocument_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera En
+http://38.99.146.36:7777/AlJazeeraEnglish_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera US
+http://38.99.146.36:7777/AlJazeeraInt_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera Children
+http://38.99.146.36:7777/AlJazeeraKid_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera Mubasher
+http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlKahera
+http://38.99.146.36:7777/AlKahera_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlQahera W Elnas
+http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlQahera W Elnas 2
+http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alkarama_Christian
+http://38.99.146.36:7777/AlKarma_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Kout
+http://38.99.146.36:7777/AlKout_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Lubnania
+http://38.99.146.36:7777/AlLubnania_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Maghribia
+http://38.99.146.36:7777/AlMaghribia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Majd
+http://38.99.146.36:7777/AlmajdSpace_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlMalakot
+http://38.99.146.36:7777/AlMalakot_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Manar
+http://38.99.146.36:7777/AlManar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Almas
+http://38.99.146.36:7777/AlMas_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Masar
+http://38.99.146.36:7777/AlMasar_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlMasrawia
+http://38.99.146.36:7777/AlMasrawia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Masriyah
+http://38.99.146.36:7777/AlMasriyah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al mayaden
+http://38.99.146.36:7777/AlMayadeen_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlMukhales
+http://38.99.146.36:7777/AlMukhales_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Moustakilla
+http://38.99.146.36:7777/AlMustakila_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Nahar
+http://38.99.146.36:7777/AlNahar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alnahar Alyoum
+http://38.99.146.36:7777/AlNahar2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al-Nahar Drama
+http://38.99.146.36:7777/AlNaharDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Nahar 2
+http://38.99.146.36:7777/AlNaharMovies_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Nahar Sport
+http://38.99.146.36:7777/AlNaharSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Ordonia
+http://38.99.146.36:7777/AlOrdoni_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alqithara
+http://38.99.146.36:7777/AlQithara_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alqudis
+http://38.99.146.36:7777/Alquds_HD.m3u8
+#EXTINF:-1,Arabic Tv:Quran TV ksa
+http://38.99.146.36:7777/AlQuran_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Rafidain
+http://38.99.146.36:7777/AlRafidain_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alrai
+http://38.99.146.36:7777/Alrai_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Rasheed
+http://38.99.146.36:7777/AlRasheed_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al-Resalah
+http://38.99.146.36:7777/AlResala_HD.m3u8
+#EXTINF:-1,Arabic Tv:Saudia Sport
+http://38.99.146.36:7777/AlRiyadiah1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Saudia Sport
+http://8.21.48.19:7777/AlRiyadiah1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Sabah
+http://38.99.146.36:7777/AlSabah_HD.m3u8
+#EXTINF:-1,Arabic Tv:alsaeedah
+http://38.99.146.36:7777/AlSaeeda_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al sahraa
+http://38.99.146.36:7777/AlSahraa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Shaab
+http://38.99.146.36:7777/AlShaab_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Sharqiya
+http://38.99.146.36:7777/AlSharqiya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Sharqiya News
+http://38.99.146.36:7777/AlsharqiyaNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:Ashorooq
+http://38.99.146.36:7777/AlShrooq_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Sumaria
+http://38.99.146.36:7777/Alsumaria_HD.m3u8
+#EXTINF:-1,Arabic Tv:sunnah TV
+http://38.99.146.36:7777/AlSunnah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Algharam Cinema
+http://38.99.146.36:7777/AlTet_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Thakafiyah
+http://38.99.146.36:7777/AlThakafiyah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Egypt 2
+http://38.99.146.36:7777/AlThanya_HD.m3u8
+#EXTINF:-1,Arabic Tv:alwatan
+http://38.99.146.36:7777/Alwatan_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alwatan Plus
+http://38.99.146.36:7777/AlwatanPlus_HD.m3u8
+#EXTINF:-1,Arabic Tv:ANB
+http://38.99.146.36:7777/ANB_HD.m3u8
+#EXTINF:-1,Arabic Tv:ANN
+http://38.99.146.36:7777/ANN_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alaqsa
+http://38.99.146.36:7777/AqsaSatCh_HD.m3u8
+#EXTINF:-1,Arabic Tv:Arabica Music
+http://38.99.146.36:7777/ArabicaMusic_HD.m3u8
+#EXTINF:-1,Arabic Tv:Arrabia
+http://38.99.146.36:7777/Arrabiaa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alriadia Sport
+http://38.99.146.36:7777/Arryadia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Assadissa
+http://38.99.146.36:7777/Assadissa_HD.m3u8
+#EXTINF:-1,Arabic Tv:AssyrSat
+http://38.99.146.36:7777/AssyrSat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Atfal wa Mawaheb
+http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8
+#EXTINF:-1,Arabic Tv:Baghdad
+http://38.99.146.36:7777/Baghdad_HD.m3u8
+#EXTINF:-1,Arabic Tv:Bahrain
+http://38.99.146.36:7777/BahrainInt_HD.m3u8
+#EXTINF:-1,Arabic Tv:Bahrain
+http://8.21.48.19:7777/BahrainInt_HD.m3u8
+#EXTINF:-1,Arabic Tv:BAHRAIN SPORTS
+http://38.99.146.36:7777/BahrainSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Baraem
+http://38.99.146.36:7777/Baraem_HD.m3u8
+#EXTINF:-1,Arabic Tv:BBC Arabic
+http://38.99.146.36:7777/BBCArabic_HD.m3u8
+#EXTINF:-1,Arabic Tv:beINSports
+http://38.99.146.36:7777/beINSports_HD.m3u8
+#EXTINF:-1,Arabic Tv:BEIN US
+http://38.99.146.36:7777/beINSportsNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:Beladi
+http://38.99.146.36:7777/Beladi_HD.m3u8
+#EXTINF:-1,Arabic Tv:Blue Nile
+http://38.99.146.36:7777/BlueNile_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cairo Cinema
+http://38.99.146.36:7777/CairoCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cairo Comedy
+http://38.99.146.36:7777/CairoComedy_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cairo Drama
+http://38.99.146.36:7777/CairoDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:AlGeria
+http://38.99.146.36:7777/CanalAlgerie_HD.m3u8
+#EXTINF:-1,Arabic Tv:CBC
+http://38.99.146.36:7777/CBC_HD.m3u8
+#EXTINF:-1,Arabic Tv:CBC Extra
+http://38.99.146.36:7777/CBC2_HD.m3u8
+#EXTINF:-1,Arabic Tv:CBC Drama
+http://38.99.146.36:7777/CBCDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:CBC Sofra
+http://38.99.146.36:7777/CBCSofra_HD.m3u8
+#EXTINF:-1,Arabic Tv:CCTV Arabic
+http://38.99.146.36:7777/CCTVArabia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Chabab
+http://38.99.146.36:7777/Chabab_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cima
+http://38.99.146.36:7777/Cima_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cartoon Network
+http://38.99.146.36:7777/CNArabia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Coptic_Christian
+http://38.99.146.36:7777/CTVEgypt_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dejlah
+http://38.99.146.36:7777/Dejlah_HD.m3u8
+#EXTINF:-1,Arabic Tv:DM
+http://38.99.146.36:7777/DM_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dream 1
+http://38.99.146.36:7777/Dream1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dream 2
+http://38.99.146.36:7777/Dream2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dubai
+http://38.99.146.36:7777/DubaiEurope_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dubai One
+http://38.99.146.36:7777/DubaiOne_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dubai Sport HD2
+http://38.99.146.36:7777/DubaiSport2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dubai Sport HD2
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Dubai Sport 3
+http://38.99.146.36:7777/DubaiSports_HD.m3u8
+#EXTINF:-1,Arabic Tv:DW Arabic
+http://38.99.146.36:7777/DWTVArabia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mehwar
+http://38.99.146.36:7777/MehwarPlus2_HD.m3u8
+#EXTINF:-1,Arabic Tv:ETV1
+http://38.99.146.36:7777/ETV1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Euro News Arabic
+http://38.99.146.36:7777/EuroNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:Fatafeat
+http://38.99.146.36:7777/Fatafeat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Fx Arabia
+http://38.99.146.36:7777/Fox_HD.m3u8
+#EXTINF:-1,Arabic Tv:Fox Movies
+http://38.99.146.36:7777/FoxMovies_HD.m3u8
+#EXTINF:-1,Arabic Tv:France 24
+http://38.99.146.36:7777/France24Arabic_HD.m3u8
+#EXTINF:-1,Arabic Tv:Funoon
+http://38.99.146.36:7777/Funoon_HD.m3u8
+#EXTINF:-1,Arabic Tv:Future TV
+http://38.99.146.36:7777/Future_HD.m3u8
+#EXTINF:-1,Arabic Tv:Future News
+http://38.99.146.36:7777/FutureNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:FutureUSA
+http://38.99.146.36:7777/FutureUSA_HD.m3u8
+#EXTINF:-1,Arabic Tv:Jordan
+http://38.99.146.36:7777/GamarHashimi_HD.m3u8
+#EXTINF:-1,Arabic Tv:GearOne
+http://38.99.146.36:7777/GearOne_HD.m3u8
+#EXTINF:-1,Arabic Tv:Gladiator
+http://38.99.146.36:7777/Gladiator_HD.m3u8
+#EXTINF:-1,Arabic Tv:Goan
+http://38.99.146.36:7777/GoanTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Hanibal
+http://38.99.146.36:7777/Hannibal_HD.m3u8
+#EXTINF:-1,Arabic Tv:Alhayat 1
+http://38.99.146.36:7777/Hayat_HD.m3u8
+#EXTINF:-1,Arabic Tv:HodHod
+http://38.99.146.36:7777/HodHod_HD.m3u8
+#EXTINF:-1,Arabic Tv:Huda
+http://38.99.146.36:7777/Huda_HD.m3u8
+#EXTINF:-1,Arabic Tv:iFilm Arabic
+http://38.99.146.36:7777/iFilm_HD.m3u8
+#EXTINF:-1,Arabic Tv:Imagines Movies
+http://38.99.146.36:7777/ImagineMovies_HD.m3u8
+#EXTINF:-1,Arabic Tv:Iqra
+http://38.99.146.36:7777/Iqraa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Ishtar
+http://38.99.146.36:7777/Ishtar_HD.m3u8
+#EXTINF:-1,Arabic Tv:Jordan Sport
+http://38.99.146.36:7777/JordanSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Aljazeera Mubasher Masr
+http://38.99.146.36:7777/JSCLiveMisr_HD.m3u8
+#EXTINF:-1,Arabic Tv:Kaifa
+http://38.99.146.36:7777/Kaifa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Karameesh
+http://38.99.146.36:7777/Karameesh_HD.m3u8
+#EXTINF:-1,Arabic Tv:Koky Kids
+http://38.99.146.36:7777/Koky_HD.m3u8
+#EXTINF:-1,Arabic Tv:KSA 2
+http://38.99.146.36:7777/KSA2_HD.m3u8
+#EXTINF:-1,Arabic Tv:KTV2
+http://38.99.146.36:7777/KTV2Kuwait_HD.m3u8
+#EXTINF:-1,Arabic Tv:KTV Sport Plus
+http://38.99.146.36:7777/KTV3Plus_HD.m3u8
+#EXTINF:-1,Arabic Tv:KTV ARABE
+http://38.99.146.36:7777/KTVAlArabi_HD.m3u8
+#EXTINF:-1,Arabic Tv:Kuwait
+http://38.99.146.36:7777/KuwaitSpace_HD.m3u8
+#EXTINF:-1,Arabic Tv:Chobra Cima
+http://38.99.146.36:7777/LayaliCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Lbc Europe
+http://38.99.146.36:7777/LBC_HD.m3u8
+#EXTINF:-1,Arabic Tv:LCD AFLAM
+http://38.99.146.36:7777/LcdTurkey_HD.m3u8
+#EXTINF:-1,Arabic Tv:LDC
+http://38.99.146.36:7777/LDC_HD.m3u8
+#EXTINF:-1,Arabic Tv:Libya 2
+http://38.99.146.36:7777/Libya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Libya AlWataniya
+http://38.99.146.36:7777/LibyaAlWataniya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Libya Sport 1
+http://38.99.146.36:7777/LibyaSportChannel1_HD.m3u8
+#EXTINF:-1,Arabic Tv:LineSport
+http://38.99.146.36:7777/LineSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:LLBN
+http://38.99.146.36:7777/LLBN_HD.m3u8
+#EXTINF:-1,Arabic Tv:2M
+http://38.99.146.36:7777/M2Morocco_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mahbooba
+http://38.99.146.36:7777/Mahbooba_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cine Majesti
+http://38.99.146.36:7777/MajesticCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mara7
+http://38.99.146.36:7777/Mara7_HD.m3u8
+#EXTINF:-1,Arabic Tv:Masrawi Aflam
+http://38.99.146.36:7777/MasrawiAflam_HD.m3u8
+#EXTINF:-1,Arabic Tv:Massaya
+http://38.99.146.36:7777/Massaya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mauritanie
+http://38.99.146.36:7777/MauritaniaTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC 1
+http://38.99.146.36:7777/MBC1_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC 2
+http://38.99.146.36:7777/MBC2_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC 3
+http://38.99.146.36:7777/MBC3_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC 4
+http://38.99.146.36:7777/MBC4_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC Action
+http://38.99.146.36:7777/MBCAction_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC Bollywood
+http://38.99.146.36:7777/MBCBollywood_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC Drama
+http://38.99.146.36:7777/MBCDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC Masr
+http://38.99.146.36:7777/MBCMaser_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBCMasrPlus2
+http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
+#EXTINF:-1,Arabic Tv:MBC Max
+http://38.99.146.36:7777/MBCMax_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mea
+http://38.99.146.36:7777/MeaTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Medi 1 Sat
+http://38.99.146.36:7777/Medi1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Mehwar
+http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Miracle
+http://38.99.146.36:7777/Miracle_HD.m3u8
+#EXTINF:-1,Arabic Tv:Maannews
+http://38.99.146.36:7777/MixTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Moga Comedy
+http://38.99.146.36:7777/MogaComedy_HD.m3u8
+#EXTINF:-1,Arabic Tv:Cairo Cinema 2
+http://38.99.146.36:7777/Mosar3_HD.m3u8
+#EXTINF:-1,Arabic Tv:MTV Arabia
+http://38.99.146.36:7777/MTVArabia_HD.m3u8
+#EXTINF:-1,Arabic Tv:MTV
+http://38.99.146.36:7777/MTVLebanon_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Haneen Music
+http://38.99.146.36:7777/MusicAlhanen_HD.m3u8
+#EXTINF:-1,Arabic Tv:Music+</cname>
+http://38.99.146.36:7777/MusicPlus_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nart
+http://38.99.146.36:7777/Nart_HD.m3u8
+#EXTINF:-1,Arabic Tv:NBN
+http://38.99.146.36:7777/NBNLebanon_HD.m3u8
+#EXTINF:-1,Arabic Tv:Neelain Sport
+http://38.99.146.36:7777/NeelainSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nessma
+http://38.99.146.36:7777/NessmaAlKhadra_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nessma
+http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Cinema
+http://38.99.146.36:7777/NileCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Comedy
+http://38.99.146.36:7777/NileComedy_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Culture
+http://38.99.146.36:7777/NileCulture_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Drama
+http://38.99.146.36:7777/NileDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Drama 2
+http://38.99.146.36:7777/NileDrama2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Family
+http://38.99.146.36:7777/NileFamily_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Tv
+http://38.99.146.36:7777/NileInt_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Life
+http://38.99.146.36:7777/NileLife_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile News
+http://38.99.146.36:7777/NileNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nile Sport
+http://38.99.146.36:7777/NileSport_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nojoom1
+http://38.99.146.36:7777/Nojoom1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Noon Kids
+http://38.99.146.36:7777/Noon_HD.m3u8
+#EXTINF:-1,Arabic Tv:Noor Dubai
+http://38.99.146.36:7777/NoorDubai_HD.m3u8
+#EXTINF:-1,Arabic Tv:NoursatAlShabab
+http://38.99.146.36:7777/NourAlShabab_HD.m3u8
+#EXTINF:-1,Arabic Tv:Syria Nour
+http://38.99.146.36:7777/NourElSham_HD.m3u8
+#EXTINF:-1,Arabic Tv:Nourmina
+http://38.99.146.36:7777/Nourmina_HD.m3u8
+#EXTINF:-1,Arabic Tv:Noursat
+http://38.99.146.36:7777/Noursat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Oman
+http://38.99.146.36:7777/Oman_HD.m3u8
+#EXTINF:-1,Arabic Tv:Om Durman
+http://38.99.146.36:7777/OmDurman_HD.m3u8
+#EXTINF:-1,Arabic Tv:On TV
+http://38.99.146.36:7777/ONTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:ONTV Live
+http://38.99.146.36:7777/ONTVLive_HD.m3u8
+#EXTINF:-1,Arabic Tv:Orient News
+http://38.99.146.36:7777/OrientNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:ORTM
+http://38.99.146.36:7777/ORTM_HD.m3u8
+#EXTINF:-1,Arabic Tv:Oscar Drama
+http://38.99.146.36:7777/OscarDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Oscar Drama 2
+http://38.99.146.36:7777/OscarDrama2_HD.m3u8
+#EXTINF:-1,Arabic Tv:OTV Lebanon
+http://38.99.146.36:7777/OTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Oyoun Jeddah
+http://38.99.146.36:7777/OyounJeddah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Palestine AlYawm
+http://38.99.146.36:7777/PalestineAlYawm_HD.m3u8
+#EXTINF:-1,Arabic Tv:Palestine Live
+http://38.99.146.36:7777/PalestineLive_HD.m3u8
+#EXTINF:-1,Arabic Tv:Palestine
+http://38.99.146.36:7777/Palestinian_HD.m3u8
+#EXTINF:-1,Arabic Tv:Panorama Drama
+http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Panorama Drama 2
+http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Panorama film
+http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
+#EXTINF:-1,Arabic Tv:Qatar
+http://38.99.146.36:7777/Qatar_HD.m3u8
+#EXTINF:-1,Arabic Tv:RAK
+http://38.99.146.36:7777/RAK_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Aflam
+http://38.99.146.36:7777/RotanaAflam_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Cinema
+http://38.99.146.36:7777/RotanaCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Clip
+http://38.99.146.36:7777/RotanaClip_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Khaligi
+http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Masriya
+http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Music
+http://38.99.146.36:7777/RotanaMusic_HD.m3u8
+#EXTINF:-1,Arabic Tv:Rotana Classic
+http://38.99.146.36:7777/RotanaZaman_HD.m3u8
+#EXTINF:-1,Arabic Tv:Roya
+http://38.99.146.36:7777/Roya_HD.m3u8
+#EXTINF:-1,Arabic Tv:Royal Albadawiya
+http://38.99.146.36:7777/RoyalAlBadawia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Royal Edhak
+http://38.99.146.36:7777/RoyalEdhak_HD.m3u8
+#EXTINF:-1,Arabic Tv:Royal Secret
+http://38.99.146.36:7777/RoyalSecrets_HD.m3u8
+#EXTINF:-1,Arabic Tv:Djibouti
+http://38.99.146.36:7777/RTD_HD.m3u8
+#EXTINF:-1,Arabic Tv:Russia Alyaum
+http://38.99.146.36:7777/RussiyaAlYaum_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sada Al Balad
+http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sada AlBalad Drama
+http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sama Cinema
+http://38.99.146.36:7777/SamaCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sama Dubai
+http://38.99.146.36:7777/SamaDubai_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sama Syria
+http://38.99.146.36:7777/SamaTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Samira TV
+http://38.99.146.36:7777/SamiraTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sat7 Kid
+http://38.99.146.36:7777/Sat7Kid_HD.m3u8
+#EXTINF:-1,Arabic Tv:KSA 1
+http://38.99.146.36:7777/SaudiArabia1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Scope
+http://38.99.146.36:7777/ScopeTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:SM SM KIDS
+http://38.99.146.36:7777/Semsem_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sharjah
+http://38.99.146.36:7777/SharjahTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sheba
+http://38.99.146.36:7777/Sheba_HD.m3u8
+#EXTINF:-1,Arabic Tv:SkyNewsArabia
+http://38.99.146.36:7777/SkyNews_HD.m3u8
+#EXTINF:-1,Arabic Tv:SNTV
+http://38.99.146.36:7777/SNTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Space Power
+http://38.99.146.36:7777/SpacePower_HD.m3u8
+#EXTINF:-1,Arabic Tv:Spacetoon
+http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8
+#EXTINF:-1,Arabic Tv:SSTV
+http://38.99.146.36:7777/SSTV_HD.m3u8
+#EXTINF:-1,Arabic Tv:Star 1 Cinema
+http://38.99.146.36:7777/StarCinema1_HD.m3u8
+#EXTINF:-1,Arabic Tv:Star 2 Cinema
+http://38.99.146.36:7777/StarCinema2_HD.m3u8
+#EXTINF:-1,Arabic Tv:Sudan TV
+http://38.99.146.36:7777/Sudan_HD.m3u8
+#EXTINF:-1,Arabic Tv:Syria Drama
+http://38.99.146.36:7777/SyriaDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Syria Sedu
+http://38.99.146.36:7777/SyrianEducation_HD.m3u8
+#EXTINF:-1,Arabic Tv:Syria
+http://38.99.146.36:7777/SyriaSat_HD.m3u8
+#EXTINF:-1,Arabic Tv:Taha
+http://38.99.146.36:7777/Taha_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tahrir
+http://38.99.146.36:7777/Tahrir_HD.m3u8
+#EXTINF:-1,Arabic Tv:Syria Talaqie
+http://38.99.146.36:7777/Talaqi_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tamazigh Maroc
+http://38.99.146.36:7777/Tamazight_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tayba
+http://38.99.146.36:7777/Tayba_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tele Liban
+http://38.99.146.36:7777/TeleLiban_HD.m3u8
+#EXTINF:-1,Arabic Tv:Algeria 3
+http://38.99.146.36:7777/Thalitha_HD.m3u8
+#EXTINF:-1,Arabic Tv:Time Cinema
+http://38.99.146.36:7777/TimeCinema_HD.m3u8
+#EXTINF:-1,Arabic Tv:Time Drama
+http://38.99.146.36:7777/TimeDrama_HD.m3u8
+#EXTINF:-1,Arabic Tv:Taxi El Sahra
+http://38.99.146.36:7777/TimeTiatro_HD.m3u8
+#EXTINF:-1,Arabic Tv:Top Movies
+http://38.99.146.36:7777/TopMovies_HD.m3u8
+#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi
+http://8.21.48.19:7777/Tounisa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Toyor Al Janah
+http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8
+#EXTINF:-1,Arabic Tv:TRT Arabic
+http://38.99.146.36:7777/TRTArabic_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tounesna
+http://38.99.146.36:7777/Tunisia_HD.m3u8
+#EXTINF:-1,Arabic Tv:Tunisia national 1
+http://38.99.146.36:7777/Tunisie7_HD.m3u8
+#EXTINF:-1,Arabic Tv:TV 5 MONDE
+http://38.99.146.36:7777/TV5_HD.m3u8
+#EXTINF:-1,Arabic Tv:Unrwa
+http://38.99.146.36:7777/Unrwa_HD.m3u8
+#EXTINF:-1,Arabic Tv:Wanasah
+http://38.99.146.36:7777/Wanasah_HD.m3u8
+#EXTINF:-1,Arabic Tv:Yemen
+http://38.99.146.36:7777/Yemen_HD.m3u8
+#EXTINF:-1,Arabic Tv:Zee Aflam
+http://38.99.146.36:7777/ZeeAflam_HD.m3u8
+#EXTINF:-1,Arabic Tv:Zee Alwan
+http://38.99.146.36:7777/ZeeAlwan_HD.m3u8
+#EXTINF:-1,Arabic Tv:Zweina Bladna
+http://38.99.146.36:7777/ZweinaBaladna_HD.m3u8
 
-#EXTINF:-1,Addounia TV
-rtmp://sama-tv.net/live/samatv
-#EXTINF:-1,Al Aoula
-rtmp://stream2.jmm.yacast.net/jmm_snrt//jt/lundi/addahirra/jt
-#EXTINF:-1,Al Baghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:-1,Al Falstiniah TV
-rtmp://46.43.64.166/flv/flv
-#EXTINF:-1,Al Hayat
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
-#EXTINF:-1,Al Hayat 2
-http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,Al Ikhbaria syria
-http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
-#EXTINF:-1,Al Kawthar
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
-#EXTINF:-1,Al Maaref
-http://almaareftv.com:1935/live/1/playlist.m3u8
-#EXTINF:-1,Al Maaref TV
-rtmp://almaareftv.com/live/1
-#EXTINF:-1,Al Nabaa
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1,Al Oula TV
-rtmp://82.137.248.21/Aloula/AloulaLive2
-#EXTINF:-1,Al Sahraa 1
-rtmp://navigatorsjo.com/live/Sahraa.stream
-#EXTINF:-1,Al Sahraa 2
-rtmp://navigatorsjo.com/liveS2/Sahraa2.stream
-#EXTINF:-1,Al Sahraa 3
-rtmp://navigatorsjo.com/amjad/amjad.stream
-#EXTINF:-1,Al Sharqiya News
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,Al Sharqiya Television
-rtmp://alforatlive.nanocdn.com/live/alforat256
-#EXTINF:-1,Al yawm
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1,Albaghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:-1,Al-Baghdadia 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,Alfady TV
-rtmp://stream.truth-voice.net/FadyLive//FadyLive
-#EXTINF:-1,alhayat 1 m3u8
-http://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream/playlist.m3u8
-#EXTINF:-1,Alhurra TV
-rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
-#EXTINF:-1,Aljazeera Arabic
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1,AlJazeera Children
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Aljazeera En
-http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
-#EXTINF:-1,Al-Manar TV
-rtmp://38.96.148.204/liveedge//livestream_360p
-#EXTINF:-1,Al-Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,Alriadia_sport
-rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
-#EXTINF:-1,Alriadia_sport m3u8
-http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/playlist.m3u8
-#EXTINF:-1,ANN News
-rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,AQTV
-rtmp://178.214.64.157/hd1-3//hd1-3
 
 #EXTINF:-1,[COLOR red]****************USA TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+HBO Zone EN
+http://iptv15.zapto.org:8000/live/test/2015/122.ts
+HBO Signature EN
+http://iptv15.zapto.org:8000/live/test/2015/121.ts
+HBO East EN
+http://iptv15.zapto.org:8000/live/test/2015/120.ts
+HBO EAST EN HD 
+http://iptv15.zapto.org:8000/live/test/2015/131.ts
 #EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 #EXTINF:0,abc hd
