@@ -1,46 +1,76 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 04/08/2015 09h39*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 05/08/2015 21h16*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=” 20.15 ch.lea AJAX – RAPID WIEN (2-2) “,[COLOR green]20.15 ch.lea AJAX – RAPID WIEN (2-2)[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.15 ch.lea AJAX – RAPID WIEN (2-2) “,orf 1 at
+#EXTINF:-1 group-title=” 20.30 ch.lea MALMOE – SALZBURG (0-2) “,[COLOR green]20.30 ch.lea MALMOE – SALZBURG (0-2)[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.30 ch.lea MALMOE – SALZBURG (0-2) “,orf 1 at
 http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.15 ch.lea AJAX – RAPID WIEN (2-2) “,sportklub 1 sr
+
+#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,[COLOR green]20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,zdf de
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,supersport 3 al
+http://balkanstream.com/stream/supersport3/putidoma22/udhfbu
+
+#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1) “,[COLOR green]20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1)[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1) “,rts1 serbia
+http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,[COLOR green]20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0)[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,sportklub 1 sr
 http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 20.15 ch.lea AJAX – RAPID WIEN (2-2) “,tv3 sport 1 ace
+#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,tv3 sport 1 ace
 acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
 
-#EXTINF:-1 group-title=” 20.45 ch.lea MONACO – YOUNG BOYS (3-1) “,[COLOR green]20.45 ch.lea MONACO – YOUNG BOYS (3-1)[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 ch.lea MONACO – YOUNG BOYS (3-1) “,rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 ch.lea MONACO – YOUNG BOYS (3-1) “,rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 ch.lea MONACO – YOUNG BOYS (3-1) “,srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 ch.lea MONACO – YOUNG BOYS (3-1) “,beIN FR 1
-rtmp://176.10.250.166:1935/tv/stream3
-
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,[COLOR green]20.45 audi.cup BAYERN MUNCHEN – MILAN[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,zdf de
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,digi sport 1 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,supersport 2 al
+#EXTINF:-1 group-title=” 20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0) “,[COLOR green]20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0)[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0) “,supersport 2 al
 http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,irib varzesh ir
+
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,[COLOR green]21.00 Int.Cham.cup CHELSEA – FIORENTINA[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,irib varzesh ir
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,beIN FR 2
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,sport tv 1 pt
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,[COLOR green]22.00 friendly BARCELONA – ROMA[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 audi.cup BAYERN MUNCHEN – MILAN “,arena sport 1 sr
-http://balkanstream.com/stream/arenasport1sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,[COLOR green]3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0)[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
