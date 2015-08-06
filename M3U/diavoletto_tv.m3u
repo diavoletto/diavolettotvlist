@@ -230,6 +230,101 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 #EXTINF:-1,[COLOR red]****************UK IT Deu FR Channel ****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0,Rai 1
+http://212.51.156.151:3001
+#EXTINF:0,Rai 2
+http://212.51.156.151:3002
+#EXTINF:0,Rai 3
+http://212.51.156.151:3003
+#EXTINF:0,Canale 5
+http://212.51.156.151:3005
+#EXTINF:0,Rete 4
+http://212.51.156.151:3004
+#EXTINF:0,Italia 1
+http://212.51.156.151:3006
+#EXTINF:0,Europort1 / HD
+http://212.51.156.151:3010
+#EXTINF:0,Europort2
+http://212.51.156.151:3000
+#EXTINF:0,SKY Sport24
+http://212.51.156.151:3013
+#EXTINF:0,Sky Calcio1
+http://212.51.146.19:4000
+#EXTINF:0,Sky Sport Plus
+http://212.51.146.19:4007
+#EXTINF:0,SKY Sport1
+http://212.51.156.151:3011
+#EXTINF:0,SKY Sport2
+http://109.202.195.76:5003
+#EXTINF:0,SKY Sport3
+http://109.202.195.76:5001
+#EXTINF:0,sky-sport-f1-hd
+http://212.51.146.19:4004
+#EXTINF:0,Fox Sports HD
+http://109.202.195.76:5010
+#EXTINF:0,Fox Animation HD
+http://212.51.156.151:3014
+#EXTINF:0,FOX
+http://212.51.146.19:4008
+#EXTINF:0,Fox Crime
+http://212.51.156.151:3008
+#EXTINF:0,SKY Cinema Max
+http://212.51.146.19:4003
+#EXTINF:0,Cinema Classics
+http://212.51.156.151:3007
+#EXTINF:0,SKY Cinema Hits
+http://212.51.146.19:4002
+#EXTINF:0,Cult
+http://109.202.195.76:5006
+#EXTINF:0,SKY Cinema 1
+http://212.51.156.151:3012
+#EXTINF:0,SKY Cinema Family
+http://109.202.195.76:5005
+#EXTINF:0,AXN
+http://212.51.156.151:3009
+#EXTINF:0,Sky TG 24 Meteo
+http://212.51.146.19:4006
+Nat Geographic
+http://212.51.146.19:4001
+Gambero-rosso
+http://212.51.146.19:4005
+#EXTINF:0,Nat Geo Wild
+http://109.202.195.76:5004
+#EXTINF:0,Discovery Channel
+http://109.202.195.76:5002
+#EXTINF:0,Disney Channel
+http://109.202.195.76:5000
+#EXTINF:0,Premium Sport
+http://212.51.146.19:4009
+#EXTINF:0,Premium Cinema
+http://109.202.195.76:5013
+#EXTINF:0,Premium Cinema 2
+http://109.202.195.76:5014
+#EXTINF:0,Sky Atlantic HD
+http://212.51.148.162:2000/hdmi
+#EXTINF:0,Sky Supercalcio HD
+http://212.51.148.162:2001/hdmi
+#EXTINF:0,Sky Uno HD
+http://212.51.148.162:2002/hdmi
+#EXTINF:0,Sky Sport HD
+http://212.51.148.162:2003/hdmi
+#EXTINF:0,Sky Arte HD
+http://212.51.148.162:2004/hdmi
+#EXTINF:0,Sky Sport HD
+http://212.51.148.162:2005/hdmi
+#EXTINF:0,Cinema Passion HD
+http://212.51.148.162:2007/hdmi
+#EXTINF:0,RSI LA 2
+http://212.51.148.162:2008/hdmi
+#EXTINF:0,RSI LA 1
+http://212.51.148.162:2009/hdmi
+#EXTINF:0,Cinema HD
+http://212.51.148.162:2010/hdmi
+#EXTINF:0,Cinema HD
+http://212.51.148.162:2011/hdmi
+#EXTINF:0,Cinema Comedy HD
+http://212.51.148.162:2012/hdmi
+
 #EXTINF:-1,SRF1
 http://81.92.105.134:5555/pl.m3u8?channel=1&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,SRF2
