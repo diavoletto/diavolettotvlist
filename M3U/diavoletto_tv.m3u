@@ -1,76 +1,14 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 05/08/2015 21h16*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 06/08/2015 11h16*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=” 20.30 ch.lea MALMOE – SALZBURG (0-2) “,[COLOR green]20.30 ch.lea MALMOE – SALZBURG (0-2)[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.30 ch.lea MALMOE – SALZBURG (0-2) “,orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,[COLOR green]20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,zdf de
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,digi sport 1 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=” 20.45 audi.cup.Final BAYERN MUNCHEN – REAL MADRID “,supersport 3 al
-http://balkanstream.com/stream/supersport3/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1) “,[COLOR green]20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1)[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – STEAUA BICAREST (1-1) “,rts1 serbia
-http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
-
-#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,[COLOR green]20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0)[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 20.45 ch.lea SHAKHTAR DONETSK – FENERBAHCE (0-0) “,tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-
-#EXTINF:-1 group-title=” 20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0) “,[COLOR green]20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0)[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 ch.lea SKENDERBEU KORCE – MILSAMI (2-0) “,supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,[COLOR green]21.00 Int.Cham.cup CHELSEA – FIORENTINA[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,digi sport 2 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 21.00 Int.Cham.cup CHELSEA – FIORENTINA “,turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,[COLOR green]22.00 friendly BARCELONA – ROMA[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=” 22.00 friendly BARCELONA – ROMA “,tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,[COLOR green]3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0)[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=” 3.00 cop.Lib.Final RIVER PLATE (Arg) – TIGRES (Mex) (0-0) “,trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -144,8 +82,79 @@ plugin://plugin.video.p2p-streams/?url=acestream://6471e6c7e981d8c52b6f8c564e442
 #EXTINF:-1,Arena Sport 2
 plugin://plugin.video.p2p-streams/?url=acestream://9242021b9ba566d96a51d11e457e94e60abc9f18&mode=1&name=acestream+Arena Sport 2
 
-#EXTINF:-1,[COLOR red]******Latino******[/COLOR]
+#EXTINF:-1,[COLOR red]******Latino & Tuga Channel******[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1 tvg-logo="Telecinco.png" group-title="ESPANHA",[COLOR green][I][B]TELECINCO [/B][/I][/COLOR]
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1 tvg-logo="Antena3.png" group-title="ESPANHA",[COLOR green][I][B]ANTENA 3 [/B][/I][/COLOR]
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-logo="la_sexta.png" group-title="ESPANHA",[COLOR green][I][B]LA SEXTA [/B][/I][/COLOR]
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPANHA",[COLOR green][I][B]MEGA [/B][/I][/COLOR]
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="canal-sur.png" group-title="ESPANHA",[COLOR green][I][B]CANAL SUR [/B][/I][/COLOR]
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 tvg-logo="13TV logo 2012.png" group-title="ESPANHA",[COLOR green][I][B]13 TV [/B][/I][/COLOR] 
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 
+#EXTINF:-1 tvg-logo="Discovery.png" group-title="ESPANHA",[COLOR green][I][B]DISCOVERY [/B][/I][/COLOR] 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="galicia_tv_eu.png" group-title="ESPANHA",[COLOR green][I][B]GALIZA TV [/B][/I][/COLOR]
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:-1 tvg-logo="RTPA_logo.svg.png" group-title="ESPANHA",[COLOR green][I][B]RTP ASTURIAS [/B][/I][/COLOR]
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 tvg-logo="extremaduratv.png" group-title="ESPANHA",[COLOR green][I][B]EXTREMADURA TV [/B][/I][/COLOR]
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="andorra.png" group-title="ESPANHA",[COLOR green][I][B]ANDORRA TV [/B][/I][/COLOR]
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="Nova logo 2012.png" group-title="ESPANHA",[COLOR green][I][B]NOVA [/B][/I][/COLOR]
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/eventos_6_700K_640x368_baseline.m3u8
+#EXTINF:-1 tvg-logo="castilla la mancha.png" group-title="ESPANHA",[COLOR green][I][B]CASTILLA LA MANCHA TV [/B][/I][/COLOR]
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1 tvg-logo="melilla tv.png" group-title="ESPANHA",[COLOR green][I][B]TV MELILLA [/B][/I][/COLOR]
+rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1 tvg-logo="canarias.png" group-title="ESPANHA",[COLOR green][I][B]TV CANARIAS [/B][/I][/COLOR]
+rtmp://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www2.rtvc.es/television/Directo.aspx
+#EXTINF:-1 tvg-logo="rt-logo.png" group-title="ESPANHA",[COLOR green][I][B]RT SPAIN [/B][/I][/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/SAT_TOTAL.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPANHA",[COLOR green][I][B]TV MIAMI LIFE ESPAÑA [/B][/I][/COLOR]
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="ESPANHA",[COLOR green][I][B]ULTRACINE [/B][/I][/COLOR]
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPANHA",[COLOR green][I][B]TRAVEL TV [/B][/I][/COLOR]
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,RTP INFORMAÇÃO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1,SIC
+http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
+#EXTINF:-1,SIC NOTÍCIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS,SIC RADICAL (Clicar Varias Vezes)
+http://84.74.247.12:8001/1:0:1:516:67:53:CE40000:0:0:0:
+#EXTINF:-1,TVI
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:-1,TPA
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1,ECONÓMICO TV
+http://213.13.26.7:1936/live/etv_direto/livestream.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTP MEMORIA.png",[COLOR ] RTP MEMÓRIA [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:0,Univision
 http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
 #EXTINF:-1,Caracol Colombia
@@ -594,432 +603,91 @@ http://81.92.105.134:5555/pl.m3u8?channel=533&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM
 
 #EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,beIN Sport HD 1
-http://iptv15.zapto.org:8000/live/test/2015/54.m3u8
-#EXTINF:-1,beIN Sport HD 2
-http://iptv15.zapto.org:8000/live/test/2015/263.m3u8
-#EXTINF:-1,beIN Sport HD 3
-http://iptv15.zapto.org:8000/live/test/2015/264.m3u8
-#EXTINF:-1,beIN Sport HD 4
-http://iptv15.zapto.org:8000/live/test/2015/57.m3u8
-#EXTINF:-1,beIN Sport HD 5
-http://iptv15.zapto.org:8000/live/test/2015/266.m3u8
-#EXTINF:-1,beIN Sport HD 6
-http://iptv15.zapto.org:8000/live/test/2015/267.m3u8
-#EXTINF:-1,beIN Sport HD 7
-http://iptv15.zapto.org:8000/live/test/2015/268.m3u8
-#EXTINF:-1,beIN Sport HD 8
-http://iptv15.zapto.org:8000/live/test/2015/61.m3u8
-#EXTINF:-1,beIN Sport HD 9
-http://iptv15.zapto.org:8000/live/test/2015/270.m3u8
-#EXTINF:-1,beIN Sport HD 10
-http://iptv15.zapto.org:8000/live/test/2015/265.m3u8
-#EXTINF:0,beIN SPORTS 1HD
-http://185.56.30.127:8082/TV4001
-#EXTINF:0,beIN SPORTS 2HD
-http://185.56.30.127:8082/TV4002
-#EXTINF:0,beIN SPORTS 3HD
-http://185.56.30.127:8082/TV4003
-#EXTINF:0,beIN SPORTS 4HD
-http://185.56.30.127:8082/TV4004
-#EXTINF:0,beIN SPORTS 5HD
-http://185.56.30.127:8082/TV4005
-#EXTINF:0,beIN SPORTS 6HD
-http://185.56.30.127:8082/TV4006
-#EXTINF:0,beIN SPORTS 7HD
-http://185.56.30.127:8082/TV4007
-#EXTINF:0,beIN SPORTS 8HD
-http://185.56.30.127:8082/TV4008
-#EXTINF:0,beIN SPORTS 9HD
-http://185.56.30.127:8082/TV4009
-#EXTINF:0,beIN SPORTS 10HD
-http://185.56.30.127:8082/TV4010
-#EXTINF:0,beIN SPORTS 11HD
-http://185.56.30.127:8082/TV4011
-#EXTINF:0,beIN SPORTS 1HDEN
-http://185.56.30.127:8082/TV4012
-#EXTINF:0,beIN SPORTS 1HDFR
-http://185.56.30.127:8082/TV4013
-#EXTINF:0,beIN SPORTS 2HD
-http://185.56.30.127:8082/TV4014
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
-rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
-rtmp://199.195.194.244:1935/stream/ playpath=NdTaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]
-rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]
-rtmp://141.255.160.202:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 [/B][/I][/COLOR]
-rtmp://179.43.158.196:1935/stream/ playpath=g0I2LWxCbT.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="sporttv3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 [/B][/I][/COLOR]
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="sport_tv4_pt.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 [/B][/I][/COLOR]
-rtmp://146.185.25.186:1935/stream/ playpath=o4NLATkOb3.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="sporttv5.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 5 [/B][/I][/COLOR]
-rtmp://179.43.158.196:1935/stream/ playpath=0Ftg8vdIeR.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=10 pageUrl=http://www.04stream.com/
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="sport_tv_americas.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV AMÉRICAS[/B][/I][/COLOR]
+
+#EXTM3U
+#EXTINF:-1,CHANNEL 9 AUSTRALIA
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR red] SPORT TV 1 [/COLOR][COLOR blue] SD [/COLOR]
+http://iptv-pt.dynns.com:8000/live/KodiIPTV/gS81JeGV77/21.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR red] SPORT TV 1 [/COLOR][COLOR blue] SD [/COLOR]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=13/
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SPORT TV 2.png",[COLOR red] SPORT TV 2 [/COLOR][COLOR blue] SD [/COLOR]
+rtmp://141.255.160.202:1935/stream/ playpath=0qZjb9kndn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/texto timeout=15/
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SPORT TV 3.png",[COLOR red] SPORT TV 3 [/COLOR][COLOR blue] HD [/COLOR]
+http://iptv-pt.dynns.com:8000/live/KodiIPTV/gS81JeGV77/23.ts
+#EXTINF:-1 tvg-logo="SPORT TV AMERICAS.jpg",[COLOR red] SPORT TV AMERICAS [/COLOR][COLOR blue] HD [/COLOR]
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BENFICA TV[/B][/I][/COLOR]
-rtmp://146.185.25.130:1935/stream/ playpath=9DOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/timeout=15
-#EXTINF:-1 tvg-logo="BeIN Sports 1 HD.png" group-title=“DESPORTO”,[COLOR blue][I][B]BEIN SPORT 1 (USA)[/B][/I][/COLOR]
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-logo="BeIN Sports 2 HD.png" group-title=“DESPORTO”,[COLOR blue][I][B]BEIN SPORT 2 (USA)[/B][/I][/COLOR]
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR blue][I][B]BEIN SPORT PREMIER (UK)[/B][/I][/COLOR]
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-logo="Bein Sports HD.png" group-title=“DESPORTO”,[COLOR blue][I][B]KOMPASTV (IND)[/B][/I][/COLOR]
-http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="c_more_sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]C MORE SPORTS (SUE)[/B][/I][/COLOR]
-http://188.138.9.228:8023
-#EXTINF:-1 tvg-logo="sport1_voetbal.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT1 (HOL)[/B][/I][/COLOR]
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="CANAL-PLUS-SPORT.png" group-title=“DESPORTO”,[COLOR blue][I][B]CANAL+SPORT (FRA)[/B][/I][/COLOR]
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8 
-#EXTINF:-1 tvg-logo="sportsnet.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTSNET 360 (CAN)[/B][/I][/COLOR]
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1 tvg-logo="Azteca 7 logo.png" group-title=“DESPORTO”,[COLOR blue][I][B]AZTECA DEPORTES (MEX)[/B][/I][/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="Azteca 7 logo.png" group-title=“DESPORTO”,[COLOR blue][I][B]AZTECA DEPORTES (MEX)[/B][/I][/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="Azteca 7 logo.png" group-title=“DESPORTO”,[COLOR blue][I][B]AZTECA DEPORTES (MEX)[/B][/I][/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="ESPN UK.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPN (USA)[/B][/I][/COLOR] 
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-logo="NBA TV.png" group-title=“DESPORTO”,[COLOR blue][I][B]NBA TV (USA)[/B][/I][/COLOR]
-http://bit.do/3SXC
-#EXTINF:-1 tvg-logo="NBA TV.png" group-title=“DESPORTO”,[COLOR blue][I][B]NBA TV (USA)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=21 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]BIGPOND SPORTS (AUS)[/B][/I][/COLOR]  
-mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
-#EXTINF:-1 tvg-logo="NBC Sports.png" group-title=“DESPORTO”,[COLOR blue][I][B]NBC SPORTS GOLF (USA)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="BENFICA TV 1.png",[COLOR red] BENFICA TV 1 [/COLOR][COLOR blue] HD [/COLOR]
+http://iptv-pt.dynns.com:8000/live/KodiIPTV/gS81JeGV77/19.ts
+#EXTINF:-1,NBC Sports Golf 720p [COLOR blue]HD[/COLOR]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="Viasat Golf.png" group-title=“DESPORTO”,[COLOR blue][I][B]VIASAT GOLF (USA)[/B][/I][/COLOR]
-http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="SportKlub.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT KLUB GOLF (CRO)[/B][/I][/COLOR]
-http://golflivestr.cdn.sbb.rs/live/ramdisk/gkstream/livestream/gkstream-track_1=96000-video=1400000.m3u8 
-#EXTINF:-1 tvg-logo="NBC Sports.png" group-title=“DESPORTO”,[COLOR blue][I][B]NBC SPORTS (USA)[/B][/I][/COLOR]
+#EXTINF:-1,NBC Sports Golf 1080p [COLOR blue]HD[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 1080P [COLOR blue]HD[/COLOR]
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-logo="digisport.png" group-title=“DESPORTO”,[COLOR blue][I][B]DIGI SPORT 1 (ROM)[/B][/I][/COLOR]
-rtmp://62.210.105.146:80/liverepeater playpath=128746 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128746&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="digisport.png" group-title=“DESPORTO”,[COLOR blue][I][B]DIGI SPORT 2 (ROM)[/B][/I][/COLOR]
-rtmpt://62.210.105.148:80/liverepeater playpath=128747 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128747&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR blue][I][B]DOLCE SPORT 1 (ROM)[/B][/I][/COLOR]
-rtmp://195.154.162.157:80/liverepeater playpath=128741 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128741&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,[COLOR blue][I][B]DOLCE SPORT 2 (ROM)[/B][/I][/COLOR]
-rtmp://62.210.107.188:80/liverepeater playpath=128743 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://deltatv.pw/stream.php?id=128743&width=700&height=440 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="arena_ind.png" group-title=“DESPORTO”,[COLOR blue][I][B]ARENA SPORT (IND)[/B][/I][/COLOR]
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-#EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”,[COLOR blue][I][B]BONGDA TV (VIE)[/B][/I][/COLOR]
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8 
-#EXTINF:-1 tvg-logo="thethao.png" group-title=“DESPORTO”,[COLOR blue][I][B]THETHAO TV (VIE)[/B][/I][/COLOR] 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8 
-#EXTINF:-1 tvg-logo="Fox Sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]FOX SPORTS 3 (TAIWAN)[/B][/I][/COLOR]
-rtmp://kv2.ts33.net/sat/us171
-#EXTINF:-1 tvg-logo="Sport1_Germany.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT1 (ALE)[/B][/I][/COLOR] 
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1 tvg-logo="futbol_ua_1.png" group-title=“DESPORTO”,[COLOR blue][I][B]?????? 1 UA (UCR)[/B][/I][/COLOR]
+#EXTINF:-1,NBC Sports Network 720P [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 1080p [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 720p [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Network [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/72.m3u8
+#EXTINF:-1,MLB Network [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/40.m3u8
+#EXTINF:-1,NHL [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF:-1,NBA [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:-1,MLS [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:-1,UFC [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/75.m3u8
+#EXTINF:-1,ESPN [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,Sky Sports F1 [COLOR blue]HD[/COLOR]
+http://bit.ly/1SgJ2ei
+#EXTINF:-1 tvg-logo="ESPN HD.png",[COLOR beige] ESPN [/COLOR][COLOR blue] HD [/COLOR]
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="Sports tv turkey.jpg",[COLOR beige] SPORTS TV TURKEY [/COLOR]
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="futbol_ua_1.png",[COLOR beige] OYTOON SPORT 1 UA [/COLOR]
 http://195.2.236.19:8059/59
-#EXTINF:-1 tvg-logo="futbol_ua_2.png" group-title=“DESPORTO”,[COLOR blue][I][B]?????? 2 UA (UCR)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="futbol_ua_2.png",[COLOR beige] OYTOON SPORT 2 UA [/COLOR]
 http://195.2.236.19:8058/58
-#EXTINF:-1 tvg-logo="sport1_ua.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT 1 UA (UCR)[/B][/I][/COLOR]
-http://195.2.236.19:8060/60
-#EXTINF:-1 tvg-logo="sport2_ua.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT 2 UA (UCR)[/B][/I][/COLOR]
-http://78.30.254.43:8989/udp/239.0.0.69:4000
-#EXTINF:-1 tvg-logo="ntv_plus_futbol.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + (RUS)[/B][/I][/COLOR]
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="ntv_plus_futbol.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 1 (RUS)[/B][/I][/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="ntv_plus_futbol.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 1 (RUS)[/B][/I][/COLOR]
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="ntv_plus_futbol.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 1 (RUS)[/B][/I][/COLOR]
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="ntv_plus_futbol2.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 2 (RUS)[/B][/I][/COLOR]
-http://iptv1.zargacum.net/iptv/ZQX7ZTT69P/530/index.m3u8
-#EXTINF:-1 tvg-logo="ntv_plus_futbol2.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 2 (RUS)[/B][/I][/COLOR]
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="ntv_plus_futbol2.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 2 (RUS)[/B][/I][/COLOR]
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="ntv_plus_futbol3.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 3 (RUS)[/B][/I][/COLOR]
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="ntv_plus_futbol3.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + 3 (RUS)[/B][/I][/COLOR]
-http://iptv4.zargacum.net/iptv/VG3X4A298D/522/index.m3u8
-#EXTINF:-1 tvg-logo="sport1_ru.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT 1 HD (RUS)[/B][/I][/COLOR]
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="sport1_ru.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT 1 (RUS)[/B][/I][/COLOR]
-http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-logo="viasat-sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]VIASAT SPORT HD (RUS)[/B][/I][/COLOR]
-http://t.co/ZPbGqTfxmS
-#EXTINF:-1 tvg-logo="viasat-sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]VIASAT SPORT (RUS)[/B][/I][/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
-#EXTINF:-1 tvg-logo="nash-futbol.png" group-title=“DESPORTO”,[COLOR blue][I][B]NASH FOOTBALL (RUS) [/B][/I][/COLOR] 
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="NTV-Plus-Basketball.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV + Basketball (RUS)[/B][/I][/COLOR]
-http://46.61.226.18/hls/CH_NTVPLUSBASKETBOL/bw1500000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="Eurosport.png" group-title=“DESPORTO”,[COLOR blue][I][B]EUROSPORT (UK)[/B][/I][/COLOR]
-rtmp://137.63.71.18:443/liverepeater playpath=9 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="Eurosport 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]EUROSPORT 2(UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Eurosport.png" group-title=“DESPORTO”,[COLOR blue][I][B]EUROSPORT (RUS)[/B][/I][/COLOR]
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2 
-#EXTINF:-1 tvg-logo="Eurosport 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]EUROSPORT 2(RUS)[/B][/I][/COLOR]
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_EUROSPORT2/variant.m3u8
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]
-rtmp://80.82.78.26:443/liverepeater playpath=1 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]rtmpe://134.19.185.204:1935/livedge playpath=mamahdsky1 swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Sky Sports 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 1 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 2 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Sky Sports 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 2 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.204:1935/livedge playpath=mamahdsky2 swfUrl=http://player.hdcast.org/_.swf timeoutpageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky2&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]
-rtmp://80.82.78.26:443/liverepeater playpath=3 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Sky Sports 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.206:1935/livedge playpath=sskys3  swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
-rtmp://31.220.0.195:80/live playpath=ssx4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z timeout=10
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Sky Sports 4.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.206:1935/livedge playpath=sskys4  swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 5 (UK)[/B][/I][/COLOR]
-rtmp://80.82.78.26:443/liverepeater playpath=5 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 5 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="Sky Sports 5.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 5 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.206:1935/livedge playpath=sskys5  swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]BT SPORTS 1 (UK)[/B][/I][/COLOR]
-rtmp://80.82.64.140:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title=“DESPORTO”,[COLOR blue][I][B]BT SPORTS 1 (UK)[/B][/I][/COLOR]
-rtmp://80.82.78.85:443/liverepeater playpath=7 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=10
-#EXTINF:-1 tvg-logo="BT Sport 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BT SPORTS 2 (UK)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport 1 live.jpg",[COLOR beige] SPORT 1[/COLOR][COLOR blue] HD [/COLOR]
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="azteca deportes.png",[COLOR beige] AZTECA DEPORTES [/COLOR][COLOR blue] HD [/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="Sky Sports 1.png",[COLOR beige] SKY SPORTS 1 [/COLOR]
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 tvg-logo="Sky Sports 2.png",[COLOR beige] SKY SPORTS 2 [/COLOR]
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 tvg-logo="Sky Sports 3.png",[COLOR beige] SKY SPORTS 3 [/COLOR]
+rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 tvg-logo="Sky Sports 4.png",[COLOR beige] SKY SPORTS 4 [/COLOR]
+rtmp://137.63.71.18:443/liverepeater playpath=4 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1 tvg-logo="Sky Sports 5.png",[COLOR beige] SKY SPORTS 5 [/COLOR]
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:0 tvg-logo="BT Sport 1.png",[COLOR beige] BT SPORT 1 [/COLOR]
+http://195.154.227.38:1935/Iive/btsports1lsh/playlist.m3u8
+#EXTINF:-1 tvg-logo="BT Sport 2.png",[COLOR beige] BT SPORT 2 [/COLOR]
 rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="BT Sport 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]BT SPORTS 2 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.206:1935/livedge playpath=sbt2 swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="Sky Sports F1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS F1 (UK)[/B][/I][/COLOR]
-rtmp://80.82.78.26:443/liverepeater playpath=6 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="Sky Sports F1.png" group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS F1 (UK)[/B][/I][/COLOR]
-rtmpe://134.19.185.220:1935/livedge playpath=mamahdskysportsf1 swfUrl=http://player.hdcast.org/_.swf timeout=10 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1 tvg-logo="ORF Sport Plus logo 2011.png" group-title=“DESPORTO”,[COLOR blue][I][B]ORF SPORT+ (AUS)[/B][/I][/COLOR]
-http://194.232.200.119/ipad/orfs_q6a/orf.sdp/playlist.m3u8?wowzasessionid=1|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-logo="sport5_cz.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT 5 (CHE)[/B][/I][/COLOR]
-http://212.79.96.134:8023/
-#EXTINF:-1 tvg-logo="ceska_televize_sport.png" group-title=“DESPORTO”,[COLOR blue][I][B] O SPORT (CHE)[/B][/I][/COLOR]
-http://212.79.96.134:8014/
-#EXTINF:-1 tvg-logo="IDMAN.png" group-title=“DESPORTO”,[COLOR blue][I][B]IDMAN TV (AZERB)[/B][/I][/COLOR]
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1 tvg-logo="a_spor_tr.png" group-title=“DESPORTO”,[COLOR blue][I][B]A SPOR (TUR)[/B][/I][/COLOR]
-http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8 
-#EXTINF:-1 tvg-logo="ntv_spor.png" group-title=“DESPORTO”,[COLOR blue][I][B]NTV SPOR (TUR)[/B][/I][/COLOR]
-http://edge.ailetv.net/org8/ntvspor_me/playlist.m3u8 
-#EXTINF:-1 tvg-logo="trtspor.png" group-title=“DESPORTO”,[COLOR blue][I][B]TRT SPOR (TUR)[/B][/I][/COLOR]
-http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_SPOR_HD.m3u8
-#EXTINF:-1 tvg-logo="Fox Sport.png" group-title=“DESPORTO”,[COLOR blue][I][B]FOX SPORTS (BRA)[/B][/I][/COLOR]
-#EXTINF:-1 tvg-logo="Fox Sports2.png" group-title=“DESPORTO”,[COLOR blue][I][B]FOX SPORTS 2 (BRA)[/B][/I][/COLOR]
-#EXTINF:-1 tvg-logo="SporTV.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV (BRA)[/B][/I][/COLOR]
-http://62.210.89.38:1935/liverepeat/201020/live.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV (BRA)[/B][/I][/COLOR]
-http://62.210.83.152:1935/liverepeat/201020/playlist.m3u8
-#EXTINF:-1 tvg-logo="SporTV.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV (BRA)[/B][/I][/COLOR]
-rtmp://62.210.88.208:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359 timeout=12
-#EXTINF:-1 tvg-logo="SporTV.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV (BRA)[/B][/I][/COLOR]
-rtmp://76.73.108.33/livepkgr/sportv
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 (BRA)[/B][/I][/COLOR]
-rtmp://76.73.108.33/livepkgr playpath=sportv2 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv2&width=480&height=380 token=6144d16b93b7310b
-#EXTINF:-1 tvg-logo="SporTV 2.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 (BRA)[/B][/I][/COLOR]
-rtmp://76.73.108.33/livepkgr/sportv2
-#EXTINF:-1 tvg-logo="SporTV 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 (BRA)[/B][/I][/COLOR]
-rtmp://76.73.108.33/livepkgr playpath=sportv3 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv3&width=480&height=380 token=6144d16b93b7310b
-#EXTINF:-1 tvg-logo="SporTV 3.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 (BRA)[/B][/I][/COLOR]
-rtmp://76.73.108.33/livepkgr/sportv3
-#EXTINF:-1 tvg-logo="ESPN UK.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPN (BRA)[/B][/I][/COLOR] 
-rtmp://149.255.37.18:80/pub playpath=pyPGrTEUxm9ULdm2yLIv swfUrl=http://www.castto.me/_.swf pageUrl=http://static.castto.me/embed.php?channel=1531588863&vw=468&vh=360 token=#ed%h0#w@1
-#EXTINF:-1 tvg-logo="ESPN.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPN BRASIL (BRA)[/B][/I][/COLOR]
-rtmp://r.livecast.cc/rl/ playpath=flash01sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream24.php
-#EXTINF:-1 tvg-logo="ESPN.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPN BRASIL (BRA)[/B][/I][/COLOR]
-rtmp://109.200.202.124/live playpath=2hd swfUrl=http://www.tv-msn.com/player.swf pageUrl=http://tv-msn.com/12hd.html live=1 token=6144d16b93b7310b
-#EXTINF:-1 tvg-logo="ESPN+.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPN + (BRA)[/B][/I][/COLOR]
-rtmp://31.204.151.253/live playpath=master27 token=458c414664382767 
-#EXTINF:-1 tvg-logo="Esporte Interativo.png" group-title=“DESPORTO”,[COLOR blue][I][B]ESPORTE INTERATIVO (BRA)[/B][/I][/COLOR]
-http://ei.live-ec2.stormsec.com.br/liveedge/smil:Evento3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="terra_esportes.png" group-title=“DESPORTO”,[COLOR blue][I][B]TERRA ESPORTES (BRA)[/B][/I][/COLOR]
-http://wowza1.videos.movile.com:8080/live/esportes_1.smil/livestream.m3u8
-#EXTINF:-1 tvg-logo="irib3.png" group-title=“DESPORTO”,[COLOR blue][I][B]IRIB 3 (IRA)[/B][/I][/COLOR]
-rtmp://edge4.live.irib.ir/etv3/irib3-3
-#EXTINF:-1 tvg-logo="real_madrid_tv_english.png" group-title=“DESPORTO”,[COLOR blue][I][B]REAL MADRID TV (ESP)[/B][/I][/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="Motors TV.png" group-title=“DESPORTO”,[COLOR blue][I][B]MOTORS TV [/B][/I][/COLOR]
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=02
-#EXTINF:-1 tvg-logo="my_zen_tv.png" group-title=“DESPORTO”,[COLOR blue][I][B]MY ZEN TV [/B][/I][/COLOR]
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8 
-#EXTINF:-1 tvg-logo="sports night.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTS NIGHT (UK)[/B][/I][/COLOR]
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1 tvg-logo="BTN.png" group-title=“DESPORTO”,[COLOR blue][I][B]BTN HD (USA)[/B][/I][/COLOR]
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1 tvg-logo="MLB.png" group-title=“DESPORTO”,[COLOR blue][I][B]MLB NETWORK (USA)[/B][/I][/COLOR]
-rtmp://w3.vmnode.pw:1935/live playpath=elite10 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite10.php live=true timeout=12
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 1 (ALE)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport time 1.jpg",[COLOR beige] SPORT TIME TV 1 [/COLOR][COLOR blue] HD [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 2 (ALE)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport time 2.jpg",[COLOR beige] SPORT TIME TV 2 [/COLOR][COLOR blue] HD [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 2 (ALE)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport time 3.jpg",[COLOR beige] SPORT TIME TV 3 [/COLOR][COLOR blue] HD [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 4 (ALE)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport time 4.png",[COLOR beige] SPORT TIME TV 4 [/COLOR][COLOR blue] HD [/COLOR]
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 5 (ALE)[/B][/I][/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 6 (ALE)[/B][/I][/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 tvg-logo="sportime.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORTTIME TV 7 (ALE)[/B][/I][/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF:-1 tvg-logo="Pac12.png" group-title=“DESPORTO”,[COLOR blue][I][B]PAC MOUNTAIN HD (USA)[/B][/I][/COLOR]
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title=“DESPORTO”,[COLOR blue][I][B]PAC OREGON HD (USA)[/B][/I][/COLOR]
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title=“DESPORTO”,[COLOR blue][I][B]PAC BAY AREA HD (USA)[/B][/I][/COLOR]
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 tvg-logo="livesport_cars.png" group-title=“DESPORTO”,[COLOR blue][I][B]LIVE SPORT (CARS)[/B][/I][/COLOR]
+#EXTINF:-1 tvg-logo="sport time 5.png",[COLOR beige] SPORT TIME TV 5 [/COLOR][COLOR blue] HD [/COLOR]
+#EXTINF:-1 tvg-logo="Auto_motor_sport_channel_logo.png",[COLOR beige] AUTO SPORT TV [/COLOR]
 mms://100automoto.tv/100livesport
-#EXTINF:-1 tvg-logo="bmw_tv.png" group-title=“DESPORTO”,[COLOR blue][I][B]CHANNEL BMW[/B][/I][/COLOR]
-mms://100automoto.tv/bmw
-#EXTINF:-1 tvg-logo="channel.electric.png" group-title=“DESPORTO”,[COLOR blue][I][B]CHANNEL ELECTRIC[/B][/I][/COLOR]
-mms://100automoto.tv/channel_electric
-#EXTINF:-1 tvg-logo="channel_italy.png" group-title=“DESPORTO”,[COLOR blue][I][B]CHANNEL ITALY (CARS)[/B][/I][/COLOR]
-mms://100automoto.tv/channel_italy
-#EXTINF:-1 tvg-logo="mercedes.png" group-title=“DESPORTO”,[COLOR blue][I][B]CHANNEL MERCEDES[/B][/I][/COLOR]
-mms://100automoto.tv/channel_mercedes
-#EXTINF:-1 tvg-logo="porche.png" group-title=“DESPORTO”,[COLOR blue][I][B]CHANNEL PORSCHE[/B][/I][/COLOR]
-mms://100automoto.tv/channel_porsche
-#EXTINF:-1 tvg-logo="Motorsport.png" group-title=“DESPORTO”,[COLOR blue][I][B]MOTOSPORT (USA)[/B][/I][/COLOR]
-http://103.18.40.132:8080/
-#EXTINF:-1 tvg-logo="Motorsport.png" group-title=“DESPORTO”,[COLOR blue][I][B]MOTORSPORT (USA)[/B][/I][/COLOR]
-http://motorsport.hopto.org:8081/
-#EXTINF:-1 tvg-logo="Sevilla-FC-TV.png" group-title=“DESPORTO”,[COLOR blue][I][B]SEVILHA TV (ESP)[/B][/I][/COLOR]
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-#EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”,[COLOR blue][I][B]UFC (CHI)[/B][/I][/COLOR]
-rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
-#EXTINF:-1 tvg-logo="Premiere Combate.png" group-title=“DESPORTO”,[COLOR blue][I][B]PREMIERE COMBATE (BRA)[/B][/I][/COLOR]
-rtmp://l.mybeststream.xyz/r/ playpath=ch003435 swfUrl=http://mybeststream.xyz/279da59cb3bf7b16eff5fbcb7035e784/player1.swf live=1 timeout=10 pageUrl=http://mybeststream.xyz/?id=19942&width=468&height=380
-#EXTINF:-1 tvg-logo="Premiere Combate.png" group-title=“DESPORTO”,[COLOR blue][I][B]PREMIERE COMBATE (BRA)[/B][/I][/COLOR]
-rtmp://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/live/player.swf live=1 timeout=10 pageUrl=http://livecast.cc/live/stream22.php
-#EXTINF:-1 tvg-logo="Fighter_Russia-TV.png" group-title=“DESPORTO”,[COLOR blue][I][B]FIGHTER CHANNEL (RUS) [/B][/I][/COLOR]
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
-#EXTINF:-1 tvg-logo="KazSport.png" group-title=“DESPORTO”,[COLOR blue][I][B]KAZSPORT (KAZ)[/B][/I][/COLOR]
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1 tvg-logo="ginx.png" group-title=“DESPORTO”,[COLOR blue][I][B]GINX (Videojogos)[/B][/I][/COLOR]
-http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="hitbox.png" group-title=“DESPORTO”,[COLOR blue][I][B]HITBOX (Videojogos)[/B][/I][/COLOR]
-http://api.hitbox.tv/player/hls/ectvlol.m3u8
-#EXTINF:-1, ???+ ?????????
-http://92.38.65.189:4022/udp/224.200.246.9:3527
-#EXTINF:-1, ???+ ?????
-http://92.38.65.189:4022/udp/224.200.246.11:3527
-#EXTINF:-1, ???+ ????? ???? .
-http://92.38.65.189:4022/udp/224.200.246.12:3527
-#EXTINF:-1, ???+ ?????? 2
-http://92.38.65.189:4022/udp/224.200.246.13:3527
-#EXTINF:-1, ????? 1
-http://92.38.65.189:4022/udp/224.200.246.32:3527
-#EXTINF:-1, ?????
-http://92.38.65.189:4022/udp/224.200.246.33:3527
-#EXTINF:-1, EUROSPORT 2
-http://92.38.65.189:4022/udp/224.200.246.42:3527
-#EXTINF:-1, ???+ ?????? 3
-http://92.38.65.189:4022/udp/224.200.246.43:3527
-#EXTINF:-1, ???+ ?????? 1
-http://92.38.65.189:4022/udp/224.200.246.45:3527
-#EXTINF:0,GOL TV
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:0,ESPN 2 HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,Fox Sports 1 USA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/59.ts
-#EXTINF:0,Fox Sports 2 USA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/60.ts
-#EXTINF:-1,SPORTSNET 360HD CANADA HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:0,Nash Football HD
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
-#EXTINF:0,EuroSport HD
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:0,Viasat Sport HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
-#EXTINF:0,Sport 1 (Russia) HD
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
-#EXTINF:-1 ,sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1, Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, EuroSport News
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8
-#EXTINF:0,SPORTSNET 360 HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,RUS 1 Football HD 
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2  
-#EXTINF:-1,RUS sport 
-http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8 
-#EXTINF:-1,RUS sport2 
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS auto_plus 
-http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS eurosport 
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS eurosport2 
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS Football 2 HD 
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS Football 3 HD 
-http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS futbol 
-http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS ntvsport 
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8 
---------------------------------------------------------------- 
-#EXTINF:-1,RUS Our Football HD 
-http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2 
---------------------------------------------------------------- 
-#EXTINF:-1, SPORT TIME
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
---------------------------------------------------------------- 
-#EXTINF:-1,Sport Time TV 1 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800 
---------------------------------------------------------------- 
-#EXTINF:-1,SPORT TIME TV 2 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800 
---------------------------------------------------------------- 
-#EXTINF:-1,Sport Time TV 3 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800 
---------------------------------------------------------------- 
-#EXTINF:-1,Sport Time TV 4 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800 
---------------------------------------------------------------- 
-#EXTINF:-1,Sport Time TV 5 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800 
---------------------------------------------------------------- 
-#EXTINF:-1,Sport Time TV 6 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800 
-#EXTINF:-1,SPORTTIME 7HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
----------------------------------------------------------------  
-#EXTINF:-1,Sports Night 
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD 
---------------------------------------------------------------- 
-#EXTINF:-1,USA - PAC-12 Net. (Bay Area) HD 1080
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,USA - PAC-12 Net. (Los Angeles) HD 1080
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1,USA - PAC-12 Net. (National) HD 1080
-http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 tvg-logo="Fox motor sport.jpg",[COLOR beige] FOX MOTOR SPORT [/COLOR][COLOR blue] HD [/COLOR]
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 tvg-logo="super tennis.jpg",[COLOR beige] SUPER TENNIS [/COLOR][COLOR blue] HD [/COLOR]
+http://109.87.164.11:8080/udp/238.0.16.63:1234 
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -2724,31 +2392,12 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 #EXTINF:-1,[COLOR red]****************Adult Only****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-
-#EXTINF:-1,[COLOR red]****************Test TV****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-
-#EXTINF:-1 tvg-logo="espn.png" tvg-id="ESPN" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN USA [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:-1 tvg-logo="espn2.png" tvg-id="ESPN2" group-title="SPORTS",[COLOR goldenrod][I][B] ESPN2 USA [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:-1,CANAL+
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
-#EXTINF:-1,CANAL+ Cinéma
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
-#EXTINF:-1,CANAL+ Décalé
-http://mystreams.fr.mu/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
-#EXTINF:-1,CANAL+ Family
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
-#EXTINF:-1,CANAL+ Séries
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
-#EXTINF:-1,CANAL+ Sport
-http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
-#EXTINF:-1,CINE+ Emotion
-http://mystreams.fr.mu/80E803/Scam/hls/Cine_Emotion_HD.m3u8
-#EXTINF:-1,CINE+ Premier
-http://mystreams.fr.mu/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://mystreams.fr.mu/80E803/Scam/hls/National_Geo_FR_HD.m3u8
-#EXTINF:-1,PLANETE+
-http://mystreams.fr.mu/80E803/Scam/hls/Planet_Plus_HD.m3u8
+#EXTINF:-1 tvg-logo="babes 18+.jpg",[COLOR blue] BABES [/COLOR][COLOR red] 18+ [/COLOR]
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR blue] HOT SHOTS [/COLOR][COLOR red] 18+ [/COLOR]
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1 tvg-logo="top premium 18+.png",[COLOR blue] TOP PREMIUM [/COLOR][COLOR red] 18+ [/COLOR]
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="SEX-TV.jpg",[COLOR blue] BRAZZERS TV [/COLOR][COLOR red] 18+ [/COLOR]
+http://212.220.30.219/hls/CH_BRAZZERSTV/bw1500000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="SEX ZONE HD.png",[COLOR blue] SEX CHINA [/COLOR][COLOR blue] HD [/COLOR][COLOR red] 18+ [/COLOR]
