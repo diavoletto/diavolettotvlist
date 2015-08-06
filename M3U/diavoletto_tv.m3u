@@ -8,7 +8,76 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTM3U
+#EXTINF:-1 group-title=” 15.00 cycling VUELTA A BURGOS etapa 3 “,[COLOR green]15.00 cycling VUELTA A BURGOS etapa 3[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 15.00 cycling VUELTA A BURGOS etapa 3 “,
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_cyltv_liveeventos_multi_MB_746
 
+#EXTINF:-1 group-title=” 15.15 cycling TOUR of DENMARK stage 3 “,[COLOR green]15.15 cycling TOUR of DENMARK stage 3[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 15.15 cycling TOUR of DENMARK stage 3 “,eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,[COLOR green]17.00 cycling VOLTA A PORTUGAL etapa 8[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+#EXTINF:-1 group-title=” 17.30 cycling TOR de POLOGNE stage 5 “,[COLOR green]17.30 cycling TOR de POLOGNE stage 5[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 17.30 cycling TOR de POLOGNE stage 5 “,eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 18.00 eur.lea INTER BAKU – ATHLETIC BILBAO “,[COLOR green]18.00 eur.lea INTER BAKU – ATHLETIC BILBAO[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 18.00 eur.lea INTER BAKU – ATHLETIC BILBAO “,aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8
+
+#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,[COLOR green]18.00 eur.lea QABALA – APOLLON LIMASSOL[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+
+#EXTINF:-1 group-title=” 19.00 eur.lea IFK GOTENBERG – BELENENSES “,[COLOR green]19.00 eur.lea IFK GOTENBERG – BELENENSES[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 19.00 eur.lea IFK GOTENBERG – BELENENSES “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 19.00 eur.lea STROMGODSET – HAJDUK SPLIT “,[COLOR green]19.00 eur.lea STROMGODSET – HAJDUK SPLIT[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 19.00 eur.lea STROMGODSET – HAJDUK SPLIT “,hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+
+#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,[COLOR green]19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+
+#EXTINF:-1 group-title=” 19.00 eur.lea TRABZONSPOR – RABOTNICKI “,[COLOR green]19.00 eur.lea TRABZONSPOR – RABOTNICKI[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 19.00 eur.lea TRABZONSPOR – RABOTNICKI “,trt1 tr
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 group-title=” 20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON “,[COLOR green]20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON “,bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 2000 eur.lea ASTRA GIURGIU – WEST HAM UTD “,[COLOR green]2000 eur.lea ASTRA GIURGIU – WEST HAM UTD[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 2000 eur.lea ASTRA GIURGIU – WEST HAM UTD “,digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,[COLOR green]20.30 eur.lea BOR.DORTMUND – WAC[/COLOR] http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,ARD de
+http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,[COLOR green]22.15 eur.lea VIT.GUIMARAES – ALTACH[/COLOR] http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 18.00 eur.lea OMONIA NICOSIA – BRONDBY “,[COLOR green]18.00 eur.lea OMONIA NICOSIA – BRONDBY[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 18.00 eur.lea OMONIA NICOSIA – BRONDBY “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
