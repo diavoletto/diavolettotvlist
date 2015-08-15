@@ -1,83 +1,14 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 06/08/2015 11h16*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 15/08/2015 22h16*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-#EXTINF:-1 group-title=” 15.00 cycling VUELTA A BURGOS etapa 3 “,[COLOR green]15.00 cycling VUELTA A BURGOS etapa 3[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 15.00 cycling VUELTA A BURGOS etapa 3 “,
-rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_cyltv_liveeventos_multi_MB_746
 
-#EXTINF:-1 group-title=” 15.15 cycling TOUR of DENMARK stage 3 “,[COLOR green]15.15 cycling TOUR of DENMARK stage 3[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 15.15 cycling TOUR of DENMARK stage 3 “,eurosport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,[COLOR green]17.00 cycling VOLTA A PORTUGAL etapa 8[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=” 17.00 cycling VOLTA A PORTUGAL etapa 8 “,rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
-#EXTINF:-1 group-title=” 17.30 cycling TOR de POLOGNE stage 5 “,[COLOR green]17.30 cycling TOR de POLOGNE stage 5[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 17.30 cycling TOR de POLOGNE stage 5 “,eurosport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 18.00 eur.lea INTER BAKU – ATHLETIC BILBAO “,[COLOR green]18.00 eur.lea INTER BAKU – ATHLETIC BILBAO[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 18.00 eur.lea INTER BAKU – ATHLETIC BILBAO “,aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8
-
-#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,[COLOR green]18.00 eur.lea QABALA – APOLLON LIMASSOL[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=” 18.00 eur.lea QABALA – APOLLON LIMASSOL “,idman tv Az_opz 2
-http://bak01-edge03.itdc.ge/idman/index.m3u8
-
-#EXTINF:-1 group-title=” 19.00 eur.lea IFK GOTENBERG – BELENENSES “,[COLOR green]19.00 eur.lea IFK GOTENBERG – BELENENSES[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 19.00 eur.lea IFK GOTENBERG – BELENENSES “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=” 19.00 eur.lea STROMGODSET – HAJDUK SPLIT “,[COLOR green]19.00 eur.lea STROMGODSET – HAJDUK SPLIT[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 19.00 eur.lea STROMGODSET – HAJDUK SPLIT “,hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-
-#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,[COLOR green]19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=” 19.00 eur.lea ISTANBUL BASAKSEHIR – AZ ALKMAAR “,trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-
-#EXTINF:-1 group-title=” 19.00 eur.lea TRABZONSPOR – RABOTNICKI “,[COLOR green]19.00 eur.lea TRABZONSPOR – RABOTNICKI[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 19.00 eur.lea TRABZONSPOR – RABOTNICKI “,trt1 tr
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#EXTINF:-1 group-title=” 20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON “,[COLOR green]20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.00 eur.lea VITESSE ARNHEM – SOUTHAMPTON “,bt sport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 2000 eur.lea ASTRA GIURGIU – WEST HAM UTD “,[COLOR green]2000 eur.lea ASTRA GIURGIU – WEST HAM UTD[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 2000 eur.lea ASTRA GIURGIU – WEST HAM UTD “,digi sport 1 ro
-rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,[COLOR green]20.30 eur.lea BOR.DORTMUND – WAC[/COLOR] http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,ARD de
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.30 eur.lea BOR.DORTMUND – WAC “,orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,[COLOR green]22.15 eur.lea VIT.GUIMARAES – ALTACH[/COLOR] http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 22.15 eur.lea VIT.GUIMARAES – ALTACH “,orf 1 at
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=” 18.00 eur.lea OMONIA NICOSIA – BRONDBY “,[COLOR green]18.00 eur.lea OMONIA NICOSIA – BRONDBY[/COLOR] http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 18.00 eur.lea OMONIA NICOSIA – BRONDBY “,tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -299,100 +230,236 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 #EXTINF:-1,[COLOR red]****************UK IT Deu FR Channel ****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,Rai 1
-http://212.51.156.151:3001
-#EXTINF:0,Rai 2
-http://212.51.156.151:3002
-#EXTINF:0,Rai 3
-http://212.51.156.151:3003
-#EXTINF:0,Canale 5
-http://212.51.156.151:3005
-#EXTINF:0,Rete 4
-http://212.51.156.151:3004
-#EXTINF:0,Italia 1
-http://212.51.156.151:3006
-#EXTINF:0,Europort1 / HD
-http://212.51.156.151:3010
-#EXTINF:0,Europort2
-http://212.51.156.151:3000
-#EXTINF:0,SKY Sport24
-http://212.51.156.151:3013
-#EXTINF:0,Sky Calcio1
-http://212.51.146.19:4000
-#EXTINF:0,Sky Sport Plus
-http://212.51.146.19:4007
-#EXTINF:0,SKY Sport1
-http://212.51.156.151:3011
-#EXTINF:0,SKY Sport2
-http://109.202.195.76:5003
-#EXTINF:0,SKY Sport3
-http://109.202.195.76:5001
-#EXTINF:0,sky-sport-f1-hd
-http://212.51.146.19:4004
-#EXTINF:0,Fox Sports HD
-http://109.202.195.76:5010
-#EXTINF:0,Fox Animation HD
-http://212.51.156.151:3014
-#EXTINF:0,FOX
-http://212.51.146.19:4008
-#EXTINF:0,Fox Crime
-http://212.51.156.151:3008
-#EXTINF:0,SKY Cinema Max
-http://212.51.146.19:4003
-#EXTINF:0,Cinema Classics
-http://212.51.156.151:3007
-#EXTINF:0,SKY Cinema Hits
-http://212.51.146.19:4002
-#EXTINF:0,Cult
-http://109.202.195.76:5006
-#EXTINF:0,SKY Cinema 1
-http://212.51.156.151:3012
-#EXTINF:0,SKY Cinema Family
-http://109.202.195.76:5005
-#EXTINF:0,AXN
-http://212.51.156.151:3009
-#EXTINF:0,Sky TG 24 Meteo
-http://212.51.146.19:4006
-Nat Geographic
-http://212.51.146.19:4001
-Gambero-rosso
-http://212.51.146.19:4005
-#EXTINF:0,Nat Geo Wild
-http://109.202.195.76:5004
-#EXTINF:0,Discovery Channel
-http://109.202.195.76:5002
-#EXTINF:0,Disney Channel
-http://109.202.195.76:5000
-#EXTINF:0,Premium Sport
-http://212.51.146.19:4009
-#EXTINF:0,Premium Cinema
-http://109.202.195.76:5013
-#EXTINF:0,Premium Cinema 2
-http://109.202.195.76:5014
-#EXTINF:0,Sky Atlantic HD
-http://212.51.148.162:2000/hdmi
-#EXTINF:0,Sky Supercalcio HD
-http://212.51.148.162:2001/hdmi
+#EXTINF:0,Rai 1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/217.ts
+#EXTINF:0,Rai 2 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/218.ts
+#EXTINF:0,Rai 3 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/219.ts
+#EXTINF:0,Rete 4 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/220.ts
+#EXTINF:0,Canale 5 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/221.ts
+#EXTINF:0,Italia 1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/222.ts
+#EXTINF:0,La7
+http://tvservice.broke-it.net:8000/live/Renato/Renato/223.ts
+#EXTINF:0,MTV Italia
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1557.ts
+#EXTINF:0,Deejay TV
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2523.ts
+#EXTINF:0,RSI La1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/421.ts
+#EXTINF:0,RSI La2 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/420.ts
+#EXTINF:0,—- CINEMA —-
+http://tvservice.broke-it.net:8000/live/Renato/Renato/224.ts
+#EXTINF:0,Sky Cinema 1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/225.ts
+#EXTINF:0,Sky Cinema +1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/226.ts
+#EXTINF:0,Sky Cinema +24 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/227.ts
+#EXTINF:0,Sky Cinema Hits HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/228.ts
+#EXTINF:0,Sky Cinema Family HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/229.ts
+#EXTINF:0,Sky Cinema Passion HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/230.ts
+#EXTINF:0,Sky Cinema Comedy HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/231.ts
+#EXTINF:0,Sky Cinema Max HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/232.ts
+#EXTINF:0,Sky Cinema Max +1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/233.ts
+#EXTINF:0,Sky Cinema Cult HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/234.ts
+#EXTINF:0,Sky Cinema Classic HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/235.ts
+#EXTINF:0,Iris
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1481.ts
+#EXTINF:0,Rai Movie
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1552.ts
+#EXTINF:0,—- INTRATTENIMENTO —-
+http://tvservice.broke-it.net:8000/live/Renato/Renato/236.ts
+#EXTINF:0,Sky 3D
+http://tvservice.broke-it.net:8000/live/Renato/Renato/395.ts
 #EXTINF:0,Sky Uno HD
-http://212.51.148.162:2002/hdmi
-#EXTINF:0,Sky Sport HD
-http://212.51.148.162:2003/hdmi
+http://tvservice.broke-it.net:8000/live/Renato/Renato/237.ts
+#EXTINF:0,Sky Uno +1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2071.ts
+#EXTINF:0,Sky Atlantic HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/238.ts
+#EXTINF:0,Fox HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/239.ts
+#EXTINF:0,Fox +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1992.ts
+#EXTINF:0,Fox Life HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/240.ts
+#EXTINF:0,Fox life +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2594.ts
+#EXTINF:0,Fox Crime HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/241.ts
+#EXTINF:0,Fox Crime +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1993.ts
+#EXTINF:0,Fox Crime +2
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1994.ts
+#EXTINF:0,Fox Comedy HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/242.ts
+#EXTINF:0,Fox Animation HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/243.ts
+#EXTINF:0,CI Crime+Investigation HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/244.ts
+#EXTINF:0,AXN HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/245.ts
+#EXTINF:0,AXN Sci-Fi
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1707.ts
+#EXTINF:0,Comedy Central
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2190.ts
+#EXTINF:0,Lei
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2215.ts
+#EXTINF:0,Lei +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2590.ts
+#EXTINF:0,Real Time
+http://tvservice.broke-it.net:8000/live/Renato/Renato/247.ts
+#EXTINF:0,Real time +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2591.ts
+#EXTINF:0,Cielo
+http://tvservice.broke-it.net:8000/live/Renato/Renato/246.ts
+#EXTINF:0,E!
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1630.ts
+#EXTINF:0,Tv globo
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2508.ts
+#EXTINF:0,Top Crime
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1473.ts
+#EXTINF:0,Mediaset Italia 2
+http://tvservice.broke-it.net:8000/live/Renato/Renato/912.ts
+#EXTINF:0,Mediaset Extra
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1558.ts
+#EXTINF:0,La 5
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1392.ts
+#EXTINF:0,La7d
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1561.ts
+#EXTINF:0,Giallo
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2482.ts
+#EXTINF:0,Teleticino
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1612.ts
+#EXTINF:0,Rai 4
+http://tvservice.broke-it.net:8000/live/Renato/Renato/911.ts
+#EXTINF:0,Rai 5
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1554.ts
+#EXTINF:0,Rai Premium
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1548.ts
+#EXTINF:0,Tv 2000
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2049.ts
+#EXTINF:0,Italia 7 Gold
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2524.ts
+#EXTINF:0,R3
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1950.ts
+#EXTINF:0,Sardegna 1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2402.ts
+#EXTINF:0,Videolina
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1624.ts
+#EXTINF:0,Canale 21
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2326.ts
+#EXTINF:0,TV luna
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2324.ts
+#EXTINF:0,Canale 10
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2325.ts
+#EXTINF:0,—- SPORT —-
+http://tvservice.broke-it.net:8000/live/Renato/Renato/249.ts
+#EXTINF:0,Sky Sport 24 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/250.ts
+#EXTINF:0,Sky Sport 1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/251.ts
+#EXTINF:0,Sky Sport 2 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/252.ts
+#EXTINF:0,Sky Sport 3 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/253.ts
+#EXTINF:0,Sky Sport Plus HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2073.ts
+#EXTINF:0,Sky Sport F1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/254.ts
+#EXTINF:0,Sky Moto GP HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/255.ts
+#EXTINF:0,Sport Italia
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1547.ts
+#EXTINF:0,Rai Sport 1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1551.ts
+#EXTINF:0,Rai sport 2
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2048.ts
+#EXTINF:0,Super Tennis HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/256.ts
+#EXTINF:0,—- CALCIO —-
+http://tvservice.broke-it.net:8000/live/Renato/Renato/257.ts
+#EXTINF:0,Milan channel
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1515.ts
+#EXTINF:0,Juventus Channel
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1662.ts
+#EXTINF:0,Inter Channel
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1917.ts
+#EXTINF:0,Roma Channel
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1918.ts
+#EXTINF:0,Fox Sports HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/413.ts
+#EXTINF:0,Sky Supercalcio HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/258.ts
+#EXTINF:0,Sky Calcio 1 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/259.ts
+#EXTINF:0,Sky Calcio 2 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/260.ts
+#EXTINF:0,Sky Calcio 3 HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/261.ts
+#EXTINF:0,—- CULTURA —-
+http://tvservice.broke-it.net:8000/live/Renato/Renato/266.ts
 #EXTINF:0,Sky Arte HD
-http://212.51.148.162:2004/hdmi
-#EXTINF:0,Sky Sport HD
-http://212.51.148.162:2005/hdmi
-#EXTINF:0,Cinema Passion HD
-http://212.51.148.162:2007/hdmi
-#EXTINF:0,RSI LA 2
-http://212.51.148.162:2008/hdmi
-#EXTINF:0,RSI LA 1
-http://212.51.148.162:2009/hdmi
-#EXTINF:0,Cinema HD
-http://212.51.148.162:2010/hdmi
-#EXTINF:0,Cinema HD
-http://212.51.148.162:2011/hdmi
-#EXTINF:0,Cinema Comedy HD
-http://212.51.148.162:2012/hdmi
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1526.ts
+#EXTINF:0,NationalGeo HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/267.ts
+#EXTINF:0,NationalGeo +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2592.ts
+#EXTINF:0,NatGeo People HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/268.ts
+#EXTINF:0,NatGeo Wild HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/394.ts
+#EXTINF:0,Discovery Sci HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/357.ts
+#EXTINF:0,Explora HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/284.ts
+#EXTINF:0,Discovery Channel HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/269.ts
+#EXTINF:0,Discovery Travel
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2277.ts
+#EXTINF:0,Premium Discovery World
+http://tvservice.broke-it.net:8000/live/Renato/Renato/303.ts
+#EXTINF:0,Premium BBC
+http://tvservice.broke-it.net:8000/live/Renato/Renato/302.ts
+#EXTINF:0,History HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/272.ts
+#EXTINF:0,History +1
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2593.ts
+#EXTINF:0,Gambero Rosso HD
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1920.ts
+#EXTINF:0,Focus
+http://tvservice.broke-it.net:8000/live/Renato/Renato/679.ts
+#EXTINF:0,Animal Planet
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1490.ts
+#EXTINF:0,Caccia e Pesca
+http://tvservice.broke-it.net:8000/live/Renato/Renato/273.ts
+#EXTINF:0,Pesca e Caccia
+http://tvservice.broke-it.net:8000/live/Renato/Renato/863.ts
+#EXTINF:0,Italian Fishing TV
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1995.ts
+#EXTINF:0,Nuvolari
+http://tvservice.broke-it.net:8000/live/Renato/Renato/2096.ts
+#EXTINF:0,Marcopolo
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1559.ts
+#EXTINF:0,Leonardo
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1560.ts
+#EXTINF:0,Alice
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1569.ts
+#EXTINF:0,Fine living
+http://tvservice.broke-it.net:8000/live/Renato/Renato/1395.ts
 
 #EXTINF:-1,SRF1
 http://81.92.105.134:5555/pl.m3u8?channel=1&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
