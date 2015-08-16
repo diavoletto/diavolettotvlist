@@ -1,14 +1,236 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 16/08/2015 11h16*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 16/08/2015 14h16*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1 group-title=” 12.15 por2 SP.COVILHA – CHAVES “,[COLOR green]12.15 por2 SP.COVILHA – CHAVES[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 12.15 por2 SP.COVILHA – CHAVES “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
+#EXTINF:-1 group-title=” 12.30 ned PSV EINDHOVEN – GRONINGEN “,[COLOR green]12.30 ned PSV EINDHOVEN – GRONINGEN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 12.30 ned PSV EINDHOVEN – GRONINGEN “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 12.30 ned PSV EINDHOVEN – GRONINGEN “,sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 13.00 eng2 WOLVERHAMPTON – HULL CITY “,[COLOR green]13.00 eng2 WOLVERHAMPTON – HULL CITY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 13.00 eng2 WOLVERHAMPTON – HULL CITY “,gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=” 13.00 eng2 WOLVERHAMPTON – HULL CITY “,gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 13.00 eng2 WOLVERHAMPTON – HULL CITY “,sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 14.00 fra REIMS – MARSEILLE “,[COLOR green]14.00 fra REIMS – MARSEILLE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 14.00 fra REIMS – MARSEILLE “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 14.00 fra REIMS – MARSEILLE “,beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,[COLOR green]14.30 bel OOSTENDE – ANDERLECHT[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,Sportitalia
+rtmp://spi.hystream.com:1935/spilive/spistream_480
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,setanta eurasia
+http://80.77.52.6:3719/udp/230.0.4.1:12345
+#EXTINF:-1 group-title=” 14.30 bel OOSTENDE – ANDERLECHT “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 14.30 ned CAAMBUR L. – FEYENOORD “,[COLOR green]14.30 ned CAAMBUR L. – FEYENOORD[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 14.30 ned CAAMBUR L. – FEYENOORD “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=” 14.30 ned CAAMBUR L. – FEYENOORD “,sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 14.30 eng CRYSTAL PALACE – ARSENAL “,[COLOR green]14.30 eng CRYSTAL PALACE – ARSENAL[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 14.30 eng CRYSTAL PALACE – ARSENAL “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 14.30 eng CRYSTAL PALACE – ARSENAL “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 14.30 eng CRYSTAL PALACE – ARSENAL “,tv3 sport 2 ace
+acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
+#EXTINF:-1 group-title=” 14.30 eng CRYSTAL PALACE – ARSENAL “,viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+
+#EXTINF:-1 group-title=” 14.45 cycling ENECO TOUR 7th stage “,[COLOR green]14.45 cycling ENECO TOUR 7th stage[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 14.45 cycling ENECO TOUR 7th stage “,eurosport de
+http://81.92.105.134:5555/pl.m3u8?channel=24
+
+#EXTINF:-1 group-title=” 15.00 den VESTSJAELLAND – FREDERICIA “,[COLOR green]15.00 den VESTSJAELLAND – FREDERICIA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 15.00 den VESTSJAELLAND – FREDERICIA “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+
+#EXTINF:-1 group-title=” 15.30 ger WOLFSBURG – EIN.FRANKFURT “,[COLOR green]15.30 ger WOLFSBURG – EIN.FRANKFURT[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 15.30 ger WOLFSBURG – EIN.FRANKFURT “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 15.30 ger WOLFSBURG – EIN.FRANKFURT “,beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=” 15.30 ger WOLFSBURG – EIN.FRANKFURT “,supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:-1 group-title=” 16.30 aus STURM GRAZ – RAPID WIEN “,[COLOR green]16.30 aus STURM GRAZ – RAPID WIEN[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 16.30 aus STURM GRAZ – RAPID WIEN “,orf 1 at
+http://81.92.105.134:5555/pl.m3u8?channel=7
+#EXTINF:-1 group-title=” 16.30 aus STURM GRAZ – RAPID WIEN “,orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,[COLOR green]17.00 eng MANCHESTER CITY – CHELSEA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,tv3 sport 2 ace
+acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=” 17.00 eng MANCHESTER CITY – CHELSEA “,tsn 2 ca ace
+acestream://1f66b63a33bd9010511d35f263482330d4e23d88
+
+#EXTINF:-1 group-title=” 17.00 por VIT.SETUBAL – BOAVISTA “,[COLOR green]17.00 por VIT.SETUBAL – BOAVISTA[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 17.00 por VIT.SETUBAL – BOAVISTA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 17.00 fra LORIENT – BASTIA “,[COLOR green]17.00 fra LORIENT – BASTIA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 17.00 fra LORIENT – BASTIA “,beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=” 17.00 fra LORIENT – BASTIA “,arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 17.00 fra LORIENT – BASTIA “,bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=7 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 17.00 cycling ARTIC RACE of NORWAY 4th stage “,[COLOR green]17.00 cycling ARTIC RACE of NORWAY 4th stage[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 17.00 cycling ARTIC RACE of NORWAY 4th stage “,eurosport de
+http://81.92.105.134:5555/pl.m3u8?channel=24
+
+#EXTINF:-1 group-title=” 17.30 ger STUTTGART – KOLN “,[COLOR green]17.30 ger STUTTGART – KOLN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 17.30 ger STUTTGART – KOLN “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 17.30 ger STUTTGART – KOLN “,beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=” 17.30 ger STUTTGART – KOLN “,bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 17.30 ger STUTTGART – KOLN “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1 group-title=” 18.00 den OB ODENSE – RANDERS “,[COLOR green]18.00 den OB ODENSE – RANDERS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 18.00 den OB ODENSE – RANDERS “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+#EXTINF:-1 group-title=” 18.00 den OB ODENSE – RANDERS “,sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 18.30 ita.cup UDINESE – NOVARA “,[COLOR green]18.30 ita.cup UDINESE – NOVARA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 18.30 ita.cup UDINESE – NOVARA “,rai sport 1 it
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 group-title=” 19.15 por SP.BRAGA – NAC.MADEIRA “,[COLOR green]19.15 por SP.BRAGA – NAC.MADEIRA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 19.15 por SP.BRAGA – NAC.MADEIRA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,[COLOR green]21.00 fra PARIS ST.GERMAIN – AJACCIO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=” 21.00 fra PARIS ST.GERMAIN – AJACCIO “,setanta eurasia
+http://80.77.52.6:3719/udp/230.0.4.1:12345
+
+#EXTINF:-1 group-title=” 21.00 bra CRUZEIRO – INTERNATIONAL “,[COLOR green]21.00 bra CRUZEIRO – INTERNATIONAL[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 21.00 bra CRUZEIRO – INTERNATIONAL “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 21.00 bra CRUZEIRO – INTERNATIONAL “,arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 21.00 arg SAN LORENZO – CRUCERO DEL NORTE “,[COLOR green]21.00 arg SAN LORENZO – CRUCERO DEL NORTE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 21.00 arg SAN LORENZO – CRUCERO DEL NORTE “,arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 21.00 arg GIMNASIA LA PLATA – ARGENTINOS JRS “,[COLOR green]21.00 arg GIMNASIA LA PLATA – ARGENTINOS JRS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 21.00 arg GIMNASIA LA PLATA – ARGENTINOS JRS “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 21.00 arg GIMNASIA LA PLATA – ARGENTINOS JRS “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 21.00 arg GIMNASIA LA PLATA – ARGENTINOS JRS “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 21.15 ita.cup TORINO – PESCARA “,[COLOR green]21.15 ita.cup TORINO – PESCARA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 21.15 ita.cup TORINO – PESCARA “,rai sport 1 it
+http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 group-title=” 21.30 por BENFICA – ESTORIL “,[COLOR green]21.30 por BENFICA – ESTORIL[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 21.30 por BENFICA – ESTORIL “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 21.30 por BENFICA – ESTORIL “,bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=7 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 23.00 mls SEATTLE SOUNDERS – ORLANDO CITY “,[COLOR green]23.00 mls SEATTLE SOUNDERS – ORLANDO CITY[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 23.00 mls SEATTLE SOUNDERS – ORLANDO CITY “,sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 23.15 arg VEL.SARSFIELD – ATL.RAFAELA “,[COLOR green]23.15 arg VEL.SARSFIELD – ATL.RAFAELA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 23.15 arg VEL.SARSFIELD – ATL.RAFAELA “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 23.15 arg VEL.SARSFIELD – ATL.RAFAELA “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 23.15 arg VEL.SARSFIELD – ATL.RAFAELA “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,[COLOR green]2.30 arg ARS.SARANDI – BOCA JUNIORS[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=” 2.30 arg ARS.SARANDI – BOCA JUNIORS “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -228,8 +450,369 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
 
-#EXTINF:-1,[COLOR red]****************UK IT Deu FR Channel ****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************WORLD IPTV CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+‪#‎EXTINF‬:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0,Viasat Sport
+http://93.184.221.133/00573D/1341/1341-0.m3u8
+#EXTINF:0,3Sport 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF:0,3Sport
+http://93.184.221.133/00573D/837/837-0.m3u8
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0,Viasat Golf (1)
+http://93.184.221.133/00573D/204/204-0.m3u8
+#EXTINF:0,Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF:0,Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:0,ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0,CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0,CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0,BOXNATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:0,EURONEWS
+http://93.184.221.133/00573D/346/346-0.m3u8
+#EXTINF:0,DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DISCOVERY EUROPE
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+#EXTINF:0,SKY INFO
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+#EXTINF:0,RTE 1
+http://93.184.221.133/00573D/345/345-0.m3u8
+#EXTINF:0,C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF:0,NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+#EXTINF:0,MTV MUSIC TELEVISION
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:0,MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+#EXTINF:0,CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+#EXTINF:0,CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+#EXTINF:0,CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+#EXTINF:0,CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+#EXTINF:0,CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+#EXTINF:0,PLUS 3
+http://93.184.221.133/00573D/232/232-0.m3u8
+#EXTINF:0,TG 4
+http://93.184.221.133/00573D/348/348-0.m3u8
+#EXTINF:0, RTE ONE
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/100.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, RTE TWO
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/104.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, 3e
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/139.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV3 IE
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/102.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, sky1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/136.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, sky2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/137.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Atlantic HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/132.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Comedy Xtra
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/135.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TG4
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/101.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TCM +1 UK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/142.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, CBS Reality
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/143.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Horror Channel
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/202.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sony Entertainment
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/113.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Cartoon Network +1 UK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/192.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Disney Channel +1 UK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/107.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, RTEjr
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/103.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Boomerang
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/193.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ITV
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/175.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ITV3
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/177.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ITV2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/176.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ITV4
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/178.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BBC One
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/196.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BBC Two
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/197.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BBC Three
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/198.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BBC Four
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/199.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BBC News
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/200.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Setanta Sports
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/70.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Premier Sports
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/71.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ESPN
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/146.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, NBA
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/144.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports F1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/96.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports 1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/98.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports 2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/97.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports 3
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/99.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports 4
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/106.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports 5
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/105.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Sports News HQ
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/133.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BT Sport 1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/92.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, BT Sport 2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/94.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, British Eurosport
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/188.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, British Eurosport 2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/134.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Racing UK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/93.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Viasat Golf
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/40.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MUTV
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/195.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Chelsea TV
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/138.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Box Nation
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/194.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery Channel
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/63.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery +1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/65.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery History
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/67.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery Turbo
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/68.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery Science
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/66.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ID
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/69.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Animal Planet
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/64.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Travel Channel
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/140.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Crime Investigation +1 UK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/141.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Premiere
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/56.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Premiere +1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/57.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Select
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/53.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Comedy
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/51.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Greats
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/60.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Action
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/185.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Family
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/55.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Thriller
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/58.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Dramarom
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/59.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sky Movies Scifi Horror
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/52.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Movies 4 Men
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/72.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MTV Dance
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/79.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MTV Hits
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/75.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MTV Base
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/76.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MTV Rocks
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/74.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, VIVA
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/77.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, VH1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/149.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, LRT
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/4.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, LRT CULTURA
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/8.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/12.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, LNK
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/9.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV3
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/13.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Baltijos TV
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/7.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Lietuvos Rytas TV
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/15.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Balticum
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/8.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Balticum Auksinis
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/21.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV6
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/14.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV8
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/11.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, LIUKS!
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/6.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Info TV!
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/10.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Kidzone
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/19.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV1000 Premium
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/20.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Viasat Sport Baltic
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/16.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, SONY Turbo
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/112.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sony Entertainment
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/113.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sport 1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/5.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Russia HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/184.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, HTB
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/151.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Russia 1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/154.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Russia 24
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/156.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Perviy Kanal HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/183.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Perviy Baltijiskyi
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/30.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Ren TV Lietuva
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/31.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, LNT Latvia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/18.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, 3+ Latvija
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/17.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sport 1 HD Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/181.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, HD Kino 2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/180.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MGM HD Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/182.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, THT
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/152.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, NTV Mir Lithuania
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/32.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Russia Kultura
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/155.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, CTC Moskva
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/84.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/159.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TB3
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/157.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/158.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/153.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/186.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/187.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV1000 Comedy HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/43.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV1000 Premium HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/45.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TV1000 Megahit HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/44.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Mezzo
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/39.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, MTV Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/148.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/179.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, CTC Baltic
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/28.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Viasat Sport HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/47.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Sport Hit
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/42.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Eurosport
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/37.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Viasat History HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/46.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Nat Geo Wild Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/150.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Animal Planet Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/35.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Discovery Channel Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/33.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, TLC Russia HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/173.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Nick Jr
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/29.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/115.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, SONY Turbo
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/112.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Muz TV Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/1.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, 360° http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/120.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/121.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/118.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, 2×2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/117.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Travel Channel HD
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/174.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/119.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, History HD Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/172.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Amedia 1
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/124.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Amedia Premium
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/125.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/126.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, ABTO 24
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/127.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Eurosport 2 Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/128.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Nickelodeon Russia
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/129.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Detski Mir
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/131.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Amedia 2
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/161.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Nashe Novoe Kino
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/164.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/168.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, CTC Love
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/167.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/190.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/165.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/189.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/166.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, VH1 European
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/149.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, Kino Hit
+http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/163.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+#EXTINF:0, http://37.187.149.103:8000/live/e2e52d8469d643ee/ea241ca886307ecd/162.m3u8?token=tzSvaB-ScID44nEwZl7KVQ&e=1438535204&u=33336&channel=
+
 
 
 #EXTINF:-1,SRF1
@@ -1456,7 +2039,3 @@ http://178.33.88.129:888/udp/239.102.0.252:1234
 http://178.33.88.129:888/udp/239.102.0.253:1234
 #EXTINF:-1,New channel – http //178.33.88.129 888/udp/239.102.0.254 1234
 http://178.33.88.129:888/udp/239.102.0.254:1234
-
-
-#EXTINF:-1,[COLOR red]****************USA TV****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
