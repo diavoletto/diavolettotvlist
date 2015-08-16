@@ -230,236 +230,7 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 #EXTINF:-1,[COLOR red]****************UK IT Deu FR Channel ****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,Rai 1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/217.ts
-#EXTINF:0,Rai 2 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/218.ts
-#EXTINF:0,Rai 3 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/219.ts
-#EXTINF:0,Rete 4 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/220.ts
-#EXTINF:0,Canale 5 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/221.ts
-#EXTINF:0,Italia 1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/222.ts
-#EXTINF:0,La7
-http://tvservice.broke-it.net:8000/live/Renato/Renato/223.ts
-#EXTINF:0,MTV Italia
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1557.ts
-#EXTINF:0,Deejay TV
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2523.ts
-#EXTINF:0,RSI La1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/421.ts
-#EXTINF:0,RSI La2 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/420.ts
-#EXTINF:0,—- CINEMA —-
-http://tvservice.broke-it.net:8000/live/Renato/Renato/224.ts
-#EXTINF:0,Sky Cinema 1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/225.ts
-#EXTINF:0,Sky Cinema +1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/226.ts
-#EXTINF:0,Sky Cinema +24 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/227.ts
-#EXTINF:0,Sky Cinema Hits HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/228.ts
-#EXTINF:0,Sky Cinema Family HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/229.ts
-#EXTINF:0,Sky Cinema Passion HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/230.ts
-#EXTINF:0,Sky Cinema Comedy HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/231.ts
-#EXTINF:0,Sky Cinema Max HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/232.ts
-#EXTINF:0,Sky Cinema Max +1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/233.ts
-#EXTINF:0,Sky Cinema Cult HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/234.ts
-#EXTINF:0,Sky Cinema Classic HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/235.ts
-#EXTINF:0,Iris
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1481.ts
-#EXTINF:0,Rai Movie
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1552.ts
-#EXTINF:0,—- INTRATTENIMENTO —-
-http://tvservice.broke-it.net:8000/live/Renato/Renato/236.ts
-#EXTINF:0,Sky 3D
-http://tvservice.broke-it.net:8000/live/Renato/Renato/395.ts
-#EXTINF:0,Sky Uno HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/237.ts
-#EXTINF:0,Sky Uno +1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2071.ts
-#EXTINF:0,Sky Atlantic HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/238.ts
-#EXTINF:0,Fox HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/239.ts
-#EXTINF:0,Fox +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1992.ts
-#EXTINF:0,Fox Life HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/240.ts
-#EXTINF:0,Fox life +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2594.ts
-#EXTINF:0,Fox Crime HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/241.ts
-#EXTINF:0,Fox Crime +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1993.ts
-#EXTINF:0,Fox Crime +2
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1994.ts
-#EXTINF:0,Fox Comedy HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/242.ts
-#EXTINF:0,Fox Animation HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/243.ts
-#EXTINF:0,CI Crime+Investigation HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/244.ts
-#EXTINF:0,AXN HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/245.ts
-#EXTINF:0,AXN Sci-Fi
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1707.ts
-#EXTINF:0,Comedy Central
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2190.ts
-#EXTINF:0,Lei
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2215.ts
-#EXTINF:0,Lei +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2590.ts
-#EXTINF:0,Real Time
-http://tvservice.broke-it.net:8000/live/Renato/Renato/247.ts
-#EXTINF:0,Real time +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2591.ts
-#EXTINF:0,Cielo
-http://tvservice.broke-it.net:8000/live/Renato/Renato/246.ts
-#EXTINF:0,E!
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1630.ts
-#EXTINF:0,Tv globo
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2508.ts
-#EXTINF:0,Top Crime
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1473.ts
-#EXTINF:0,Mediaset Italia 2
-http://tvservice.broke-it.net:8000/live/Renato/Renato/912.ts
-#EXTINF:0,Mediaset Extra
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1558.ts
-#EXTINF:0,La 5
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1392.ts
-#EXTINF:0,La7d
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1561.ts
-#EXTINF:0,Giallo
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2482.ts
-#EXTINF:0,Teleticino
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1612.ts
-#EXTINF:0,Rai 4
-http://tvservice.broke-it.net:8000/live/Renato/Renato/911.ts
-#EXTINF:0,Rai 5
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1554.ts
-#EXTINF:0,Rai Premium
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1548.ts
-#EXTINF:0,Tv 2000
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2049.ts
-#EXTINF:0,Italia 7 Gold
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2524.ts
-#EXTINF:0,R3
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1950.ts
-#EXTINF:0,Sardegna 1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2402.ts
-#EXTINF:0,Videolina
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1624.ts
-#EXTINF:0,Canale 21
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2326.ts
-#EXTINF:0,TV luna
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2324.ts
-#EXTINF:0,Canale 10
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2325.ts
-#EXTINF:0,—- SPORT —-
-http://tvservice.broke-it.net:8000/live/Renato/Renato/249.ts
-#EXTINF:0,Sky Sport 24 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/250.ts
-#EXTINF:0,Sky Sport 1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/251.ts
-#EXTINF:0,Sky Sport 2 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/252.ts
-#EXTINF:0,Sky Sport 3 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/253.ts
-#EXTINF:0,Sky Sport Plus HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2073.ts
-#EXTINF:0,Sky Sport F1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/254.ts
-#EXTINF:0,Sky Moto GP HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/255.ts
-#EXTINF:0,Sport Italia
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1547.ts
-#EXTINF:0,Rai Sport 1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1551.ts
-#EXTINF:0,Rai sport 2
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2048.ts
-#EXTINF:0,Super Tennis HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/256.ts
-#EXTINF:0,—- CALCIO —-
-http://tvservice.broke-it.net:8000/live/Renato/Renato/257.ts
-#EXTINF:0,Milan channel
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1515.ts
-#EXTINF:0,Juventus Channel
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1662.ts
-#EXTINF:0,Inter Channel
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1917.ts
-#EXTINF:0,Roma Channel
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1918.ts
-#EXTINF:0,Fox Sports HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/413.ts
-#EXTINF:0,Sky Supercalcio HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/258.ts
-#EXTINF:0,Sky Calcio 1 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/259.ts
-#EXTINF:0,Sky Calcio 2 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/260.ts
-#EXTINF:0,Sky Calcio 3 HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/261.ts
-#EXTINF:0,—- CULTURA —-
-http://tvservice.broke-it.net:8000/live/Renato/Renato/266.ts
-#EXTINF:0,Sky Arte HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1526.ts
-#EXTINF:0,NationalGeo HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/267.ts
-#EXTINF:0,NationalGeo +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2592.ts
-#EXTINF:0,NatGeo People HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/268.ts
-#EXTINF:0,NatGeo Wild HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/394.ts
-#EXTINF:0,Discovery Sci HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/357.ts
-#EXTINF:0,Explora HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/284.ts
-#EXTINF:0,Discovery Channel HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/269.ts
-#EXTINF:0,Discovery Travel
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2277.ts
-#EXTINF:0,Premium Discovery World
-http://tvservice.broke-it.net:8000/live/Renato/Renato/303.ts
-#EXTINF:0,Premium BBC
-http://tvservice.broke-it.net:8000/live/Renato/Renato/302.ts
-#EXTINF:0,History HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/272.ts
-#EXTINF:0,History +1
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2593.ts
-#EXTINF:0,Gambero Rosso HD
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1920.ts
-#EXTINF:0,Focus
-http://tvservice.broke-it.net:8000/live/Renato/Renato/679.ts
-#EXTINF:0,Animal Planet
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1490.ts
-#EXTINF:0,Caccia e Pesca
-http://tvservice.broke-it.net:8000/live/Renato/Renato/273.ts
-#EXTINF:0,Pesca e Caccia
-http://tvservice.broke-it.net:8000/live/Renato/Renato/863.ts
-#EXTINF:0,Italian Fishing TV
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1995.ts
-#EXTINF:0,Nuvolari
-http://tvservice.broke-it.net:8000/live/Renato/Renato/2096.ts
-#EXTINF:0,Marcopolo
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1559.ts
-#EXTINF:0,Leonardo
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1560.ts
-#EXTINF:0,Alice
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1569.ts
-#EXTINF:0,Fine living
-http://tvservice.broke-it.net:8000/live/Renato/Renato/1395.ts
+
 
 #EXTINF:-1,SRF1
 http://81.92.105.134:5555/pl.m3u8?channel=1&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
@@ -922,604 +693,237 @@ http://109.87.164.11:8080/udp/238.0.16.63:1234
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,TF1 HD
-http://178.250.208.141/1/play.m3u8
-#EXTINF:-1 ,TF1 (link 2)
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/tf1hl874093481.m3u8
- #EXTINF:-1,France 2 
-http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=146.159.95.38
-#EXTINF:-1,France 2 (link2)
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f277209358946trd.m3u8
- #EXTINF:-1,France 3
-http://pebbles100-lh.akamaihd.net/i/france3_1@97329/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
- #EXTINF:-1 ,France 3 (link2)
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/f37736209812hgd.m3u8
-#EXTINF:-1 ,France 4
-http://178.250.208.141/14/play.m3u8
-#EXTINF:-1,France 5
-http://pebbles102-lh.akamaihd.net/i/france5_1@97351/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
-#EXTINF:-1,M6 
-http://pebbles108-lh.akamaihd.net/i/m6_1@97467/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
-#EXTINF:-1 ,M6 (link2)
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/m6hd339407138.m3u8
-#EXTINF:-1,CANAL+
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canphd38917199.m3u8
-#EXTINF:-1,CANAL+ Cinéma
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canchd939493889.m3u8
-#EXTINF:-1,CANAL+ Décalé  
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Canal_Plus_Decale_HD.m3u8
-#EXTINF:-1,CANAL+ Sport
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshd7432765230.m3u8
-#EXTINF:-1,CANAL+ Séries
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canshdx84993660.m3u8
-#EXTINF:-1,CANAL+ Family
-http://wpc.e803.mucdn.net/80E803/enco35-cp/hls/m3u8/canf23851231yuf.m3u8
-#EXTINF:-1,CINE+ Premier
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_plus_Premier_HD.m3u8
-#EXTINF:-1,CINE+ Emotion
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Cine_Emotion_HD.m3u8
-#EXTINF:-1 ,TMC
-http://178.250.208.141/10/play.m3u8
-#EXTINF:-1 ,NT1
-http://178.250.208.141/11/play.m3u8
-#EXTINF:-1 ,Nrj12
-http://178.250.208.141/12/play.m3u8
-#EXTINF:-1 ,D8
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/d8hd8183309618.m3u8
-#EXTINF:-1, SyFy_HD
-http://wpc.e803.mucdn.net/80E803/Scam/hls/SyFy_HD.m3u8
-#EXTINF:-1 ,W9
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/w9hd03385911.m3u8
-#EXTINF:-1 ,D17
-http://178.250.208.141/17/play.m3u8
-#EXTINF:-1 ,6ter
-http://178.250.208.141/22/play.m3u8
-#EXTINF:-1,HD1
-http://178.250.208.141/20/play.m3u8
-#EXTINF:-1 ,Numéro 23
-http://178.250.208.141/23/play.m3u8
-#EXTINF:-1 ,Chérie 25
-http://178.250.208.141/25/play.m3u8
-#EXTINF:-1 ,Téva
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Teva.m3u8
-#EXTINF:-1, Gulli
-http://178.250.208.141/18/play.m3u8
-#EXTINF:-1 ,Science & Vie Tv
-http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
-#EXTINF:-1 ,NAT GEO WILD
-http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_Wild_FR_HD.m3u8
-#EXTINF:-1 ,NATIONAL GEO
-http://wpc.e803.mucdn.net/80E803/Scam/hls/National_Geo_FR_HD.m3u8
-#EXTINF:-1 ,PLANETE+ THALASSA
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Thalassa_HD.m3u8
-#EXTINF:-1 ,PLANETE+
-http://wpc.e803.mucdn.net/80E803/Scam/hls/Planet_Plus_HD.m3u8
-#EXTINF:-1 ,CHASSE ET PECHE
-http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
-#EXTINF:-1 ,RMC Découverte
-http://178.250.208.141/24/play.m3u8
-#EXTINF:-1,TV5Monde
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1 ,RTL9
-http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38
-#EXTINF:-1,Arte (German/French Tv)
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,Arte HD (link2)
-http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/index_1300_av-p.m3u8|X-Forwarded-For=146.159.95.38
-#EXTINF:-1 ,Arte (link3)
-http://wpc.e803.mucdn.net/80E803/enco35-tnt/hls/m3u8/artehd90231836.m3u8
-#EXTINF:-1 ,Gong Base
-rtsp://ec.playmedia.fr:1935/gong-base/live
-#EXTINF:-1 ,AB1
-http://www.abweb.com/bis-tv-online/getmanifest.aspx?chn=ab1&type=.m3u8
-#EXTINF:-1 ,My Zen.tv
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8?version=2
-#EXTINF:-1,WÈo
-rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1, Antenne RÈunion
-http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
-#EXTINF:-1,TVA Montréal
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 
-#EXTINF:-1,Channel 5 (Ukraine)
-http://78.30.254.27:8989/udp/239.0.0.1:4000
-#EXTINF:-1,News One
-http://78.30.254.27:8989/udp/239.0.0.2:4000
-#EXTINF:-1,RU Music
-http://78.30.254.27:8989/udp/239.0.0.3:4000
-#EXTINF:-1,OTV
-http://78.30.254.27:8989/udp/239.0.0.4:4000
-#EXTINF:-1,EKO TV
-http://78.30.254.27:8989/udp/239.0.0.5:4000
-#EXTINF:-1,Gamma
-http://78.30.254.27:8989/udp/239.0.0.6:4000
-#EXTINF:-1,Egoist TV
-http://78.30.254.27:8989/udp/239.0.0.7:4000
-#EXTINF:-1,CK
-http://78.30.254.27:8989/udp/239.0.0.8:4000
-#EXTINF:-1,First Business Channel
-http://78.30.254.27:8989/udp/239.0.0.9:4000
-#EXTINF:-1,TNT Comedy
-http://78.30.254.27:8989/udp/239.0.0.11:4000
-#EXTINF:-1,UK
-http://78.30.254.27:8989/udp/239.0.0.12:4000
-#EXTINF:-1,Ren
-http://78.30.254.27:8989/udp/239.0.0.13:4000
-#EXTINF:-1,Channel 1
-http://78.30.254.27:8989/udp/239.0.0.14:4000
-#EXTINF:-1,NTV+ Nashe Kino
-http://78.30.254.27:8989/udp/239.0.0.15:4000
-#EXTINF:-1,NTV+ Kino Plus
-http://78.30.254.27:8989/udp/239.0.0.16:4000
-#EXTINF:-1,365 Days TV
-http://78.30.254.27:8989/udp/239.0.0.17:4000
-#EXTINF:-1,La Minor TV
-http://78.30.254.27:8989/udp/239.0.0.18:4000
-#EXTINF:-1,Komedia TV
-http://78.30.254.27:8989/udp/239.0.0.19:4000
-#EXTINF:-1,India TV
-http://78.30.254.27:8989/udp/239.0.0.20:4000
-#EXTINF:-1,Mnogo TV
-http://78.30.254.27:8989/udp/239.0.0.21:4000
-#EXTINF:-1,Interesnoe TV
-http://78.30.254.27:8989/udp/239.0.0.22:4000
-#EXTINF:-1,Kuhnja TV
-http://78.30.254.27:8989/udp/239.0.0.23:4000
-#EXTINF:-1,Boec
-http://78.30.254.27:8989/udp/239.0.0.24:4000
-#EXTINF:-1,Malyatko TV
-http://78.30.254.27:8989/udp/239.0.0.26:4000
-#EXTINF:-1,Gulli
-http://78.30.254.27:8989/udp/239.0.0.27:4000
-#EXTINF:-1,Discovery Channel (EN)
-http://78.30.254.27:8989/udp/239.0.0.29:4000
-#EXTINF:-1,Vozgrodenie TV
-http://78.30.254.27:8989/udp/239.0.0.30:4000
-#EXTINF:-1,Disney Kanal
-http://78.30.254.27:8989/udp/239.0.0.31:4000
-#EXTINF:-1,TLC (EN)
-http://78.30.254.27:8989/udp/239.0.0.32:4000
-#EXTINF:-1,Eurosport (EN)
-http://78.30.254.27:8989/udp/239.0.0.33:4000
-#EXTINF:-1,Animal Planet (EN)
-http://78.30.254.27:8989/udp/239.0.0.34:4000
-#EXTINF:-1,Nat Geo (EN)
-http://78.30.254.27:8989/udp/239.0.0.35:4000
-#EXTINF:-1,NTV+ Kino Soyuz
-http://78.30.254.27:8989/udp/239.0.0.36:4000
-#EXTINF:-1,RTG TV (EN)
-http://78.30.254.27:8989/udp/239.0.0.37:4000
-#EXTINF:-1,Ocean TV
-http://78.30.254.27:8989/udp/239.0.0.38:4000
-#EXTINF:-1,Moya Planeta
-http://78.30.254.27:8989/udp/239.0.0.39:4000
-#EXTINF:-1,Nauka 2.0
-http://78.30.254.27:8989/udp/239.0.0.40:4000
-#EXTINF:-1,Outdoor Channel (EN)
-http://78.30.254.27:8989/udp/239.0.0.41:4000
-#EXTINF:-1,24 Doc
-http://78.30.254.27:8989/udp/239.0.0.42:4000
-#EXTINF:-1,Perec
-http://78.30.254.27:8989/udp/239.0.0.27:4000
-#EXTINF:-1,Vh1 Classic
-http://78.30.254.27:8989/udp/239.0.0.44:4000
-#EXTINF:-1,Domasnji
-http://78.30.254.27:8989/udp/239.0.0.45:4000
-#EXTINF:-1,CN (EN)
-http://78.30.254.27:8989/udp/239.0.0.46:4000
-#EXTINF:-1,Discovery World (EN)
-http://78.30.254.27:8989/udp/239.0.0.47:4000
-#EXTINF:-1,Discovery Sc. (EN)
-http://78.30.254.27:8989/udp/239.0.0.48:4000
-#EXTINF:-1,MCM TOP
-http://78.30.254.27:8989/udp/239.0.0.49:4000
-#EXTINF:-1,Extreme Sports Channel (EN)
-http://78.30.254.27:8989/udp/239.0.0.50:4000
-#EXTINF:-1,Nat Geo Wild (EN)
-http://78.30.254.27:8989/udp/239.0.0.51:4000
-#EXTINF:-1,Rada
-http://78.30.254.27:8989/udp/239.0.0.52:4000
-#EXTINF:-1,Oruzhie
-http://78.30.254.27:8989/udp/239.0.0.53:4000
-#EXTINF:-1,Glas
-http://78.30.254.27:8989/udp/239.0.0.54:4000
-#EXTINF:-1,TNT
-http://78.30.254.27:8989/udp/239.0.0.55:4000
-#EXTINF:-1,Dobro TV
-http://78.30.254.27:8989/udp/239.0.0.56:4000
-#EXTINF:-1,UTR
-http://78.30.254.27:8989/udp/239.0.0.57:4000
-#EXTINF:-1,Vh1
-http://78.30.254.27:8989/udp/239.0.0.58:4000
-#EXTINF:-1,Rossyja K
-http://78.30.254.27:8989/udp/239.0.0.59:4000
-#EXTINF:-1,NTV+ Sport
-http://78.30.254.27:8989/udp/239.0.0.60:4000
-#EXTINF:-1,Nashe Kino
-http://78.30.254.27:8989/udp/239.0.0.61:4000
-#EXTINF:-1,TET
-http://78.30.254.27:8989/udp/239.0.0.62:4000
-#EXTINF:-1,RBK TV
-http://78.30.254.27:8989/udp/239.0.0.63:4000
-#EXTINF:-1,Sport 1
-http://78.30.254.27:8989/udp/239.0.0.65:4000
-#EXTINF:-1,Kiev TV
-http://78.30.254.27:8989/udp/239.0.0.66:4000
-#EXTINF:-1,ZIK
-http://78.30.254.27:8989/udp/239.0.0.67:4000
-#EXTINF:-1,Che Pe Info
-http://78.30.254.27:8989/udp/239.0.0.68:4000
-#EXTINF:-1,Sport 2
-http://78.30.254.27:8989/udp/239.0.0.69:4000
-#EXTINF:-1,K1
-http://78.30.254.27:8989/udp/239.0.0.70:4000
-#EXTINF:-1,Lviv TV
-http://78.30.254.27:8989/udp/239.0.0.71:4000
-#EXTINF:-1,Inter
-http://78.30.254.27:8989/udp/239.0.0.72:4000
-#EXTINF:-1,Euronews
-http://78.30.254.27:8989/udp/239.0.0.73:4000
-#EXTINF:-1,RTR Planeta
-http://78.30.254.27:8989/udp/239.0.0.74:4000
-#EXTINF:-1,English Club TV
-http://78.30.254.27:8989/udp/239.0.0.75:4000
-#EXTINF:-1,Moskva 24
-http://78.30.254.27:8989/udp/239.0.0.77:4000
-#EXTINF:-1,NTN
-http://78.30.254.27:8989/udp/239.0.0.78:4000
-#EXTINF:-1,MTV Dance
-http://78.30.254.27:8989/udp/239.0.0.80:4000
-#EXTINF:-1, Eurosport2 (EN)
-http://78.30.254.27:8989/udp/239.0.0.81:4000
-#EXTINF:-1,Nautical Channel (EN)
-http://78.30.254.27:8989/udp/239.0.0.82:4000
-#EXTINF:-1,NTV+ Kinohit
-http://78.30.254.27:8989/udp/239.0.0.83:4000
-#EXTINF:-1,NTV
-http://78.30.254.27:8989/udp/239.0.0.84:4000
-#EXTINF:-1,NTV+ Novoe Kino
-http://78.30.254.27:8989/udp/239.0.0.85:4000
-#EXTINF:-1, Nickelodeon (EN)
-http://78.30.254.27:8989/udp/239.0.0.86:4000
-#EXTINF:-1,NTV+ Premiera
-http://78.30.254.27:8989/udp/239.0.0.87:4000
-#EXTINF:-1,NTV+ Kinoklub
-http://78.30.254.27:8989/udp/239.0.0.88:4000
-#EXTINF:-1,AMC (EN)
-http://78.30.254.27:8989/udp/239.0.0.89:4000
-#EXTINF:-1,Trofey
-http://78.30.254.27:8989/udp/239.0.0.90:4000
-#EXTINF:-1,CBS Reality (EN)
-http://78.30.254.27:8989/udp/239.0.0.91:4000
-#EXTINF:-1,STS
-http://78.30.254.27:8989/udp/239.0.0.92:4000
-#EXTINF:-1,NTV+ Futbol 1
-http://78.30.254.27:8989/udp/239.0.0.93:4000
-#EXTINF:-1,NTV+ Tennis
-http://78.30.254.27:8989/udp/239.0.0.94:4000
-#EXTINF:-1,NTV+ Basketbol
-http://78.30.254.27:8989/udp/239.0.0.95:4000
-#EXTINF:-1,NTV+ Futbol 2
-http://78.30.254.27:8989/udp/239.0.0.96:4000
-#EXTINF:-1,Nas Futbol
-http://78.30.254.27:8989/udp/239.0.0.97:4000
-#EXTINF:-1,NTV+ Futbol 3
-http://78.30.254.27:8989/udp/239.0.0.98:4000
-#EXTINF:-1,NTV+ Sport Plus
-http://78.30.254.27:8989/udp/239.0.0.99:4000
-#EXTINF:-1,Telekanal 100
-http://78.30.254.27:8989/udp/239.0.0.100:4000
-#EXTINF:-1,Paramount Comedy
-http://78.30.254.27:8989/udp/239.0.0.101:4000
-#EXTINF:-1,Kiev STB
-http://78.30.254.27:8989/udp/239.0.0.102:4000
-#EXTINF:-1,M1
-http://78.30.254.27:8989/udp/239.0.0.103:4000
-#EXTINF:-1,MGM HD (orig.)
-http://78.30.254.27:8989/udp/239.0.0.104:4000
-#EXTINF:-1,Novy Channel
-http://78.30.254.27:8989/udp/239.0.0.105:4000
-#EXTINF:-1,ICTV
-http://78.30.254.27:8989/udp/239.0.0.106:4000
-#EXTINF:-1,M2
-http://78.30.254.27:8989/udp/239.0.0.107:4000
-#EXTINF:-1,Zvezda
-http://78.30.254.27:8989/udp/239.0.0.108:4000
-#EXTINF:-1,Rossyja 24
-http://78.30.254.27:8989/udp/239.0.0.109:4000
-#EXTINF:-1,QTV
-http://78.30.254.27:8989/udp/239.0.0.110:4000
-#EXTINF:-1,Plus Plus
-http://78.30.254.27:8989/udp/239.0.0.111:4000
-#EXTINF:-1,TBI
-http://78.30.254.27:8989/udp/239.0.0.112:4000
-#EXTINF:-1,UBR
-http://78.30.254.27:8989/udp/239.0.0.113:4000
-#EXTINF:-1,1HD
-http://78.30.254.27:8989/udp/239.0.0.114:4000
-#EXTINF:-1,Rossiya 1
-http://78.30.254.27:8989/udp/239.0.0.115:4000
-#EXTINF:-1,HD Kino
-http://78.30.254.27:8989/udp/239.0.0.116:4000
-#EXTINF:-1,HD Sport
-http://78.30.254.27:8989/udp/239.0.0.117:4000
-#EXTINF:-1,HD Life
-http://78.30.254.27:8989/udp/239.0.0.118:4000
-#EXTINF:-1,Discovery Showcase HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.119:4000
-#EXTINF:-1,1+1
-http://78.30.254.27:8989/udp/239.0.0.120:4000
-#EXTINF:-1,Piksel TV
-http://78.30.254.27:8989/udp/239.0.0.121:4000
-#EXTINF:-1,K2
-http://78.30.254.27:8989/udp/239.0.0.122:4000
-#EXTINF:-1,Enter Film
-http://78.30.254.27:8989/udp/239.0.0.123:4000
-#EXTINF:-1,Mezzo
-http://78.30.254.27:8989/udp/239.0.0.124:4000
-#EXTINF:-1,3D
-http://78.30.254.27:8989/udp/239.0.0.125:4000
-#EXTINF:-1,Zoom
-http://78.30.254.27:8989/udp/239.0.0.126:4000
-#EXTINF:-1,Mega
-http://78.30.254.27:8989/udp/239.0.0.127:4000
-#EXTINF:-1,Nickelodeon HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.128:4000
-#EXTINF:-1,Animal Planet HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.129:4000
-#EXTINF:-1,Rossiya 2
-http://78.30.254.27:8989/udp/239.0.0.130:4000
-#EXTINF:-1,Soyuz
-http://78.30.254.27:8989/udp/239.0.0.132:4000
-#EXTINF:-1,Unian TV
-http://78.30.254.27:8989/udp/239.0.0.133:4000
-#EXTINF:-1,Russian Extreme TV
-http://78.30.254.27:8989/udp/239.0.0.134:4000
-#EXTINF:-1,Musicbox
-http://78.30.254.27:8989/udp/239.0.0.135:4000
-#EXTINF:-1,ID (EN)
-http://78.30.254.27:8989/udp/239.0.0.136:4000
-#EXTINF:-1,Avto Plus
-http://78.30.254.27:8989/udp/239.0.0.137:4000
-#EXTINF:-1,CNN –
-http://78.30.254.27:8989/udp/239.0.0.138:4000
-#EXTINF:-1,Impact TV
-http://78.30.254.27:8989/udp/239.0.0.139:4000
-#EXTINF:-1,Sov. Sek
-http://78.30.254.27:8989/udp/239.0.0.140:4000
-#EXTINF:-1,Fox (EN)
-http://78.30.254.27:8989/udp/239.0.0.141:4000
-#EXTINF:-1,Vremya
-http://78.30.254.27:8989/udp/239.0.0.142:4000
-#EXTINF:-1,MTV Rocks
-http://78.30.254.27:8989/udp/239.0.0.127:4000
-#EXTINF:-1,Fox Life (EN)
-http://78.30.254.27:8989/udp/239.0.0.144:4000
-#EXTINF:-1,Teleklub
-http://78.30.254.27:8989/udp/239.0.0.145:4000
-#EXTINF:-1,Tocka TV
-http://78.30.254.27:8989/udp/239.0.0.146:4000
-#EXTINF:-1,Telekanal KHL
-http://78.30.254.27:8989/udp/239.0.0.147:4000
-#EXTINF:-1,Dom Kino Int
-http://78.30.254.27:8989/udp/239.0.0.148:4000
-#EXTINF:-1,Telekafe
-http://78.30.254.27:8989/udp/239.0.0.150:4000
-#EXTINF:-1,Bigudi
-http://78.30.254.27:8989/udp/239.0.0.151:4000
-#EXTINF:-1,TV1000 Action (EN)
-http://78.30.254.27:8989/udp/239.0.0.152:4000
-#EXTINF:-1,TV1000 (orig.)
-http://78.30.254.27:8989/udp/239.0.0.153:4000
-#EXTINF:-1,Viasat Nature (EN)
-http://78.30.254.27:8989/udp/239.0.0.154:4000
-#EXTINF:-1,Viasat Explore (EN)
-http://78.30.254.27:8989/udp/239.0.0.155:4000
-#EXTINF:-1,2+2
-http://78.30.254.27:8989/udp/239.0.0.156:4000
-#EXTINF:-1,Gamanoid
-http://78.30.254.27:8989/udp/239.0.0.157:4000
-#EXTINF:-1,Euronews –
-http://78.30.254.27:8989/udp/239.0.0.159:4000
-#EXTINF:-1,A One
-http://78.30.254.27:8989/udp/239.0.0.160:4000
-#EXTINF:-1,2×2
-http://78.30.254.27:8989/udp/239.0.0.161:4000
-#EXTINF:-1,Piyatnitza
-http://78.30.254.27:8989/udp/239.0.0.162:4000
-#EXTINF:-1,Black Sea TV
-http://78.30.254.27:8989/udp/239.0.0.163:4000
-#EXTINF:-1,Russia HD
-http://78.30.254.27:8989/udp/239.0.0.164:4000
-#EXTINF:-1,Kultura
-http://78.30.254.27:8989/udp/239.0.0.165:4000
-#EXTINF:-1,Business
-http://78.30.254.27:8989/udp/239.0.0.166:4000
-#EXTINF:-1,Shopping TV
-http://78.30.254.27:8989/udp/239.0.0.167:4000
-#EXTINF:-1,Nat Geo Wild HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.168:4000
-#EXTINF:-1,NTV+ Futbol 1HD
-http://78.30.254.27:8989/udp/239.0.0.169:4000
-#EXTINF:-1,MTV
-http://78.30.254.27:8989/udp/239.0.0.170:4000
-#EXTINF:-1,FM TV
-http://78.30.254.27:8989/udp/239.0.0.171:4000
-#EXTINF:-1,Park Razvleceni
-http://78.30.254.27:8989/udp/239.0.0.172:4000
-#EXTINF:-1,RU TV
-http://78.30.254.27:8989/udp/239.0.0.173:4000
-#EXTINF:-1,Tiji
-http://78.30.254.27:8989/udp/239.0.0.174:4000
-#EXTINF:-1,STV
-http://78.30.254.27:8989/udp/239.0.0.175:4000
-#EXTINF:-1,Bridge TV
-http://78.30.254.27:8989/udp/239.0.0.176:4000
-#EXTINF:-1,Rusong TV
-http://78.30.254.27:8989/udp/239.0.0.177:4000
-#EXTINF:-1,TV1000 Ruskoe Kino
-http://78.30.254.27:8989/udp/239.0.0.178:4000
-#EXTINF:-1,Viasat Sport (EN)
-http://78.30.254.27:8989/udp/239.0.0.179:4000
-#EXTINF:-1,U
-http://78.30.254.27:8989/udp/239.0.0.180:4000
-#EXTINF:-1,Nostalgia
-http://78.30.254.27:8989/udp/239.0.0.181:4000
-#EXTINF:-1,France 24 (EN)
-http://78.30.254.27:8989/udp/239.0.0.182:4000
-#EXTINF:-1,World Fashion
-http://78.30.254.27:8989/udp/239.0.0.183:4000
-#EXTINF:-1,Euronews (multi)
-http://78.30.254.27:8989/udp/239.0.0.185:4000
-#EXTINF:-1,iQ HD
-http://78.30.254.27:8989/udp/239.0.0.186:4000
-#EXTINF:-1,Pershiy Nationalny
-http://78.30.254.27:8989/udp/239.0.0.187:4000
-#EXTINF:-1,Ruski Illuzion
-http://78.30.254.27:8989/udp/239.0.0.188:4000
-#EXTINF:-1,Illuzion+
-http://78.30.254.27:8989/udp/239.0.0.189:4000
-#EXTINF:-1,Evrokino
-http://78.30.254.27:8989/udp/239.0.0.190:4000
-#EXTINF:-1,21M (orig.)
-http://78.30.254.27:8989/udp/239.0.0.191:4000
-#EXTINF:-1,Jim Jam (EN)
-http://78.30.254.27:8989/udp/239.0.0.192:4000
-#EXTINF:-1,News 24
-http://78.30.254.27:8989/udp/239.0.0.193:4000
-#EXTINF:-1,Da Vinci Learning
-http://78.30.254.27:8989/udp/239.0.0.194:4000
-#EXTINF:-1,Eurosport HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.195:4000
-#EXTINF:-1,MTV Live HD
-http://78.30.254.27:8989/udp/239.0.0.196:4000
-#EXTINF:-1,Viasat History (EN)
-http://78.30.254.27:8989/udp/239.0.0.197:4000
-#EXTINF:-1,Ruska Noc
-http://78.30.254.27:8989/udp/239.0.0.198:4000
-#EXTINF:-1,Playboy TV
-http://78.30.254.27:8989/udp/239.0.0.200:4000
-#EXTINF:-1,M (?)
-http://78.30.254.27:8989/udp/239.0.0.201:4000
-#EXTINF:-1,Kinorejs
-http://78.30.254.27:8989/udp/239.0.0.202:4000
-#EXTINF:-1,Kinorejs 2
-http://78.30.254.27:8989/udp/239.0.0.203:4000
-#EXTINF:-1,B
-http://78.30.254.27:8989/udp/239.0.0.204:4000
-#EXTINF:-1,MTV Hits
-http://78.30.254.27:8989/udp/239.0.0.205:4000
-#EXTINF:-1,Dom Kino
-http://78.30.254.27:8989/udp/239.0.0.206:4000
-#EXTINF:-1,Muzika
-http://78.30.254.27:8989/udp/239.0.0.207:4000
-#EXTINF:-1,Karusel
-http://78.30.254.27:8989/udp/239.0.0.208:4000
-#EXTINF:-1,Espreso TV
-http://78.30.254.27:8989/udp/239.0.0.209:4000
-#EXTINF:-1,TDK
-http://78.30.254.27:8989/udp/239.0.0.211:4000
-#EXTINF:-1,Travel Channel (EN)
-http://78.30.254.27:8989/udp/239.0.0.214:4000
-#EXTINF:-1,112 Ukraina HD
-http://78.30.254.27:8989/udp/239.0.0.216:4000
-#EXTINF:-1,Tonis HD
-http://78.30.254.27:8989/udp/239.0.0.217:4000
-#EXTINF:-1,Europa Plus TV
-http://78.30.254.27:8989/udp/239.0.0.218:4000
-#EXTINF:-1,Katun 24
-http://78.30.254.27:8989/udp/239.0.0.219:4000
-#EXTINF:-1,Telekanal Futbol –
-http://78.30.254.27:8989/udp/239.0.0.220:4000
-#EXTINF:-1,TMB
-http://78.30.254.27:8989/udp/239.0.0.221:4000
-#EXTINF:-1,Ukraina
-http://78.30.254.27:8989/udp/239.0.0.222:4000
-#EXTINF:-1,Futbol 2
-http://78.30.254.27:8989/udp/239.0.0.224:4000
-#EXTINF:-1,Sport1
-http://78.30.254.27:8989/udp/239.0.0.225:4000
-#EXTINF:-1,Sport
-http://78.30.254.27:8989/udp/239.0.0.226:4000
-#EXTINF:-1,BK TV
-http://78.30.254.27:8989/udp/239.0.0.227:4000
-#EXTINF:-1,Y
-http://78.30.254.27:8989/udp/239.0.0.228:4000
-#EXTINF:-1,NTV HD
-http://78.30.254.27:8989/udp/239.0.0.229:4000
-#EXTINF:-1,Tonis
-http://78.30.254.27:8989/udp/239.0.0.230:4000
-#EXTINF:-1,Muzckoi
-http://78.30.254.27:8989/udp/239.0.0.232:4000
-#EXTINF:-1,NHK World (EN)
-http://78.30.254.27:8989/udp/239.0.0.234:4000
-#EXTINF:-1,NTV+ Futbol2 HD
-http://78.30.254.27:8989/udp/239.0.0.235:4000
-#EXTINF:-1,HD Kino 2
-http://78.30.254.27:8989/udp/239.0.0.236:4000
-#EXTINF:-1, Sport1 HD
-http://78.30.254.27:8989/udp/239.0.0.237:4000
-#EXTINF:-1,?
-http://78.30.254.27:8989/udp/239.0.0.238:4000
-#EXTINF:-1,Business 24 TV
-http://78.30.254.27:8989/udp/239.0.0.239:4000
-#EXTINF:-1,WFC
-http://78.30.254.27:8989/udp/239.0.0.240:4000
-#EXTINF:-1,Multimania
-http://78.30.254.27:8989/udp/239.0.0.241:4000
-#EXTINF:-1,112 Ukraina
-http://78.30.254.27:8989/udp/239.0.0.242:4000
-#EXTINF:-1,Boutique TV
-http://78.30.254.27:8989/udp/239.0.0.227:4000
-#EXTINF:-1,NLO TV
-http://78.30.254.27:8989/udp/239.0.0.244:4000
-#EXTINF:-1,Planeta TV
-http://78.30.254.27:8989/udp/239.0.0.245:4000
-#EXTINF:-1,History Channel HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.246:4000
-#EXTINF:-1,TLC HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.247:4000
-#EXTINF:-1,Travel Channel HD (EN)
-http://78.30.254.27:8989/udp/239.0.0.248:4000
-#EXTINF:-1,OE
-http://78.30.254.27:8989/udp/239.0.0.249:4000
-#EXTINF:-1,Hromadske TV HD
-http://78.30.254.27:8989/udp/239.0.0.250:4000
-#EXTINF:-1,TVC +2
-http://78.30.254.27:8989/udp/239.0.0.253:4000
-#EXTINF:-1,Pershiy Ukraine
-http://78.30.254.27:8989/udp/239.0.0.254:4000
-#EXTINF:-1, Discovery Showcase HD
-http://78.30.254.27:8989/udp/239.0.0.119:4000
-#EXTINF:-1, Animal Planet HD
-http://78.30.254.27:8989/udp/239.0.0.129:4000
-#EXTINF:-1, History Channel HD
-http://78.30.254.27:8989/udp/239.0.0.246:5000
-#EXTINF:-1, Eurosport HD
-http://78.30.254.27:8989/udp/239.0.0.195:4000
-#EXTINF:-1, MTV HD
-http://78.30.254.27:8989/udp/239.0.0.196:4000
-#EXTINF:-1, MTV Rocks
-http://78.30.254.27:8989/udp/239.0.0.127:4000
-#EXTINF:-1, MTV Hits
-http://78.30.254.27:8989/udp/239.0.0.205:4000
-#EXTINF:-1, Discovery World
-http://78.30.254.27:8989/udp/239.0.0.47:4000
-#EXTINF:-1, Discovery Science
-http://78.30.254.27:8989/udp/239.0.0.48:4000
-#EXTINF:-1, Nat Geo Wild
-http://78.30.254.27:8989/udp/239.0.0.51:4000
-#EXTINF:-1, Animal Planet
-http://78.30.254.27:8989/udp/239.0.0.34:4000
-#EXTINF:-1, Fox Life
-http://78.30.254.27:8989/udp/239.0.0.144:4000
-#EXTINF:-1, Fox
-http://78.30.254.27:8989/udp/239.0.0.141:4000
-#EXTINF:-1, CBS Reality
-http://78.30.254.27:8989/udp/239.0.0.91:4000
+#EXTINF:0,Первый
+http://93.157.174.217:4022/udp/234.5.2.1:1234
+#EXTINF:0,Россия 1
+http://93.157.174.217:4022/udp/234.5.2.2:1234
+#EXTINF:0,ТВ Центр
+http://93.157.174.217:4022/udp/234.5.2.11:1234
+#EXTINF:0,НТВ
+http://93.157.174.217:4022/udp/234.5.2.4:1234
+#EXTINF:0,Россия Культура
+http://93.157.174.217:4022/udp/234.5.2.5:1234
+#EXTINF:0,Россия 2
+http://93.157.174.217:4022/udp/234.5.2.6:1234
+#EXTINF:0,Ю
+http://93.157.174.217:4022/udp/234.5.2.152:1234
+#EXTINF:0,REN ТВ
+http://93.157.174.217:4022/udp/234.5.2.141:1234
+#EXTINF:0,Домашний
+http://93.157.174.217:4022/udp/234.5.2.133:1234
+#EXTINF:0,СТС
+http://93.157.174.217:4022/udp/234.5.2.143:1234
+#EXTINF:0,Перец
+http://93.157.174.217:4022/udp/234.5.2.138:1234
+#EXTINF:0,ТНТ
+http://93.157.174.217:4022/udp/234.5.2.146:1234
+#EXTINF:0,ТВ 3
+http://93.157.174.217:4022/udp/234.5.2.144:1234
+#EXTINF:0,Пятница
+http://93.157.174.217:4022/udp/234.5.2.127:1234
+#EXTINF:0,Euronews
+http://93.157.174.217:4022/udp/234.5.2.125:1234
+#EXTINF:0,Москва 24
+http://93.157.174.217:4022/udp/234.5.2.8:1234
+#EXTINF:0,2×2
+http://93.157.174.217:4022/udp/234.5.2.118:1234
+#EXTINF:0,Просвещение
+http://93.157.174.217:4022/udp/234.5.2.115:1234
+#EXTINF:0,Боец
+http://93.157.174.217:4022/udp/234.5.2.108:1234
+#EXTINF:0,Bridge TV
+http://93.157.174.217:4022/udp/234.5.2.123:1234
+#EXTINF:0,Nautical Channel
+http://93.157.174.217:4022/udp/234.5.2.170:1234
+#EXTINF:0,Cartoon Network/TCM
+http://93.157.174.217:4022/udp/234.5.2.107:1234
+#EXTINF:0,Inva Media TV
+http://93.157.174.217:4022/udp/234.5.2.22:1234
+#EXTINF:0,Авто+
+http://93.157.174.217:4022/udp/234.5.2.153:1234
+#EXTINF:0,TiJi
+http://93.157.174.217:4022/udp/234.5.2.234:1234
+#EXTINF:0,Сарафан
+http://93.157.174.217:4022/udp/234.5.2.67:1234
+#EXTINF:0,Europa +
+http://93.157.174.217:4022/udp/234.5.2.68:1234
+#EXTINF:0,Мульт
+http://93.157.174.217:4022/udp/234.5.2.239:1234
+#EXTINF:0,CNBC
+http://93.157.174.217:4022/udp/234.5.2.24:1234
+#EXTINF:0,Спорт Плюс
+http://93.157.174.217:4022/udp/234.5.2.97:1234
+#EXTINF:0,Bloomberg
+http://93.157.174.217:4022/udp/234.5.2.83:1234
+#EXTINF:0,Мама
+http://93.157.174.217:4022/udp/234.5.2.166:1234
+#EXTINF:0,Психология 21
+http://93.157.174.217:4022/udp/234.5.2.150:1234
+#EXTINF:0,Нано ТВ
+http://93.157.174.217:4022/udp/234.5.2.30:1234
+#EXTINF:0,CBS Drama
+http://93.157.174.217:4022/udp/234.5.2.66:1234
+#EXTINF:0,Спорт
+http://93.157.174.217:4022/udp/234.5.2.101:1234
+#EXTINF:0,BBC NEWS
+http://93.157.174.217:4022/udp/234.5.2.102:1234
+#EXTINF:0,РБК
+http://93.157.174.217:4022/udp/234.5.2.104:1234
+#EXTINF:0,Здоровое ТВ
+http://93.157.174.217:4022/udp/234.5.2.160:1234
+#EXTINF:0,360 Подмосковье
+http://93.157.174.217:4022/udp/234.5.2.37:1234
+#EXTINF:0,8 канал
+http://93.157.174.217:4022/udp/234.5.2.38:1234
+#EXTINF:0,5 Канал
+http://93.157.174.217:4022/udp/234.5.2.9:1234
+#EXTINF:0,Карусель
+http://93.157.174.217:4022/udp/234.5.2.3:1234
+#EXTINF:0,Звезда
+http://93.157.174.217:4022/udp/234.5.2.94:1234
+#EXTINF:0,Беларусь ТВ
+http://93.157.174.217:4022/udp/234.5.2.15:1234
+#EXTINF:0,Усадьба ТВ
+http://93.157.174.217:4022/udp/234.5.2.149:1234
+#EXTINF:0,Россия 24
+http://93.157.174.217:4022/udp/234.5.2.10:1234
+#EXTINF:0,Страна
+http://93.157.174.217:4022/udp/234.5.2.103:1234
+#EXTINF:0,JimJam
+http://93.157.174.217:4022/udp/234.5.2.113:1234
+#EXTINF:0,Зоопарк
+http://93.157.174.217:4022/udp/234.5.2.85:1234
+#EXTINF:0,Animaux
+http://93.157.174.217:4022/udp/234.5.2.40:1234
+#EXTINF:0,AB Moteurs
+http://93.157.174.217:4022/udp/234.5.2.41:1234
+#EXTINF:0,Футбол
+http://93.157.174.217:4022/udp/234.5.2.151:1234
+#EXTINF:0,Escales
+http://93.157.174.217:4022/udp/234.5.2.43:1234
+#EXTINF:0,Encyclopedie
+http://93.157.174.217:4022/udp/234.5.2.46:1234
+#EXTINF:0,Русский Экстрим
+http://93.157.174.217:4022/udp/234.5.2.139:1234
+#EXTINF:0,Комедия ТВ
+http://93.157.174.217:4022/udp/234.5.2.110:1234
+#EXTINF:0,Fox Life
+http://93.157.174.217:4022/udp/234.5.2.70:1234
+#EXTINF:0,Fox Crime
+http://93.157.174.217:4022/udp/234.5.2.69:1234
+#EXTINF:0,НТВ-Плюс Кино-Плюс
+http://93.157.174.217:4022/udp/234.5.2.72:1234
+#EXTINF:0,Индия ТВ
+http://93.157.174.217:4022/udp/234.5.2.71:1234
+#EXTINF:0,STV
+http://93.157.174.217:4022/udp/234.5.2.74:1234
+#EXTINF:0,Наше Новое Кино
+http://93.157.174.217:4022/udp/234.5.2.76:1234
+#EXTINF:0,Extreme Sports
+http://93.157.174.217:4022/udp/234.5.2.75:1234
+#EXTINF:0,ТРО
+http://93.157.174.217:4022/udp/234.5.2.49:1234
+#EXTINF:0,Кино Союз
+http://93.157.174.217:4022/udp/234.5.2.77:1234
+#EXTINF:0,Еврокино
+http://93.157.174.217:4022/udp/234.5.2.92:1234
+#EXTINF:0,Юмор Box
+http://93.157.174.217:4022/udp/234.5.2.111:1234
+#EXTINF:0,Russian Travel Guide
+http://93.157.174.217:4022/udp/234.5.2.80:1234
+#EXTINF:0,Кухня ТВ
+http://93.157.174.217:4022/udp/234.5.2.155:1234
+#EXTINF:0,Доверие
+http://93.157.174.217:4022/udp/234.5.2.159:1234
+#EXTINF:0,РЖД ТВ
+http://93.157.174.217:4022/udp/234.5.2.171:1234
+#EXTINF:0,RUSONG TV
+http://93.157.174.217:4022/udp/234.5.2.156:1234
+#EXTINF:0,Первый образовательный
+http://93.157.174.217:4022/udp/234.5.2.167:1234
+#EXTINF:0,Радость моя
+http://93.157.174.217:4022/udp/234.5.2.168:1234
+#EXTINF:0,Мир 24
+http://93.157.174.217:4022/udp/234.5.2.98:1234
+#EXTINF:0,Улыбка ребенка
+http://93.157.174.217:4022/udp/234.5.2.169:1234
+#EXTINF:0,НТВ-Плюс Наше кино
+http://93.157.174.217:4022/udp/234.5.2.73:1234
+#EXTINF:0,Оружие
+http://93.157.174.217:4022/udp/234.5.2.90:1234
+#EXTINF:0,Русский Роман
+http://93.157.174.217:4022/udp/234.5.2.78:1234
+#EXTINF:0,ОТР
+http://93.157.174.217:4022/udp/234.5.2.12:1234
+#EXTINF:0,Deutche Welle
+http://93.157.174.217:4022/udp/234.5.2.25:1234
+#EXTINF:0,ТБН-Россия
+http://93.157.174.217:4022/udp/234.5.2.51:1234
+#EXTINF:0,A-One
+http://93.157.174.217:4022/udp/234.5.2.52:1234
+#EXTINF:0,Luxury World
+http://93.157.174.217:4022/udp/234.5.2.55:1234
+#EXTINF:0,Союз
+http://93.157.174.217:4022/udp/234.5.2.53:1234
+#EXTINF:0,World fashion International
+http://93.157.174.217:4022/udp/234.5.2.56:1234
+#EXTINF:0,СТС Love
+http://93.157.174.217:4022/udp/234.5.2.89:1234
+#EXTINF:0,CBS Reality
+http://93.157.174.217:4022/udp/234.5.2.96:1234
+#EXTINF:0,Охота и рыбалка
+http://93.157.174.217:4022/udp/234.5.2.148:1234
+#EXTINF:0,Бойцовский Клуб
+http://93.157.174.217:4022/udp/234.5.2.116:1234
+#EXTINF:0,Наука 2.0
+http://93.157.174.217:4022/udp/234.5.2.88:1234
+#EXTINF:0,Моя планета
+http://93.157.174.217:4022/udp/234.5.2.137:1234
+#EXTINF:0,LifeNews
+http://93.157.174.217:4022/udp/234.5.2.21:1234
+#EXTINF:0,Disney
+http://93.157.174.217:4022/udp/234.5.2.124:1234
+#EXTINF:0,AMEDIA I
+http://93.157.174.217:4022/udp/234.5.2.222:1234
+#EXTINF:0,Chasse Et Peche
+http://93.157.174.217:4022/udp/234.5.2.45:1234
+#EXTINF:0,Music Box
+http://93.157.174.217:4022/udp/234.5.2.81:1234
+#EXTINF:0,ДОМ КИНО
+http://93.157.174.217:4022/udp/234.5.2.132:1234
+#EXTINF:0,Музыка Первого
+http://93.157.174.217:4022/udp/234.5.2.82:1234
+#EXTINF:0,Первый Щелковский
+http://93.157.174.217:4022/udp/234.5.2.14:1234
+#EXTINF:0,HD Media
+http://93.157.174.217:4022/udp/234.5.2.161:1234
+#EXTINF:0,Fashion TV HD
+http://93.157.174.217:4022/udp/234.5.2.50:1234
+#EXTINF:0,Outdoor HD
+http://93.157.174.217:4022/udp/234.5.2.226:1234
+#EXTINF:0,Teletravel HD
+http://93.157.174.217:4022/udp/234.5.2.228:1234
+#EXTINF:0,Спорт1 HD
+http://93.157.174.217:4022/udp/234.5.2.220:1234
+#EXTINF:0,National Geographic HD
+http://93.157.174.217:4022/udp/234.5.2.227:1234
+#EXTINF:0,Россия HD
+http://93.157.174.217:4022/udp/234.5.2.212:1234
+#EXTINF:0,Первый HD
+http://93.157.174.217:4022/udp/234.5.2.211:1234
+#EXTINF:0,Russia Today HD
+http://93.157.174.217:4022/udp/234.5.2.13:1234
+#EXTINF:0,Мир HD
+http://93.157.174.217:4022/udp/234.5.2.121:1234
+#EXTINF:0,RT Doc HD
+http://93.157.174.217:4022/udp/234.5.2.223:1234
+#EXTINF:0,MGM HD
+http://93.157.174.217:4022/udp/234.5.2.218:1234
 
 #EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1690,945 +1094,8 @@ http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-http://38.99.146.36:7777/4Shbab_HD.m3u8
-#EXTINF:-1,Arabic Tv:7Stars
-http://38.99.146.36:7777/7Stars_HD.m3u8
-#EXTINF:-1,Arabic Tv:A1 Jordan
-http://38.99.146.36:7777/A1Jordan_HD.m3u8
-#EXTINF:-1,Arabic Tv:AAAMusic
-http://38.99.146.36:7777/AAAMusic_HD.m3u8
-#EXTINF:-1,Arabic Tv:ABN
-http://38.99.146.36:7777/ABN_HD.m3u8
-#EXTINF:-1,Arabic Tv:Abu Dhabi
-http://38.99.146.36:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Arabic Tv:Abu Dhabi Drama
-http://38.99.146.36:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Abu Dhabi Emirates
-http://38.99.146.36:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aden
-http://38.99.146.36:7777/Aden_HD.m3u8
-#EXTINF:-1,Arabic Tv:National Geo Ad
-http://38.99.146.36:7777/ADNatGeo_HD.m3u8
-#EXTINF:-1,Arabic Tv:Abu Dhabi Sports 1
-http://38.99.146.36:7777/ADSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aghanina
-http://38.99.146.36:7777/Aghanina_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aghapy
-http://38.99.146.36:7777/Aghapy_HD.m3u8
-#EXTINF:-1,Arabic Tv:Ajman
-http://38.99.146.36:7777/Ajman_HD.m3u8
-#EXTINF:-1,Arabic Tv:Ajyal
-http://38.99.146.36:7777/AjyalTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alan
-http://38.99.146.36:7777/AlAan_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Adala
-http://38.99.146.36:7777/AlAdala_HD.m3u8
-#EXTINF:-1,Arabic Tv:AL AHLY
-http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Libya
-http://38.99.146.36:7777/AlAhrar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Amaken Drama
-http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Anwar
-http://38.99.146.36:7777/AlAnwar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al oula Maroc
-http://38.99.146.36:7777/AlAoulaEurope_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alarabiya
-http://38.99.146.36:7777/AlArabiya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alarabiya Ahdas
-http://38.99.146.36:7777/AlArabiyaHadath_HD.m3u8
-#EXTINF:-1,Arabic Tv:EnnaharTV algerie
-http://38.99.146.36:7777/AlAtlas_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlBabeleyia
-http://38.99.146.36:7777/AlBabeleyia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Baghdadia
-http://38.99.146.36:7777/AlBaghdadia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Baghdadia 2
-http://38.99.146.36:7777/AlBaghdadia2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Albait Baitak Cinema
-http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Dafra
-http://38.99.146.36:7777/AlDafra_HD.m3u8
-#EXTINF:-1,Arabic Tv:alkass
-http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aldiyar
-http://38.99.146.36:7777/AldiyarSat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Ikhbaria
-http://38.99.146.36:7777/AlEkhbariya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Eman
-http://38.99.146.36:7777/AlEman_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Eqtisadiyah
-http://38.99.146.36:7777/AlEqtisadiyah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Fayhaa
-http://38.99.146.36:7777/AlFayhaa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Forat
-http://38.99.146.36:7777/AlForat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Haqeeqa
-http://38.99.146.36:7777/AlHaqeeqa_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlHayat_Christian
-http://38.99.146.36:7777/ALhayat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alhayat2
-http://38.99.146.36:7777/Alhayat2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alhayat-Series
-http://38.99.146.36:7777/AlHayatMousalsalat_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlHayat Sport
-http://38.99.146.36:7777/AlHayatSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Hiwar
-http://38.99.146.36:7777/AlHiwar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi
-http://38.99.146.36:7777/Tounisa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al-hurra Iraq
-http://38.99.146.36:7777/AlhurraIraq_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Iraqiya Documentary
-http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aliraqia 2
-http://38.99.146.36:7777/AlIraqia2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aliraqiya
-http://38.99.146.36:7777/AlIraqiya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljadeed
-http://38.99.146.36:7777/AlJadeed_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlJazeera
-http://38.99.146.36:7777/AlJazeera_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera Doc
-http://38.99.146.36:7777/AlJazeeraDocument_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera En
-http://38.99.146.36:7777/AlJazeeraEnglish_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera US
-http://38.99.146.36:7777/AlJazeeraInt_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera Children
-http://38.99.146.36:7777/AlJazeeraKid_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera Mubasher
-http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlKahera
-http://38.99.146.36:7777/AlKahera_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlQahera W Elnas
-http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlQahera W Elnas 2
-http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alkarama_Christian
-http://38.99.146.36:7777/AlKarma_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Kout
-http://38.99.146.36:7777/AlKout_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Lubnania
-http://38.99.146.36:7777/AlLubnania_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Maghribia
-http://38.99.146.36:7777/AlMaghribia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Majd
-http://38.99.146.36:7777/AlmajdSpace_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlMalakot
-http://38.99.146.36:7777/AlMalakot_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Manar
-http://38.99.146.36:7777/AlManar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Almas
-http://38.99.146.36:7777/AlMas_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Masar
-http://38.99.146.36:7777/AlMasar_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlMasrawia
-http://38.99.146.36:7777/AlMasrawia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Masriyah
-http://38.99.146.36:7777/AlMasriyah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al mayaden
-http://38.99.146.36:7777/AlMayadeen_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlMukhales
-http://38.99.146.36:7777/AlMukhales_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Moustakilla
-http://38.99.146.36:7777/AlMustakila_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Nahar
-http://38.99.146.36:7777/AlNahar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alnahar Alyoum
-http://38.99.146.36:7777/AlNahar2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al-Nahar Drama
-http://38.99.146.36:7777/AlNaharDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Nahar 2
-http://38.99.146.36:7777/AlNaharMovies_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Nahar Sport
-http://38.99.146.36:7777/AlNaharSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Ordonia
-http://38.99.146.36:7777/AlOrdoni_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alqithara
-http://38.99.146.36:7777/AlQithara_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alqudis
-http://38.99.146.36:7777/Alquds_HD.m3u8
-#EXTINF:-1,Arabic Tv:Quran TV ksa
-http://38.99.146.36:7777/AlQuran_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Rafidain
-http://38.99.146.36:7777/AlRafidain_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alrai
-http://38.99.146.36:7777/Alrai_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Rasheed
-http://38.99.146.36:7777/AlRasheed_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al-Resalah
-http://38.99.146.36:7777/AlResala_HD.m3u8
-#EXTINF:-1,Arabic Tv:Saudia Sport
-http://38.99.146.36:7777/AlRiyadiah1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Saudia Sport
-http://8.21.48.19:7777/AlRiyadiah1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Sabah
-http://38.99.146.36:7777/AlSabah_HD.m3u8
-#EXTINF:-1,Arabic Tv:alsaeedah
-http://38.99.146.36:7777/AlSaeeda_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al sahraa
-http://38.99.146.36:7777/AlSahraa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Shaab
-http://38.99.146.36:7777/AlShaab_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Sharqiya
-http://38.99.146.36:7777/AlSharqiya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Sharqiya News
-http://38.99.146.36:7777/AlsharqiyaNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:Ashorooq
-http://38.99.146.36:7777/AlShrooq_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Sumaria
-http://38.99.146.36:7777/Alsumaria_HD.m3u8
-#EXTINF:-1,Arabic Tv:sunnah TV
-http://38.99.146.36:7777/AlSunnah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Algharam Cinema
-http://38.99.146.36:7777/AlTet_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Thakafiyah
-http://38.99.146.36:7777/AlThakafiyah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Egypt 2
-http://38.99.146.36:7777/AlThanya_HD.m3u8
-#EXTINF:-1,Arabic Tv:alwatan
-http://38.99.146.36:7777/Alwatan_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alwatan Plus
-http://38.99.146.36:7777/AlwatanPlus_HD.m3u8
-#EXTINF:-1,Arabic Tv:ANB
-http://38.99.146.36:7777/ANB_HD.m3u8
-#EXTINF:-1,Arabic Tv:ANN
-http://38.99.146.36:7777/ANN_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alaqsa
-http://38.99.146.36:7777/AqsaSatCh_HD.m3u8
-#EXTINF:-1,Arabic Tv:Arabica Music
-http://38.99.146.36:7777/ArabicaMusic_HD.m3u8
-#EXTINF:-1,Arabic Tv:Arrabia
-http://38.99.146.36:7777/Arrabiaa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alriadia Sport
-http://38.99.146.36:7777/Arryadia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Assadissa
-http://38.99.146.36:7777/Assadissa_HD.m3u8
-#EXTINF:-1,Arabic Tv:AssyrSat
-http://38.99.146.36:7777/AssyrSat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Atfal wa Mawaheb
-http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8
-#EXTINF:-1,Arabic Tv:Baghdad
-http://38.99.146.36:7777/Baghdad_HD.m3u8
-#EXTINF:-1,Arabic Tv:Bahrain
-http://38.99.146.36:7777/BahrainInt_HD.m3u8
-#EXTINF:-1,Arabic Tv:Bahrain
-http://8.21.48.19:7777/BahrainInt_HD.m3u8
-#EXTINF:-1,Arabic Tv:BAHRAIN SPORTS
-http://38.99.146.36:7777/BahrainSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Baraem
-http://38.99.146.36:7777/Baraem_HD.m3u8
-#EXTINF:-1,Arabic Tv:BBC Arabic
-http://38.99.146.36:7777/BBCArabic_HD.m3u8
-#EXTINF:-1,Arabic Tv:beINSports
-http://38.99.146.36:7777/beINSports_HD.m3u8
-#EXTINF:-1,Arabic Tv:BEIN US
-http://38.99.146.36:7777/beINSportsNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:Beladi
-http://38.99.146.36:7777/Beladi_HD.m3u8
-#EXTINF:-1,Arabic Tv:Blue Nile
-http://38.99.146.36:7777/BlueNile_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cairo Cinema
-http://38.99.146.36:7777/CairoCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cairo Comedy
-http://38.99.146.36:7777/CairoComedy_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cairo Drama
-http://38.99.146.36:7777/CairoDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:AlGeria
-http://38.99.146.36:7777/CanalAlgerie_HD.m3u8
-#EXTINF:-1,Arabic Tv:CBC
-http://38.99.146.36:7777/CBC_HD.m3u8
-#EXTINF:-1,Arabic Tv:CBC Extra
-http://38.99.146.36:7777/CBC2_HD.m3u8
-#EXTINF:-1,Arabic Tv:CBC Drama
-http://38.99.146.36:7777/CBCDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:CBC Sofra
-http://38.99.146.36:7777/CBCSofra_HD.m3u8
-#EXTINF:-1,Arabic Tv:CCTV Arabic
-http://38.99.146.36:7777/CCTVArabia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Chabab
-http://38.99.146.36:7777/Chabab_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cima
-http://38.99.146.36:7777/Cima_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cartoon Network
-http://38.99.146.36:7777/CNArabia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Coptic_Christian
-http://38.99.146.36:7777/CTVEgypt_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dejlah
-http://38.99.146.36:7777/Dejlah_HD.m3u8
-#EXTINF:-1,Arabic Tv:DM
-http://38.99.146.36:7777/DM_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dream 1
-http://38.99.146.36:7777/Dream1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dream 2
-http://38.99.146.36:7777/Dream2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dubai
-http://38.99.146.36:7777/DubaiEurope_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dubai One
-http://38.99.146.36:7777/DubaiOne_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dubai Sport HD2
-http://38.99.146.36:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dubai Sport HD2
-http://8.21.48.19:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Dubai Sport 3
-http://38.99.146.36:7777/DubaiSports_HD.m3u8
-#EXTINF:-1,Arabic Tv:DW Arabic
-http://38.99.146.36:7777/DWTVArabia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mehwar
-http://38.99.146.36:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1,Arabic Tv:ETV1
-http://38.99.146.36:7777/ETV1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Euro News Arabic
-http://38.99.146.36:7777/EuroNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:Fatafeat
-http://38.99.146.36:7777/Fatafeat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Fx Arabia
-http://38.99.146.36:7777/Fox_HD.m3u8
-#EXTINF:-1,Arabic Tv:Fox Movies
-http://38.99.146.36:7777/FoxMovies_HD.m3u8
-#EXTINF:-1,Arabic Tv:France 24
-http://38.99.146.36:7777/France24Arabic_HD.m3u8
-#EXTINF:-1,Arabic Tv:Funoon
-http://38.99.146.36:7777/Funoon_HD.m3u8
-#EXTINF:-1,Arabic Tv:Future TV
-http://38.99.146.36:7777/Future_HD.m3u8
-#EXTINF:-1,Arabic Tv:Future News
-http://38.99.146.36:7777/FutureNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:FutureUSA
-http://38.99.146.36:7777/FutureUSA_HD.m3u8
-#EXTINF:-1,Arabic Tv:Jordan
-http://38.99.146.36:7777/GamarHashimi_HD.m3u8
-#EXTINF:-1,Arabic Tv:GearOne
-http://38.99.146.36:7777/GearOne_HD.m3u8
-#EXTINF:-1,Arabic Tv:Gladiator
-http://38.99.146.36:7777/Gladiator_HD.m3u8
-#EXTINF:-1,Arabic Tv:Goan
-http://38.99.146.36:7777/GoanTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Hanibal
-http://38.99.146.36:7777/Hannibal_HD.m3u8
-#EXTINF:-1,Arabic Tv:Alhayat 1
-http://38.99.146.36:7777/Hayat_HD.m3u8
-#EXTINF:-1,Arabic Tv:HodHod
-http://38.99.146.36:7777/HodHod_HD.m3u8
-#EXTINF:-1,Arabic Tv:Huda
-http://38.99.146.36:7777/Huda_HD.m3u8
-#EXTINF:-1,Arabic Tv:iFilm Arabic
-http://38.99.146.36:7777/iFilm_HD.m3u8
-#EXTINF:-1,Arabic Tv:Imagines Movies
-http://38.99.146.36:7777/ImagineMovies_HD.m3u8
-#EXTINF:-1,Arabic Tv:Iqra
-http://38.99.146.36:7777/Iqraa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Ishtar
-http://38.99.146.36:7777/Ishtar_HD.m3u8
-#EXTINF:-1,Arabic Tv:Jordan Sport
-http://38.99.146.36:7777/JordanSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Aljazeera Mubasher Masr
-http://38.99.146.36:7777/JSCLiveMisr_HD.m3u8
-#EXTINF:-1,Arabic Tv:Kaifa
-http://38.99.146.36:7777/Kaifa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Karameesh
-http://38.99.146.36:7777/Karameesh_HD.m3u8
-#EXTINF:-1,Arabic Tv:Koky Kids
-http://38.99.146.36:7777/Koky_HD.m3u8
-#EXTINF:-1,Arabic Tv:KSA 2
-http://38.99.146.36:7777/KSA2_HD.m3u8
-#EXTINF:-1,Arabic Tv:KTV2
-http://38.99.146.36:7777/KTV2Kuwait_HD.m3u8
-#EXTINF:-1,Arabic Tv:KTV Sport Plus
-http://38.99.146.36:7777/KTV3Plus_HD.m3u8
-#EXTINF:-1,Arabic Tv:KTV ARABE
-http://38.99.146.36:7777/KTVAlArabi_HD.m3u8
-#EXTINF:-1,Arabic Tv:Kuwait
-http://38.99.146.36:7777/KuwaitSpace_HD.m3u8
-#EXTINF:-1,Arabic Tv:Chobra Cima
-http://38.99.146.36:7777/LayaliCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Lbc Europe
-http://38.99.146.36:7777/LBC_HD.m3u8
-#EXTINF:-1,Arabic Tv:LCD AFLAM
-http://38.99.146.36:7777/LcdTurkey_HD.m3u8
-#EXTINF:-1,Arabic Tv:LDC
-http://38.99.146.36:7777/LDC_HD.m3u8
-#EXTINF:-1,Arabic Tv:Libya 2
-http://38.99.146.36:7777/Libya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Libya AlWataniya
-http://38.99.146.36:7777/LibyaAlWataniya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Libya Sport 1
-http://38.99.146.36:7777/LibyaSportChannel1_HD.m3u8
-#EXTINF:-1,Arabic Tv:LineSport
-http://38.99.146.36:7777/LineSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:LLBN
-http://38.99.146.36:7777/LLBN_HD.m3u8
-#EXTINF:-1,Arabic Tv:2M
-http://38.99.146.36:7777/M2Morocco_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mahbooba
-http://38.99.146.36:7777/Mahbooba_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cine Majesti
-http://38.99.146.36:7777/MajesticCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mara7
-http://38.99.146.36:7777/Mara7_HD.m3u8
-#EXTINF:-1,Arabic Tv:Masrawi Aflam
-http://38.99.146.36:7777/MasrawiAflam_HD.m3u8
-#EXTINF:-1,Arabic Tv:Massaya
-http://38.99.146.36:7777/Massaya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mauritanie
-http://38.99.146.36:7777/MauritaniaTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC 2
-http://38.99.146.36:7777/MBC2_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC 3
-http://38.99.146.36:7777/MBC3_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC 4
-http://38.99.146.36:7777/MBC4_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC Action
-http://38.99.146.36:7777/MBCAction_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC Bollywood
-http://38.99.146.36:7777/MBCBollywood_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC Drama
-http://38.99.146.36:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC Masr
-http://38.99.146.36:7777/MBCMaser_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBCMasrPlus2
-http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1,Arabic Tv:MBC Max
-http://38.99.146.36:7777/MBCMax_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mea
-http://38.99.146.36:7777/MeaTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Medi 1 Sat
-http://38.99.146.36:7777/Medi1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Mehwar
-http://8.21.48.19:7777/MehwarPlus2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Miracle
-http://38.99.146.36:7777/Miracle_HD.m3u8
-#EXTINF:-1,Arabic Tv:Maannews
-http://38.99.146.36:7777/MixTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD.m3u8
-#EXTINF:-1,Arabic Tv:Cairo Cinema 2
-http://38.99.146.36:7777/Mosar3_HD.m3u8
-#EXTINF:-1,Arabic Tv:MTV Arabia
-http://38.99.146.36:7777/MTVArabia_HD.m3u8
-#EXTINF:-1,Arabic Tv:MTV
-http://38.99.146.36:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Haneen Music
-http://38.99.146.36:7777/MusicAlhanen_HD.m3u8
-#EXTINF:-1,Arabic Tv:Music+</cname>
-http://38.99.146.36:7777/MusicPlus_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nart
-http://38.99.146.36:7777/Nart_HD.m3u8
-#EXTINF:-1,Arabic Tv:NBN
-http://38.99.146.36:7777/NBNLebanon_HD.m3u8
-#EXTINF:-1,Arabic Tv:Neelain Sport
-http://38.99.146.36:7777/NeelainSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nessma
-http://38.99.146.36:7777/NessmaAlKhadra_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nessma
-http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Cinema
-http://38.99.146.36:7777/NileCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Comedy
-http://38.99.146.36:7777/NileComedy_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Culture
-http://38.99.146.36:7777/NileCulture_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Drama
-http://38.99.146.36:7777/NileDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Drama 2
-http://38.99.146.36:7777/NileDrama2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Family
-http://38.99.146.36:7777/NileFamily_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Tv
-http://38.99.146.36:7777/NileInt_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Life
-http://38.99.146.36:7777/NileLife_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile News
-http://38.99.146.36:7777/NileNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nile Sport
-http://38.99.146.36:7777/NileSport_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nojoom1
-http://38.99.146.36:7777/Nojoom1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Noon Kids
-http://38.99.146.36:7777/Noon_HD.m3u8
-#EXTINF:-1,Arabic Tv:Noor Dubai
-http://38.99.146.36:7777/NoorDubai_HD.m3u8
-#EXTINF:-1,Arabic Tv:NoursatAlShabab
-http://38.99.146.36:7777/NourAlShabab_HD.m3u8
-#EXTINF:-1,Arabic Tv:Syria Nour
-http://38.99.146.36:7777/NourElSham_HD.m3u8
-#EXTINF:-1,Arabic Tv:Nourmina
-http://38.99.146.36:7777/Nourmina_HD.m3u8
-#EXTINF:-1,Arabic Tv:Noursat
-http://38.99.146.36:7777/Noursat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Oman
-http://38.99.146.36:7777/Oman_HD.m3u8
-#EXTINF:-1,Arabic Tv:Om Durman
-http://38.99.146.36:7777/OmDurman_HD.m3u8
-#EXTINF:-1,Arabic Tv:On TV
-http://38.99.146.36:7777/ONTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:ONTV Live
-http://38.99.146.36:7777/ONTVLive_HD.m3u8
-#EXTINF:-1,Arabic Tv:Orient News
-http://38.99.146.36:7777/OrientNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:ORTM
-http://38.99.146.36:7777/ORTM_HD.m3u8
-#EXTINF:-1,Arabic Tv:Oscar Drama
-http://38.99.146.36:7777/OscarDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Oscar Drama 2
-http://38.99.146.36:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1,Arabic Tv:OTV Lebanon
-http://38.99.146.36:7777/OTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Oyoun Jeddah
-http://38.99.146.36:7777/OyounJeddah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Palestine AlYawm
-http://38.99.146.36:7777/PalestineAlYawm_HD.m3u8
-#EXTINF:-1,Arabic Tv:Palestine Live
-http://38.99.146.36:7777/PalestineLive_HD.m3u8
-#EXTINF:-1,Arabic Tv:Palestine
-http://38.99.146.36:7777/Palestinian_HD.m3u8
-#EXTINF:-1,Arabic Tv:Panorama Drama
-http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Panorama Drama 2
-http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Panorama film
-http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1,Arabic Tv:Qatar
-http://38.99.146.36:7777/Qatar_HD.m3u8
-#EXTINF:-1,Arabic Tv:RAK
-http://38.99.146.36:7777/RAK_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Cinema
-http://38.99.146.36:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Clip
-http://38.99.146.36:7777/RotanaClip_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Khaligi
-http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Masriya
-http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Music
-http://38.99.146.36:7777/RotanaMusic_HD.m3u8
-#EXTINF:-1,Arabic Tv:Rotana Classic
-http://38.99.146.36:7777/RotanaZaman_HD.m3u8
-#EXTINF:-1,Arabic Tv:Roya
-http://38.99.146.36:7777/Roya_HD.m3u8
-#EXTINF:-1,Arabic Tv:Royal Albadawiya
-http://38.99.146.36:7777/RoyalAlBadawia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Royal Edhak
-http://38.99.146.36:7777/RoyalEdhak_HD.m3u8
-#EXTINF:-1,Arabic Tv:Royal Secret
-http://38.99.146.36:7777/RoyalSecrets_HD.m3u8
-#EXTINF:-1,Arabic Tv:Djibouti
-http://38.99.146.36:7777/RTD_HD.m3u8
-#EXTINF:-1,Arabic Tv:Russia Alyaum
-http://38.99.146.36:7777/RussiyaAlYaum_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sada Al Balad
-http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sada AlBalad Drama
-http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sama Cinema
-http://38.99.146.36:7777/SamaCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sama Dubai
-http://38.99.146.36:7777/SamaDubai_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sama Syria
-http://38.99.146.36:7777/SamaTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Samira TV
-http://38.99.146.36:7777/SamiraTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sat7 Kid
-http://38.99.146.36:7777/Sat7Kid_HD.m3u8
-#EXTINF:-1,Arabic Tv:KSA 1
-http://38.99.146.36:7777/SaudiArabia1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Scope
-http://38.99.146.36:7777/ScopeTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:SM SM KIDS
-http://38.99.146.36:7777/Semsem_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sharjah
-http://38.99.146.36:7777/SharjahTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sheba
-http://38.99.146.36:7777/Sheba_HD.m3u8
-#EXTINF:-1,Arabic Tv:SkyNewsArabia
-http://38.99.146.36:7777/SkyNews_HD.m3u8
-#EXTINF:-1,Arabic Tv:SNTV
-http://38.99.146.36:7777/SNTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Space Power
-http://38.99.146.36:7777/SpacePower_HD.m3u8
-#EXTINF:-1,Arabic Tv:Spacetoon
-http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8
-#EXTINF:-1,Arabic Tv:SSTV
-http://38.99.146.36:7777/SSTV_HD.m3u8
-#EXTINF:-1,Arabic Tv:Star 1 Cinema
-http://38.99.146.36:7777/StarCinema1_HD.m3u8
-#EXTINF:-1,Arabic Tv:Star 2 Cinema
-http://38.99.146.36:7777/StarCinema2_HD.m3u8
-#EXTINF:-1,Arabic Tv:Sudan TV
-http://38.99.146.36:7777/Sudan_HD.m3u8
-#EXTINF:-1,Arabic Tv:Syria Drama
-http://38.99.146.36:7777/SyriaDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Syria Sedu
-http://38.99.146.36:7777/SyrianEducation_HD.m3u8
-#EXTINF:-1,Arabic Tv:Syria
-http://38.99.146.36:7777/SyriaSat_HD.m3u8
-#EXTINF:-1,Arabic Tv:Taha
-http://38.99.146.36:7777/Taha_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tahrir
-http://38.99.146.36:7777/Tahrir_HD.m3u8
-#EXTINF:-1,Arabic Tv:Syria Talaqie
-http://38.99.146.36:7777/Talaqi_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tamazigh Maroc
-http://38.99.146.36:7777/Tamazight_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tayba
-http://38.99.146.36:7777/Tayba_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tele Liban
-http://38.99.146.36:7777/TeleLiban_HD.m3u8
-#EXTINF:-1,Arabic Tv:Algeria 3
-http://38.99.146.36:7777/Thalitha_HD.m3u8
-#EXTINF:-1,Arabic Tv:Time Cinema
-http://38.99.146.36:7777/TimeCinema_HD.m3u8
-#EXTINF:-1,Arabic Tv:Time Drama
-http://38.99.146.36:7777/TimeDrama_HD.m3u8
-#EXTINF:-1,Arabic Tv:Taxi El Sahra
-http://38.99.146.36:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1,Arabic Tv:Top Movies
-http://38.99.146.36:7777/TopMovies_HD.m3u8
-#EXTINF:-1,Arabic Tv:Al Hiwar Ettounsi
-http://8.21.48.19:7777/Tounisa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Toyor Al Janah
-http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8
-#EXTINF:-1,Arabic Tv:TRT Arabic
-http://38.99.146.36:7777/TRTArabic_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tounesna
-http://38.99.146.36:7777/Tunisia_HD.m3u8
-#EXTINF:-1,Arabic Tv:Tunisia national 1
-http://38.99.146.36:7777/Tunisie7_HD.m3u8
-#EXTINF:-1,Arabic Tv:TV 5 MONDE
-http://38.99.146.36:7777/TV5_HD.m3u8
-#EXTINF:-1,Arabic Tv:Unrwa
-http://38.99.146.36:7777/Unrwa_HD.m3u8
-#EXTINF:-1,Arabic Tv:Wanasah
-http://38.99.146.36:7777/Wanasah_HD.m3u8
-#EXTINF:-1,Arabic Tv:Yemen
-http://38.99.146.36:7777/Yemen_HD.m3u8
-#EXTINF:-1,Arabic Tv:Zee Aflam
-http://38.99.146.36:7777/ZeeAflam_HD.m3u8
-#EXTINF:-1,Arabic Tv:Zee Alwan
-http://38.99.146.36:7777/ZeeAlwan_HD.m3u8
-#EXTINF:-1,Arabic Tv:Zweina Bladna
-http://38.99.146.36:7777/ZweinaBaladna_HD.m3u8
+
 
 
 #EXTINF:-1,[COLOR red]****************USA TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-HBO Zone EN
-http://iptv15.zapto.org:8000/live/test/2015/122.ts
-HBO Signature EN
-http://iptv15.zapto.org:8000/live/test/2015/121.ts
-HBO East EN
-http://iptv15.zapto.org:8000/live/test/2015/120.ts
-HBO EAST EN HD 
-http://iptv15.zapto.org:8000/live/test/2015/131.ts
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,abc hd
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,24/7Comedy Movies
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
-#EXTINF:0,24/7HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
-#EXTINF:0,ABC 22HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,ABC Family
-http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
-#EXTINF:0,AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,beIN Sport (Spanish)
-http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
-#EXTINF:0,beIN Sport (USA)
-http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,Bravo
-http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0,CBS HD (WHIO 7)
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,CNN USA HD
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,CNN USA SD
-http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Crime & Investigation
-http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:0,Disney Channel
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN SD
-http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
-#EXTINF:0,ESPN 2HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,ESPN 2SD
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,FOX 45HD
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
-#EXTINF:0,FOX 45SD
-http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:0,FOX News SD
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Golf Channel HD
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
-#EXTINF:0,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel (Europe)
-http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
-#EXTINF:0,History Channel (USA)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,I.D.
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:0,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,Nat GEO SD
-http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,NBC SD
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
-#EXTINF:0,NBC Sports Network HD
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,NBC Sports Network SD
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,Nickelodeon HD
-http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
-#EXTINF:0,Nickelodeon SD
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
-#EXTINF:0,OWN
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:0,Oxygen
-http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Science
-http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Showtime SD
-http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Spike
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:0,SyFy HD
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,tbs
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-#EXTINF:0,TLC
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,TNT SD
-http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:0,Travel Channel SD
-http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
-#EXTINF:0,TruTV
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,TV Land
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:0,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,CBS HD 
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:0,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:0,WAENER_TV-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/439.ts
-#EXTINF:0,SLICE_US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/452.ts
-#EXTINF:0,PBS-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/453.ts
-#EXTINF:0,NICK-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/456.ts
-#EXTINF:0,NBC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/483.ts
-#EXTINF:0,NAT_GEO-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/457.ts
-#EXTINF:0,DOCUMENTARY-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/468.ts
-#EXTINF:0,DISNEY_JR-EN-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/469.ts
-#EXTINF:0,DISCOVERY_SCIENCE-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/470.ts
-#EXTINF:0,CBS-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/475.ts
-#EXTINF:0,CBC_CA_(MTL)
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/476.ts
-#EXTINF:0,CARTOON_NETWORK-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/477.ts
-#EXTINF:0,BET
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/478.ts
-#EXTINF:0,ATN_CBN-CA
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/479.ts
-#EXTINF:0,ANIMAL_PLANET_HD-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/480.ts
-#EXTINF:0,AMC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/481.ts
-#EXTINF:0,ABC-US
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/482.ts
-#EXTINF:0, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:0, RT Documentary HD
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
-#EXTINF:-1, ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
-#EXTINF:-1, CNN International
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:-1, CARTOON NETWORK
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="News”,BLOOMBERG (USA)
-http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:-1 tvg-logo="i24news"group-title="news", i24 News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
-#EXTINF:0,BeIN Sport Premier HD
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:0,Disney Channel HD
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,I.D. Investigation Discovery
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,OWN HD
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:-1,PAC National
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Bay Area) 
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,USA:Vevo1 HD 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,USA:Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,USA:Vevo3 HD 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,USA:Kiss Tv Music 
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1,Bahrain Sport 
-rtmp://alayam.netromedia.net/btv3/btv3 
-#EXTINF:-1,Big Ten Network 
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,Xtreme Impacts
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1,Antena 3 Sports 720 HD 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,Sports Night 
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
-#EXTINF:-1,Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,Antena 3 Sports
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8 
-#EXTINF:-1, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1, NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,USA Live TV Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1,[COLOR red]****************Adult Only****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-
-#EXTINF:-1 tvg-logo="babes 18+.jpg",[COLOR blue] BABES [/COLOR][COLOR red] 18+ [/COLOR]
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR blue] HOT SHOTS [/COLOR][COLOR red] 18+ [/COLOR]
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1 tvg-logo="top premium 18+.png",[COLOR blue] TOP PREMIUM [/COLOR][COLOR red] 18+ [/COLOR]
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="SEX-TV.jpg",[COLOR blue] BRAZZERS TV [/COLOR][COLOR red] 18+ [/COLOR]
-http://212.220.30.219/hls/CH_BRAZZERSTV/bw1500000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="SEX ZONE HD.png",[COLOR blue] SEX CHINA [/COLOR][COLOR blue] HD [/COLOR][COLOR red] 18+ [/COLOR]
