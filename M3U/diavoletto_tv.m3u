@@ -981,6 +981,17 @@ rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
 rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
 #EXTINF:0, SKY SPORTS F1 HD
 rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,CA:TSN 1 HD*
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1905.ch
+#EXTINF:-1,CA:TSN 2 HD*
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1906.ch
+#EXTINF:-1,CA:TSN 3 HD*
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1902.ch
+#EXTINF:-1,CA:TSN 4 HD*
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1903.ch
+#EXTINF:-1,CA:TSN 5 HD*
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1904.ch
+
 
 #EXTINF:-1, 3Sport 1
 http://93.184.221.133/00573D/236/236-0.m3u8
