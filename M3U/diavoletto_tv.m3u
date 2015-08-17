@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 16/08/2015 14h16*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 17/08/2015 11h00*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -29,6 +29,18 @@ http://niqash:niqash@iptv.laraprog.info:8000/BeinSport_8HD
 http://niqash:niqash@iptv.laraprog.info:8000/BeinSport_9HD
 #EXTINF:0,BeinSport_10HD
 http://niqash:niqash@iptv.laraprog.info:8000/BeinSport_10HD
+#EXTINF:0, SKY SPORTS 1 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 2 HD
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 3 HD
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 4 HD
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 5 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS F1 HD
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
