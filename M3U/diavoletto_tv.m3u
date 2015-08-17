@@ -1580,3 +1580,131 @@ http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,Addounia TV
+rtmp://sama-tv.net/live/samatv
+#EXTINF:-1,Al Falstiniah TV
+rtmp://46.43.64.166/flv/flv
+#EXTINF:-1,Al Maaref
+http://almaareftv.com:1935/live/1/HasBahCa.m3u8
+#EXTINF:-1,Al Maaref TV
+rtmp://almaareftv.com/live/1
+#EXTINF:-1,Al Oula TV
+rtmp://82.137.248.21/Aloula/AloulaLive2
+#EXTINF:-1,Al Sharqiya News
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1,Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1,Alfady TV
+rtmp://stream.truth-voice.net/FadyLive//FadyLive
+#EXTINF:-1,Alhurra TV
+rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
+#EXTINF:-1,Aljazeera Arabic
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1,AlJazeera Children
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al-Manar TV
+rtmp://38.96.148.204/liveedge//livestream_360p
+#EXTINF:-1,Al-Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,ANN News
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Bidari rtsp
+rtsp://bidari.streamwebtown.com/bidaritv
+#EXTINF:-1,Canal Algérie
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1,Dijlah TV
+rtmp://stream.joinvisions.net/dij//dij
+#EXTINF:-1,dream1
+http://50.23.65.8/live/dream1/index.m3u8
+#EXTINF:-1,dream2
+http://50.23.65.8/live/dream2/index.m3u8
+#EXTINF:-1,DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,E ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#EXTINF:-1,Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
+#EXTINF:-1,I ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1,IRAN ASRE_EMROZZ
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:-1,IRAN CHANNEL_ONE
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1,IRAN GEM_KURD
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1,IRAN GEM_TRAVEL
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:-1,IRAN IRINN
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,IRAN ITC TV
+http://63.237.48.3/ios/ITC/ITC.m3u8
+#EXTINF:-1,IRAN JAME_JAM
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1,IRAN Mbc 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,IRAN MBC_ACTION m3u8
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,IRAN MBC_BOLLYWOOD m3u8
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,IRAN MBC_MAX m3u8
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,IRAN ONYX HD
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:-1,IRAN PNG
+http://63.237.48.3/ios/PNG/PNG.m3u8
+#EXTINF:-1,IRAN QURAN_TV m3u8
+http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1,IRAN TAPESH
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1,IRAN VARZESH_TV m3u8
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1,IRAN VELAYAT m3u8
+http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:-1,Iraqiya
+http://212.7.205.5:1935/Iraqia/live/HasBahCa.m3u8
+#EXTINF:-1,KAS
+http://137.135.64.32:1935/kas/kas/HasBahCa.m3u8
+#EXTINF:-1,KTV PLUS
+rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
+#EXTINF:-1,KTV Sport Extra
+rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
+#EXTINF:-1,Libya TV
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,M ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,Mekke
+http://46.245.160.224/mekke/mekke/HasBahCa.m3u8
+#EXTINF:-1,Mosul TV
+rtmp://ns1.indexforce.com/mosultv/mystream
+#EXTINF:-1,N ***HasBahCa IPTV***
+http://bilgidiyari.net/m3u/turkiye.mp4
+#EXTINF:-1,Nour El-Sham
+rtmp://82.137.248.21/Nour/NourLive2
+#EXTINF:-1,PBC Palestine
+rtmp://vstream2.hadara.ps/pbc/pbc_1
+#EXTINF:-1,Pezhvak Show
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
+#EXTINF:-1,Quran TV
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#EXTINF:-1,Royatv
+http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+#EXTINF:-1,Sport TV
+rtmp://stream2.joinvisions.net/jorlive/s1
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Syria TV
+rtmp://82.137.248.16/Sat/SatLive3
+#EXTINF:-1,Syrian Drama
+rtmp://82.137.248.21/Drama/DramaLive2
+#EXTINF:-1,Syrian News
+rtmp://82.137.248.16/Snews/SnewsLive2
+#EXTINF:-1,Talaqie TV
+rtmp://82.137.248.20/Talaqie/TalaqieLive1
