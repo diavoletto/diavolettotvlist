@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 18/08/2015 11h20*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 18/08/2015 14h37*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,7 +10,99 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1 group-title=” 17.00 tennis CINCINNATI “,[COLOR green]17.00 tennis CINCINNATI[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 17.00 tennis CINCINNATI “,silk sport 3 ge
+http://80.77.52.6:3719/udp/226.0.0.9:12345
 
+#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,[COLOR green]18.00 ch.lea ASTANA – APOEL NICOSIA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,bt sport europe uk
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
+
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,[COLOR green]20.45 ch.lea LAZIO – B.LEVERKUSEN[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,can 5 it
+http://81.92.105.134:5555/pl.m3u8?channel=532
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de
+http://81.92.105.134:5555/pl.m3u8?channel=5
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de HD
+http://81.92.105.134:5555/pl.m3u8?channel=101
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,2 tv georgia
+http://ams01-edge01.itdc.ge/meore/index.m3u8?token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,tsn 1 ca ace
+acestream://f0be1dcc62ce52be176e96006ba2527e52707806
+
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,[COLOR green]20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,trt1 tr
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,tv3 catalunya
+http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,1 tv georgia
+http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,arena sport 1 sr
+http://sangajstream.dyndns.biz:80/live?channelId=77&uid=1342&deviceUser=riki&devicePass=riki
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,bt sport europe uk
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,tsn 4 ca ace
+acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
+
+#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,[COLOR green]20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,bht1
+http://webtropia1.narodnatv.info:80/live?channelId=21&uid=1342&deviceUser=riki&devicePass=riki
+#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,rtrs sr
+http://sangajstream.dyndns.biz:80/live?channelId=122&uid=1342&deviceUser=riki&devicePass=riki
+
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,[COLOR green]20.45 ch.lea SPORTING LISBON – CSKA MOSCOW[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1 group-title=” 22.00 cycling TOUR of COLORADO stage 2 “,[COLOR green]22.00 cycling TOUR of COLORADO stage 2[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 22.00 cycling TOUR of COLORADO stage 2 “,eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -229,6 +321,143 @@ http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+
+#EXTINF:-1,[COLOR red]****************UK IPTV CHANNEL****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,.Sky Movies Sci-Fi,
+http://baltak.com/iptv/tv21.m3u8
+#EXTINF:-1,.Sky Movies Premiere,
+http://baltak.com/iptv/tv20.m3u8
+#EXTINF:-1,.Sky Movies Family,
+http://baltak.com/iptv/tv19.m3u8
+#EXTINF:-1,.Sky Movies Drama,
+http://baltak.com/iptv/tv18.m3u8
+#EXTINF:-1,.Sky Movies Crime,
+http://baltak.com/iptv/tv17.m3u8
+#EXTINF:-1,.Sky Movies Comedy,
+http://baltak.com/iptv/tv16.m3u8
+#EXTINF:-1,.Sky Movies Action,
+http://baltak.com/iptv/tv15.m3u8
+#EXTINF:-1,. Sky Living UK
+http://baltak.com/iptv/tv1.m3u8
+#EXTINF:-1,. Sky Atlantic UK
+http://baltak.com/iptv/tv2.m3u8
+#EXTINF:-1,. Sky Arts 1 UK
+http://baltak.com/iptv/tv3.m3u8
+#EXTINF:-1,. Sky 2 UK
+http://baltak.com/iptv/tv4.m3u8
+#EXTINF:-1,. Sky 1 UK
+http://baltak.com/iptv/tv5.m3u8
+#EXTINF:-1,. National Geographic Channel UK
+http://baltak.com/iptv/tv6.m3u8
+#EXTINF:-1,. Nat Geo Wild UK
+http://baltak.com/iptv/tv7.m3u8
+#EXTINF:-1,. MTV Music UK
+http://baltak.com/iptv/tv8.m3u8
+#EXTINF:-1,. MTV Hits
+http://baltak.com/iptv/tv9.m3u8
+
+#EXTINF:-1,. ITV4 UK
+http://baltak.com/iptv/tv10.m3u8
+#EXTINF:-1,. ITV3 UK
+http://baltak.com/iptv/tv11.m3u8
+#EXTINF:-1,. ITV2 UK
+http://baltak.com/iptv/tv12.m3u8
+#EXTINF:-1,. ITV1 UK
+http://baltak.com/iptv/tv13.m3u8
+#EXTINF:-1,. CBS Drama UK
+http://baltak.com/iptv/tv14.m3u8
+
+#EXTINF:-1,. Quest
+http://37.187.160.187:8000/live/ressler/skype/69.m3u8
+#EXTINF:-1,. VH1 UK
+http://37.187.160.187:8000/live/ressler/skype/110.m3u8
+#EXTINF:-1,. Sky News
+http://37.187.160.187:8000/live/ressler/skype/89.m3u8
+#EXTINF:-1,. Sky Living UK
+http://37.187.160.187:8000/live/ressler/skype/80.m3u8
+#EXTINF:-1,. Sky Atlantic UK
+http://37.187.160.187:8000/live/ressler/skype/81.m3u8
+#EXTINF:-1,. Sky Arts 1 UK
+http://37.187.160.187:8000/live/ressler/skype/102.m3u8
+#EXTINF:-1,. Sky 2 UK
+http://37.187.160.187:8000/live/ressler/skype/79.m3u8
+#EXTINF:-1,. Sky 1 UK
+http://37.187.160.187:8000/live/ressler/skype/77.m3u8
+#EXTINF:-1,. RTE Two UK
+http://37.187.160.187:8000/live/ressler/skype/73.m3u8
+#EXTINF:-1,. RTE One UK
+http://37.187.160.187:8000/live/ressler/skype/72.m3u8
+#EXTINF:-1,. National Geographic Channel UK
+http://37.187.160.187:8000/live/ressler/skype/96.m3u8
+#EXTINF:-1,. Nat Geo Wild UK
+http://37.187.160.187:8000/live/ressler/skype/97.m3u8
+#EXTINF:-1,. MTV Music UK
+http://37.187.160.187:8000/live/ressler/skype/107.m3u8
+#EXTINF:-1,. MTV Hits
+http://37.187.160.187:8000/live/ressler/skype/108.m3u8
+#EXTINF:-1,. MTV Classic UK
+http://37.187.160.187:8000/live/ressler/skype/109.m3u8
+#EXTINF:-1,. More4 UK
+http://37.187.160.187:8000/live/ressler/skype/64.m3u8
+#EXTINF:-1,. ITV4 UK
+http://37.187.160.187:8000/live/ressler/skype/60.m3u8
+#EXTINF:-1,. ITV3 UK
+http://37.187.160.187:8000/live/ressler/skype/59.m3u8
+#EXTINF:-1,. ITV2 UK
+http://37.187.160.187:8000/live/ressler/skype/58.m3u8
+#EXTINF:-1,. ITV1 UK
+http://37.187.160.187:8000/live/ressler/skype/55.m3u8
+#EXTINF:-1,. Investigation Discovery UK
+http://37.187.160.187:8000/live/ressler/skype/98.m3u8
+#EXTINF:-1,. History Channel UK
+http://37.187.160.187:8000/live/ressler/skype/90.m3u8
+#EXTINF:-1,. Gold UK
+http://37.187.160.187:8000/live/ressler/skype/84.m3u8
+#EXTINF:-1,. E4 UK
+http://37.187.160.187:8000/live/ressler/skype/63.m3u8
+#EXTINF:-1,. Drama
+http://37.187.160.187:8000/live/ressler/skype/68.m3u8
+#EXTINF:-1,. Discovery Science UK
+http://37.187.160.187:8000/live/ressler/skype/94.m3u8
+#EXTINF:-1,. Discovery History UK
+http://37.187.160.187:8000/live/ressler/skype/93.m3u8
+#EXTINF:-1,. Dave UK
+http://37.187.160.187:8000/live/ressler/skype/83.m3u8
+#EXTINF:-1,. Comedy Central UK
+http://37.187.160.187:8000/live/ressler/skype/82.m3u8
+#EXTINF:-1,. Channel 5 UK
+http://37.187.160.187:8000/live/ressler/skype/57.m3u8
+#EXTINF:-1,. Channel 4 UK
+http://37.187.160.187:8000/live/ressler/skype/56.m3u8
+#EXTINF:-1,. CBS Reality UK
+http://37.187.160.187:8000/live/ressler/skype/66.m3u8
+#EXTINF:-1,. CBS Drama UK
+http://37.187.160.187:8000/live/ressler/skype/67.m3u8
+#EXTINF:-1,. CBeebies
+http://37.187.160.187:8000/live/ressler/skype/129.m3u8
+#EXTINF:-1,. BBC One UK
+http://37.187.160.187:8000/live/ressler/skype/53.m3u8
+#EXTINF:-1,. BBC Two UK
+http://37.187.160.187:8000/live/ressler/skype/54.m3u8
+#EXTINF:-1,. BBC Three UK
+http://37.187.160.187:8000/live/ressler/skype/61.m3u8
+#EXTINF:-1,. BBC Four UK
+http://37.187.160.187:8000/live/ressler/skype/62.m3u8
+#EXTINF:-1,. Animal Planet UK
+http://37.187.160.187:8000/live/ressler/skype/95.m3u8
+#EXTINF:-1,. Alibi UK
+http://37.187.160.187:8000/live/ressler/skype/85.m3u8
+#EXTINF:-1,. 5USA UK
+http://37.187.160.187:8000/live/ressler/skype/70.m3u8
+#EXTINF:-1,. 5* UK
+http://37.187.160.187:8000/live/ressler/skype/71.m3u8
+#EXTINF:-1,. 3e
+http://37.187.160.187:8000/live/ressler/skype/76.m3u8
+#EXTINF:-1,. TG4
+http://37.187.160.187:8000/live/ressler/skype/75.m3u8
+
+
 
 #EXTINF:-1,[COLOR red]****************WORLD IPTV CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
