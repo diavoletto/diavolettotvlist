@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 18/08/2015 14h37*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 19/08/2015 13h07*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,99 +10,7 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=” 17.00 tennis CINCINNATI “,[COLOR green]17.00 tennis CINCINNATI[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 17.00 tennis CINCINNATI “,silk sport 3 ge
-http://80.77.52.6:3719/udp/226.0.0.9:12345
 
-#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,[COLOR green]18.00 ch.lea ASTANA – APOEL NICOSIA[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-#EXTINF:-1 group-title=” 18.00 ch.lea ASTANA – APOEL NICOSIA “,bt sport europe uk
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
-
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,[COLOR green]20.45 ch.lea LAZIO – B.LEVERKUSEN[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,can 5 it
-http://81.92.105.134:5555/pl.m3u8?channel=532
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de
-http://81.92.105.134:5555/pl.m3u8?channel=5
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de HD
-http://81.92.105.134:5555/pl.m3u8?channel=101
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,zdf de
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,2 tv georgia
-http://ams01-edge01.itdc.ge/meore/index.m3u8?token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream3
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea LAZIO – B.LEVERKUSEN “,tsn 1 ca ace
-acestream://f0be1dcc62ce52be176e96006ba2527e52707806
-
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,[COLOR green]20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,trt1 tr
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,tv3 catalunya
-http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,1 tv georgia
-http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,arena sport 1 sr
-http://sangajstream.dyndns.biz:80/live?channelId=77&uid=1342&deviceUser=riki&devicePass=riki
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,silk sport 1 ge
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,bt sport europe uk
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea MANCHESTER UTD – CLUB BRUGGE “,tsn 4 ca ace
-acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
-
-#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,[COLOR green]20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,viasat sport baltic ace
-acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
-#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,bht1
-http://webtropia1.narodnatv.info:80/live?channelId=21&uid=1342&deviceUser=riki&devicePass=riki
-#EXTINF:-1 group-title=” 20.45 ch.lea BATE BORISOV – PARTIZAN BELGRADE “,rtrs sr
-http://sangajstream.dyndns.biz:80/live?channelId=122&uid=1342&deviceUser=riki&devicePass=riki
-
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,[COLOR green]20.45 ch.lea SPORTING LISBON – CSKA MOSCOW[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,beIN sports FR 2
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:-1 group-title=” 20.45 ch.lea SPORTING LISBON – CSKA MOSCOW “,idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-
-#EXTINF:-1 group-title=” 22.00 cycling TOUR of COLORADO stage 2 “,[COLOR green]22.00 cycling TOUR of COLORADO stage 2[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 22.00 cycling TOUR of COLORADO stage 2 “,eurosport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=” 22.30 friendly REAL MADRID – GALATASARAY “,trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1432,7 +1340,46 @@ http://216.105.40.244/live/russia_today/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:0,France2
+http://81.92.105.134:5555/pl.m3u8?channel=401
+#EXTINF:0,France3
+http://81.92.105.134:5555/pl.m3u8?channel=402
+#EXTINF:0,France4
+http://81.92.105.134:5555/pl.m3u8?channel=403
+#EXTINF:0,France5
+http://81.92.105.134:5555/pl.m3u8?channel=404
+#EXTINF:0,BFMBusiness
+http://81.92.105.134:5555/pl.m3u8?channel=405
+#EXTINF:0,France24
+http://81.92.105.134:5555/pl.m3u8?channel=406
+#EXTINF:0,M6
+http://81.92.105.134:5555/pl.m3u8?channel=407
+#EXTINF:0,W9
+http://81.92.105.134:5555/pl.m3u8?channel=410
+#EXTINF:0,France
+http://81.92.105.134:5555/pl.m3u8?channel=411
+#EXTINF:0,D17
+http://81.92.105.134:5555/pl.m3u8?channel=414
+#EXTINF:0,NT1
+http://81.92.105.134:5555/pl.m3u8?channel=416
+#EXTINF:0,i TELE
+http://81.92.105.134:5555/pl.m3u8?channel=417
+#EXTINF:0,Gulli
+http://81.92.105.134:5555/pl.m3u8?channel=418
+#EXTINF:0,BFMTV
+http://81.92.105.134:5555/pl.m3u8?channel=419
+#EXTINF:0,Alsace20
+http://81.92.105.134:5555/pl.m3u8?channel=420
+#EXTINF:0,TMC
+http://81.92.105.134:5555/pl.m3u8?channel=412
+#EXTINF:0,NRJ12
+http://81.92.105.134:5555/pl.m3u8?channel=413
+#EXTINF:0,Euronews
+http://81.92.105.134:5555/pl.m3u8?channel=172
+#EXTINF:0,RTS Un
+http://81.92.105.134:5555/pl.m3u8?channel=173
+#EXTINF:0,RTS Deux
+http://81.92.105.134:5555/pl.m3u8?channel=174
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -2105,8 +2052,137 @@ http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8
 #EXTINF:0,GTV Ghana
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 
+#EXTINF:-1,[COLOR red]****************Us Canada****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0, DIRECTO
+http://4.31.30.159:9007
+#EXTINF:0, TVO KIDS
+http://4.31.30.159:9008
+#EXTINF:0, SPIKE
+http://4.31.30.159:9009
+#EXTINF:0, City
+http://4.31.30.159:9010
+#EXTINF:0,Channel 9011
+http://4.31.30.159:9011
+#EXTINF:0, KANAL DOZE
+http://4.31.30.159:9012
+#EXTINF:0, TPA
+http://4.31.30.159:9013
+#EXTINF:0, !
+http://4.31.30.159:9014
+#EXTINF:0, NICKELODEON
+http://4.31.30.159:9019
+#EXTINF:0, Channel 9021
+http://4.31.30.159:9021
+#EXTINF:0, MOTORSPORTS
+http://4.31.30.159:9023
+#EXTINF:0, CIELO
+http://4.31.30.159:9024
+#EXTINF:0, Food Network
+http://4.31.30.159:9028
+#EXTINF:0, M3
+http://4.31.30.159:9031
+#EXTINF:0, HISTORY
+http://4.31.30.159:9035
+#EXTINF:0, KIDS
+http://4.31.30.159:9036
+#EXTINF:0, CINE MUNDO
+http://4.31.30.159:9037
+#EXTINF:0, AMC
+http://4.31.30.159:9038
+#EXTINF:0,Channel 9039
+http://4.31.30.159:9039
+#EXTINF:0, GLOBAL TORONTO
+http://4.31.30.159:9041
+#EXTINF:0,Channel 9045
+http://4.31.30.159:9045
+#EXTINF:0, HG TV
+http://4.31.30.159:9046
+#EXTINF:0, TVI
+http://4.31.30.159:9052
+#EXTINF:0,Channel 30
+http://4.31.30.159:9056
+#EXTINF:0, SOL TV
+http://4.31.30.159:9061
+#EXTINF:0,Channel 32
+http://4.31.30.159:9062
+#EXTINF:0,Channel 33
+http://4.31.30.159:9066
+#EXTINF:0, DISCOVERY
+http://4.31.30.159:9072
+#EXTINF:0,Channel 35
+http://4.31.30.159:9074
+#EXTINF:0, RAI 2
+http://4.31.30.159:9080
+#EXTINF:0, TG 3
+http://4.31.30.159:9081
+#EXTINF:0, TSN 1
+http://4.31.30.159:9082
+#EXTINF:0, TSN 2
+http://4.31.30.159:9083
+#EXTINF:0, TSN 3
+http://4.31.30.159:9084
+#EXTINF:0, TSN 4
+http://4.31.30.159:9085
+#EXTINF:0, TSN 5
+http://4.31.30.159:9086
+#EXTINF:0,Channel 43
+http://4.31.30.159:9087
+#EXTINF:0,Channel 44
+http://4.31.30.159:9088
+#EXTINF:0,Channel 45
+http://4.31.30.159:9090
+#EXTINF:0,Channel 46
+http://4.31.30.159:9091
+#EXTINF:0, TOROS
+http://4.31.30.159:9095
+#EXTINF:0,Channel 48
+http://4.31.30.159:9096
+#EXTINF:0,Channel 49
+http://4.31.30.159:9101
+#EXTINF:0, ABC FAMILY
+http://4.31.30.159:9109
+#EXTINF:0, SPORTS 1
+http://4.31.30.159:9110
+#EXTINF:0, SPORTS 2
+http://4.31.30.159:9111
+#EXTINF:0,Channel 53
+http://4.31.30.159:9112
+#EXTINF:0, CHRISTIAN CHANNEL
+http://4.31.30.159:9115
+#EXTINF:0, RTP
+http://4.31.30.159:9116
+#EXTINF:0, PFC SPORTS
+http://4.31.30.159:9119
+#EXTINF:0, MOV HD
+http://4.31.30.159:9131
+#EXTINF:0, HOLLYWOOD
+http://4.31.30.159:9133
+#EXTINF:0, MOTORS TV
+http://4.31.30.159:9134
+#EXTINF:0, MAGIA
+http://4.31.30.159:9148
+#EXTINF:0, MUSIC TV
+http://4.31.30.159:9149
+#EXTINF:0, AXN BLACK HD
+http://4.31.30.159:9157
+#EXTINF:0, AXN WHITE HD
+http://4.31.30.159:9158
+#EXTINF:0, Y-TV
+http://4.31.30.159:9001
+#EXTINF:0, FAMILY
+
 #EXTINF:-1,[COLOR red]****************ADULT ONLY****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+http://4.31.30.159:9002
+#EXTINF:0, HOT (18+)
+http://4.31.30.159:9003
+#EXTINF:0, VH1
+http://4.31.30.159:9004
+#EXTINF:0, PORN HD (18+)
+http://4.31.30.159:9005
+#EXTINF:0, Playboy
+http://4.31.30.159:9006
 #EXTINF: -1, Checa 18 MMSH
 MMSH: //tv.webmisto.cz: 7000
 #EXTINF: -1, BABES SPORTING
