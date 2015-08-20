@@ -438,9 +438,46 @@ http://81.92.105.134:5555/pl.m3u8?channel=95&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&
 http://81.92.105.134:5555/pl.m3u8?channel=96&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 
 
-#EXTINF:-1,[COLOR red]****************WORLD IPTV CHANNEL****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:-1,7NEWS BG
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8
+#EXTINF:-1,Balkanika
+http://185.13.236.197:4080/udp/224.0.0.120:1238
+#EXTINF:-1,bTV
+http://185.13.236.197:4080/udp/224.0.0.110:1234
+#EXTINF:-1,CN (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1244
+#EXTINF:-1,Discovery Ch.(EN)
+http://185.13.236.197:4080/udp/224.0.0.110:1241
+#EXTINF:-1,Disney Ch. (ESP)
+http://185.13.236.197:4080/udp/224.0.0.120:1235
+#EXTINF:-1,DM Sat
+http://185.13.236.197:4080/udp/224.0.0.120:1246
+#EXTINF:-1,Fen TV
+http://185.13.236.197:4080/udp/224.0.0.120:1236
+#EXTINF:-1,Film Plus – Sport Plus
+http://185.13.236.197:4080/udp/224.0.0.110:1237
+#EXTINF:-1,Folklor TV
+http://185.13.236.197:4080/udp/224.0.0.120:1239
+#EXTINF:-1,Hobby TV
+http://185.13.236.197:4080/udp/224.0.0.110:1239
+#EXTINF:-1,Kanal6
+http://84.54.139.86:91/
+#EXTINF:-1,NG Wild (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1237
+#EXTINF:-1,Nick Jr. (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1240
+#EXTINF:-1,Nova
+http://185.13.236.197:4080/udp/224.0.0.110:1235
+#EXTINF:-1,Planeta Folk TV
+http://185.13.236.197:4080/udp/224.0.0.120:1242
+#EXTINF:-1,Planeta TV
+http://185.13.236.197:4080/udp/224.0.0.110:1236
+#EXTINF:-1,The Voice
+http://185.13.236.197:4080/udp/224.0.0.110:1240
+#EXTINF:-1,Viasat Explore (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1234
 
 
 #EXTINF:-1,[COLOR red]****************Sport Channel****************[/COLOR]
