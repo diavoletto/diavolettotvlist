@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 21/08/2015 11h47*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 21/08/2015 15h47*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -14,6 +14,30 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1,BT Sport Europe
+plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+BT Sport Europe
+
+#EXTINF:-1,TSN 1
+plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+TSN1
+
+#EXTINF:-1,TSN 2
+plugin://plugin.video.p2p-streams/?url=acestream://1f66b63a33bd9010511d35f263482330d4e23d88&mode=1&name=acestream+TSN 2
+
+#EXTINF:-1,TSN 3
+plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+TSN 3
+
+#EXTINF:-1,TSN 4
+plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+TSN 4
+
+#EXTINF:-1,TSN 5
+plugin://plugin.video.p2p-streams/?url=acestream://0beaccf6223656901a42736777ac3ae86bf1bcee&mode=1&name=acestream+TSN 5
+
+#EXTINF:-1,NBCSN
+plugin://plugin.video.p2p-streams/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+NBCSN
+
+#EXTINF:-1,SNWL
+plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+SNWL
 
 #EXTINF:-1,SKY SPORTS 1
 plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+SKY SPORTS 1
