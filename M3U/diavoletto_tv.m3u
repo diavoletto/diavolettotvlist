@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 21/08/2015 15h47*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 22/08/2015 19h15*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -256,199 +256,6 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 
 #EXTINF:-1,[COLOR red]****************UK IPTV CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,BBC 1
-rtmp://109.200.1.82:1935/tes/bbc1.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,BBC 2
-rtmp://109.200.1.82:1935/tes/bbc2.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,BBC 3
-rtmp://109.200.1.82:1935/tes/bbc3.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,BBC 4
-rtmp://109.200.1.82:1935/tes/bbc4.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,BT SPORTS 1
-rtmp://109.200.1.82:1935/tes/bt1.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,BT SPORTS 2
-rtmp://109.200.1.82:1935/tes/bt2.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,itv2
-rtmp://109.200.1.82:1935/tes/itv2.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,itv3
-rtmp://109.200.1.82:1935/tes/itv3.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,itv4
-rtmp://109.200.1.82:1935/tes/itv4.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,itv be
-rtmp://109.200.1.82:1935/tes/itvbe.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,itv encore
-rtmp://109.200.1.82:1935/tes/itvencore.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Dave
-rtmp://109.200.1.82:1935/tes/dave.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Pick
-rtmp://109.200.1.82:1935/tes/itv2.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Watch
-rtmp://109.200.1.82:1935/tes/watch.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Gold
-rtmp://109.200.1.82:1935/tes/gold.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Quest
-rtmp://109.200.1.82:1935/tes/quest.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTINF:0,Flava
-rtmp://109.200.1.82:1935/tes/flava.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTM3U
-#EXTINF:0,Sky 1
-http://84.232.5.115/liveedge3/sky1.stream/chunklist_w706297820.m3u8
-#EXTINF:0,Sky 2
-http://84.232.5.115/liveedge3/sky2.stream/chunklist_w1200531362.m3u8
-#EXTINF:0,True Movies 1
-http://84.232.5.115/liveedge/true1.stream/chunklist_w1381573437.m3u8
-#EXTINF:0,True Movies 2
-http://84.232.5.115/liveedge/true2.stream/chunklist_w849260575.m3u8
-#EXTINF:0,SYFY
-http://84.232.5.115/liveedge3/syfy.stream/chunklist_w506062383.m3u8
-#EXTINF:0,Sky Movies Sci-Fi & Horror
-http://84.232.5.115/liveedge3/movscifi.stream/chunklist_w1393876836.m3u8
-#EXTINF:0,Sky Movies Premiere
-http://84.232.5.115/liveedge3/movpremier.stream/chunklist_w1162444261.m3u8
-#EXTINF:0,Sky Movies Greats
-http://84.232.5.115/liveedge3/movgreats.stream/chunklist_w182953577.m3u8
-#EXTINF:0,Sky Movies Comedy
-http://84.232.5.115/liveedge3/movcomedy.stream/chunklist_w780303533.m3u8
-#EXTINF:0,Sky Movies Action & Adventure
-http://84.232.5.115/liveedge3/movaction.stream/chunklist_w1299799277.m3u8
-#EXTINF:0,Sky Movies Crime & Thriller
-http://84.232.5.115/liveedge3/movthriller.stream/chunklist_w256248227.m3u8
-#EXTINF:0,Sky Movies Disney
-http://84.232.5.115/liveedge3/movdisney.stream/chunklist_w1596910281.m3u8
-#EXTINF:0,Sky Movies Drama & Romance
-http://84.232.5.115/liveedge3/movdrama.stream/chunklist_w1083643453.m3u8
-#EXTINF:0,Sky Movies Showcase
-http://84.232.5.115/liveedge3/movshowcase.stream/chunklist_w246819119.m3u8
-#EXTINF:0,Sky Movies Family
-http://84.232.5.115/liveedge3/movfamily.stream/chunklist_w1483640207.m3u8
-#EXTINF:0,Sky Movies Premiere
-http://84.232.5.115/liveedge3/movpremier.stream/chunklist_w1639774517.m3u8
-#EXTINF:0,Sky Movies Select
-http://84.232.5.115/liveedge3/movselect.stream/chunklist_w1373079772.m3u8
-#EXTINF:0,History
-http://84.232.5.115/liveedge3/history.stream/chunklist_w1942492756.m3u8
-#EXTINF:0,Discovery Turbo
-http://84.232.5.115/liveedge3/discovturbo.stream/chunklist_w1288479263.m3u8
-#EXTINF:0,Discovery Shed
-http://84.232.5.115/liveedge3/shed.stream/chunklist_w1423101954.m3u8
-#EXTINF:0,Discovery Science
-http://84.232.5.115/liveedge3/discovsci.stream/chunklist_w2039991872.m3u8
-#EXTINF:0,Discovery History
-http://84.232.5.115/liveedge3/discovhistory.stream/chunklist_w840945642.m3u8
-#EXTINF:0,Premier Sports
-http://84.232.5.115/liveedge3/premier.stream/chunklist_w965751776.m3u8
-#EXTINF:0,Setanta Sport
-http://84.232.5.115/liveedge3/setanta.stream/chunklist_w295391635.m3u8
-#EXTINF:0,Motors TV
-http://84.232.5.115/liveedge3/motors.stream/chunklist_w992952329.m3u8
-#EXTINF:0,Eurosport 1
-http://84.232.5.115/liveedge3/eurosport.stream/chunklist_w862157546.m3u8
-#EXTINF:0,Eurosport 2
-http://84.232.5.115/liveedge3/eurosport2.stream/chunklist_w1586448769.m3u8
-#EXTINF:0,BT ESPN UK
-http://84.232.5.115/liveedge/espn.stream/chunklist_w1903858708.m3u8
-#EXTINF:0,Sky 1
-http://84.232.5.115/liveedge3/sky1.stream/chunklist_w706297820.m3u8
-#EXTINF:0,Sky 2
-http://84.232.5.115/liveedge3/sky2.stream/chunklist_w1200531362.m3u8
-#EXTINF:0,True Movies 1
-http://84.232.5.115/liveedge/true1.stream/chunklist_w1381573437.m3u8
-#EXTINF:0,True Movies 2
-http://84.232.5.115/liveedge/true2.stream/chunklist_w849260575.m3u8
-#EXTINF:0,SYFY
-http://84.232.5.115/liveedge3/syfy.stream/chunklist_w506062383.m3u8
-#EXTINF:0,Sky Movies Sci-Fi & Horror
-http://84.232.5.115/liveedge3/movscifi.stream/chunklist_w1393876836.m3u8
-#EXTINF:0,Sky Movies Premiere
-http://84.232.5.115/liveedge3/movpremier.stream/chunklist_w1162444261.m3u8
-#EXTINF:0,Sky Movies Greats
-http://84.232.5.115/liveedge3/movgreats.stream/chunklist_w182953577.m3u8
-#EXTINF:0,Sky Movies Comedy
-http://84.232.5.115/liveedge3/movcomedy.stream/chunklist_w780303533.m3u8
-#EXTINF:0,Sky Movies Action & Adventure
-http://84.232.5.115/liveedge3/movaction.stream/chunklist_w1299799277.m3u8
-#EXTINF:0,Sky Movies Crime & Thriller
-http://84.232.5.115/liveedge3/movthriller.stream/chunklist_w256248227.m3u8
-#EXTINF:0,Sky Movies Disney
-http://84.232.5.115/liveedge3/movdisney.stream/chunklist_w1596910281.m3u8
-#EXTINF:0,Sky Movies Drama & Romance
-http://84.232.5.115/liveedge3/movdrama.stream/chunklist_w1083643453.m3u8
-#EXTINF:0,Sky Movies Showcase
-http://84.232.5.115/liveedge3/movshowcase.stream/chunklist_w246819119.m3u8
-#EXTINF:0,Sky Movies Family
-http://84.232.5.115/liveedge3/movfamily.stream/chunklist_w1483640207.m3u8
-#EXTINF:0,Sky Movies Premiere
-http://84.232.5.115/liveedge3/movpremier.stream/chunklist_w1639774517.m3u8
-#EXTINF:0,Sky Movies Select
-http://84.232.5.115/liveedge3/movselect.stream/chunklist_w1373079772.m3u8
-#EXTINF:0,History
-http://84.232.5.115/liveedge3/history.stream/chunklist_w1942492756.m3u8
-#EXTINF:0,Discovery Turbo
-http://84.232.5.115/liveedge3/discovturbo.stream/chunklist_w1288479263.m3u8
-#EXTINF:0,Discovery Shed
-http://84.232.5.115/liveedge3/shed.stream/chunklist_w1423101954.m3u8
-#EXTINF:0,Discovery Science
-http://84.232.5.115/liveedge3/discovsci.stream/chunklist_w2039991872.m3u8
-#EXTINF:0,Discovery History
-http://84.232.5.115/liveedge3/discovhistory.stream/chunklist_w840945642.m3u8
-#EXTINF:0,Premier Sports
-http://84.232.5.115/liveedge3/premier.stream/chunklist_w965751776.m3u8
-#EXTINF:0,Setanta Sport
-http://84.232.5.115/liveedge3/setanta.stream/chunklist_w295391635.m3u8
-#EXTINF:0,Motors TV
-http://84.232.5.115/liveedge3/motors.stream/chunklist_w992952329.m3u8
-#EXTINF:0,Eurosport 1
-http://84.232.5.115/liveedge3/eurosport.stream/chunklist_w862157546.m3u8
-#EXTINF:0,Eurosport 2
-http://84.232.5.115/liveedge3/eurosport2.stream/chunklist_w1586448769.m3u8
-#EXTINF:0,BT ESPN UK
-http://84.232.5.115/liveedge/espn.stream/chunklist_w1903858708.m3u8
-#EXTINF:-1,.Sky Movies Sci-Fi,
-http://baltak.com/iptv/tv21.m3u8
-#EXTINF:-1,.Sky Movies Premiere,
-http://baltak.com/iptv/tv20.m3u8
-#EXTINF:-1,.Sky Movies Family,
-http://baltak.com/iptv/tv19.m3u8
-#EXTINF:-1,.Sky Movies Drama,
-http://baltak.com/iptv/tv18.m3u8
-#EXTINF:-1,.Sky Movies Crime,
-http://baltak.com/iptv/tv17.m3u8
-#EXTINF:-1,.Sky Movies Comedy,
-http://baltak.com/iptv/tv16.m3u8
-#EXTINF:-1,.Sky Movies Action,
-http://baltak.com/iptv/tv15.m3u8
-#EXTINF:-1,. Sky Living UK
-http://baltak.com/iptv/tv1.m3u8
-#EXTINF:-1,. Sky Atlantic UK
-http://baltak.com/iptv/tv2.m3u8
-#EXTINF:-1,. Sky Arts 1 UK
-http://baltak.com/iptv/tv3.m3u8
-#EXTINF:-1,. Sky 2 UK
-http://baltak.com/iptv/tv4.m3u8
-#EXTINF:-1,. Sky 1 UK
-http://baltak.com/iptv/tv5.m3u8
-#EXTINF:-1,. National Geographic Channel UK
-http://baltak.com/iptv/tv6.m3u8
-#EXTINF:-1,. Nat Geo Wild UK
-http://baltak.com/iptv/tv7.m3u8
-#EXTINF:-1,. MTV Music UK
-http://baltak.com/iptv/tv8.m3u8
-#EXTINF:-1,. MTV Hits
-http://baltak.com/iptv/tv9.m3u8
-
-#EXTINF:-1,. ITV4 UK
-http://baltak.com/iptv/tv10.m3u8
-#EXTINF:-1,. ITV3 UK
-http://baltak.com/iptv/tv11.m3u8
-#EXTINF:-1,. ITV2 UK
-http://baltak.com/iptv/tv12.m3u8
-#EXTINF:-1,. ITV1 UK
-http://baltak.com/iptv/tv13.m3u8
-#EXTINF:-1,. CBS Drama UK
-http://baltak.com/iptv/tv14.m3u8
-
-#EXTINF:-1,. Quest
-http://37.187.160.187:8000/live/ressler/skype/69.m3u8
 #EXTINF:-1,. VH1 UK
 http://37.187.160.187:8000/live/ressler/skype/110.m3u8
 #EXTINF:-1,. Sky News
@@ -535,23 +342,6 @@ http://37.187.160.187:8000/live/ressler/skype/71.m3u8
 http://37.187.160.187:8000/live/ressler/skype/76.m3u8
 #EXTINF:-1,. TG4
 http://37.187.160.187:8000/live/ressler/skype/75.m3u8
-#EXTINF:-1,ITV
-http://81.92.105.134:5555/pl.m3u8?channel=89&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ITV2
-http://81.92.105.134:5555/pl.m3u8?channel=90&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ITV3
-http://81.92.105.134:5555/pl.m3u8?channel=91&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ITV4
-http://81.92.105.134:5555/pl.m3u8?channel=92&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,E4
-http://81.92.105.134:5555/pl.m3u8?channel=93&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,More4
-http://81.92.105.134:5555/pl.m3u8?channel=94&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Film4
-http://81.92.105.134:5555/pl.m3u8?channel=95&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Channel4
-http://81.92.105.134:5555/pl.m3u8?channel=96&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
 
 #EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -946,334 +736,10 @@ http://iptv15.zapto.org:8000/live/free4u/2015/1340.ts
 http://iptv15.zapto.org:8000/live/free4u/2015/1344.ts
 #EXTINF:0,SPAIN-TVE1
 http://iptv15.zapto.org:8000/live/free4u/2015/1257.ts
-#EXTINF:0,SPAIN-TV3
-http://iptv15.zapto.org:8000/live/free4u/2015/1255.ts
-#EXTINF:0,SPAIN-LA-SEXTA-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1264.ts
-#EXTINF:0,SPAIN-EURONEWS
-http://iptv15.zapto.org:8000/live/free4u/2015/1265.ts
-#EXTINF:0,SPAIN-Canal -Dcine
-http://iptv15.zapto.org:8000/live/free4u/2015/1275.ts
-#EXTINF:0,SPAIN-AXN-White
-http://iptv15.zapto.org:8000/live/free4u/2015/1277.ts
-#EXTINF:0,SPAIN-AXN
-http://iptv15.zapto.org:8000/live/free4u/2015/1278.ts
-#EXTINF:0,UK Animal Planet
-http://iptv15.zapto.org:8000/live/free4u/2015/1169.ts
-#EXTINF:0,TNT HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1163.ts
-#EXTINF:0,TLC US
-http://iptv15.zapto.org:8000/live/free4u/2015/1156.ts
-#EXTINF:0,TLC
-http://iptv15.zapto.org:8000/live/free4u/2015/1175.ts
-#EXTINF:0,TBS HD EN
-http://iptv15.zapto.org:8000/live/free4u/2015/1190.ts
-#EXTINF:0,Starz encore HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1164.ts
-#EXTINF:0,HSN 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1162.ts
-#EXTINF:0,FOX SPORTS 2 HD EN
-http://iptv15.zapto.org:8000/live/free4u/2015/1208.ts
-#EXTINF:0,FOOD HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1158.ts
-#EXTINF:0,Family HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1174.ts
-#EXTINF:0,Disney XD HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1176.ts
-#EXTINF:0,DISCOVERY TURBO
-http://iptv15.zapto.org:8000/live/free4u/2015/1178.ts
-#EXTINF:0,DISCOVERY SCI HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1155.ts
-#EXTINF:0,Discovery ID
-http://iptv15.zapto.org:8000/live/free4u/2015/1181.ts
-#EXTINF:0,Discovery
-http://iptv15.zapto.org:8000/live/free4u/2015/1180.ts
-#EXTINF:0,Cinemax 5 star
-http://iptv15.zapto.org:8000/live/free4u/2015/1189.ts
-#EXTINF:0,CARTOON NET HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1151.ts
-#EXTINF:0,BRAVO HD EN
-http://iptv15.zapto.org:8000/live/free4u/2015/1167.ts
-#EXTINF:0,BEIN USA EN HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1215.ts
-#EXTINF:0,Amazing Discoveries HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1152.ts
-#EXTINF:0,ABC HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1160.ts
-#EXTINF:0,BE-BEINSPORT-6HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1144.ts
-#EXTINF:0,BE-BEINSPORT-1HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1140.ts
-#EXTINF:0,BE-BeinSport-10HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1146.ts
-#EXTINF:0,UK-SKY SPORT 4 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1059.ts
-#EXTINF:0,UK-Sky Movies Sci-Fi & Horror
-http://iptv15.zapto.org:8000/live/free4u/2015/1062.ts
-#EXTINF:0,UK-Sky Movies Premiere HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1064.ts
-#EXTINF:0,UK-Sky Movies Modern HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1065.ts
-#EXTINF:0,UK-Sky Movies Comedy HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1066.ts
-#EXTINF:0,UK-SKY ATLANTIC PLUS
-http://iptv15.zapto.org:8000/live/free4u/2015/1067.ts
-#EXTINF:0,UK-NAT GEO WILD
-http://iptv15.zapto.org:8000/live/free4u/2015/1070.ts
-#EXTINF:0,UK-ITV 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1071.ts
-#EXTINF:0,UK-ITV 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1072.ts
-#EXTINF:0,UK-DISCOVERY SCIENCE
-http://iptv15.zapto.org:8000/live/free4u/2015/1073.ts
-#EXTINF:0,UK-DISCOVERY
-http://iptv15.zapto.org:8000/live/free4u/2015/1075.ts
-#EXTINF:0,UK-BT SPORT EUROPE HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
-#EXTINF:0,UK-BT SPORT 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
-#EXTINF:0,UK-BBC TWO
-http://iptv15.zapto.org:8000/live/free4u/2015/1079.ts
-#EXTINF:0,UK-BBC ONE
-http://iptv15.zapto.org:8000/live/free4u/2015/1080.ts
-#EXTINF:0,SWE-TLC
-http://iptv15.zapto.org:8000/live/free4u/2015/1085.ts
-#EXTINF:0,SWE-NORDIC FILM DRAMA VIASAT
-http://iptv15.zapto.org:8000/live/free4u/2015/1087.ts
-#EXTINF:0,SWE-NORDIC FILM COMEDY VIASAT
-http://iptv15.zapto.org:8000/live/free4u/2015/1088.ts
-#EXTINF:0,SWE-NORDIC FILM ACTION VIASAT
-http://iptv15.zapto.org:8000/live/free4u/2015/1089.ts
-#EXTINF:0,SWE-NATIONAL GEOGRAPFIC
-http://iptv15.zapto.org:8000/live/free4u/2015/1090.ts
-#EXTINF:0,SWE-DISCOVERY
-http://iptv15.zapto.org:8000/live/free4u/2015/1091.ts
-#EXTINF:0,SPORT SPORT TIME TV 1HQ GERMANY
-http://iptv15.zapto.org:8000/live/free4u/2015/1097.ts
-#EXTINF:0,PT-SPORT TV 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1101.ts
-#EXTINF:0,PT-NAT GEO WILD
-http://iptv15.zapto.org:8000/live/free4u/2015/1103.ts
-#EXTINF:0,PT-BENFICA 1 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1105.ts
-#EXTINF:0,UK_Sky Sport3
-http://iptv15.zapto.org:8000/live/free4u/2015/353.ts
-#EXTINF:0,UK_Sky Sport2
-http://iptv15.zapto.org:8000/live/free4u/2015/352.ts
-#EXTINF:0,UK_Sky Sport F1
-http://iptv15.zapto.org:8000/live/free4u/2015/350.ts
-#EXTINF:0,SWED: C MORE ACTION (mdbr
-http://iptv15.zapto.org:8000/live/free4u/2015/415.ts
-#EXTINF:0,SWED: C MORE (mdbr
-http://iptv15.zapto.org:8000/live/free4u/2015/416.ts
-#EXTINF:0,OCS_MAX (DRE
-http://iptv15.zapto.org:8000/live/free4u/2015/403.ts
-#EXTINF:0,OCS_GEANTS (DRE
-http://iptv15.zapto.org:8000/live/free4u/2015/404.ts
-#EXTINF:0,NL-Film 1 Premiere (mdbr
-http://iptv15.zapto.org:8000/live/free4u/2015/362.ts
-#EXTINF:0,SKY FOX HD
-http://iptv15.zapto.org:8000/live/free4u/2015/311.ts
-#EXTINF:0,SKY FOX CRIME HD
-http://iptv15.zapto.org:8000/live/free4u/2015/312.ts
-#EXTINF:0,AXN HD
-http://iptv15.zapto.org:8000/live/free4u/2015/294.ts
-#EXTINF:0,ALB-PINK-WESTERN
-http://iptv15.zapto.org:8000/live/free4u/2015/249.ts
-#EXTINF:0,SPORT KLUB 1 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/228.ts
-#EXTINF:0,RTS 2
-http://iptv15.zapto.org:8000/live/free4u/2015/204.ts
-#EXTINF:0,RTS 1
-http://iptv15.zapto.org:8000/live/free4u/2015/203.ts
-#EXTINF:0,RTRS
-http://iptv15.zapto.org:8000/live/free4u/2015/205.ts
-#EXTINF:0,RTL Living
-http://iptv15.zapto.org:8000/live/free4u/2015/217.ts
-#EXTINF:0,RTL Kockica
-http://iptv15.zapto.org:8000/live/free4u/2015/218.ts
-#EXTINF:0,RTL 2
-http://iptv15.zapto.org:8000/live/free4u/2015/216.ts
-#EXTINF:0,NOVA TV
-http://iptv15.zapto.org:8000/live/free4u/2015/213.ts
-#EXTINF:0,Klasik TV
-http://iptv15.zapto.org:8000/live/free4u/2015/221.ts
-#EXTINF:0,HRT 2
-http://iptv15.zapto.org:8000/live/free4u/2015/210.ts
-#EXTINF:0,HRT 1
-http://iptv15.zapto.org:8000/live/free4u/2015/209.ts
-#EXTINF:0,HAPPY
-http://iptv15.zapto.org:8000/live/free4u/2015/206.ts
-#EXTINF:0,Doma TV
-http://iptv15.zapto.org:8000/live/free4u/2015/214.ts
-#EXTINF:0,CMC
-http://iptv15.zapto.org:8000/live/free4u/2015/220.ts
-#EXTINF:0,B92
-http://iptv15.zapto.org:8000/live/free4u/2015/208.ts
-#EXTINF:0,ARENA SPORT 5 HR
-http://iptv15.zapto.org:8000/live/free4u/2015/227.ts
-#EXTINF:0,ARENA SPORT 4 HR
-http://iptv15.zapto.org:8000/live/free4u/2015/226.ts
-#EXTINF:0,ARENA SPORT 3 SRB
-http://iptv15.zapto.org:8000/live/free4u/2015/233.ts
-#EXTINF:0,ARENA SPORT 3 HR
-http://iptv15.zapto.org:8000/live/free4u/2015/225.ts
-#EXTINF:0,ARENA SPORT 2 SRB
-http://iptv15.zapto.org:8000/live/free4u/2015/232.ts
-#EXTINF:0,ARENA SPORT 2 HR
-http://iptv15.zapto.org:8000/live/free4u/2015/224.ts
-#EXTINF:0,ARENA SPORT 1 SRB
-http://iptv15.zapto.org:8000/live/free4u/2015/231.ts
-#EXTINF:0,Premium Studio Universal
-http://iptv15.zapto.org:8000/live/free4u/2015/1412.ts
-#EXTINF:0,NR C More Sport
-http://iptv15.zapto.org:8000/live/free4u/2015/1443.ts
-#EXTINF:0,NR C more Fotboll
-http://iptv15.zapto.org:8000/live/free4u/2015/1444.ts
+
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,RTS Un
-http://81.92.105.134:5555/pl.m3u8?channel=173&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTS Deux
-http://81.92.105.134:5555/pl.m3u8?channel=174&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTS SAT
-http://81.92.105.134:5555/pl.m3u8?channel=252&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CBeebies
-http://81.92.105.134:5555/pl.m3u8?channel=300&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Horse & Country
-http://81.92.105.134:5555/pl.m3u8?channel=301&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,UTV
-http://81.92.105.134:5555/pl.m3u8?channel=302&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CBSAction
-http://81.92.105.134:5555/pl.m3u8?channel=303&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CITV
-http://81.92.105.134:5555/pl.m3u8?channel=304&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ITV
-http://81.92.105.134:5555/pl.m3u8?channel=305&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,movies 4 men
-http://81.92.105.134:5555/pl.m3u8?channel=306&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,movies+1
-http://81.92.105.134:5555/pl.m3u8?channel=307&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France 24(inEnglish)
-http://81.92.105.134:5555/pl.m3u8?channel=309&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Sky News Intl
-http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CNBC Europe
-http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Bloomberg Europe TV
-http://81.92.105.134:5555/pl.m3u8?channel=312&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France2
-http://81.92.105.134:5555/pl.m3u8?channel=401&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France3
-http://81.92.105.134:5555/pl.m3u8?channel=402&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France4
-http://81.92.105.134:5555/pl.m3u8?channel=403&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France5
-http://81.92.105.134:5555/pl.m3u8?channel=404&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BFMBusiness
-http://81.92.105.134:5555/pl.m3u8?channel=405&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France24(enFrancais)
-http://81.92.105.134:5555/pl.m3u8?channel=406&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,M6
-http://81.92.105.134:5555/pl.m3u8?channel=407&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,W9
-http://81.92.105.134:5555/pl.m3u8?channel=410&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,France
-http://81.92.105.134:5555/pl.m3u8?channel=411&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,D17
-http://81.92.105.134:5555/pl.m3u8?channel=414&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NT1
-http://81.92.105.134:5555/pl.m3u8?channel=416&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,i TELE
-http://81.92.105.134:5555/pl.m3u8?channel=417&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Gulli
-http://81.92.105.134:5555/pl.m3u8?channel=418&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BFMTV
-http://81.92.105.134:5555/pl.m3u8?channel=419&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Alsace20
-http://81.92.105.134:5555/pl.m3u8?channel=420&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CCTVF
-http://81.92.105.134:5555/pl.m3u8?channel=421&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#?EXTINF?:-1,TMC
-http://81.92.105.134:5555/pl.m3u8?channel=412&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NRJ12
-http://81.92.105.134:5555/pl.m3u8?channel=413&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:0,France2
-http://81.92.105.134:5555/pl.m3u8?channel=401
-#EXTINF:0,France3
-http://81.92.105.134:5555/pl.m3u8?channel=402
-#EXTINF:0,France4
-http://81.92.105.134:5555/pl.m3u8?channel=403
-#EXTINF:0,France5
-http://81.92.105.134:5555/pl.m3u8?channel=404
-#EXTINF:0,BFMBusiness
-http://81.92.105.134:5555/pl.m3u8?channel=405
-#EXTINF:0,France24
-http://81.92.105.134:5555/pl.m3u8?channel=406
-#EXTINF:0,M6
-http://81.92.105.134:5555/pl.m3u8?channel=407
-#EXTINF:0,W9
-http://81.92.105.134:5555/pl.m3u8?channel=410
-#EXTINF:0,France
-http://81.92.105.134:5555/pl.m3u8?channel=411
-#EXTINF:0,D17
-http://81.92.105.134:5555/pl.m3u8?channel=414
-#EXTINF:0,NT1
-http://81.92.105.134:5555/pl.m3u8?channel=416
-#EXTINF:0,i TELE
-http://81.92.105.134:5555/pl.m3u8?channel=417
-#EXTINF:0,Gulli
-http://81.92.105.134:5555/pl.m3u8?channel=418
-#EXTINF:0,BFMTV
-http://81.92.105.134:5555/pl.m3u8?channel=419
-#EXTINF:0,Alsace20
-http://81.92.105.134:5555/pl.m3u8?channel=420
-#EXTINF:0,TMC
-http://81.92.105.134:5555/pl.m3u8?channel=412
-#EXTINF:0,NRJ12
-http://81.92.105.134:5555/pl.m3u8?channel=413
-#EXTINF:0,Euronews
-http://81.92.105.134:5555/pl.m3u8?channel=172
-#EXTINF:0,RTS Un
-http://81.92.105.134:5555/pl.m3u8?channel=173
-#EXTINF:0,RTS Deux
-http://81.92.105.134:5555/pl.m3u8?channel=174
-#EXTINF:-1 , Mirabelle TV
-http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1, Yvelines Premiere
-http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
-#EXTINF:0, Gulli
-http://81.92.105.134:5555/pl.m3u8?channel=418
-#EXTINF:-1, EUROSPORT 1 FR
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1, Science & Vie TV
-rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
-#EXTINF:-1, Arte
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1, Weo HD
-rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1, Weo SD
-rtmp://str82.creacast.com:80/weo/low
-#EXTINF:0,Vevo Music TV
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:0,Vevo Hip Hop TV
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:0, Enorme TV
-http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
-#EXTINF:0, GONG
-rtsp://ec.playmedia.fr:1935/gong-base/live
-#EXTINF:0,M6 MUSIC
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,ROUGE TV CH
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1,OUI TV
-http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:0,NRJ TV
-rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
-#EXTINF:0,Nollywood FR
-rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood
-
 #EXTINF:0,FR: W9
 http://iptv15.zapto.org:8000/live/free4u/2015/1293.ts
 #EXTINF:0,FR: TF1
@@ -1841,297 +1307,97 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
 #EXTINF:-1,[COLOR red]****************Deutsch TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,SRF1
-http://81.92.105.134:5555/pl.m3u8?channel=1&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SRF2
-http://81.92.105.134:5555/pl.m3u8?channel=2&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SRFinfo
-http://81.92.105.134:5555/pl.m3u8?channel=3&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DasErste
-http://81.92.105.134:5555/pl.m3u8?channel=4&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ZDF
-http://81.92.105.134:5555/pl.m3u8?channel=5&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SWRFernsehenBW
-http://81.92.105.134:5555/pl.m3u8?channel=6&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ORF1
-http://81.92.105.134:5555/pl.m3u8?channel=7&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ORF2
-http://81.92.105.134:5555/pl.m3u8?channel=8&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,3sat
-http://81.92.105.134:5555/pl.m3u8?channel=9&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,arte
-http://81.92.105.134:5555/pl.m3u8?channel=10&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ATV
-http://81.92.105.134:5555/pl.m3u8?channel=11&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BibelTV
-http://81.92.105.134:5555/pl.m3u8?channel=12&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Alpha
-http://81.92.105.134:5555/pl.m3u8?channel=13&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RadioBremen
-http://81.92.105.134:5555/pl.m3u8?channel=14&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DisneyChannel
-http://81.92.105.134:5555/pl.m3u8?channel=15&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DeluxeMusic
-http://81.92.105.134:5555/pl.m3u8?channel=16&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DMAX
-http://81.92.105.134:5555/pl.m3u8?channel=17&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DW
-http://81.92.105.134:5555/pl.m3u8?channel=18&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,EinsFestival
-http://81.92.105.134:5555/pl.m3u8?channel=19&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,EinsPlus
-http://81.92.105.134:5555/pl.m3u8?channel=20&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=21&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Eurosport
-http://81.92.105.134:5555/pl.m3u8?channel=24&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,intv
-http://81.92.105.134:5555/pl.m3u8?channel=25&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Bloomberg
-http://81.92.105.134:5555/pl.m3u8?channel=26&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=27&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=28&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Kabel1
-http://81.92.105.134:5555/pl.m3u8?channel=29&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Kabel1
-http://81.92.105.134:5555/pl.m3u8?channel=30&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Kika
-http://81.92.105.134:5555/pl.m3u8?channel=31&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,K-tv
-http://81.92.105.134:5555/pl.m3u8?channel=32&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Munchentv
-http://81.92.105.134:5555/pl.m3u8?channel=33&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,N24
-http://81.92.105.134:5555/pl.m3u8?channel=34&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Nickelodeon
-http://81.92.105.134:5555/pl.m3u8?channel=35&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Nickelodeon Austria
-http://81.92.105.134:5555/pl.m3u8?channel=36&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,n-tv
-http://81.92.105.134:5555/pl.m3u8?channel=37&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Phoenix
-http://81.92.105.134:5555/pl.m3u8?channel=38&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,PRO7
-http://81.92.105.134:5555/pl.m3u8?channel=39&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Pro7
-http://81.92.105.134:5555/pl.m3u8?channel=40&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,PRO7MAXX
-http://81.92.105.134:5555/pl.m3u8?channel=41&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RNF
-http://81.92.105.134:5555/pl.m3u8?channel=42&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTL
-http://81.92.105.134:5555/pl.m3u8?channel=43&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTL
-http://81.92.105.134:5555/pl.m3u8?channel=44&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTL2
-http://81.92.105.134:5555/pl.m3u8?channel=45&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTL2
-http://81.92.105.134:5555/pl.m3u8?channel=46&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,RTL
-http://81.92.105.134:5555/pl.m3u8?channel=47&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=48&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SAT.1
-http://81.92.105.134:5555/pl.m3u8?channel=49&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SAT.1A
-http://81.92.105.134:5555/pl.m3u8?channel=50&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ServusTVOesterreich
-http://81.92.105.134:5555/pl.m3u8?channel=51&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SPORT1
-http://81.92.105.134:5555/pl.m3u8?channel=54&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SUPERRTL
-http://81.92.105.134:5555/pl.m3u8?channel=55&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SUPERRTLA
-http://81.92.105.134:5555/pl.m3u8?channel=56&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,tagesschau24
-http://81.92.105.134:5555/pl.m3u8?channel=57&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,TELE5
-http://81.92.105.134:5555/pl.m3u8?channel=58&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BTV
-http://81.92.105.134:5555/pl.m3u8?channel=59&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ATV2
-http://81.92.105.134:5555/pl.m3u8?channel=60&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ComedyCentral/VIVA
-http://81.92.105.134:5555/pl.m3u8?channel=61&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,VOX
-http://81.92.105.134:5555/pl.m3u8?channel=63&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,VOXAustria
-http://81.92.105.134:5555/pl.m3u8?channel=64&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,WDRKoln
-http://81.92.105.134:5555/pl.m3u8?channel=65&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ZDFinfo
-http://81.92.105.134:5555/pl.m3u8?channel=66&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,zdf.kultur
-http://81.92.105.134:5555/pl.m3u8?channel=67&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,zdf_neo
-http://81.92.105.134:5555/pl.m3u8?channel=68&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BayerischesFSSud
-http://81.92.105.134:5555/pl.m3u8?channel=69&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SWRFernsehenRP
-http://81.92.105.134:5555/pl.m3u8?channel=70&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SRFernsehen
-http://81.92.105.134:5555/pl.m3u8?channel=71&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,rbbBerlin
-http://81.92.105.134:5555/pl.m3u8?channel=72&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,hr-fernsehen
-http://81.92.105.134:5555/pl.m3u8?channel=73&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,LT1
-http://81.92.105.134:5555/pl.m3u8?channel=74&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,3plusSD
-http://81.92.105.134:5555/pl.m3u8?channel=75&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,4plusSD
-http://81.92.105.134:5555/pl.m3u8?channel=76&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,TeleBasel
-http://81.92.105.134:5555/pl.m3u8?channel=78&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,TeleBern
-http://81.92.105.134:5555/pl.m3u8?channel=79&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,TeleZuri
-http://81.92.105.134:5555/pl.m3u8?channel=80&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,zueriplus
-http://81.92.105.134:5555/pl.m3u8?channel=81&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Joiz
-http://81.92.105.134:5555/pl.m3u8?channel=82&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ORFSPORT+
-http://81.92.105.134:5555/pl.m3u8?channel=84&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,PULS4Austria
-http://81.92.105.134:5555/pl.m3u8?channel=85&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,BayerischesFSNord
-http://81.92.105.134:5555/pl.m3u8?channel=86&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ORFIII
-http://81.92.105.134:5555/pl.m3u8?channel=88&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
-#EXTINF:-1,SRF1 HD
-http://81.92.105.134:5555/pl.m3u8?channel=97&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,SRF2 HD
-http://81.92.105.134:5555/pl.m3u8?channel=98&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Servus HD
-http://81.92.105.134:5555/pl.m3u8?channel=99&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ARD HD
-http://81.92.105.134:5555/pl.m3u8?channel=100&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ZDF HD
-http://81.92.105.134:5555/pl.m3u8?channel=101&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,ArteHD
-http://81.92.105.134:5555/pl.m3u8?channel=104&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1, Das Erste
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
-#EXTINF:-1, ZDF
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-p.m3u8
-#EXTINF:-1, RTL
-http://streaming-hub.com/tv/i/rtl_1@97459/index_1300_av-p.m3u8
-#EXTINF:-1, Sat.1
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8
-#EXTINF:-1, ProSieben
-http://streaming-hub.com/tv/i/prosieben_1@97456/index_1300_av-p.m3u8
-#EXTINF:-1, kabel eins
-http://streaming-hub.com/tv/i/kabeleins_1@97453/index_1300_av-p.m3u8
-#EXTINF:-1, RTL II
-http://streaming-hub.com/tv/i/rtl2_1@97460/index_1300_av-p.m3u8
-#EXTINF:-1, VOX
-http://streaming-hub.com/tv/i/vox_1@97466/index_1300_av-p.m3u8
-#EXTINF:-1, arte
-http://streaming-hub.com/tv/i/artede_1@97463/index_1300_av-p.m3u8
-#EXTINF:-1, 3sat
-http://streaming-hub.com/tv/i/3sat_1@97480/index_1300_av-p.m3u8
-#EXTINF:-1, NDR Hamburg
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_1992_av-p.m3u8
-#EXTINF:-1, NDR Hamburg HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
-#EXTINF:-1, NDR Meck.-Vorp.
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8
-#EXTINF:-1, NDR Meck.-Vorp. HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
-#EXTINF:-1, NDR Niedersachsen
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_***@119224/index_1992_av-p.m3u8
-#EXTINF:-1, NDR Niedersachsen HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_***@119224/index_3776_av-p.m3u8
-#EXTINF:-1, NDR Schleswig-Hol.
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
-#EXTINF:-1, NDR Schleswig-Hol. HD
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
-#EXTINF:-1, WDR
-http://streaming-hub.com/tv/i/wdr_1@97490/index_1300_av-p.m3u8
-#EXTINF:-1, BR
-http://streaming-hub.com/tv/i/br3_1@97517/index_1300_av-p.m3u8
-#EXTINF:-1, SWR
-http://streaming-hub.com/tv/i/swr_1@97485/index_1300_av-p.m3u8
-#EXTINF:-1, Phoenix
-http://streaming-hub.com/tv/i/phoenix_1@97476/index_1300_av-p.m3u8
-#EXTINF:-1, N24
-http://streaming-hub.com/tv/i/n24_1@97406/index_1300_av-p.m3u8
-#EXTINF:-1, n-tv
-http://streaming-hub.com/tv/i/ntv_1@97405/index_1300_av-p.m3u8
-#EXTINF:-1, Sixx
-http://streaming-hub.com/tv/i/sixx_1@97462/index_1300_av-p.m3u8
-#EXTINF:-1, ServusTV DE
-http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_1112_av-b.m3u8
-#EXTINF:-1, ServusTV DE HD
-http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-b.m3u8
-#EXTINF:-1, RTL NITRO
-http://streaming-hub.com/tv/i/rtlnitro_1@97458/index_1300_av-p.m3u8
-#EXTINF:-1, JOIZ DE
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
-#EXTINF:-1, JOIZ DE HD
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
-#EXTINF:-1, Nickelodeon
-http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-p.m3u8
-#EXTINF:-1, Viva/Comedy Central
-http://streaming-hub.com/tv/i/viva_1@97493/index_1300_av-p.m3u8
-#EXTINF:-1, Super RTL
-http://streaming-hub.com/tv/i/superrtl_1@97463/index_1300_av-p.m3u8
-#EXTINF:-1, KiKA
-http://streaming-hub.com/tv/i/kika_1@97487/index_1300_av-p.m3u8
-#EXTINF:-1, Eurosport
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8
-#EXTINF:-1, SPORT1
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8
-#EXTINF:-1, DMAX
-http://streaming-hub.com/tv/i/dmax_1@97398/index_1300_av-p.m3u8
-#EXTINF:-1, ZDFneo
-http://streaming-hub.com/tv/i/zdfneo_1@97479/index_1300_av-p.m3u8
-#EXTINF:-1, Deutsche Welle
-http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
-#EXTINF:-1, DAF
-rtmp://fms.daf.tmt.de:1935/live/dafstream100
-#EXTINF:-1, ORF eins
-http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8
-#EXTINF:-1, ORF 2
-http://streaming-hub.com/tv/i/orf2_1@97574/index_1300_av-p.m3u8
-#EXTINF:-1, ATV
-http://streaming-hub.com/tv/i/atv_1@97491/index_1300_av-p.m3u8
-#EXTINF:-1, gotv Music
-http://stream1.gotv.at:1935/live/gotvlive_source/playlist.m3u8
-#EXTINF:-1, ServusTV AT
+#EXTINF:0, ServusTV AT
 http://streaming-hub.com/tv/i/servus_1@97488/index_1300_av-p.m3u8
-#EXTINF:-1, SRF 1
+#EXTINF:0, SRF 1
 http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-p.m3u8
-#EXTINF:-1, SRF info
+#EXTINF:0, SRF info
 http://streaming-hub.com/tv/i/sfinfo_1@97408/index_1300_av-p.m3u8
-#EXTINF:-1, 3plus
+#EXTINF:0, 3plus
 http://streaming-hub.com/tv/i/3plus_1@97489/index_1300_av-p.m3u8
-#EXTINF:-1, JOIZ CH
+#EXTINF:0, JOIZ CH
 http://streaming-hub.com/tv/i/joiz_1@135266/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Z?ri
+#EXTINF:0, Tele Z?ri
 http://streaming-hub.com/tv/i/tzurich_1@135275/index_1300_av-p.m3u8
-#EXTINF:-1, Tele B?rn
+#EXTINF:0, Tele B?rn
 http://streaming-hub.com/tv/i/tbarn_1@135272/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Basel
+#EXTINF:0, Tele Basel
 http://streaming-hub.com/tv/i/tbasel_1@135273/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Bielingue
+#EXTINF:0, Tele Bielingue
 http://streaming-hub.com/tv/i/tbielingue_1@135280/index_1300_av-p.m3u8
-#EXTINF:-1, Tele S?dostschweiz
+#EXTINF:0, Tele S?dostschweiz
 http://streaming-hub.com/tv/i/tsudost_1@135274/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Ostschweiz
+#EXTINF:0, Tele Ostschweiz
 http://streaming-hub.com/tv/i/tost_1@135270/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Top SH
+#EXTINF:0, Tele Top SH
 http://streaming-hub.com/tv/i/ttsh_1@135279/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Top TG
+#EXTINF:0, Tele Top TG
 http://streaming-hub.com/tv/i/tttg_1@135278/index_1300_av-p.m3u8
-#EXTINF:-1, Tele Top ZH
+#EXTINF:0, Tele Top ZH
 http://streaming-hub.com/tv/i/ttzh_1@135271/index_1300_av-p.m3u8
-#EXTINF:-1, Tele M1 Ost
+#EXTINF:0, Tele M1 Ost
 http://streaming-hub.com/tv/i/tm1o_1@135268/index_1300_av-p.m3u8
+#EXTINF:0, Das Erste
+http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8
+#EXTINF:0, ZDF
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-p.m3u8
+#EXTINF:0, RTL
+http://streaming-hub.com/tv/i/rtl_1@97459/index_1300_av-p.m3u8
+#EXTINF:0, Sat.1
+http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-p.m3u8
+#EXTINF:0, ProSieben
+http://streaming-hub.com/tv/i/prosieben_1@97456/index_1300_av-p.m3u8
+#EXTINF:0, kabel eins
+http://streaming-hub.com/tv/i/kabeleins_1@97453/index_1300_av-p.m3u8
+#EXTINF:0, RTL II
+http://streaming-hub.com/tv/i/rtl2_1@97460/index_1300_av-p.m3u8
+#EXTINF:0, VOX
+http://streaming-hub.com/tv/i/vox_1@97466/index_1300_av-p.m3u8
+#EXTINF:0, arte
+http://streaming-hub.com/tv/i/artede_1@97463/index_1300_av-p.m3u8
+#EXTM3U
+#EXTINF:0, 3sat
+http://streaming-hub.com/tv/i/3sat_1@97480/index_1300_av-p.m3u8
+#EXTINF:0, NDR Hamburg
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_1992_av-p.m3u8
+#EXTINF:0, NDR Hamburg HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+#EXTINF:0, NDR Meck.-Vorp.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_1992_av-p.m3u8
+#EXTINF:0, NDR Meck.-Vorp. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+#EXTINF:0, NDR Niedersachsen HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_***@119224/index_3776_av-p.m3u8
+#EXTINF:0, NDR Schleswig-Hol.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
+#EXTINF:0, NDR Schleswig-Hol. HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:0, WDR
+http://streaming-hub.com/tv/i/wdr_1@97490/index_1300_av-p.m3u8
+#EXTINF:0, BR
+http://streaming-hub.com/tv/i/br3_1@97517/index_1300_av-p.m3u8
+#EXTINF:0, SWR
+http://streaming-hub.com/tv/i/swr_1@97485/index_1300_av-p.m3u8
+#EXTINF:0, Phoenix
+http://streaming-hub.com/tv/i/phoenix_1@97476/index_1300_av-p.m3u8
+#EXTINF:0, N24
+http://streaming-hub.com/tv/i/n24_1@97406/index_1300_av-p.m3u8
+#EXTINF:0, n-tv
+http://streaming-hub.com/tv/i/ntv_1@97405/index_1300_av-p.m3u8
+#EXTINF:0, Sixx
+http://streaming-hub.com/tv/i/sixx_1@97462/index_1300_av-p.m3u8
+#EXTINF:0, ServusTV DE
+http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_1112_av-b.m3u8
+#EXTINF:0, ServusTV DE HD
+http://player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-b.m3u8
+#EXTINF:0, RTL NITRO
+http://streaming-hub.com/tv/i/rtlnitro_1@97458/index_1300_av-p.m3u8
+#EXTINF:0, JOIZ DE
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
+#EXTINF:0, JOIZ DE HD
+http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_2528_av-p.m3u8
+#EXTINF:0, Nickelodeon
+http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-p.m3u8
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -2385,81 +1651,6 @@ http://iptv15.zapto.org:8000/live/free4u/2015/913.ts
 #EXTINF:0,ajyal TV
 http://iptv15.zapto.org:8000/live/free4u/2015/914.ts
 
-
-#EXTINF:-1,[COLOR red]****************India TV****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:-1,Athavan Tv @ Ceylon Tamil Media ONLINE
-http://livestream.5centscdn.com/athavantvvxtv/347697d21cd084a1796ce3ca18943611.sdp/HasBahCa.m3u8
-#EXTINF:-1,Channel UFX @ Ceylon Tamil Media ONLINE
-http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/HasBahCa.m3u8
-#EXTINF:-1,DD News
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
-#EXTINF:-1,DD Punjabi
-http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
-#EXTINF:-1,Dekho TV
-http://54.243.231.64:1935/live/dekhotv.mp4/HasBahCa.m3u8
-#EXTINF:-1,EET TV Canada @ Ceylon Tamil Media ONLINE
-rtmp://37.59.17.222:1935/live_ca/eettv
-#EXTINF:-1,ETV Marathi
-http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-#EXTINF:-1,HEMA TV mms
-mms://77.238.209.50:1234
-#EXTINF:-1,HIRU TV @ Ceylon Tamil Media ONLINE
-http://cdncities.com/8012/8012/HasBahCa.m3u8
-#EXTINF:-1,HMTV Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_hmtv5@105695/master.m3u8
-#EXTINF:-1,IBN LookMat
-http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
-#EXTINF:-1,India News
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1,India TV
-http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-#EXTINF:-1,Indiavision TV Malayalam
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_indiavision9@108336/master.m3u8
-#EXTINF:-1,iNews Telugu
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_inews11@116773/master.m3u8
-#EXTINF:-1,JOJ
-http://88.212.10.27:81/streams/joj.m3u8
-#EXTINF:-1,Madha Tv @ Ceylon Tamil Media ONLINE
-rtmp://madhatv.cherritech.us/madhatv/_definst_/mp4:myStream
-#EXTINF:-1,ND TV
-http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:-1,NDTV 24×7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:-1,NDTV 24×7
-http://bglive-a.bitgravity.com/ndtv/247lo/live/native
-#EXTINF:-1,NDTV India
-http://bglive-a.bitgravity.com/ndtv/indlo/live/native
-#EXTINF:-1,NDTV Profit
-http://bglive-a.bitgravity.com/ndtv/prolo/live/native
-#EXTINF:-1,Ohm Tv @ Ceylon Tamil Media ONLINE
-http://livestream.5centscdn.com/ohmtvvxtv/bfb40efd0d961d175d0f38097fb6072f.sdp/HasBahCa.m3u8
-#EXTINF:-1,PLUS
-http://88.212.10.27:81/streams/jojplus.m3u8
-#EXTINF:-1,Samay Aalami Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharaalami20@102253/master.m3u8
-#EXTINF:-1,Samay Bihar Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharabihar19@37803/master.m3u8
-#EXTINF:-1,Samay Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharanatio14@22969/master.m3u8
-#EXTINF:-1,Samay MP Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharamp21@135297/master.m3u8
-#EXTINF:-1,Samay UP Hindi
-http://yupptvrtmp-lh.akamaihd.net/i/blore1_saharaup17@38144/master.m3u8
-#EXTINF:-1,Shiri News
-http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/HasBahCa.m3u8
-#EXTINF:-1,Smachar Plus
-http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/HasBahCa.m3u8
-#EXTINF:-1,TA3
-http://88.212.10.27:81/streams/ta3.m3u8
-#EXTINF:-1,Tamil vasanthamtv
-rtmp://mediacp2.comcities.com:1935/itn-vasantham/itn-vasantham
-#EXTINF:-1,TUNE 6 @ Ceylon Tamil Media ONLINE
-http://live.wmncdn.net/tunes6/bbb19eae240ec100af921d511efc86a0.sdp/HasBahCa.m3u8
-#EXTINF:-1,Vasanth Tv – Online @ Ceylon Tamil Media
-http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed01?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1&autoPlay=true
 
 #EXTINF:-1,[COLOR red]****************African TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
