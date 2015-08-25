@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 24/08/2015 10h45*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 25/08/2015 11h45*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,78 +10,6 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=" 3.30 e 12.45 atletica PECHINO MONDIALI 3rd day ",eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 3.30 e 12.45 atletica PECHINO MONDIALI 3rd day ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga ",eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga ",tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-
-#EXTINF:-1 group-title=" 17.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 17.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG ",sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
- 
-
-#EXTINF:-1 group-title=" 19.00 den AAB AALBORG - OB ODENSE ",tv3 sport 1 ace
-acestream://783f9190794b0cf507cc0da231d280121e8f89ad
-
-#EXTINF:-1 group-title=" 20.15 ger2 KAISERSLAUTERN - PADERBORN ",bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.15 ger2 KAISERSLAUTERN - PADERBORN ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-120.30 esp GRANADA - EIBAR ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",c+liga es ace
-acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",ntv+futbol 2 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 20.30 esp GRANADA - EIBAR ",silk sport 2 ge
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-
-#EXTINF:-121.00 eng ARSENAL - LIVERPOOL ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",ntv+futbol 1 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",silk sport 1 ge
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",tv3 sport 2 ace
-acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
-#EXTINF:-1 group-title=" 21.00 eng ARSENAL - LIVERPOOL ",viasat sport baltic ace
-acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
-
-#EXTINF:-1 group-title=" 21.00 por ACADEMICA - VIT.SETUBAL ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 21.00 por ACADEMICA - VIT.SETUBAL ",sportklub 3 sr
-http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
- 
-
-#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg TEMPERLEY - SARMIENTO ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
@@ -114,28 +42,7 @@ http://178.33.88.129:888/udp/239.102.0.11:1234
 http://178.33.88.129:888/udp/239.102.0.2:1234
 #EXTINF:0,bein sport 5hd
 http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:0,Arena Sport 1 SR - Arena Sport 1 SR
-http://sangajstream.dyndns.biz:80/live?channelId=77&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,Arena Sport 2 SR - Arena Sport 2 SR
-http://alphaone.dyndns.tv:1293/live?channelId=79&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,Arena Sport 3 SR - Arena Sport 3 SR
-http://alphaone.dyndns.tv:1293/live?channelId=81&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,Arena Sport 4 SR - Arena Sport 4 SR
-http://alphaone.dyndns.tv:1293/live?channelId=83&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,ARENA SPORT 5 SR - ARENA SPORT 5 SR
-http://alphaone.dyndns.tv:1293/live?channelId=85&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,ARENA SPORT 4 HD CRO - ARENA SPORT 4 HD CRO
-http://freeiptv2search.dyndns.tv:2801/live?channelId=84&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,Eurosport 1 - Euro Sport 1
-http://srv2.narodnatv.info:80/live?channelId=19&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,Eurosport 2 - Eurosport 2
-http://freeiptv2search.dyndns.tv:2801/live?channelId=20&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,SPORT KLUB 1 - SPORT KLUB 1
-http://stream6.dyndns.tv:8888/live?channelId=109&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
-http://stream6.dyndns.tv:8888/live?channelId=110&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
-#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
-http://stream6.dyndns.tv:8888/live?channelId=111&uid=3580&deviceUser=krsa1&devicePass=dragankrsa1
+
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -510,294 +417,55 @@ http://185.13.236.197:4080/udp/224.0.0.110:1240
 http://185.13.236.197:4080/udp/224.0.0.120:1234
 
 
-#EXTINF:-1,[COLOR red]****************European Channel****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************Turkey Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,###### Chaоnes Italiennes ######
-http://iptv15.zapto.org:8000/live/free4u/2015/1401.ts
-#EXTINF:0,Sky Cinema Classics HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1409.ts
-#EXTINF:0,Rai sport 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1425.ts
-#EXTINF:0,Rai sport 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1426.ts
-#EXTINF:0,Rai 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1428.ts
-#EXTINF:0,IT: Sky Sport 3 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1362.ts
-#EXTINF:0,IT: Sky Sport 1 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1364.ts
-#EXTINF:0,IT: Premium Comedy
-http://iptv15.zapto.org:8000/live/free4u/2015/1397.ts
-#EXTINF:0,PrimaFila 6
-http://iptv15.zapto.org:8000/live/free4u/2015/1418.ts
-#EXTINF:0,PrimaFila 8
-http://iptv15.zapto.org:8000/live/free4u/2015/1419.ts
-#EXTINF:0,IT-SKY PRIMAFILA 13
-http://iptv15.zapto.org:8000/live/free4u/2015/1384.ts
-#EXTINF:0,IT-SKY CALCIO 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1131.ts
-#EXTINF:0,TR-http://iptv15.zapto.org:8000/live/free4u/2015/1477.ts
-#EXTINF:0,TR-http://iptv15.zapto.org:8000/live/free4u/2015/1476.ts
-#EXTINF:0,TR-SPORTS-TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1469.ts
-#EXTINF:0,TR-SKY-TЬRK-360
-http://iptv15.zapto.org:8000/live/free4u/2015/1467.ts
-#EXTINF:0,TR-Semerkand
-http://iptv15.zapto.org:8000/live/free4u/2015/1466.ts
-#EXTINF:0,TR-Planet-Turk
-http://iptv15.zapto.org:8000/live/free4u/2015/1464.ts
-#EXTINF:0,TR-Planet-Pembe
-http://iptv15.zapto.org:8000/live/free4u/2015/1463.ts
-#EXTINF:0,TR-Planet-Mutfak
-http://iptv15.zapto.org:8000/live/free4u/2015/1462.ts
-#EXTINF:0,TR-ON-4
-http://iptv15.zapto.org:8000/live/free4u/2015/1461.ts
-#EXTINF:0,TR-NUMBER-1-TЬRK
-http://iptv15.zapto.org:8000/live/free4u/2015/1460.ts
-#EXTINF:0,TR-KANAL-A
-http://iptv15.zapto.org:8000/live/free4u/2015/1457.ts
-#EXTINF:0,TR-Ege
-http://iptv15.zapto.org:8000/live/free4u/2015/1452.ts
-#EXTINF:0,TR-DOST
-http://iptv15.zapto.org:8000/live/free4u/2015/1451.ts
-#EXTINF:0,TR-Cnn-Turk
-http://iptv15.zapto.org:8000/live/free4u/2015/1450.ts
-#EXTINF:0,TR-Cine5
-http://iptv15.zapto.org:8000/live/free4u/2015/1449.ts
-#EXTINF:0,TR-BURSASPOR-TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1448.ts
-#EXTINF:0,TR-Beyaz
-http://iptv15.zapto.org:8000/live/free4u/2015/1447.ts
-#EXTINF:0,TR-ЗAPUL
-http://iptv15.zapto.org:8000/live/free4u/2015/1446.ts
-#EXTINF:0,TR-1TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1445.ts
-#EXTINF:0,BEIN SPORT HD9
-http://iptv15.zapto.org:8000/live/free4u/2015/1366.ts
-#EXTINF:0,BEIN SPORT HD8
-http://iptv15.zapto.org:8000/live/free4u/2015/1367.ts
-#EXTINF:0,BEIN SPORT HD1
-http://iptv15.zapto.org:8000/live/free4u/2015/1370.ts
-#EXTINF:0,ex-Yu: RTS 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1318.ts
-#EXTINF:0,ex-Yu: RTL
-http://iptv15.zapto.org:8000/live/free4u/2015/1319.ts
-#EXTINF:0,ex-Yu: Prva Srbska
-http://iptv15.zapto.org:8000/live/free4u/2015/1320.ts
-#EXTINF:0,ex-Yu: Prva Plus
-http://iptv15.zapto.org:8000/live/free4u/2015/1321.ts
-#EXTINF:0,ex-Yu: Pink Zabava
-http://iptv15.zapto.org:8000/live/free4u/2015/1322.ts
-#EXTINF:0,ex-Yu: Pink Thriller
-http://iptv15.zapto.org:8000/live/free4u/2015/1323.ts
-#EXTINF:0,ex-Yu: Pink Soap
-http://iptv15.zapto.org:8000/live/free4u/2015/1324.ts
-#EXTINF:0,ex-Yu: Pink Sci-fi & Fantasy 3
-http://iptv15.zapto.org:8000/live/free4u/2015/1325.ts
-#EXTINF:0,ex-Yu: Pink Sci-Fi & Fantasy
-http://iptv15.zapto.org:8000/live/free4u/2015/1326.ts
-#EXTINF:0,ex-Yu: Pink Romance
-http://iptv15.zapto.org:8000/live/free4u/2015/1327.ts
-#EXTINF:0,ex-Yu: Pink Kids
-http://iptv15.zapto.org:8000/live/free4u/2015/1328.ts
-#EXTINF:0,ex-Yu: Pink Horror
-http://iptv15.zapto.org:8000/live/free4u/2015/1329.ts
-#EXTINF:0,ex-Yu: Pink Hits 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1330.ts
-#EXTINF:0,ex-Yu: Pink Extra
-http://iptv15.zapto.org:8000/live/free4u/2015/1331.ts
-#EXTINF:0,ex-Yu: Pink Comedy
-http://iptv15.zapto.org:8000/live/free4u/2015/1332.ts
-#EXTINF:0,ex-Yu: Pink Action
-http://iptv15.zapto.org:8000/live/free4u/2015/1333.ts
-#EXTINF:0,ex-Yu: Pink 3
-http://iptv15.zapto.org:8000/live/free4u/2015/1334.ts
-#EXTINF:0,ex-Yu: Pink 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1335.ts
-#EXTINF:0,ex-Yu: Nova TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1337.ts
-#EXTINF:0,ex-Yu: Nat Geo Channel
-http://iptv15.zapto.org:8000/live/free4u/2015/1338.ts
-#EXTINF:0,ex-Yu: N1 Bosna
-http://iptv15.zapto.org:8000/live/free4u/2015/1339.ts
-#EXTINF:0,ex-Yu: Klasik TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1340.ts
-#EXTINF:0,ex-Yu: Hayat Folk SR
-http://iptv15.zapto.org:8000/live/free4u/2015/1344.ts
-#EXTINF:0,SPAIN-TVE1
-http://iptv15.zapto.org:8000/live/free4u/2015/1257.ts
+#EXTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HD
+http://si.trtcdn.com/tv/trthd/mp4:trthd_3/chunklist_w1940192687.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,ÜLKE TV HD
+http://livetr.gostream.nl/ulketvhq/ulketvhq/hasbahca.m3u8
+#EXTINF:0,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,SHOW TV
+http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/hasbahca.m3u8
+#EXTINF:0,SHOW TV
+http://yayin1.canlitv.com:1935/live/showtv/HasBahCa.m3u8
+#EXTINF:0,TMB TV
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/tmbtv/tmbtv/tmbtv.m3u8?ry6365KKcgr92Lits4
+#EXTINF:0,A SPOR
+http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8
+#EXTINF:0,MINIKA ÇOCUK
+http://origin.live.web.tv.streamprovider.net/streams/f79e39a0979af7718cf4828779c7ef26_live_0_0/index.m3u8
+#EXTINF:0,MINIKA
+http://origin.live.web.tv.streamprovider.net/streams/24b429ab889afc37becb9e59ff84820c_live_0_0/index.m3u8
+#EXTINF:0,PLANET ÇOCUK
+http://origin.live.web.tv.streamprovider.net/streams/852843e69184bd2c2146ae50e7aba5c3_live_0_0/index.m3u8
+#EXTINF:0,SEMERKAND TV
+http://origin.live.web.tv.streamprovider.net/streams/09f38ce3909897566e4a74f447d7ea40_live_0_0/index.m3u8
+#EXTINF:0,TGRT BELGESEL
+http://origin.live.web.tv.streamprovider.net/streams/72ea283235f55344ae98853fcab1020c/index.m3u8
+#EXTINF:0,TGRT HABER
+http://origin.live.web.tv.streamprovider.net/streams/b9b5c58f4f1e3a925fa486c558654f6d/index.m3u8
+#EXTINF:0,TGRT
+http://origin.live.web.tv.streamprovider.net/streams/99a610c5f6a6f9f1e99b74ad343d0565/index.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,[COLOR red]****************French Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,FR: W9
-http://iptv15.zapto.org:8000/live/free4u/2015/1293.ts
-#EXTINF:0,FR: TF1
-http://iptv15.zapto.org:8000/live/free4u/2015/1295.ts
-#EXTINF:0,FR: France O
-http://iptv15.zapto.org:8000/live/free4u/2015/1282.ts
-#EXTINF:0,FR: TMC
-http://iptv15.zapto.org:8000/live/free4u/2015/1630.ts
-#EXTINF:0,FR: teletoon HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1683.ts
-#EXTINF:0,FR: RMC Decouverte HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1673.ts
-#EXTINF:0,FR: Planete CI HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1647.ts
-#EXTINF:0,FR: PIWI
-http://iptv15.zapto.org:8000/live/free4u/2015/1686.ts
-#EXTINF:0,FR: OCS Gйants
-http://iptv15.zapto.org:8000/live/free4u/2015/1638.ts
-#EXTINF:0,FR: Numero23 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1654.ts
-#EXTINF:0,FR: NT1
-http://iptv15.zapto.org:8000/live/free4u/2015/1651.ts
-#EXTINF:0,FR: NRJ TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1676.ts
-#EXTINF:0,FR: MCM POP
-http://iptv15.zapto.org:8000/live/free4u/2015/1675.ts
-#EXTINF:0,FR: Mangas
-http://iptv15.zapto.org:8000/live/free4u/2015/1687.ts
-#EXTINF:0,FR: M6 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1628.ts
-#EXTINF:0,FR: M6
-http://iptv15.zapto.org:8000/live/free4u/2015/1627.ts
-#EXTINF:0,FR: Infosport HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1662.ts
-#EXTINF:0,FR: I24
-http://iptv15.zapto.org:8000/live/free4u/2015/1691.ts
-#EXTINF:0,FR: FRANCE Ф
-http://iptv15.zapto.org:8000/live/free4u/2015/1625.ts
-#EXTINF:0,FR: FRANCE 5 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1623.ts
-#EXTINF:0,FR: France 24 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1626.ts
-#EXTINF:0,FR: Eurosport1
-http://iptv15.zapto.org:8000/live/free4u/2015/1664.ts
-#EXTINF:0,FR: DisneyXD
-http://iptv15.zapto.org:8000/live/free4u/2015/1679.ts
-#EXTINF:0,FR: Disney Cinemagic
-http://iptv15.zapto.org:8000/live/free4u/2015/1678.ts
-#EXTINF:0,FR: D8 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1653.ts
-#EXTINF:0,FR: Comedie HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1650.ts
-#EXTINF:0,FR: Cine frisson HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1641.ts
-#EXTINF:0,FR: Cine classic
-http://iptv15.zapto.org:8000/live/free4u/2015/1642.ts
-#EXTINF:0,FR: Cherie25 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1674.ts
-#EXTINF:0,FR: CartoonNetwork HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1680.ts
-#EXTINF:0,FR: Canal J
-http://iptv15.zapto.org:8000/live/free4u/2015/1684.ts
-#EXTINF:0,FR: CANAL FAMILY HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1635.ts
-#EXTINF:0,FR: Canal Serie
-http://iptv15.zapto.org:8000/live/free4u/2015/1646.ts
-#EXTINF:0,FR: CANAL DECALE HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1645.ts
-#EXTINF:0,FR: Canal HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1633.ts
-#EXTINF:0,FR: BEINSPORT 3 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1660.ts
-#EXTINF:0,FR: BEINSPORT 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1659.ts
-#EXTINF:0,FR: BEINSPORT 1 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1658.ts
-#EXTINF:0,FR: AB1
-http://iptv15.zapto.org:8000/live/free4u/2015/1649.ts
-#EXTINF:0,FR: 6TER
-http://iptv15.zapto.org:8000/live/free4u/2015/1631.ts
-#EXTINF:0,FR : Wйo
-http://iptv15.zapto.org:8000/live/free4u/2015/1692.ts
-#EXTINF:0,FR : USHUAIA TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1671.ts
-#EXTINF:0,FR : Sciences & Vie TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1672.ts
-#EXTINF:0,FR : Planete
-http://iptv15.zapto.org:8000/live/free4u/2015/1666.ts
-#EXTINF:0,FR : OCS Max
-http://iptv15.zapto.org:8000/live/free4u/2015/1636.ts
-#EXTINF:0,FR : National Geo
-http://iptv15.zapto.org:8000/live/free4u/2015/1667.ts
-#EXTINF:0,FR : Foot
-http://iptv15.zapto.org:8000/live/free4u/2015/1657.ts
-#EXTINF:0,FR : CANAL CINEMA
-http://iptv15.zapto.org:8000/live/free4u/2015/1634.ts
-#EXTINF:0,FR : CANAL SPORT HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1656.ts
-#EXTINF:0,FR : CANAL
-http://iptv15.zapto.org:8000/live/free4u/2015/1632.ts
-#EXTINF:0,FR : BFM TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1690.ts
-#EXTINF:0,FR : AB Moteur
-http://iptv15.zapto.org:8000/live/free4u/2015/1665.ts
-#EXTINF:0,BE: RTBF 3
-http://iptv15.zapto.org:8000/live/free4u/2015/1695.ts
-#EXTINF:0,BE: RTBF 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1694.ts
-#EXTINF:0,BE: RTBF 1 HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1693.ts
-#EXTINF:0,BE: PLUG-RTL
-http://iptv15.zapto.org:8000/live/free4u/2015/1696.ts
-#EXTINF:0,BE: CLUB-RTL
-http://iptv15.zapto.org:8000/live/free4u/2015/1697.ts
-#EXTINF:0,FR: France 3
-http://iptv15.zapto.org:8000/live/free4u/2015/1283.ts
-#EXTINF:0,FR: France 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1284.ts
-#EXTINF:0,FR: SyFy
-http://iptv15.zapto.org:8000/live/free4u/2015/1286.ts
-#EXTINF:0,FR: NRJ12
-http://iptv15.zapto.org:8000/live/free4u/2015/1304.ts
-#EXTINF:0,FR: Normandie tv
-http://iptv15.zapto.org:8000/live/free4u/2015/1305.ts
-#EXTINF:0,FR:Discovery
-http://iptv15.zapto.org:8000/live/free4u/2015/1553.ts
-#EXTINF:0,FR:COMEDIE
-http://iptv15.zapto.org:8000/live/free4u/2015/1562.ts
-#EXTINF:0,FR:CanalFamily
-http://iptv15.zapto.org:8000/live/free4u/2015/1556.ts
-#EXTINF:0,FR:ANIMAUX.HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1568.ts
-#EXTINF:0,FR: euronews
-http://iptv15.zapto.org:8000/live/free4u/2015/1307.ts
-#EXTINF:0,FR: cine premier
-http://iptv15.zapto.org:8000/live/free4u/2015/1310.ts
-#EXTINF:0,FR: CANAL CINEMA
-http://iptv15.zapto.org:8000/live/free4u/2015/1312.ts
-#EXTINF:0,FR: CANAL
-http://iptv15.zapto.org:8000/live/free4u/2015/1314.ts
-#EXTINF:0,FR: Arte
-http://iptv15.zapto.org:8000/live/free4u/2015/1315.ts
-#EXTINF:0,FR:Eurosport FR
-http://iptv15.zapto.org:8000/live/free4u/2015/1245.ts
-#EXTINF:0,FR:CANAL SPORT HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1244.ts
-#EXTINF:0,FR:USHUIA
-http://iptv15.zapto.org:8000/live/free4u/2015/915.ts
-#EXTINF:0,FR:SY-FI
-http://iptv15.zapto.org:8000/live/free4u/2015/957.ts
-#EXTINF:0,FR:SCIENCES&VIE
-http://iptv15.zapto.org:8000/live/free4u/2015/921.ts
-#EXTINF:0,FR:Planete
-http://iptv15.zapto.org:8000/live/free4u/2015/961.ts
-#EXTINF:0,FR:PIWI
-http://iptv15.zapto.org:8000/live/free4u/2015/918.ts
-#EXTINF:0,FR:NATGEO-WILD
-http://iptv15.zapto.org:8000/live/free4u/2015/919.ts
-#EXTINF:0,FR:FRANCE3
-http://iptv15.zapto.org:8000/live/free4u/2015/949.ts
-#EXTINF:0,FR:Canal-Sport
-http://iptv15.zapto.org:8000/live/free4u/2015/938.ts
-#EXTINF:0,FR:CANAL SERIE
-http://iptv15.zapto.org:8000/live/free4u/2015/924.ts
-#EXTINF:0,FR:BEINSPORT1
-http://iptv15.zapto.org:8000/live/free4u/2015/955.ts
-#EXTINF:0,FR:13-RUE-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/940.ts
+
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1673,201 +1341,7 @@ http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8
 
 #EXTINF:-1,[COLOR red]****************Us Canada****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,ABC
-http://192.99.39.240:1935/flu555/_definst_/abc/playlist.m3u8?token=
-#EXTINF:-1,CNBC
-http://192.99.19.98:1935/flu555/_definst_/jcnbc/playlist.m3u8?token=
-#EXTINF:-1,KTLA
-http://192.99.39.240:1935/flu555/_definst_/ktla/playlist.m3u8?token=
-#EXTINF:-1,CBS
-http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token=
-#EXTINF:-1,NBC
-http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
-#EXTINF:-1,Fox5
-http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
-#EXTINF:-1,CNN
-http://192.99.19.98:1935/flu555/_definst_/jcnn/playlist.m3u8?token=
-#EXTINF:-1,AnimalPlanet
-http://167.114.156.29:1935/flu555/_definst_/animal/playlist.m3u8?token=
-#EXTINF:-1,Disneyxd
-http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
-#EXTINF:-1,BloombergHD
-http://192.99.39.240:1935/flu555/_definst_/jbloomberg/playlist.m3u8?token=
-#EXTINF:-1,Bravo
-http://167.114.119.209:1935/flu555/_definst_/jbravo/playlist.m3u8?token=
-#EXTINF:-1,HBOEast
-http://192.99.39.240:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
-#EXTINF:-1,HBOComedyHDEast
-http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
-#EXTINF:-1,HBOZoneHD
-http://192.99.39.240:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
-#EXTINF:-1,StarzCinema
-http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token=
-#EXTINF:-1,StarzEdge
-http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token=
-#EXTINF:-1,AMC
-http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
-#EXTINF:-1,LMN
-http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token=
-#EXTINF:-1,FX
-http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token=
-#EXTINF:-1,TNT
-http://167.114.156.30:1935/flu555/_definst_/tnt/playlist.m3u8?token=
-#EXTINF:-1,E!
-http://192.99.39.240:1935/flu555/_definst_/e/playlist.m3u8?token=
-#EXTINF:-1,History
-http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token=
-#EXTINF:-1,Natgeo
-http://192.99.39.240:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
-#EXTINF:-1,NatgeoWild
-http://192.99.19.98:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
-#EXTINF:-1,Discovery
-http://192.99.19.98:1935/flu555/_definst_/discovery/playlist.m3u8?token=
-#EXTINF:-1,TLC
-http://192.99.39.240:1935/flu555/_definst_/jtlc/playlist.m3u8?token=
-#EXTINF:-1,CookingChannel
-http://192.99.39.240:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
-#EXTINF:-1,Food Channel
-http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
-#EXTINF:-1,USA
-http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
-#EXTINF:-1,DIYNetworkHD
-http://192.99.19.98:1935/flu555/_definst_/diy/playlist.m3u8?token=
-#EXTINF:-1,HIFI
-http://192.99.39.240:1935/flu555/_definst_/jhifi/playlist.m3u8?token=
-#EXTINF:-1,Syfy
-http://192.99.39.240:1935/flu555/_definst_/syfy/playlist.m3u8?token=
-#EXTINF:-1,ESPN
-http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
-#EXTINF:-1,ESPN2
-http://192.99.39.240:1935/flu555/_definst_/espn2/playlist.m3u8?token=
-#EXTINF:-1,Foxsports1
-http://192.99.39.240:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
-#EXTINF:-1,Foxsports2
-http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
-#EXTINF:-1,GolfChannel
-http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
-#EXTINF:-1,TennisChannel
-http://167.114.157.40:1935/flu555/_definst_/jtennis/playlist.m3u8?token=
-#EXTINF:-1,NFLNetworkHD
-http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
-#EXTINF:0, DIRECTO
-http://4.31.30.159:9007
-#EXTINF:0, TVO KIDS
-http://4.31.30.159:9008
-#EXTINF:0, SPIKE
-http://4.31.30.159:9009
-#EXTINF:0, City
-http://4.31.30.159:9010
-#EXTINF:0,Channel 9011
-http://4.31.30.159:9011
-#EXTINF:0, KANAL DOZE
-http://4.31.30.159:9012
-#EXTINF:0, TPA
-http://4.31.30.159:9013
-#EXTINF:0, !
-http://4.31.30.159:9014
-#EXTINF:0, NICKELODEON
-http://4.31.30.159:9019
-#EXTINF:0, Channel 9021
-http://4.31.30.159:9021
-#EXTINF:0, MOTORSPORTS
-http://4.31.30.159:9023
-#EXTINF:0, CIELO
-http://4.31.30.159:9024
-#EXTINF:0, Food Network
-http://4.31.30.159:9028
-#EXTINF:0, M3
-http://4.31.30.159:9031
-#EXTINF:0, HISTORY
-http://4.31.30.159:9035
-#EXTINF:0, KIDS
-http://4.31.30.159:9036
-#EXTINF:0, CINE MUNDO
-http://4.31.30.159:9037
-#EXTINF:0, AMC
-http://4.31.30.159:9038
-#EXTINF:0,Channel 9039
-http://4.31.30.159:9039
-#EXTINF:0, GLOBAL TORONTO
-http://4.31.30.159:9041
-#EXTINF:0,Channel 9045
-http://4.31.30.159:9045
-#EXTINF:0, HG TV
-http://4.31.30.159:9046
-#EXTINF:0, TVI
-http://4.31.30.159:9052
-#EXTINF:0,Channel 30
-http://4.31.30.159:9056
-#EXTINF:0, SOL TV
-http://4.31.30.159:9061
-#EXTINF:0,Channel 32
-http://4.31.30.159:9062
-#EXTINF:0,Channel 33
-http://4.31.30.159:9066
-#EXTINF:0, DISCOVERY
-http://4.31.30.159:9072
-#EXTINF:0,Channel 35
-http://4.31.30.159:9074
-#EXTINF:0, RAI 2
-http://4.31.30.159:9080
-#EXTINF:0, TG 3
-http://4.31.30.159:9081
-#EXTINF:0, TSN 1
-http://4.31.30.159:9082
-#EXTINF:0, TSN 2
-http://4.31.30.159:9083
-#EXTINF:0, TSN 3
-http://4.31.30.159:9084
-#EXTINF:0, TSN 4
-http://4.31.30.159:9085
-#EXTINF:0, TSN 5
-http://4.31.30.159:9086
-#EXTINF:0,Channel 43
-http://4.31.30.159:9087
-#EXTINF:0,Channel 44
-http://4.31.30.159:9088
-#EXTINF:0,Channel 45
-http://4.31.30.159:9090
-#EXTINF:0,Channel 46
-http://4.31.30.159:9091
-#EXTINF:0, TOROS
-http://4.31.30.159:9095
-#EXTINF:0,Channel 48
-http://4.31.30.159:9096
-#EXTINF:0,Channel 49
-http://4.31.30.159:9101
-#EXTINF:0, ABC FAMILY
-http://4.31.30.159:9109
-#EXTINF:0, SPORTS 1
-http://4.31.30.159:9110
-#EXTINF:0, SPORTS 2
-http://4.31.30.159:9111
-#EXTINF:0,Channel 53
-http://4.31.30.159:9112
-#EXTINF:0, CHRISTIAN CHANNEL
-http://4.31.30.159:9115
-#EXTINF:0, RTP
-http://4.31.30.159:9116
-#EXTINF:0, PFC SPORTS
-http://4.31.30.159:9119
-#EXTINF:0, MOV HD
-http://4.31.30.159:9131
-#EXTINF:0, HOLLYWOOD
-http://4.31.30.159:9133
-#EXTINF:0, MOTORS TV
-http://4.31.30.159:9134
-#EXTINF:0, MAGIA
-http://4.31.30.159:9148
-#EXTINF:0, MUSIC TV
-http://4.31.30.159:9149
-#EXTINF:0, AXN BLACK HD
-http://4.31.30.159:9157
-#EXTINF:0, AXN WHITE HD
-http://4.31.30.159:9158
-#EXTINF:0, Y-TV
-http://4.31.30.159:9001
-#EXTINF:0, FAMILY
+
 
 #EXTINF:-1,[COLOR red]******Romania Channel******[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
