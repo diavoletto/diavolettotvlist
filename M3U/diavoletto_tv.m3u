@@ -1063,484 +1063,153 @@ http://stalker.darkuzdev.cf:8080/streamer/82.m3u8
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF: -1, Fashion tv
-http://31.130.21.128:81/udp/238.1.1.1:1234
-#EXTINF: -1, CTC Love
-http://31.130.21.128:81/udp/238.1.1.2:1234
-#EXTINF: -1, Amazing Life
-http://31.130.21.128:81/udp/238.1.1.8:1234
-#EXTINF: -1, Friday!
-http://31.130.21.128:81/udp/238.1.1.9:1234
-#EXTINF: -1, Radio Echo of Moscow
-http://31.130.21.128:81/udp/238.1.1.12:1234
-#EXTINF: -1, A One Hip-hop
-http://31.130.21.128:81/udp/238.1.1.13:1234
-#EXTINF: -1, RBC
-http://31.130.21.128:81/udp/238.1.1.20:1234
-#EXTINF: -1, Moscow 24
-http://31.130.21.128:81/udp/238.1.1.21:1234
-#EXTINF: -1, WORLD
-http://31.130.21.128:81/udp/238.1.1.22:1234
-#EXTINF: -1, TNV-Planet
-http://31.130.21.128:81/udp/238.1.1.24:1234
-#EXTINF: -1, TPO
-http://31.130.21.128:81/udp/238.1.1.25:1234
-#EXTINF: -1, RT
-http://31.130.21.128:81/udp/238.1.1.26:1234
-#EXTINF: -1, TV Railways
-http://31.130.21.128:81/udp/238.1.1.28:1234
-#EXTINF: -1, Life News
-http://31.130.21.128:81/udp/238.1.1.32:1234
-#EXTINF: -1,24 TV
-http://31.130.21.128:81/udp/238.1.1.33:1234
-#EXTINF: -1, 3 TV
-http://31.130.21.128:81/udp/238.1.1.34:1234
-#EXTINF: -1, RU TV
-http://31.130.21.128:81/udp/238.1.1.35:1234
-#EXTINF: -1, Radio Romance
-http://31.130.21.128:81/udp/238.1.1.42:1234
-#EXTINF: -1, Humor FM Radio
-http://31.130.21.128:81/udp/238.1.1.43:1234
-#EXTINF: -1, Radio Energy
-http://31.130.21.128:81/udp/238.1.1.44:1234
-#EXTINF: -1, Radio Autoradio
-http://31.130.21.128:81/udp/238.1.1.45:1234
-#EXTINF: -1, U TV
-http://31.130.21.128:81/udp/238.1.1.51:1234
-#EXTINF: -1, NTV
-http://31.130.21.128:81/udp/238.1.1.52:1234
-#EXTINF: -1, Pepper
-http://31.130.21.128:81/udp/238.1.1.53:1234
-#EXTINF: -1, Top Shop TV
-http://31.130.21.128:81/udp/238.1.1.55:1234
-#EXTINF: -1, U TV
-http://31.130.21.128:81/udp/238.1.1.56:1234
-#EXTINF: -1, REN
-http://31.130.21.128:81/udp/238.1.1.57:1234
-#EXTINF: -1, Moscow
-http://31.130.21.128:81/udp/238.1.1.59:1234
-#EXTINF: -1, Union
-http://31.130.21.128:81/udp/238.1.1.60:1234
-#EXTINF: -1, Star
-http://31.130.21.128:81/udp/238.1.1.63:1234
-#EXTINF: -1, Europa Plus TV
-http://31.130.21.128:81/udp/238.1.1.67:1234
-#EXTINF: -1, First
-http://31.130.21.128:81/udp/238.1.1.70:1234
-#EXTINF: -1, Russia 1
-http://31.130.21.128:81/udp/238.1.1.71:1234
-#EXTINF: -1, K Russia
-http://31.130.21.128:81/udp/238.1.1.72:1234
-#EXTINF: -1, CTC
-http://31.130.21.128:81/udp/238.1.1.73:1234
-#EXTINF: -1, TNT
-http://31.130.21.128:81/udp/238.1.1.74:1234
-#EXTINF: -1, Home
-http://31.130.21.128:81/udp/238.1.1.77:1234
-#EXTINF: -1, TVC
-http://31.130.21.128:81/udp/238.1.1.78:1234
-#EXTINF: -1, Russia 2
-http://31.130.21.128:81/udp/238.1.1.79:1234
-#EXTINF: -1,5 Channel
-http://31.130.21.128:81/udp/238.1.1.80:1234
-#EXTINF: -1, Carousel
-http://31.130.21.128:81/udp/238.1.1.81:1234
-#EXTINF: -1, Russia 24
-http://31.130.21.128:81/udp/238.1.1.87:1234
-#EXTINF: -1, The first HD
-http://31.130.21.128:81/udp/238.1.1.100:1234
-#EXTINF: -1, World Fashion
-http://31.130.21.128:81/udp/238.1.1.101:1234
-#EXTINF: -1, Pepper
-http://31.130.21.128:81/udp/238.1.1.102:1234
-#EXTINF: -1, Russia HD
-http://31.130.21.128:81/udp/238.1.1.109:1234
-#EXTINF: -1, First
-http://31.130.21.128:81/udp/238.1.1.112:1234
-#EXTINF: -1, Russia 1
-http://31.130.21.128:81/udp/238.1.1.113:1234
-#EXTINF: -1, Russia 2
-http://31.130.21.128:81/udp/238.1.1.114:1234
-#EXTINF: -1, NTV
-http://31.130.21.128:81/udp/238.1.1.115:1234
-#EXTINF: -1,5 Channel
-http://31.130.21.128:81/udp/238.1.1.116:1234
-#EXTINF: -1, Russia 24
-http://31.130.21.128:81/udp/238.1.1.117:1234
-#EXTINF: -1, Carousel
-http://31.130.21.128:81/udp/238.1.1.118:1234
-#EXTINF: -1, K Russia
-http://31.130.21.128:81/udp/238.1.1.119:1234
-#EXTINF: -1, Muz TV
-http://31.130.21.128:81/udp/238.1.1.127:1234
-#EXTINF: -1, HD Life
-http://31.130.21.128:81/udp/238.1.1.128:1234
-#EXTINF: -1, Discovery HD
-http://31.130.21.128:81/udp/238.1.1.129:1234
-#EXTINF: -1, OTR
-http://31.130.21.128:81/udp/238.1.1.130:1234
-#EXTINF: -1, Animal Planet HD
-http://31.130.21.128:81/udp/238.1.1.131:1234
-#EXTINF: -1, REN
-http://31.130.21.128:81/udp/238.1.1.142:1234
-#EXTINF: -1, Muz TV
-http://31.130.21.128:81/udp/238.1.1.143:1234
-#EXTINF: -1, 3 TV
-http://31.130.21.128:81/udp/238.1.1.144:1234
-#EXTINF: -1, Spas
-http://31.130.21.128:81/udp/238.1.1.145:1234
-#EXTINF: -1, Sports Plus
-http://31.130.21.128:81/udp/238.1.1.146:1234
-#EXTINF: -1, TNT
-http://31.130.21.128:81/udp/238.1.1.147:1234
-#EXTINF: -1, Star
-http://31.130.21.128:81/udp/238.1.1.148:1234
-#EXTINF: -1, CTC
-http://31.130.21.128:81/udp/238.1.1.149:1234
-#EXTINF: -1, WORLD
-http://31.130.21.128:81/udp/238.1.1.150:1234
-#EXTINF: -1, Shopping Live
-http://31.130.21.128:81/udp/238.1.1.151:1234
-#EXTINF: -1, Home
-http://31.130.21.128:81/udp/238.1.1.152:1234
-#EXTINF: -1, Spas
-http://31.130.21.128:81/udp/238.1.1.154:1234
-#EXTINF: -1, NTV
-http://31.130.21.128:81/udp/238.1.1.155:1234
-#EXTINF: -1, Bridge TV
-http://31.130.21.128:81/udp/238.1.1.161:1234
-#EXTINF: -1, HD world
-http://31.130.21.128:81/udp/238.1.1.243:1234
-#EXTINF: -1 ,? HD
-http://31.130.21.128:81/udp/238.1.1.252:1234
-#EXTINF: -1, Live
-http://31.130.21.128:81/udp/238.1.2.1:1234
-#EXTINF: -1, Sport 1
-http://31.130.21.128:81/udp/238.1.2.2:1234
-#EXTINF: -1, Disney
-http://31.130.21.128:81/udp/238.1.2.3:1234
-#EXTINF: -1, FOX
-http://31.130.21.128:81/udp/238.1.2.4:1234
-#EXTINF: -1, Fox Life
-http://31.130.21.128:81/udp/238.1.2.5:1234
-#EXTINF: -1, Sony Sci-Fi
-http://31.130.21.128:81/udp/238.1.2.6:1234
-#EXTINF: -1, SET
-http://31.130.21.128:81/udp/238.1.2.7:1234
-#EXTINF: -1, Nick Jr
-http://31.130.21.128:81/udp/238.1.2.8:1234
-#EXTINF: -1, TNT
-http://31.130.21.128:81/udp/238.1.2.9:1234
-#EXTINF: -1,24 Doc
-http://31.130.21.128:81/udp/238.1.2.10:1234
-#EXTINF: -1, Once TV
-http://31.130.21.128:81/udp/238.1.2.12:1234
-#EXTINF: -1, Nano TV
-http://31.130.21.128:81/udp/238.1.2.13:1234
-#EXTINF: -1, Nostalgia
-http://31.130.21.128:81/udp/238.1.2.14:1234
-#EXTINF: -1,2h2
-http://31.130.21.128:81/udp/238.1.2.16:1234
-#EXTINF: -1, National Geographic
-http://31.130.21.128:81/udp/238.1.2.17:1234
-#EXTINF: -1, CN
-http://31.130.21.128:81/udp/238.1.2.18:1234
-#EXTINF: -1, Mom
-http://31.130.21.128:81/udp/238.1.2.19:1234
-#EXTINF: -1, Vh1
-http://31.130.21.128:81/udp/238.1.2.20:1234
-#EXTINF: -1, Sports
-http://31.130.21.128:81/udp/238.1.2.21:1234
-#EXTINF: -1, Science 2.0
-http://31.130.21.128:81/udp/238.1.2.22:1234
-#EXTINF: -1, TNT-Comedy
-http://31.130.21.128:81/udp/238.1.2.24:1234
-#EXTINF: -1, Sundress
-http://31.130.21.128:81/udp/238.1.2.25:1234
-#EXTINF: -1, Eurosport
-http://31.130.21.128:81/udp/238.1.2.26:1234
-#EXTINF: -1, Eurosport2
-http://31.130.21.128:81/udp/238.1.2.27:1234
-#EXTINF: -1, Discovery Science
-http://31.130.21.128:81/udp/238.1.2.28:1234
-#EXTINF: -1, Discovery
-http://31.130.21.128:81/udp/238.1.2.29:1234
-#EXTINF: -1, Animal Planet
-http://31.130.21.128:81/udp/238.1.2.30:1234
-#EXTINF: -1, Discovery World
-http://31.130.21.128:81/udp/238.1.2.31:1234
-#EXTINF: -1, MTV Dance
-http://31.130.21.128:81/udp/238.1.2.33:1234
-#EXTINF: -1, Nat Geo Wild
-http://31.130.21.128:81/udp/238.1.2.35:1234
-#EXTINF: -1,8 Channel
-http://31.130.21.128:81/udp/238.1.2.36:1234
-#EXTINF: -1, Russian novel
-http://31.130.21.128:81/udp/238.1.2.38:1234
-#EXTINF: -1, WBC
-http://31.130.21.128:81/udp/238.1.2.40:1234
-#EXTINF: -1, Cinema Union
-http://31.130.21.128:81/udp/238.1.2.41:1234
-#EXTINF: -1, AMC
-http://31.130.21.128:81/udp/238.1.2.44:1234
-#EXTINF: -1, Retro
-http://31.130.21.128:81/udp/238.1.2.48:1234
-#EXTINF: -1, Drive
-http://31.130.21.128:81/udp/238.1.2.49:1234
-#EXTINF: -1, Hunting and Fishing
-http://31.130.21.128:81/udp/238.1.2.50:1234
-#EXTINF: -1, Healthy TV
-http://31.130.21.128:81/udp/238.1.2.51:1234
-#EXTINF: -1, Manor
-http://31.130.21.128:81/udp/238.1.2.52:1234
-#EXTINF: -1, Pets
-http://31.130.21.128:81/udp/238.1.2.53:1234
-#EXTINF: -1, Psychology 21
-http://31.130.21.128:81/udp/238.1.2.54:1234
-#EXTINF: -1, Questions and Answers
-http://31.130.21.128:81/udp/238.1.2.55:1234
-#EXTINF: -1, Fight Club
-http://31.130.21.128:81/udp/238.1.2.56:1234
-#EXTINF: -1, My Planet
-http://31.130.21.128:81/udp/238.1.2.58:1234
-#EXTINF: -1, Multimania
-http://31.130.21.128:81/udp/238.1.2.59:1234
-#EXTINF: -1, TLC
-http://31.130.21.128:81/udp/238.1.2.60:1234
-#EXTINF: -1, Sony Turbo
-http://31.130.21.128:81/udp/238.1.2.61:1234
-#EXTINF: -1, Rusong TV
-http://31.130.21.128:81/udp/238.1.2.63:1234
-#EXTINF: -1, T24
-http://31.130.21.128:81/udp/238.1.2.64:1234
-#EXTINF: -1, Children
-http://31.130.21.128:81/udp/238.1.2.65:1234
-#EXTINF: -1, Nickelodeon
-http://31.130.21.128:81/udp/238.1.2.66:1234
-#EXTINF: -1, Russian Illusion
-http://31.130.21.128:81/udp/238.1.2.67:1234
-#EXTINF: -1, Illusion +
-http://31.130.21.128:81/udp/238.1.2.68:1234
-#EXTINF: -1, ZOOpark
-http://31.130.21.128:81/udp/238.1.2.69:1234
-#EXTINF: -1, Russian Extreme
-http://31.130.21.128:81/udp/238.1.2.70:1234
-#EXTINF: -1, KHL
-http://31.130.21.128:81/udp/238.1.2.72:1234
-#EXTINF: -1, Male
-http://31.130.21.128:81/udp/238.1.2.74:1234
-#EXTINF: -1, TV Sale
-http://31.130.21.128:81/udp/238.1.2.75:1234
-#EXTINF: -1, TNT
-http://31.130.21.128:81/udp/238.1.2.77:1234
-#EXTINF: -1,365 Days
-http://31.130.21.128:81/udp/238.1.2.80:1234
-#EXTINF: -1, Comedy TV
-http://31.130.21.128:81/udp/238.1.2.82:1234
-#EXTINF: -1, India
-http://31.130.21.128:81/udp/238.1.2.83:1234
-#EXTINF: -1, A minor
-http://31.130.21.128:81/udp/238.1.2.84:1234
-#EXTINF: -1, A lot of TV
-http://31.130.21.128:81/udp/238.1.2.85:1234
-#EXTINF: -1, Interesting TV
-http://31.130.21.128:81/udp/238.1.2.86:1234
-#EXTINF: -1, Kitchen TV
-http://31.130.21.128:81/udp/238.1.2.87:1234
-#EXTINF: -1, Fighter
-http://31.130.21.128:81/udp/238.1.2.88:1234
-#EXTINF: -1, Auto Plus
-http://31.130.21.128:81/udp/238.1.2.89:1234
-#EXTINF: -1, CTC
-http://31.130.21.128:81/udp/238.1.2.90:1234
-#EXTINF: -1, Smiling child
-http://31.130.21.128:81/udp/238.1.2.92:1234
-#EXTINF: -1, RTG
-http://31.130.21.128:81/udp/238.1.2.95:1234
-#EXTINF: -1, RTG
-http://31.130.21.128:81/udp/238.1.2.96:1234
-#EXTINF: -1, Food
-http://31.130.21.128:81/udp/238.1.2.98:1234
-#EXTINF: -1, Evrokino
-http://31.130.21.128:81/udp/238.1.2.102:1234
-#EXTINF: -1, Travel + adventure
-http://31.130.21.128:81/udp/238.1.2.103:1234
-#EXTINF: -1, Amusement Park
-http://31.130.21.128:81/udp/238.1.2.105:1234
-#EXTINF: -1, Film Screening
-http://31.130.21.128:81/udp/238.1.2.112:1234
-#EXTINF: -1, Tonus TV
-http://31.130.21.128:81/udp/238.1.2.113:1234
-#EXTINF: -1, ZOO TV
-http://31.130.21.128:81/udp/238.1.2.114:1234
-#EXTINF: -1, Music Box RU
-http://31.130.21.128:81/udp/238.1.2.117:1234
-#EXTINF: -1, Music Box
-http://31.130.21.128:81/udp/238.1.2.118:1234
-#EXTINF: -1, TV Humor
-http://31.130.21.128:81/udp/238.1.2.119:1234
-#EXTINF: -1, Paramount comedy
-http://31.130.21.128:81/udp/238.1.2.127:1234
-#EXTINF: -1, Animal Planet HD
-http://31.130.21.128:81/udp/238.1.2.128:1234
-#EXTINF: -1, Discovery HD
-http://31.130.21.128:81/udp/238.1.2.129:1234
-#EXTINF: -1, ID
-http://31.130.21.128:81/udp/238.1.2.131:1234
-#EXTINF: -1, Our cinema
-http://31.130.21.128:81/udp/238.1.2.132:1234
-#EXTINF: -1, Movie Plus
-http://31.130.21.128:81/udp/238.1.2.133:1234
-#EXTINF: -1, New Cinema
-http://31.130.21.128:81/udp/238.1.2.134:1234
-#EXTINF: -1, NTV + Basketball
-http://31.130.21.128:81/udp/238.1.2.135:1234
-#EXTINF: -1, NTV Plus Sport
-http://31.130.21.128:81/udp/238.1.2.136:1234
-#EXTINF: -1, Phoenix + Movie
-http://31.130.21.128:81/udp/238.1.2.137:1234
-#EXTINF: -1, Favorite movie
-http://31.130.21.128:81/udp/238.1.2.138:1234
-#EXTINF: -1, Weapons
-http://31.130.21.128:81/udp/238.1.2.140:1234
-#EXTINF: -1, Detsky Mir / Teleclub
-http://31.130.21.128:81/udp/238.1.2.141:1234
-#EXTINF: -1, Chanson TV
-http://31.130.21.128:81/udp/238.1.2.143:1234
-#EXTINF: -1, ZEE TV
-http://31.130.21.128:81/udp/238.1.2.144:1234
-#EXTINF: -1, Success
-http://31.130.21.128:81/udp/238.1.2.145:1234
-#EXTINF: -1, A-media 2
-http://31.130.21.128:81/udp/238.1.2.148:1234
-#EXTINF: -1, AUTO 24
-http://31.130.21.128:81/udp/238.1.2.149:1234
-#EXTINF: -1, Country
-http://31.130.21.128:81/udp/238.1.2.151:1234
-#EXTINF: -1, Nautical channel
-http://31.130.21.128:81/udp/238.1.2.152:1234
-#EXTINF: -1, Luxury World
-http://31.130.21.128:81/udp/238.1.2.154:1234
-#EXTINF: -1, Cartoon
-http://31.130.21.128:81/udp/238.1.2.161:1234
-#EXTINF: -1, Dange TV
-http://31.130.21.128:81/udp/238.1.2.163:1234
-#EXTINF: -1, History
-http://31.130.21.128:81/udp/238.1.2.164:1234
-#EXTINF: -1, Premiere
-http://31.130.21.128:81/udp/238.1.2.166:1234
-#EXTINF: -1, Cinema Club
-http://31.130.21.128:81/udp/238.1.2.167:1234
-#EXTINF: -1, Auburn
-http://31.130.21.128:81/udp/238.1.2.170:1234
-#EXTINF: -1, Hunter and Fisher
-http://31.130.21.128:81/udp/238.1.2.171:1234
-#EXTINF: -1, TV trip
-http://31.130.21.128:81/udp/238.1.2.172:1234
-#EXTINF: -1, France 24
-http://31.130.21.128:81/udp/238.1.2.183:1234
-#EXTINF: -1, NST
-http://31.130.21.128:81/udp/238.1.2.191:1234
-#EXTINF: -1, Movie Channels
-http://31.130.21.128:81/udp/238.1.2.192:1234
-#EXTINF: -1, 24 WORLD
-http://31.130.21.128:81/udp/238.1.2.194:1234
-#EXTINF: -1, Russian bestseller
-http://31.130.21.128:81/udp/238.1.2.213:1234
-#EXTINF: -1, Amedia 1
-http://31.130.21.128:81/udp/238.1.2.214:1234
-#EXTINF: -1, Topsong TV
-http://31.130.21.128:81/udp/238.1.2.228:1234
-#EXTINF: -1, TV Humor
-http://31.130.21.128:81/udp/238.1.2.252:1234
-#EXTINF: -1, National Geographic HD
-http://31.130.21.128:81/udp/238.1.3.2:1234
-#EXTINF: -1, Nat Geo Wild HD
-http://31.130.21.128:81/udp/238.1.3.3:1234
-#EXTINF: -1, Fox Life HD
-http://31.130.21.128:81/udp/238.1.3.4:1234
-#EXTINF: -1, Fox HD
-http://31.130.21.128:81/udp/238.1.3.5:1234
-#EXTINF: -1, Hunter and Fisher HD
-http://31.130.21.128:81/udp/238.1.3.6:1234
-#EXTINF: -1, Nickelodeon HD
-http://31.130.21.128:81/udp/238.1.3.7:1234
-#EXTINF: -1, MTV Live HD
-http://31.130.21.128:81/udp/238.1.3.8:1234
-#EXTINF: -1, KHL HD
-http://31.130.21.128:81/udp/238.1.3.11:1234
-#EXTINF: -1, SET HD
-http://31.130.21.128:81/udp/238.1.3.12:1234
-#EXTINF: -1, RTG HD
-http://31.130.21.128:81/udp/238.1.3.18:1234
-#EXTINF: -1,1HD
-http://31.130.21.128:81/udp/238.1.3.21:1234
-#EXTINF: -1, Sport 1 HD
-http://31.130.21.128:81/udp/238.1.3.25:1234
-#EXTINF: -1, HD TV trip
-http://31.130.21.128:81/udp/238.1.3.26:1234
-#EXTINF: -1, Film Screening-1 HD
-http://31.130.21.128:81/udp/238.1.3.28:1234
-#EXTINF: -1, FOOD HD
-http://31.130.21.128:81/udp/238.1.3.29:1234
-#EXTINF: -1, Travel + adventure HD
-http://31.130.21.128:81/udp/238.1.3.32:1234
-#EXTINF: -1, IQ HD
-http://31.130.21.128:81/udp/238.1.3.34:1234
-#EXTINF: -1, Moscow HD
-http://31.130.21.128:81/udp/238.1.3.45:1234
-#EXTINF: -1, RT Doc HD
-http://31.130.21.128:81/udp/238.1.3.144:1234
-#EXTINF: -1, Eureka HD
-http://31.130.21.128:81/udp/238.1.3.200:1234
-#EXTINF: -1, Animal Family HD
-http://31.130.21.128:81/udp/238.1.3.201:1234
-#EXTINF: -1, InterAZ
-http://31.130.21.128:81/udp/238.1.4.4:1234
-#EXTINF: -1, 3 Football
-http://31.130.21.128:81/udp/238.1.4.25:1234
-#EXTINF: -1, 2 Football
-http://31.130.21.128:81/udp/238.1.4.26:1234
-#EXTINF: -1, Our football
-http://31.130.21.128:81/udp/238.1.4.27:1234
-#EXTINF: -1, Outdoor channel
-http://31.130.21.128:81/udp/238.1.4.34:1234
-#EXTINF: -1, JimJam
-http://31.130.21.128:81/udp/238.1.4.37:1234
-#EXTINF: -1, Mezzo
-http://31.130.21.128:81/udp/238.1.4.57:1234
-#EXTINF: -1, Living Planet
-http://31.130.21.128:81/udp/238.1.4.59:1234
-#EXTINF: -1, NTV + Sport
-http://31.130.21.128:81/udp/238.1.4.64:1234
-#EXTINF: -1, 1 Football
-http://31.130.21.128:81/udp/238.1.4.65:1234
-#EXTINF: -1, A-media Premium HD
-http://31.130.21.128:81/udp/238.1.4.80:1234
-#EXTINF: -1, CBS Drama
-http://31.130.21.128:81/udp/238.1.4.89:1234
-#EXTINF: -1, Gulli
-http://31.130.21.128:81/udp/238.1.4.101:1234
-#EXTINF: -1, Tiji
-http://31.130.21.128:81/udp/238.1.4.110:1234
-#EXTINF: -1, CBS Drama
-http://31.130.21.128:81/udp/238.1.4.115:1234
-#EXTINF: -1, Muz TV
-http://31.130.21.128:81/udp/238.1.4.180:1234
-#EXTINF: -1, Bloomberg
-http://31.130.21.128:81/udp/238.1.4.181:1234
-#EXTINF: -1, BBC World News
-http://31.130.21.128:81/udp/238.1.4.182:1234
-#EXTINF: -1, Film Screening
-http://31.130.21.128:81/udp/238.1.4.185:1234
-#EXTINF: -1, Our Football HD
-http://31.130.21.128:81/udp/238.1.4.232:1234
-#EXTINF: -1, TNT
-http://31.130.21.128:81/udp/238.1.4.254:1234
-#EXTINF: -1, Hustler
-http://31.130.21.128:81/udp/238.1.5.1:1234
-#EXTINF: -1, Russian night
-http://31.130.21.128:81/udp/238.1.5.2:1234
+#EXTINF:-1,OceanTV
+http://213.95.47.104:8080/btv_00189/
+#EXTINF:-1,OhotnikRibolovHD
+http://213.95.47.104:8080/btv_00195/
+#EXTINF:-1,OTR
+http://213.95.47.104:8080/btv_00137/
+#EXTINF:-1,Pershiy
+http://213.95.47.104:8080/btv_00174/
+#EXTINF:-1,PerviyHD
+http://213.95.47.104:8080/btv_00173/
+#EXTINF:-1,Premiera
+http://213.95.47.104:8080/btv_00175/
+#EXTINF:-1,Prosveshenie
+http://213.95.47.104:8080/btv_00176/
+#EXTINF:-1,RadostMoya
+http://213.95.47.104:8080/btv_00105/
+#EXTINF:-1,RazTV
+http://213.95.47.104:8080/btv_00103/
+#EXTINF:-1,RossiaHD
+http://213.95.47.104:8080/btv_00177/
+#EXTINF:-1,RusBestseller
+http://213.95.47.104:8080/btv_00178/
+#EXTINF:-1,RusDetektiv
+http://213.95.47.104:8080/btv_00179/
+#EXTINF:-1,RusIlluzion
+http://213.95.47.104:8080/btv_00180/
+#EXTINF:-1,RusRoman
+http://213.95.47.104:8080/btv_00181/
+#EXTINF:-1,RussianExtreme
+http://213.95.47.104:8080/btv_00191/
+#EXTINF:-1,RusskayaNoch
+http://213.95.47.104:8080/btv_00113/
+#EXTINF:-1,SmileOfChild
+http://213.95.47.104:8080/btv_00100/
+#EXTINF:-1,SovershennoSekretno
+http://213.95.47.104:8080/btv_00182/
+#EXTINF:-1,SPAS
+http://213.95.47.104:8080/btv_00152/
+#EXTINF:-1,Sport1
+http://213.95.47.104:8080/btv_00183/
+#EXTINF:-1,Sport1HD
+http://213.95.47.104:8080/btv_00184/
+#EXTINF:-1,SportVGTRK
+http://213.95.47.104:8080/btv_00185/
+#EXTINF:-1,Strana
+http://213.95.47.104:8080/btv_00135/
+#EXTINF:-1,StyleTv
+http://213.95.47.104:8080/btv_00153/
+#EXTINF:-1,TBN
+http://213.95.47.104:8080/btv_00107/
+#EXTINF:-1,TeenTV
+http://213.95.47.104:8080/btv_00111/
+#EXTINF:-1,Telecafe
+http://213.95.47.104:8080/btv_00109/
+#EXTINF:-1,TeletravelHD
+http://213.95.47.104:8080/btv_00194/
+#EXTINF:-1,TochkaTV
+http://213.95.47.104:8080/btv_00200/
+#EXTINF:-1,TonusTV
+http://213.95.47.104:8080/btv_00150/
+#EXTINF:-1,TV25
+http://213.95.47.104:8080/btv_00142/
+#EXTINF:-1,VoprosyIOtvety
+http://213.95.47.104:8080/btv_00159/
+#EXTINF:-1,Vremya
+http://213.95.47.104:8080/btv_00116/
+#EXTINF:-1,Zagorodniy
+http://213.95.47.104:8080/btv_00151/
+#EXTINF:-1,ZooPark
+http://213.95.47.104:8080/btv_00193/
+#EXTINF:-1,1TV
+http://213.95.47.104:8080/btv_00139/
+#EXTINF:-1,24Techno
+http://213.95.47.104:8080/btv_00156/
+#EXTINF:-1,8kanal
+http://213.95.47.104:8080/btv_00129/
+#EXTINF:-1,AnimalFamilyHD
+http://213.95.47.104:8080/btv_00197/
+#EXTINF:-1,BoicovskyKlub
+http://213.95.47.104:8080/btv_00158/
+#EXTINF:-1,CNL
+http://213.95.47.104:8080/btv_00145/
+#EXTINF:-1,DangeTV
+http://213.95.47.104:8080/btv_00127/
+#EXTINF:-1,Detskiy
+http://213.95.47.104:8080/btv_00160/
+#EXTINF:-1,Draiv
+http://213.95.47.104:8080/btv_00186/
+#EXTINF:-1,EdaHD
+http://213.95.47.104:8080/btv_00162/
+#EXTINF:-1,Eurokino
+http://213.95.47.104:8080/btv_00161/
+#EXTINF:-1,EuropePlusTV
+http://213.95.47.104:8080/btv_00101/
+#EXTINF:-1,FashionTV
+http://213.95.47.104:8080/btv_00108/
+#EXTINF:-1,HDKino1
+http://213.95.47.104:8080/btv_00187/
+#EXTINF:-1,HDLife
+http://213.95.47.104:8080/btv_00136/
+#EXTINF:-1,History
+http://213.95.47.104:8080/btv_00104/
+#EXTINF:-1,IlluzionPlus
+http://213.95.47.104:8080/btv_00163/
+#EXTINF:-1,InteresnoeTv
+http://213.95.47.104:8080/btv_00115/
+#EXTINF:-1,Istoriya
+http://213.95.47.104:8080/btv_00164/
+#EXTINF:-1,K1
+http://213.95.47.104:8080/btv_00130/
+#EXTINF:-1,K2
+http://213.95.47.104:8080/btv_00131/
+#EXTINF:-1,KazakhTV
+http://213.95.47.104:8080/btv_00120/
+#EXTINF:-1,KentronTV
+http://213.95.47.104:8080/btv_00117/
+#EXTINF:-1,KtoEstKto
+http://213.95.47.104:8080/btv_00165/
+#EXTINF:-1,KuhnaTv
+http://213.95.47.104:8080/btv_00114/
+#EXTINF:-1,LaMinor
+http://213.95.47.104:8080/btv_00112/
+#EXTINF:-1,LifeNews
+http://213.95.47.104:8080/btv_00154/
+#EXTINF:-1,MirHD
+http://213.95.47.104:8080/btv_00199/
+#EXTINF:-1,Moskva24
+http://213.95.47.104:8080/btv_00134/
+#EXTINF:-1,Mult
+http://213.95.47.104:8080/btv_00166/
+#EXTINF:-1,Multimania
+http://213.95.47.104:8080/btv_00128/
+#EXTINF:-1,NanoTV
+http://213.95.47.104:8080/btv_00198/
+#EXTINF:-1,NasheNovoeKino
+http://213.95.47.104:8080/btv_00168/
+#EXTINF:-1,Nauka20
+http://213.95.47.104:8080/btv_00167/
+#EXTINF:-1,NTVPlusFootbal
+http://213.95.47.104:8080/btv_00171/
+#EXTINF:-1,NTVPlusFootbalHD
+http://213.95.47.104:8080/btv_00172/
+#EXTINF:-1,NTVPlusSport
+http://213.95.47.104:8080/btv_00169/
+#EXTINF:-1,NTVPlusSportPlus
+http://213.95.47.104:8080/btv_00170
+
 #EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1 ,RTS un
