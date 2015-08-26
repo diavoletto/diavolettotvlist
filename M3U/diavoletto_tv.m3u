@@ -10,7 +10,157 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTM3U
+#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,[COLOR green]3.30 e 12.00 atletica PECHINO MONDIALI 5th day[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,[COLOR green]16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,[COLOR green]20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,ntv+futbol 3 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,2 tv georgia
+http://ams01-edge01.itdc.ge/meore/index.m3u8?token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,s@y sports 2 de
+http://balkanstream.com/stream/skysport02/hospa140/adis0234
+
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,[COLOR green]20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,zdf de
+http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,tv3 sport 1 ace
+acestream://783f9190794b0cf507cc0da231d280121e8f89ad
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,tsn 3 ca ace
+acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13
+
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,[COLOR green]20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3)[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,ntv+futbol 2 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,1 tv georgia
+http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,tsn 1 ca ace
+acestream://f0be1dcc62ce52be176e96006ba2527e52707806
+#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,tsn 4 ca ace
+acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
+
+#EXTINF:-1 group-title=” 20.45 ch.lea APOEL NICOSIA – ASTANA (0-1) “,[COLOR green]20.45 ch.lea APOEL NICOSIA – ASTANA (0-1)[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 ch.lea APOEL NICOSIA – ASTANA (0-1) “,arena sport 5 sr
+http://balkanstream.com/stream/arenasport5sr/hospa140/adis0234
+
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,[COLOR green]20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,ntv ru
+http://212.220.30.219/hls//CH_R03_NTV/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,ntv+futbol 1 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,tv3 sport 2 ace
+acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
+#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,[COLOR green]20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1)[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,rts1 serbia
+http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,obn
+http://www.nasatv.eu:80/live?channelId=54&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,[COLOR green]20.45 eng.lea.cup BARNSLEY – EVERTON[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,[COLOR green]23.30 arg.cup ATL.RAFAELA – SAN LORENZO[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,[COLOR green]0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,[COLOR green]2.00 arg.cup RACING CLUB – ATL.ATLANTA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,[COLOR green]3.00 bra.cup CORINTHIANS – SANTOS FC[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
