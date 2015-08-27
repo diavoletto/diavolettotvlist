@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 26/08/2015 11h04*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 27/08/2015 10h47*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,157 +10,7 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,[COLOR green]3.30 e 12.00 atletica PECHINO MONDIALI 5th day[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 3.30 e 12.00 atletica PECHINO MONDIALI 5th day “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,[COLOR green]16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 5 – Rota-Alcala de Guadaira “,tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,[COLOR green]20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1)[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,ntv+futbol 3 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,irib varzesh ir
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream3
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,hrt 2 hr
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,hrt 2 hr_2
-http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,2 tv georgia
-http://ams01-edge01.itdc.ge/meore/index.m3u8?token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,s@y sports 2 de
-http://balkanstream.com/stream/skysport02/hospa140/adis0234
-
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,[COLOR green]20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1)[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,zdf de
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,tv3 sport 1 ace
-acestream://783f9190794b0cf507cc0da231d280121e8f89ad
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,viasat sport baltic ace
-acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,silk sport 2 ge
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-#EXTINF:-1 group-title=” 20.45 ch.lea BAYER LEVERKUSEN – LAZIO (0-1) “,tsn 3 ca ace
-acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13
-
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,[COLOR green]20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,ntv+futbol 2 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,1 tv georgia
-http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,silk sport 1 ge
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,tsn 1 ca ace
-acestream://f0be1dcc62ce52be176e96006ba2527e52707806
-#EXTINF:-1 group-title=” 20.45 ch.lea CLUB BRUGGE – MANCHESTER UTD (1-3) “,tsn 4 ca ace
-acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
-
-#EXTINF:-1 group-title=” 20.45 ch.lea APOEL NICOSIA – ASTANA (0-1) “,[COLOR green]20.45 ch.lea APOEL NICOSIA – ASTANA (0-1)[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 ch.lea APOEL NICOSIA – ASTANA (0-1) “,arena sport 5 sr
-http://balkanstream.com/stream/arenasport5sr/hospa140/adis0234
-
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,[COLOR green]20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2)[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,arena sport 4 sr
-http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,beIN sports FR 2
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,ntv ru
-http://212.220.30.219/hls//CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,ntv+futbol 1 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,tv3 sport 2 ace
-acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
-#EXTINF:-1 group-title=” 20.45 ch.lea CSKA MOSCOW – SPORTING LISBON (1-2) “,rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
-#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,[COLOR green]20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,rts1 serbia
-http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 ch.lea PARTIZAN BELGRADE – BATE BORISOV (0-1) “,obn
-http://www.nasatv.eu:80/live?channelId=54&uid=18&deviceUser=zine&devicePass=zine
-
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,[COLOR green]20.45 eng.lea.cup BARNSLEY – EVERTON[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,arena sport 2 sr
-http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=” 20.45 eng.lea.cup BARNSLEY – EVERTON “,sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,[COLOR green]23.30 arg.cup ATL.RAFAELA – SAN LORENZO[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 23.30 arg.cup ATL.RAFAELA – SAN LORENZO “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,[COLOR green]0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg)[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 0.00 cop.sudam ARSENAL SARANDI (Arg) – INDEPENDIENTE (Arg) “,arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
-
-#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,[COLOR green]2.00 arg.cup RACING CLUB – ATL.ATLANTA[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=” 2.00 arg.cup RACING CLUB – ATL.ATLANTA “,tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,[COLOR green]3.00 bra.cup CORINTHIANS – SANTOS FC[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=” 3.00 bra.cup CORINTHIANS – SANTOS FC “,arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -170,28 +20,7 @@ http://lihattv.toh.info/jhos/beib1.m3u8
 http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
-EXTINF:0,beINSport1 FR
-http://178.33.88.129:888/udp/239.102.0.15:1234
-#EXTINF:0,beINSport2 FR
-http://178.33.88.129:888/udp/239.102.0.16:1234
-#EXTINF:0,beINSport3 FR
-http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:0,bein sport 4hd
-http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:0,bein sport 5hd
-http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:0,bein sport 6hd
-http://178.33.88.129:888/udp/239.102.0.7:1234
-#EXTINF:0,bein sport 7hd
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:0,bein sport 9hd
-http://178.33.88.129:888/udp/239.102.0.9:1234
-#EXTINF:0,bein sport 10hd
-http://178.33.88.129:888/udp/239.102.0.11:1234
-#EXTINF:0,bein sport 2hd ar
-http://178.33.88.129:888/udp/239.102.0.2:1234
-#EXTINF:0,bein sport 5hd
-http://178.33.88.129:888/udp/239.102.0.6:1234
+
 
 #EXTINF:1,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -203,50 +32,12 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 http://4.31.30.159:9110
 #EXTINF:1,FOX SPORTS 2
 http://4.31.30.159:9111
-#EXTINF:-1, Setanta Sports
-http://80.77.52.6:3719/udp/230.0.4.1:12345
-#EXTINF:-1, Silk Sport HD1
-http://80.77.52.6:3719/udp/230.0.6.4:12345
-#EXTINF:-1, Silk Sport HD2
-http://80.77.52.6:3719/udp/230.0.6.2:12345
-#EXTINF:-1, Silk Sport HD3
-http://80.77.52.6:3719/udp/230.0.6.3:12345
-#EXTINF:-1, SKY SPORTS1
-http://212.51.148.162:2003/hdmi
 #EXTINF:-1, SKY SPORTS2
 http://212.51.148.162:2005/hdmi
 #EXTINF:-1, SKY CALCIO 3
 http://212.51.148.162:2001/hdmi
-#EXTINF:-1, Sky Sport 2 DE,
-http://178.33.88.129:888/udp/239.102.0.24:1234
-#EXTINF:-1, Eurosport,
-http://178.33.88.129:888/udp/239.102.0.26:1234
-#EXTINF:-1,Eurosport 2,
-http://178.33.88.129:888/udp/239.102.0.27:1234
-#EXTINF:-1,AD Sports 1,
-http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1,AD Sports 2,
-http://178.33.88.129:888/udp/239.102.0.29:1234
-#EXTINF:-1,Canal+ Sport,
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1,BULGAR-BULSAT-Film Plus – Sport Plus
-http://185.13.236.197:4080/udp/224.0.0.110:1237
 #EXTINF:-1,CHANNEL 9 AUSTRALIA
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,CSN Sports
-rtmp://kv2.ts33.net/sat/us061
-#EXTINF:-1,EUROPA-Sport 1 Voetbal
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Eurosport
-rtmp://kv2.ts33.net/sat/us291
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Fox Sports 3 HD China
-rtmp://kv2.ts33.net/sat/us161
-#EXTINF:-1,CANADA:TVA Sport
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG–KazSport/01/plst.m3u8
 #EXTINF:-1,Motorsport 7 Channel Australia
 http://motorsport.hopto.org:8080
 #EXTINF:-1,Real Madrid TV
@@ -263,10 +54,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
 #EXTINF:-1,Sport Time TV 6
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD
-#EXTINF:-1,Sports Tonight UK
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD?ref=www.sportstonightlive.com&USER=STL_0001
 #EXTINF:-1,TURK-A SPOR m3u8
 http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
 #EXTINF:-1,Turki-TURKMEN SPORT
@@ -277,18 +64,6 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
 #EXTINF:-1,USA-PAC 12 Oregon (HD)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0,bein sport 1hd ar
-http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:0,beIN 2HD Ar
-http://178.33.88.129:888/udp/239.102.0.2:1234
-#EXTINF:0,beIN 4HD Ar
-http://178.33.88.129:888/udp/239.102.0.5:1234
-#EXTINF:0,beIN 7HD Ar
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:0,beIN 1 HD Fr
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:0,beIN 3 HD Fr
-http://178.33.88.129:888/udp/239.102.0.17:1234
 #EXTINF:0,FOX SPORTS 1
 http://4.31.30.159:9110
 #EXTINF:0,FOX SPORTS 2
@@ -303,12 +78,6 @@ http://4.31.30.159:9084
 http://4.31.30.159:9085
 #EXTINF:0,TSN 5
 http://4.31.30.159:9086
-#EXTINF:-1,SILK SPORT 1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1,SILK SPORT 2
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-#EXTINF:-1,SILK SPORT 3
-http://80.77.52.6:3719/udp/226.0.0.9:12345
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1367,127 +1136,6 @@ rtmp://82.137.248.16/Snews/SnewsLive2
 #EXTINF:-1,Talaqie TV
 rtmp://82.137.248.20/Talaqie/TalaqieLive1
 
-#EXTINF:0,###### Chaоnes Arabes ######
-http://iptv15.zapto.org:8000/live/free4u/2015/1398.ts
-#EXTINF:0,AR :samiratv
-http://iptv15.zapto.org:8000/live/free4u/2015/1571.ts
-#EXTINF:0,AR :ENNAHARALGERIE
-http://iptv15.zapto.org:8000/live/free4u/2015/1572.ts
-#EXTINF:0,AR : algeria-3
-http://iptv15.zapto.org:8000/live/free4u/2015/1570.ts
-#EXTINF:0,OSN-YAHALA
-http://iptv15.zapto.org:8000/live/free4u/2015/1526.ts
-#EXTINF:0,OSN-Star-Movies1-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1527.ts
-#EXTINF:0,OSN-Star-Movies-2HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1528.ts
-#EXTINF:0,OSN-Nat-Geo-Wild-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1530.ts
-#EXTINF:0,OSN-Movies-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1542.ts
-#EXTINF:0,OSN-Movies-Festival-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1531.ts
-#EXTINF:0,OSN-Movies-Drama
-http://iptv15.zapto.org:8000/live/free4u/2015/1543.ts
-#EXTINF:0,OSN-MOVIE-PREMIER-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1534.ts
-#EXTINF:0,OSN-First-HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1536.ts
-#EXTINF:0,OSN-Discovery-Sci
-http://iptv15.zapto.org:8000/live/free4u/2015/1539.ts
-#EXTINF:0,OSN-AlYoum
-http://iptv15.zapto.org:8000/live/free4u/2015/1538.ts
-#EXTINF:0,AR-Tamazight
-http://iptv15.zapto.org:8000/live/free4u/2015/1501.ts
-#EXTINF:0,AR-SYRIA-DramaTV
-http://iptv15.zapto.org:8000/live/free4u/2015/1490.ts
-#EXTINF:0,AR-SYRIA-Aloula
-http://iptv15.zapto.org:8000/live/free4u/2015/1491.ts
-#EXTINF:0,AR-SYRIA DRAMA
-http://iptv15.zapto.org:8000/live/free4u/2015/1575.ts
-#EXTINF:0,AR-NILE SPORT
-http://iptv15.zapto.org:8000/live/free4u/2015/1578.ts
-#EXTINF:0,AR-NILE LIFE
-http://iptv15.zapto.org:8000/live/free4u/2015/1579.ts
-#EXTINF:0,AR-NILE COMEDY
-http://iptv15.zapto.org:8000/live/free4u/2015/1581.ts
-#EXTINF:0,AR-MBC 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1587.ts
-#EXTINF:0,AR-MBC 2
-http://iptv15.zapto.org:8000/live/free4u/2015/1586.ts
-#EXTINF:0,AR-MBC 3
-http://iptv15.zapto.org:8000/live/free4u/2015/1585.ts
-#EXTINF:0,AR-MBC 4
-http://iptv15.zapto.org:8000/live/free4u/2015/1584.ts
-#EXTINF:0,AR-MBC BOLLYWOOD
-http://iptv15.zapto.org:8000/live/free4u/2015/1583.ts
-#EXTINF:0,AR-CBC TV
-http://iptv15.zapto.org:8000/live/free4u/2015/1574.ts
-#EXTINF:0,AR-AL ARABIA
-http://iptv15.zapto.org:8000/live/free4u/2015/1577.ts
-#EXTINF:0,AR-PALESTINE
-http://iptv15.zapto.org:8000/live/free4u/2015/1497.ts
-#EXTINF:0,AR-Wesal
-http://iptv15.zapto.org:8000/live/free4u/2015/1612.ts
-#EXTINF:0,AR-Al-kass-3
-http://iptv15.zapto.org:8000/live/free4u/2015/1619.ts
-#EXTINF:0,AR-Noor_Dubai
-http://iptv15.zapto.org:8000/live/free4u/2015/1504.ts
-#EXTINF:0,AR-mtv-lebnan
-http://iptv15.zapto.org:8000/live/free4u/2015/1494.ts
-#EXTINF:0,AR-Mekke
-http://iptv15.zapto.org:8000/live/free4u/2015/1495.ts
-#EXTINF:0,AR-DUBAI_One
-http://iptv15.zapto.org:8000/live/free4u/2015/1517.ts
-#EXTINF:0,AR-BBC-Arabia
-http://iptv15.zapto.org:8000/live/free4u/2015/1519.ts
-#EXTINF:0,AR-Assadissa
-http://iptv15.zapto.org:8000/live/free4u/2015/1520.ts
-#EXTINF:0,AR-ANN-News
-http://iptv15.zapto.org:8000/live/free4u/2015/1496.ts
-#EXTINF:0,AR-alquds
-http://iptv15.zapto.org:8000/live/free4u/2015/1518.ts
-#EXTINF:0,AR-Al-Jazeera-Docu
-http://iptv15.zapto.org:8000/live/free4u/2015/1498.ts
-#EXTINF:0,AR_beinsport_1hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1429.ts
-#EXTINF:0,AR_beinsport_3hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1431.ts
-#EXTINF:0,AR_beinsport_5hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1433.ts
-#EXTINF:0,AR_beinsport_7hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1435.ts
-#EXTINF:0,AR_beinsport_8hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1436.ts
-#EXTINF:0,AR_beinsport_9hd
-http://iptv15.zapto.org:8000/live/free4u/2015/1437.ts
-#EXTINF:0,Bein:Sports:HD3
-http://iptv15.zapto.org:8000/live/free4u/2015/56.ts
-#EXTINF:0,BE-BeinSport-8HD
-http://iptv15.zapto.org:8000/live/free4u/2015/462.ts
-#EXTINF:0,BE-BeinSport-9HD
-http://iptv15.zapto.org:8000/live/free4u/2015/463.ts
-#EXTINF:0,Syria Drama
-http://iptv15.zapto.org:8000/live/free4u/2015/880.ts
-#EXTINF:0,Iqraatv
-http://iptv15.zapto.org:8000/live/free4u/2015/896.ts
-#EXTINF:0,Funoon TV
-http://iptv15.zapto.org:8000/live/free4u/2015/901.ts
-#EXTINF:0,TVA Sport CANADA
-http://iptv15.zapto.org:8000/live/free4u/2015/877.ts
-#EXTINF:0,QURAN TV ksa
-http://iptv15.zapto.org:8000/live/free4u/2015/891.ts
-#EXTINF:0,Ennahar TV
-http://iptv15.zapto.org:8000/live/free4u/2015/902.ts
-#EXTINF:0,El Bilad TV
-http://iptv15.zapto.org:8000/live/free4u/2015/903.ts
-#EXTINF:0,Ekhbariya TV
-http://iptv15.zapto.org:8000/live/free4u/2015/904.ts
-#EXTINF:0,AL alarabiya tv
-http://iptv15.zapto.org:8000/live/free4u/2015/913.ts
-#EXTINF:0,ajyal TV
-http://iptv15.zapto.org:8000/live/free4u/2015/914.ts
-
 
 #EXTINF:-1,[COLOR red]****************African TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -1511,6 +1159,78 @@ http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8
 #http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
 #EXTINF:0,GTV Ghana
 http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+
+#EXTM3U
+#EXTINF:-1,1 CORCAS
+http://95.81.165.21/5958/index.m3u8
+#EXTINF:-1,1STV
+http://95.81.165.21/10359/01.m3u8
+#EXTINF:-1,2STV
+http://95.81.165.21/10359/index.m3u8
+#EXTINF:-1,ADOME TV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,ADTV
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:-1,AFRICA 24
+http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8
+#EXTINF:-1,AFRICABLE
+http://162.212.176.83:8080/map-africableroku.stream.m3u8
+#EXTINF:-1,ALQURAAN
+http://162.212.176.83:8080/map-alquraan.stream.m3u8
+#EXTINF:-1,B-ONE
+http://162.212.176.83:8080/bonetv.stream.m3u8
+#EXTINF:-1,CAMPUS
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:-1,CANAL 6
+http://162.212.176.83:8080/canal6.stream.m3u8
+#EXTINF:-1,CHANNELS24
+http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
+#EXTINF:-1,CNBC Africa
+http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?
+#EXTINF:-1,CNBC AFRICA
+http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?videoId=4034050989001&lineUpId=&pubId=1571595826001&playerId=1572473874001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN 17,0,0,169&r=QLXNB&g=RKPUHWMRUXBO
+#EXTINF:-1,CRTV
+http://162.212.176.83:8080/map-crtvroku.m3u8
+#EXTINF:-1,CTV
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:-1,DIASPORA24
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
+#EXTINF:-1,Ghana Diaspora Ch
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,GHANATV
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,maisha
+http://162.212.176.83:8080/map-maisha.m3u8
+#EXTINF:-1,MAURITANIA
+http://162.212.176.83:8080/map-mauritania.m3u8
+#EXTINF:-1,MAYA TV
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:-1,NTA 24
+rtmp://78.129.189.30/edge3/NTA24/NTA24
+#EXTINF:-1,RTG
+http://162.212.176.83:8080/map-rtgroku.stream.m3u8
+#EXTINF:-1,RTGA
+http://162.212.176.83:8080/rtgatv.stream.m3u8
+#EXTINF:-1,RTI 1
+http://162.212.176.83:8080/map-rti1roku.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TELEBASICA
+http://162.212.176.83:8080/vicatv.m3u8
+#EXTINF:-1,TELECONGO
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:-1,TELESAHEL
+http://162.212.176.83:8080/map-telesahel.m3u8
+#EXTINF:-1,telesistema
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,TFM
+rtmp://78.129.189.30/edge3/RLMTBG/RLMTBG
+#EXTINF:-1,TV Africa
+http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1,TV CONTINENTAL
+rtmp://77.92.76.135:1935/tvce/livestream
+#EXTINF:-1,TVC NEWS
+rtmp://77.92.76.135:1935/tvcnews/livestream
 
 #EXTINF:-1,[COLOR red]****************Us Canada****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
