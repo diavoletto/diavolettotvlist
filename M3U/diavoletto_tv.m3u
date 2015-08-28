@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 27/08/2015 10h47*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 28/08/2015 16h47*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,7 +10,88 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1 group-title=" 9.30 e 14.00 snooker EUROPEAN TOUR FURTH (Ger) day 1 ",eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
+#EXTINF:-1 group-title=" 3.00 10.15 e 13.00 atletica PECHINO MONDIALI 7th day ",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 3.00 10.15 e 13.00 atletica PECHINO MONDIALI 7th day ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+ 
+
+#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",tv3 sport 1 ace
+acestream://783f9190794b0cf507cc0da231d280121e8f89ad
+
+#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",c more sport se
+http://188.138.9.228:8023
+ 
+
+#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+ 
+
+#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",supersport 4 al
+http://81.7.13.162/hls/ss4/index.m3u8
+ 
+
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -64,20 +145,7 @@ http://tv.online.tm/hls/ch004_md/index.m3u8
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
 #EXTINF:-1,USA-PAC 12 Oregon (HD)
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://4.31.30.159:9110
-#EXTINF:0,FOX SPORTS 2
-http://4.31.30.159:9111
-#EXTINF:0,TSN 1
-http://4.31.30.159:9082
-#EXTINF:0,TSN 2
-http://4.31.30.159:9083
-#EXTINF:0,TSN 3
-http://4.31.30.159:9084
-#EXTINF:0,TSN 4
-http://4.31.30.159:9085
-#EXTINF:0,TSN 5
-http://4.31.30.159:9086
+
 
 #EXTINF:-1,[COLOR red]****************AceStream****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
