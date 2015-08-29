@@ -10,88 +10,268 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=" 9.30 e 14.00 snooker EUROPEAN TOUR FURTH (Ger) day 1 ",eurosport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTM3U
+(by lucaucca)
 
-#EXTINF:-1 group-title=" 3.00 10.15 e 13.00 atletica PECHINO MONDIALI 7th day ",eurosport uk
+
+#EXTINF:-1 group-title=" 3.00 e 12.00 atletica PECHINO MONDIALI 8th day ",eurosport uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 3.00 10.15 e 13.00 atletica PECHINO MONDIALI 7th day ",eurosport de
+#EXTINF:-1 group-title=" 3.00 e 12.00 atletica PECHINO MONDIALI 8th day ",eurosport de
 http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",eurosport 2 uk
+
+#EXTINF:-1 group-title=" 11.15 snooker EUROPEAN TOUR FUTH (Ger) 2nd day ",eurosport 2 uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor HD tr
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",trt spor tr_2
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 13.00 EUROPA LEAGUE DRAW ",bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
- 
 
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 7 - Jodar-Capileira ",tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
- 
 
-#EXTINF:-1 group-title=" 18.00 den AGF ARHUS - ESBJERG ",tv3 sport 1 ace
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.00 eng.cha DERBY COUNTY - LEED UTD ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+
+
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",c+futbol es ace
+acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",tsn 1 ca ace
+acestream://f0be1dcc62ce52be176e96006ba2527e52707806
+#EXTINF:-1 group-title=" 13.45 eng NEWCASTLE - ARSENAL ",tsn 3 ca ace
+acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13
+
+#EXTINF:-1 group-title=" 14.00 fra2 METZ - EVIAN ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+
+#EXTINF:-1 group-title=" 15.30 ger KOLN - HAMBURG ",[COLOR green]15.30 ger KOLN - HAMBURG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 15.30 ger KOLN - HAMBURG ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1 group-title=" 15.30 ger STUTTGART - EIN.FRANKFURT ",[COLOR green]15.30 ger STUTTGART - EIN.FRANKFURT[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 15.30 ger STUTTGART - EIN.FRANKFURT ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.30 ger STUTTGART - EIN.FRANKFURT ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 15.30 ger STUTTGART - EIN.FRANKFURT ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+
+
+#EXTINF:-1 group-title=" 16.00 eng MANCHESTER CITY - WATFORD ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",c+futbol es ace
+acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",tsn 1 ca ace
+acestream://f0be1dcc62ce52be176e96006ba2527e52707806
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",tsn 3 ca ace
+acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13
+#EXTINF:-1 group-title=" 16.00 eng CHELSEA - CRYSTAL PALACE ",tsn 4 ca ace
+acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
+
+#EXTINF:-1 group-title=" 16.00 eng LIVERPOOL - WEST HAM UTD ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 16.00 eng LIVERPOOL - WEST HAM UTD ",silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+
+#EXTINF:-1 group-title=" 16.00 swe DJURGARDEN - HALMSTAD ",c more sport se
+http://188.138.9.228:8023
+
+#EXTINF:-1 group-title=" 16.00 den SONDERJYSKE - VIBORG ",tv3 sport 1 ace
 acestream://783f9190794b0cf507cc0da231d280121e8f89ad
 
-#EXTINF:-1 group-title=" 19.00 swe HAMMARBY - KALMAR ",c more sport se
-http://188.138.9.228:8023
- 
+#EXTINF:-1 group-title=" 16.00 eng.cha IPSWICH TOWN - BRIGHTON ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 16.00 eng.cha IPSWICH TOWN - BRIGHTON ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title=" 20.00 fra2 DIJON - CRETEIL ",beIN sports FR 2
-rtmp://176.10.250.166:1935/tv/stream2
- 
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia ",[COLOR green]16.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia ",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
 
-#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",digi sport 3 ro
+#EXTINF:-1 group-title=" 17.00 fra CAEN - LYON ",digi sport 3 ro
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 20.30 fra GUINGAMP - MARSEILLE ",beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1 group-title=" 17.00 fra CAEN - LYON ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",supersport 2 al
+#EXTINF:-1 group-title=" 17.15 por VIT.SETUBAL - RIO AVE ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 18.00 ita BOLOGNA - SASSUOLO ",supersport 2 al
 http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",idman tv Az
+#EXTINF:-1 group-title=" 18.00 ita BOLOGNA - SASSUOLO ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 18.00 ita BOLOGNA - SASSUOLO ",bt sport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=8 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 18.30 eng TOTTENHAM H.- EVERTON ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 18.30 eng TOTTENHAM H.- EVERTON ",c+futbol es ace
+acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729
+#EXTINF:-1 group-title=" 18.30 eng TOTTENHAM H.- EVERTON ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 18.30 eng TOTTENHAM H.- EVERTON ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+#EXTINF:-1 group-title=" 18.30 eng TOTTENHAM H.- EVERTON ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 18.30 esp REAL SOCIEDAD - SPORTING GIJON ",sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=20 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+#EXTINF:-1 group-title=" 18.30 ger BAYERN MUNCHEN - BAY.LEVERKUSEN ",idman tv Az
 http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 20.30 ger WOLFSBURG - SCHALKE 04 ",bt sport europe uk
+#EXTINF:-1 group-title=" 18.30 ger BAYERN MUNCHEN - BAY.LEVERKUSEN ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.30 ger BAYERN MUNCHEN - BAY.LEVERKUSEN ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 18.30 ger BAYERN MUNCHEN - BAY.LEVERKUSEN ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 18.30 ger BAYERN MUNCHEN - BAY.LEVERKUSEN ",bt sport europe uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",c+liga es ace
-acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",sport tv 1 pt
+#EXTINF:-1 group-title=" 19.30 por PORTO - ESTORIL ",sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.30 esp VILLAREAL - ESPANYOL ",supersport 4 al
-http://81.7.13.162/hls/ss4/index.m3u8
- 
+#EXTINF:-1 group-title=" 19.30 por PORTO - ESTORIL ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 19.30 por PORTO - ESTORIL ",silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
 
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sky sports 5 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 20.45 eng.cha BLACKBURN ROVERS - BOLTON WANDERERS ",sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar
+#EXTINF:-1 group-title=" 20.00 fra LILLE - AJACCIO ",bt sport 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.00 fra LILLE - AJACCIO ",arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",supersport 4 al
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=20 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.30 esp BARCELONA - MALAGA ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=" 20.45 ita MILAN - EMPOLI ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.45 ita MILAN - EMPOLI ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 20.45 ita MILAN - EMPOLI ",bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.45 ita MILAN - EMPOLI ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 20.45 ita MILAN - EMPOLI ",s@y sport 1 it TEST
+http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
+
+#EXTINF:-1 group-title=" 21.00 arg QUILMES - TEMPERLEY ",tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 2
+#EXTINF:-1 group-title=" 21.00 arg QUILMES - TEMPERLEY ",tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - CRUCERO DEL NORTE ",tv publica ar_opz 3
+#EXTINF:-1 group-title=" 21.00 arg QUILMES - TEMPERLEY ",tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=" 21.45 por BENFICA - MOREIRENSE ",sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 21.45 por BENFICA - MOREIRENSE ",sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 group-title=" 22.00 mls NEW YORK CITY - COLUMBUS CREW ",sky sports 5 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=50 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 22.00 esp CELTA VIGO - RAYO VALLECANO ",aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1 group-title=" 22.00 esp CELTA VIGO - RAYO VALLECANO ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+#EXTINF:-1 group-title=" 22.00 esp CELTA VIGO - RAYO VALLECANO ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=20 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 22.30 esp REAL MADRID - REAL BETIS ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1 group-title=" 23.15 arg GIMNASIA LA PLATA - BOCA JUNIORS ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.15 arg GIMNASIA LA PLATA - BOCA JUNIORS ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg GIMNASIA LA PLATA - BOCA JUNIORS ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.15 arg GIMNASIA LA PLATA - BOCA JUNIORS ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.15 arg GIMNASIA LA PLATA - BOCA JUNIORS ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=" 23.30 bra VASCO DA GAMA - FIGUEIRENSE ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=" 1.30 arg NEWELLS OLD BOYS - COLON SANTA FE ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 1.30 arg NEWELLS OLD BOYS - COLON SANTA FE ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 1.30 arg NEWELLS OLD BOYS - COLON SANTA FE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+
+#EXTINF:-1 group-title=" 2.00 bra SAO PAULO - PONTE PRETA ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
