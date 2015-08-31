@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 30/08/2015 11h14*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 31/08/2015 11h40*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -974,9 +974,70 @@ rtmp://37.187.156.238:1935/live/ playpath=live.sdp swfVfy=true live=true timeout
 #EXTINF:-1 ,TV Lux
 rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
-#EXTINF:-1,[COLOR red]****************Deutsch TV****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************French TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:-1, club1
+http://teleclub.fr/ch01.ts
+#EXTINF:-1, premiere
+http://teleclub.fr/ch02.ts
+#EXTINF:-1, cinefil
+http://teleclub.fr/ch03.ts
+#EXTINF:-1, documania
+http://teleclub.fr/ch04.ts
+#EXTINF:-1, Cinq+
+http://teleclub.fr/ch05.ts
+#EXTINF:-1, Gloubi
+http://teleclub.fr/ch06.ts
+#EXTINF:-1, MusicBox
+http://teleclub.fr/ch07.ts
+#EXTINF:-1, West
+http://teleclub.fr/ch08.ts
+#EXTINF:-1, gulli
+rtmp://frtvonline.no-ip.be/live/gullib
+#EXTINF:-1, tva
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, TeLeToOn Fr
+http://supertv.livehost.fr/toonf/4466.m3u8
+#EXTINF:-1, c+ familly
+http://178.33.88.129:888/udp/239.102.0.57:1234
+#EXTINF:-1, m6music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1, rouge tv
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1, rmc decouverte
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:-1, trace urban
+http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
+#EXTINF:-1, 6ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1, n23
+http://iptvfr.alwaysdata.net/miniproxism.php/http://stream-05.vty.dailymotion.com/06/dm/1/x13p3qi/live.isml/live.m3u8?e=1440539241&st=PbAOFN5bt9G0xi0E6PY6 Kw#cell=livev2
+#EXTINF:-1, d8
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAAdXFgeUVtRXVFZ WFQeXlVEH1kfVAhvAXAJBwMCCB9ZXlRVSG8JAABvUUYdQB5dA0 UI
+#EXTINF:-1, nt1
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAgdXFgeUVtRXVFZ WFQeXlVEH1kfXkQBbwFwCQcFAggfWV5UVUhvCQAAb1FGHUAeXQ NFCA==
+#EXTINF:-1, rts2
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAkdXFgeUVtRXVFZ WFQeXlVEH1kfQkRDAm8BcAkHBAcAH1leVFVIbwkAAG9RRh1AHl 0DRQg=
+#EXTINF:-1, tmc
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAMdXFgeUVtRXVFZ WFQeXlVEH1kfRF1TbwFwCQcDBwkfWV5UVUhvCQAAb1FGHUAeXQ NFCA==
+#EXTINF:-1, c+ decaler
+http://178.33.88.129:888/udp/239.102.0.56:1234
+#EXTINF:-1, cn
+http://178.33.88.129:888/udp/239.102.0.89:1234
+#EXTINF:-1, tf1
+http://streaming-hub.com/tv/i/tf1_1@97468/index_900_av-b.m3u8
+#EXTINF:-1, rtl9
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAIdXFgeUVtRXVFZ WFQeXlVEH1kfQkRcCW8BcAkHAwUEH1leVFVIbwkAAG9RRh1AHl 0DRQg=
+#EXTINF:-1, rts1
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAkdXFgeUVtRXVFZ WFQeXlVEH1kfQkRDAW8BcAkHBAYJH1leVFVIbwkAAG9RRh1AHl 0DRQg=
+#EXTINF:-1, w9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1, nrj12
+http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAgEdXFgeUVtRXVFZ WFQeXlVEH1kfXkJaAQJvAXABAwcHBQkfWV5UVUhvCQAAb1FGHU AeXQNFCA==
+#EXTINF:-1, m6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1, mtv
+http://178.33.88.129:888/udp/239.102.0.74:1234
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
