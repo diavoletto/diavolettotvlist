@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 02/09/2015 13h05*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 03/09/2015 10h05*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,35 +10,6 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 10 - Andorra la Vella - Cortals d Encamp ",eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 10 - Andorra la Vella - Cortals d Encamp ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 10 - Andorra la Vella - Cortals d Encamp ",tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 1st round ",eurosport 2 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 1st round ",eurosport uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 1st round ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1 group-title=" 17.45 den.cup VEJLE BK - HOBRO ",tv3 sport 1 ace
-acestream://783f9190794b0cf507cc0da231d280121e8f89ad
-
-
-#EXTINF:-1 group-title=" 0.30 bra INTERNACIONAL - VASCO DA GAMA ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-
-
-#EXTINF:-1 group-title=" 3.00 bra CORINTHIANS - FLUMINENSE ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 bra CORINTHIANS - FLUMINENSE ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 3.00 bra CORINTHIANS - FLUMINENSE ",arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -606,7 +577,146 @@ http://37.187.160.187:8000/live/ressler/skype/54.m3u8
 
 #EXTINF:-1,[COLOR red]****************Deutsch CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:-1, RTL
+rtmp://$OPT:rtmp-raw=rtmp://93.115.84.226:1935/live/ playpath=rtl.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=RTL+%28Germany%29&idtv=1502&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, SAT 1
+rtmp://68.232.37.6:1935/live/ playpath=sat1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=SAT+1+%28Germany%29&idtv=962&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, PRO 7
+rtmp://93.115.84.226:1935/live/ playpath=pro7.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ProSieben+%28Germany%29&idtv=685&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, DMAX
+rtmp://68.232.37.6:1935/live/ playpath=dmax.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=TLC+%28Germany%29&idtv=1310&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, Kabel 1
+rtmp://93.115.84.226:1935/live/ playpath=kabel1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Kabel+1+%28Germany%29&idtv=1656&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, SIXX
+rtmp://68.232.37.6:1935/live/ playpath=sixx.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Sixx+%28Germany%29&idtv=890&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1 tvg-id=”disneychannel.de” tvg-logo=”disneychannel.png”, DISNEY CHANNEL
+http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-id=”AnixeHD.de” tvg-logo=”anixesd.png”, ANIXE
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
+#EXTINF:-1, ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1, ORF Eins
+rtmp://68.232.37.6:1935/live/ playpath=orf1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ORF+Eins+%28Austria%29&idtv=898&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1, ORF 2
+rtmp://68.232.37.6:1935/live/ playpath=orf2.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ORF+Sport+Plus+%28Germany%29&idtv=1030&TVSESS=79c599fca55625978118f3ae865e86d9
+#EXTINF:-1,ALEX TV 1024*576
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
+#EXTINF:0,Rfhv De
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:0,Elbe Kanal De
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1,Tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Wel der Wunder TV
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#EXTINF:-1,Das Neue TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+#EXTINF:-1,Family TV
+http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
+#EXTINF:-1,Alex Berlin^
+http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
+#EXTINF:-1, Das Neue TV
+http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
+#EXTINF:-1,Deutsches Anlegerfernsehen
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
+#EXTINF:-1,Muenchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
+#EXTINF:-1,ORF Zwei (Austria)
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF Drei (Austria)
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ORF Sport + (Austria)
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1, Telebarn
+http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
+#EXTINF:-1,OKTO (Austria)
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-high.stream/chunklist_w2017128230.m3u8
+#EXTINF:-1,Austria 24 De
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1,Euronews De
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1,Juwelo De
+rtmp://85.214.72.27/juwelo_hd/live_DE1
+#EXTINF:-1,RAN 1 Dessau De
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:-1,TV Aktuell De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
+#EXTINF:-1,TV Oberfranken De
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+#EXTINF:-1,TV Touring Schweinfurt De
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
+#EXTINF:-0,TV Touring Würzburg De
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+#EXTINF:-1,Tva De
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+#EXTINF:-1,Ok Stendal De
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Ran 1 De
+rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
+#EXTINF:-1,Rwb De
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:-1 group-title=”BUSSINESS”,BUSINESS TV GERMANY
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃƒâ€š
+#EXTINF:-1 group-title=”EUROPE”,ALEX-BERLIN GERMANY
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8
+#EXTINF:-1 group-title=”EUROPE”,BADEN TV GERMANY
+rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
+#EXTINF:-1 group-title=”EUROPE”,DRESDEN FEMSEHEN GERMANY
+rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
+#EXTINF:-1 group-title=”EUROPE”,Filstalwelle GERMANY
+rtmp://62.113.210.27/filstalwelle-live/livestream
+#EXTINF:-1 group-title=”EUROPE”,HT1 GERMANY
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
+#EXTINF:-1 group-title=”EUROPE”,Juwelo TV GERMANY
+rtmp://85.214.107.68/juwelo_hd/live_DE1
+#EXTINF:-1 group-title=”EUROPE”,Kabbalah TV GERMANY
+mms://vod.kab.tv/ger
+#EXTINF:-1 group-title=”EUROPE”,Leipzig TV GERMANY
+rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
+#EXTINF:-1 group-title=”EUROPE”,Light Channel TV GERMANY
+rtsp://streamer1.streamhost.org:1935/salive/lctvde
+#EXTINF:-1 group-title=”EUROPE”,LT – TV Baden Wuerttemberg GERMANY
+rtmp://62.113.210.105/ltv-live/livestream
+#EXTINF:-1 group-title=”EUROPE”,München TV GERMANY
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
+#EXTINF:-1 group-title=”EUROPE”,Mühlviertel TV AU GERMANY
+mms://wmsstream22.v4.mytv.ris.at/live/stream_149
+#EXTINF:-1 group-title=”EUROPE”,N24 GERMANY
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
+#EXTINF:-1 group-title=”EUROPE”,NOA4 Hamburg GERMANY
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
+#EXTINF:-1 group-title=”EUROPE”,NOA4 Norderstedt GERMANY
+mmsh://wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
+#EXTINF:-1 group-title=”EUROPE”,OK Salzwedel GERMANY
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:-1 group-title=”EUROPE”,OKTO TV GERMANY
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/sat_total.m3u8
+#EXTINF:-1 group-title=”EUROPE”,QVC GERMANY
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 group-title=”EUROPE”,RAN 1 Dessau GERMANY
+rtmp://62.113.210.250/medienasa-live/ran1_high
+#EXTINF:-1 group-title=”EUROPE”,RBW GERMANY
+rtmp://62.113.210.250/medienasa-live/rbw_high
+#EXTINF:-1 group-title=”EUROPE”,RFH TV GERMANY
+rtmp://62.113.210.250/medienasa-live/RFH_high
+#EXTINF:-1 group-title=”EUROPE”,Swamiji TV GERMANY
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+#EXTINF:-1 group-title=”EUROPE”,TELE BASEL GERMANY
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
+#EXTINF:-1 group-title=”EUROPE”,TELEBARN GERMANY
+http://rtmp.infomaniak.ch/livecast/barntele/SAT_TOTAL.m3u8
+#EXTINF:-1 group-title=”EUROPE”,TV AKTUELL GERMANY
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+#EXTINF:-1 group-title=”EUROPE”,TVA OSTBAYERN GERMANY
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1,Deutsche Welle (Asia)
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,Deutsche Welle (Europa)
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+#EXTINF:-1,Deutsche Welle (L.A)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,Deutsche Welle (U.S.A)
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
 #EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -689,221 +799,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=
 #EXTINF:0,TRT SPOR
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on
 
-
-#EXTINF:-1,[COLOR red]****************Stalker Channel****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,FOX 
-http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
-#EXTINF:-1,FOX HD 
-http://stalker.darkuzdev.cf:8080/streamer/86.m3u8
-#EXTINF:-1,Sony 
-http://stalker.darkuzdev.cf:8080/streamer/89.m3u8
-#EXTINF:-1,Warner HD 
-http://stalker.darkuzdev.cf:8080/streamer/93.m3u8
-#EXTINF:-1,Universal 
-http://stalker.darkuzdev.cf:8080/streamer/97.m3u8
-#EXTINF:-1,FX HD 
-http://stalker.darkuzdev.cf:8080/streamer/101.m3u8
-#EXTINF:-1,A&E 
-http://stalker.darkuzdev.cf:8080/streamer/105.m3u8
-#EXTINF:-1,AXN HD 
-http://stalker.darkuzdev.cf:8080/streamer/109.m3u8
-#EXTINF:-1,TRUE HD 
-http://stalker.darkuzdev.cf:8080/streamer/113.m3u8
-#EXTINF:-1,COMEDY HD 
-http://stalker.darkuzdev.cf:8080/streamer/117.m3u8
-#EXTINF:-1,UNICABLE HD 
-http://stalker.darkuzdev.cf:8080/streamer/121.m3u8
-#EXTINF:-1,FOX HD 
-http://stalker.darkuzdev.cf:8080/streamer/125.m3u8
-#EXTINF:-1,BBC HD 
-http://stalker.darkuzdev.cf:8080/streamer/129.m3u8
-#EXTINF:-1,BBC HD 
-http://stalker.darkuzdev.cf:8080/streamer/130.m3u8
-#EXTINF:-1,E! HD 
-http://stalker.darkuzdev.cf:8080/streamer/134.m3u8
-#EXTINF:-1,UNIVERSAL 
-http://stalker.darkuzdev.cf:8080/streamer/137.m3u8
-#EXTINF:-1,SYFY HD 
-http://stalker.darkuzdev.cf:8080/streamer/141.m3u8
-#EXTINF:-1,FX HD 
-http://stalker.darkuzdev.cf:8080/streamer/145.m3u8
-#EXTINF:-1,I+D 
-http://stalker.darkuzdev.cf:8080/streamer/153.m3u8
-#EXTINF:-1,INFINITO 
-http://stalker.darkuzdev.cf:8080/streamer/157.m3u8
-#EXTINF:-1,GOURMET 
-http://stalker.darkuzdev.cf:8080/streamer/161.m3u8
-#EXTINF:-1,GLITZ 
-http://stalker.darkuzdev.cf:8080/streamer/165.m3u8
-#EXTINF:-1,FOX LIFE 
-http://stalker.darkuzdev.cf:8080/streamer/169.m3u8
-#EXTINF:-1,DISTRITO
-http://stalker.darkuzdev.cf:8080/streamer/173.m3u8
-#EXTINF:-1,TBS 
-http://stalker.darkuzdev.cf:8080/streamer/177.m3u8
-#EXTINF:-1,CASA 
-http://stalker.darkuzdev.cf:8080/streamer/181.m3u8
-#EXTINF:-1,TVNOVELAS 
-http://stalker.darkuzdev.cf:8080/streamer/185.m3u8
-#EXTINF:-1,HTV 
-http://stalker.darkuzdev.cf:8080/streamer/473.m3u8
-#EXTINF:-1,Discovery kids 
-http://stalker.darkuzdev.cf:8080/streamer/193.m3u8
-#EXTINF:-1,Babies 
-http://stalker.darkuzdev.cf:8080/streamer/197.m3u8
-#EXTINF:-1,Disney Junior 
-http://stalker.darkuzdev.cf:8080/streamer/201.m3u8
-#EXTINF:-1,Nick Jr 
-http://stalker.darkuzdev.cf:8080/streamer/205.m3u8
-#EXTINF:-1,DISNEY XD hd
-http://stalker.darkuzdev.cf:8080/streamer/209.m3u8
-#EXTINF:-1,Nick HD 
-http://stalker.darkuzdev.cf:8080/streamer/213.m3u8
-#EXTINF:-1,Nick 
-http://stalker.darkuzdev.cf:8080/streamer/217.m3u8
-#EXTINF:-1,Cartoon Network 
-http://stalker.darkuzdev.cf:8080/streamer/221.m3u8
-#EXTINF:-1,XD 
-http://stalker.darkuzdev.cf:8080/streamer/225.m3u8
-#EXTINF:-1,Boomerang 
-http://stalker.darkuzdev.cf:8080/streamer/229.m3u8
-#EXTINF:-1,TIIN 
-http://stalker.darkuzdev.cf:8080/streamer/233.m3u8
-#EXTINF:-1,Tooncast 
-http://stalker.darkuzdev.cf:8080/streamer/237.m3u8
-#EXTINF:-1,NICK TOONS 
-http://stalker.darkuzdev.cf:8080/streamer/469.m3u8
-#EXTINF:-1,Theater HD 
-http://stalker.darkuzdev.cf:8080/streamer/241.m3u8
-#EXTINF:-1,f Discovery 
-http://stalker.darkuzdev.cf:8080/streamer/257.m3u8
-#EXTINF:-1,History HD 
-http://stalker.darkuzdev.cf:8080/streamer/245.m3u8
-#EXTINF:-1,Nat Geo Wild 
-http://stalker.darkuzdev.cf:8080/streamer/249.m3u8
-#EXTINF:-1,TLC 
-http://stalker.darkuzdev.cf:8080/streamer/253.m3u8
-#EXTINF:-1,Animal Planet 
-http://stalker.darkuzdev.cf:8080/streamer/261.m3u8
-#EXTINF:-1,Home and Health 
-http://stalker.darkuzdev.cf:8080/streamer/265.m3u8
-#EXTINF:-1,Nat Geo 
-http://stalker.darkuzdev.cf:8080/streamer/269.m3u8
-#EXTINF:-1,BIO 
-http://stalker.darkuzdev.cf:8080/streamer/273.m3u8
-#EXTINF:-1,SCI 
-http://stalker.darkuzdev.cf:8080/streamer/277.m3u8
-#EXTINF:-1,CIVILIZATION 
-http://stalker.darkuzdev.cf:8080/streamer/281.m3u8
-#EXTINF:-1,TURBO 
-http://stalker.darkuzdev.cf:8080/streamer/285.m3u8
-#EXTINF:-1,TLC 
-http://stalker.darkuzdev.cf:8080/streamer/289.m3u8
-#EXTINF:-1,WOBI 
-http://stalker.darkuzdev.cf:8080/streamer/293.m3u8
-#EXTINF:-1,FOX HD 
-http://stalker.darkuzdev.cf:8080/streamer/297.m3u8
-#EXTINF:-1,FOX+ Accion 
-http://stalker.darkuzdev.cf:8080/streamer/301.m3u8
-#EXTINF:-1,FOX+ Hollywood 
-http://stalker.darkuzdev.cf:8080/streamer/305.m3u8
-#EXTINF:-1,CINECANL HD 
-http://stalker.darkuzdev.cf:8080/streamer/309.m3u8
-#EXTINF:-1,TNT HD 
-http://stalker.darkuzdev.cf:8080/streamer/313.m3u8
-#EXTINF:-1,GOLDEN HD 
-http://stalker.darkuzdev.cf:8080/streamer/317.m3u8
-#EXTINF:-1,FILMZONE HD 
-http://stalker.darkuzdev.cf:8080/streamer/321.m3u8
-#EXTINF:-1,DE PELICULA HD 
-http://stalker.darkuzdev.cf:8080/streamer/325.m3u8
-#EXTINF:-1,MGM HD 
-http://stalker.darkuzdev.cf:8080/streamer/329.m3u8
-#EXTINF:-1,SPACE HD 
-http://stalker.darkuzdev.cf:8080/streamer/333.m3u8
-#EXTINF:-1,FOX+ MUNDO
-http://stalker.darkuzdev.cf:8080/streamer/337.m3u8
-#EXTINF:-1,FOX+ FAMILY 
-http://stalker.darkuzdev.cf:8080/streamer/341.m3u8
-#EXTINF:-1,CINECANAL 
-http://stalker.darkuzdev.cf:8080/streamer/349.m3u8
-#EXTINF:-1,CINEMAX 
-http://stalker.darkuzdev.cf:8080/streamer/353.m3u8
-#EXTINF:-1,TNT 
-http://stalker.darkuzdev.cf:8080/streamer/357.m3u8
-#EXTINF:-1,EDGE 
-http://stalker.darkuzdev.cf:8080/streamer/361.m3u8
-#EXTINF:-1,MGM 
-http://stalker.darkuzdev.cf:8080/streamer/365.m3u8
-#EXTINF:-1,AMC 
-http://stalker.darkuzdev.cf:8080/streamer/368.m3u8
-#EXTINF:-1,SPACE 
-http://stalker.darkuzdev.cf:8080/streamer/369.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL 
-http://stalker.darkuzdev.cf:8080/streamer/373.m3u8
-#EXTINF:-1,ISAT 
-http://stalker.darkuzdev.cf:8080/streamer/377.m3u8
-#EXTINF:-1,TCM 
-http://stalker.darkuzdev.cf:8080/streamer/381.m3u8
-#EXTINF:-1,ESPN HD 
-http://stalker.darkuzdev.cf:8080/streamer/389.m3u8
-#EXTINF:-1,ESPN 
-http://stalker.darkuzdev.cf:8080/streamer/405.m3u8
-#EXTINF:-1,ESPN 2 
-http://stalker.darkuzdev.cf:8080/streamer/409.m3u8
-#EXTINF:-1,ESPN 3 
-http://stalker.darkuzdev.cf:8080/streamer/393.m3u8
-#EXTINF:-1,FOX SPORT 
-http://stalker.darkuzdev.cf:8080/streamer/397.m3u8
-#EXTINF:-1,FOX SPORT 2 
-http://stalker.darkuzdev.cf:8080/streamer/401.m3u8
-#EXTINF:-1,MTV LIVE 
-http://stalker.darkuzdev.cf:8080/streamer/429.m3u8
-#EXTINF:-1,TELEHIT HD 
-http://stalker.darkuzdev.cf:8080/streamer/433.m3u8
-#EXTINF:-1,VH1 HD
-http://stalker.darkuzdev.cf:8080/streamer/437.m3u8
-#EXTINF:-1,MTV 
-http://stalker.darkuzdev.cf:8080/streamer/441.m3u8
-#EXTINF:-1,RITMOSON 
-http://stalker.darkuzdev.cf:8080/streamer/445.m3u8
-#EXTINF:-1,BANDAMAX 
-http://stalker.darkuzdev.cf:8080/streamer/449.m3u8
-#EXTINF:-1,MILENIO 
-http://stalker.darkuzdev.cf:8080/streamer/417.m3u8
-#EXTINF:-1,TVE 
-http://stalker.darkuzdev.cf:8080/streamer/421.m3u8
-#EXTINF:-1,BLOOMERG 
-http://stalker.darkuzdev.cf:8080/streamer/461.m3u8
-#EXTINF:-1,STV 
-http://stalker.darkuzdev.cf:8080/streamer/77.m3u8
-#EXTINF:-1,Azteca Noticias 
-http://stalker.darkuzdev.cf:8080/streamer/1.m3u8
-#EXTINF:-1,Azteca 7 
-http://stalker.darkuzdev.cf:8080/streamer/5.m3u8
-#EXTINF:-1,Novelas 
-http://stalker.darkuzdev.cf:8080/streamer/9.m3u8
-#EXTINF:-1,Azteca 7 HD 
-http://stalker.darkuzdev.cf:8080/streamer/13.m3u8
-#EXTINF:-1,Trece HD 
-http://stalker.darkuzdev.cf:8080/streamer/17.m3u8
-#EXTINF:-1,40 HD 
-http://stalker.darkuzdev.cf:8080/streamer/21.m3u8
-#EXTINF:-1,Canal 2 HD 
-http://stalker.darkuzdev.cf:8080/streamer/33.m3u8
-#EXTINF:-1,Canal 5 HD 
-http://stalker.darkuzdev.cf:8080/streamer/37.m3u8
-#EXTINF:-1,Canal 2 
-http://stalker.darkuzdev.cf:8080/streamer/41.m3u8
-#EXTINF:-1,Foro TV 
-http://stalker.darkuzdev.cf:8080/streamer/45.m3u8
-#EXTINF:-1,Once TV 
-http://stalker.darkuzdev.cf:8080/streamer/61.m3u8
-#EXTINF:-1,Cadena 3 
-http://stalker.darkuzdev.cf:8080/streamer/73.m3u8
-#EXTINF:-1,Formula 
-http://stalker.darkuzdev.cf:8080/streamer/82.m3u8
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
