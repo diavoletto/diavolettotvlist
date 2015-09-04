@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 03/09/2015 10h05*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 04/09/2015 15h40*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,28 +10,129 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTM3U
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 13 - Calatayud-Tarazona ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 13 - Calatayud-Tarazona ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+ 
+
+#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 2st round ",eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",1 tv georgia
+http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",s@y sport 1 it TEST
+http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
+ 
+
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",rtl de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rtl_1@97459/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",ictimai tv Az
+http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",supersport 4 al
+http://balkanstream.com/stream/supersport4/mip001/25hsK6Sa9l
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",s@y sport 1 it TEST
+http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",tf1 fr
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/tf1_1@97468/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",rtp1 pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",show tv tr
+http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
+#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",rtp1 pt_opz 2
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rts1 serbia
+http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rtrs sr
+http://www.nasatv.eu:80/live?channelId=55&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",supersport 3 al
+http://balkanstream.com/stream/supersport3/mip001/25hsK6Sa9l
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rts1 serbia
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rtrs sr
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual HUNGARY - ROMANIA ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual HUNGARY - ROMANIA ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 20.45 eur.2016.qual FAROE ISLANDS - NORTHERN IRELAND ",digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+ 
+
+#EXTINF:-1 group-title=" 21.30 world.cup.qual ST.VINCENT - ARUBA ",arena sport 4 sr
+http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 22.15 world.cup.qual GRENADA - HAITI ",[COLOR green]22.15 world.cup.qual GRENADA - HAITI[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 22.15 world.cup.qual GRENADA - HAITI ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 0.00 friendly VENEZUELA - HONDURAS ",arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+ 
+
+#EXTINF:-1 group-title=" 1.05 friendly USA - PERU ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+ 
+
+#EXTINF:-1 group-title=" 1.05 world.cup.qual CURACAO - EL SALVADOR ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+#EXTINF:-1 group-title=" 2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA ",[COLOR green]2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 2.30 friendly ARGENTINA - BOLIVIA ",arena sport 2 sr
+http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
+ 
+
+#EXTINF:-1 group-title=" 3.00 world.cup.qual JAMAICA - NICARAGUA ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
+
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,CANAL LIGA HD
-http://test1258:test1258@tdt.mine.nu:8000/45.ch
-#EXTINF:-1,C+ LIGA
-http://test1258:test1258@tdt.mine.nu:8000/46.ch
-#EXTINF:-1,CANAL LIGA 2
-http://test1258:test1258@tdt.mine.nu:8000/47.ch
-#EXTINF:-1,C+ FUTBOL
-http://test1258:test1258@tdt.mine.nu:8000/48.ch
-#EXTINF:-1,C+ DEPORTE
-http://test1258:test1258@tdt.mine.nu:8000/49.ch
-#EXTINF:-1,CANAL + DEPORTES 2
-http://test1258:test1258@tdt.mine.nu:8000/50.ch
-#EXTINF:-1,EUROSPORT-ES
-http://test1258:test1258@tdt.mine.nu:8000/52.ch
-#EXTINF:-1,EUROSPORT2 ESP
-http://test1258:test1258@tdt.mine.nu:8000/53.ch
-#EXTINF:-1,TDP HD
-http://test1258:test1258@tdt.mine.nu:8000/54.ch
-
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:0,BEIN USA 2
@@ -433,6 +534,8 @@ http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,Canal 7 T-K
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+
 
 
 #EXTINF:-1,[COLOR red]****************UK IPTV CHANNEL****************[/COLOR]
@@ -1340,231 +1443,6 @@ rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
 #EXTINF:-1,Animaux 720P
 rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
 
-
-#EXTINF:-1,[COLOR red]****************Asian Mix Channel****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,MediaCorp 5
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8?
-
-#EXTINF:-1,MediaCorp 8
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8?
-
-#EXTINF:-1,SURIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8?
-
-#EXTINF:-1,CHANNEL U
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8?
-
-#EXTINF:-1,OKTO
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8?
-
-#EXTINF:-1,NEWS ASIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
-
-#EXTINF:-1,VASANTHAM
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
-#EXTINF:-1,TV1
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
-
-#EXTINF:-1,TV2
-http://d2n93xl5jpu7ax.cloudfront.net/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
-
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
-
-#EXTINF:-1,TV3
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master002.m3u8
-
-http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
-
-#EXTINF:-1,NTV7
-http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
-
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
-
-#EXTINF:-1,8TV
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
-
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-
-#EXTINF:-1,TV9
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master002.m3u8
-#EXTINF:-1,CINEMAX
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
-
-#EXTINF:-1,HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-
-#EXTINF:-1,AXN HD
-http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-
-#EXTINF:-1,Star Movies HD
-http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
-#EXTINF:-1,NHK WORLD
-http://edge.nim.mivo.tv/kqcsmbqna6yg/nhkworld_all/playlist.m3u8
-#EXTINF:-1,NHK WORLD (MIVO TV)
-http://edge.nim.mivo.tv/kqcsmbqna6yg/nhkworld_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDE1ICAzOjQxOjUzIEFNJmhhc2hfdmFsdWU9SG90c3pvdXo5VjNvRXlWejY0dVl5Zz09JnZhbGlkbWludXRlcz0yMA ==
-#EXTINF:-1,Russia Today (GLOBAL)
-http://sat1liveios-i.akamaihd.net/hls/live/205904/ios/rtlive/master002.m3u8
-#EXTINF:-1,FRANCE 24 (EN) HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,France 24 (FR) HD
-http://162.212.176.83:8080/map-france24roku.stream.m3u8
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,iNews (Israel)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-#EXTINF:-1,EuroNews English
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:-1,EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
-#EXTINF:-1,ALAZEERA ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:-1,ALAZEERA (Documentary)
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,BLOOMBERG (USA)
-http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:-1,DW (USA)
-http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
-#EXTINF:-1,DW (Middle East)
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,DW (Asia)
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,DW (Europe)
-http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
-#EXTINF:-1,DW (Latino America)
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1,CCTV News
-http://origin2.live.web.tv.streamprovider.net/streams/877ba7a57aa68fd898b838f58d51a69f/index.m3u8
-#EXTINF:-1,WFTV (USA)
-http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
-#EXTINF:-1,ANTENA3 HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,La Sexsta HD (Spanish)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,LDPR HD-Ru
-http://213.247.198.250:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1,American Chinese
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
-
-#EXTINF:-1,China Film
-http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
-
-#EXTINF:-1,Kirin live
-http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/kylinlive/as/live/kylinlive_4.m3u8
-
-#EXTINF:-1,Kirin Arts
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/varietyhd/as/live/varietyhd_4.m3u8
-
-#EXTINF:-1,Kirin children
-http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
-
-#EXTINF:-1,Travel Channel
-http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/as/live/traveltv_4.m3u8
-
-#EXTINF:-1,Southern TV
-http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/tvs/as/live/tvs_4.m3u8
-
-#EXTINF:-1,Xiamen TV
-http://ktv010.cdnak.ds.kylintv.net/nlds/kylin/xmtv/as/live/xmtv_4.m3u8
-
-#EXTINF:-1,Hunan International
-http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
-
-#EXTINF:-1,Henan International
-http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/henantv/as/live/henantv_4.m3u8
-
-#EXTINF:-1,Tianjin International
-http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
-
-#EXTINF:-1,Anhui International
-http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/ahtv/as/live/ahtv_4.m3u8
-
-#EXTINF:-1,Chongqing International
-http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/cqtvi/as/live/cqtvi_4.m3u8
-
-#EXTINF:-1,First Financial
-http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_4.m3u8
-
-#EXTINF:-1,Sichuan International
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/sctv/as/live/sctv_4.m3u8
-
-#EXTINF:-1,Shandong International
-http://ktv045.cdnak.ds.kylintv.net/nlds/kylin/sdtvi/as/live/sdtvi_4.m3u8
-
-#EXTINF:-1,Phoenix IT
-http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
-
-#EXTINF:-1,Phoenix Hong Kong
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
-
-#EXTINF:-1,Phoenix Americas
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/pxna/as/live/pxna_4.m3u8
-
-#EXTINF:-1,Chinese television
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
-
-#EXTINF:-1,Chinese television
-http://ktv026.cdnak.ds.kylintv.net/nlds/kylin/cathaytv/as/live/cathaytv_4.m3u8
-
-#EXTINF:-1,The Hong Kong and Taiwan
-http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8
-
-#EXTINF:-1,Air classroom
-http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/clcchannel/as/live/clcchannel_4.m3u8
-
-#EXTINF:-1,Kirin children
-http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/kids/as/live/kids_4.m3u8
-
-#EXTINF:-1,Kirin fashion
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
-
-#EXTINF:-1,Kunlun theater
-http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
-
-#EXTINF:-1,Yangtze River Theatre
-http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
-
-#EXTINF:-1,Tianjin TV
-http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
-
-#EXTINF:-1,Zhejiang TV
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
-
-#EXTINF:-1,Shenzhen Satellite TV
-http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
-
-#EXTINF:-1,Shandong TV
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd_4.m3u8
-
-#EXTINF:-1,Beijing TV
-http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
-
-#EXTINF:-1,Eastern sure
-http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
-
-#EXTINF:-1,TTV America
-http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
-
-#EXTINF:-1,ICN International TV
-http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
-
-#EXTINF:-1,Eastern TV
-http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
-
-#EXTINF:-1,Love
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
-
-#EXTINF:-1,Room TV
-http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
-
-#EXTINF:-1,Good News 2
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
-
-#EXTINF:-1,China Tibetan TV
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/hztv/as/live/hztv_4.m3u8
-
-#EXTINF:-1,Kirin fashion
-http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/leisure/as/live/leisure_4.m3u8
 
 #EXTINF:-1,[COLOR red]****************ADULT ONLY****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
