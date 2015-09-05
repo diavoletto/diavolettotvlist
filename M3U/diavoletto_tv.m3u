@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 04/09/2015 15h40*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 05/09/2015 12h58*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -10,129 +10,145 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport Events****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 13 - Calatayud-Tarazona ",eurosport de
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 14 – Vitoria – Alto Campoo. Fuente del Chivo “,eurosport uk
+http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 14 – Vitoria – Alto Campoo. Fuente del Chivo “,eurosport de
 http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 13 - Calatayud-Tarazona ",tve1 es
+#EXTINF:-1 group-title=” 16.00 cycling VUELTA A ESPANA – etapa 14 – Vitoria – Alto Campoo. Fuente del Chivo “,tve1 es
 http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
- 
 
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 2st round ",eurosport de
+#EXTINF:-1 group-title=” 17.00-4.00 tennis US OPEN 3rd round “,eurosport de
 http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 17.00-4.00 tennis US OPEN 3rd round “,eurosport uk
+http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=” 17.00-4.00 tennis US OPEN 3rd round “,eurosport 2 uk
+http://www.nasatv.eu:80/live?channelId=43&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",idman tv Az
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",1 tv georgia
-http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",digi sport 3 ro
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual UKRAINE – BELARUS “,digi sport 3 ro
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual GEORGIA - SCOTLAND ",s@y sport 1 it TEST
-http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
- 
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",rtl de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rtl_1@97459/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",ictimai tv Az
-http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",supersport 4 al
-http://balkanstream.com/stream/supersport4/mip001/25hsK6Sa9l
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",s@y sport 1 it TEST
-http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual GERMANY - POLAND ",sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",tf1 fr
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/tf1_1@97468/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",show tv tr
-http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
-#EXTINF:-1 group-title=" 20.45 friendly PORTUGAL - FRANCE ",rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rts1 serbia
-http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rtrs sr
-http://www.nasatv.eu:80/live?channelId=55&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",supersport 3 al
-http://balkanstream.com/stream/supersport3/mip001/25hsK6Sa9l
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rts1 serbia
-http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SERBIA - ARMENIA ",rtrs sr
-http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual HUNGARY - ROMANIA ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual HUNGARY - ROMANIA ",sportklub 3 sr
-http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
- 
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual DENMARK - ALBANIA ",sportklub 2 sr
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual UKRAINE – BELARUS “,sportklub 2 sr
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
- 
 
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual FAROE ISLANDS - NORTHERN IRELAND ",digi sport 1 ro
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual ESTONIA – LITHUANIA “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,itv 1 uk
+http://www.nasatv.eu:80/live?channelId=132&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual SAN MARINO – ENGLAND “,sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8?token=RmJ773HrhrbFVliIfgWYyufCKfQGCkfg8GzuwyEhdy71-Q6lR0URbKRGIcmc-aSojPP43Cdru03IaC_S5e2YzA**
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,haberturk tr
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,digi sport 1 ro
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
- 
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,orf 1 at
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=” 18.00 eur.2016.qual RUSSIA – SWEDEN “,sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1 group-title=" 21.30 world.cup.qual ST.VINCENT - ARUBA ",arena sport 4 sr
-http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
- 
-#EXTINF:-1 group-title=" 22.15 world.cup.qual GRENADA - HAITI ",[COLOR green]22.15 world.cup.qual GRENADA - HAITI[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 22.15 world.cup.qual GRENADA - HAITI ",arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
- 
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,idman tv Az_opz 2
+http://bak01-edge03.itdc.ge/idman/index.m3u8?token=RmJ773HrhrbFVliIfgWYyufCKfQGCkfg8GzuwyEhdy71-Q6lR0URbKRGIcmc-aSojPP43Cdru03IaC_S5e2YzA**
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,rtl nitro de
+http://212.79.96.134:8026
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SPAIN – SLOVAKIA “,sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1 group-title=" 0.00 friendly VENEZUELA - HONDURAS ",arena sport 2 sr
-http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
- 
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual MONTENEGRO – LIECHTENSTEIN “,digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual MONTENEGRO – LIECHTENSTEIN “,rtcg montenegro
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
 
-#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual AUSTRIA – MOLDOVA “,orf 1 at
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual AUSTRIA – MOLDOVA “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,rsi la 2 ch
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,rts2 ch
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,srf 2 ch
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,ictimai tv Az
+http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,supersport 3 al
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title=” 20.45 eur.2016.qual SWITZERLAND – SLOVENIA “,sportklub 2 sr
+http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
+
+#EXTINF:-1 group-title=” 21.45 arg ROSARIO CENTRAL – ARSENAL SARANDI “,tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar_opz 2
+#EXTINF:-1 group-title=” 21.45 arg ROSARIO CENTRAL – ARSENAL SARANDI “,tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 0.10 arg BANFIELD - ARGENTINOS JRS ",tv publica ar_opz 3
+#EXTINF:-1 group-title=” 21.45 arg ROSARIO CENTRAL – ARSENAL SARANDI “,tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
- 
 
-#EXTINF:-1 group-title=" 1.05 friendly USA - PERU ",beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream3
- 
-
-#EXTINF:-1 group-title=" 1.05 world.cup.qual CURACAO - EL SALVADOR ",arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
- 
-#EXTINF:-1 group-title=" 2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA ",[COLOR green]2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.05 world.cup.qual ANTIGUA e BARBUDA - GUATEMALA ",arena sport 3 sr
+#EXTINF:-1 group-title=” 22.00 friendly BRASIL – COSTARICA “,gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=” 22.00 friendly BRASIL – COSTARICA “,gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 22.00 friendly BRASIL – COSTARICA “,arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
- 
 
-#EXTINF:-1 group-title=" 2.30 friendly ARGENTINA - BOLIVIA ",arena sport 2 sr
-http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
- 
+#EXTINF:-1 group-title=” 23.00 friendly CHILE – PARAGUAY “,sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 3.00 world.cup.qual JAMAICA - NICARAGUA ",arena sport 1 sr
+#EXTINF:-1 group-title=” 0.00 arg DEFENSA Y JUSTICIA – NEWELLS OLD BOYS “,sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 0.00 arg DEFENSA Y JUSTICIA – NEWELLS OLD BOYS “,tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=” 0.00 arg DEFENSA Y JUSTICIA – NEWELLS OLD BOYS “,tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=” 0.00 arg DEFENSA Y JUSTICIA – NEWELLS OLD BOYS “,tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+#EXTINF:-1 group-title=” 0.30 bra SAO PAULO – INTERNACIONAL “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 0.30 bra SAO PAULO – INTERNACIONAL “,digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1 group-title=” 0.30 bra SAO PAULO – INTERNACIONAL “,arena sport 1 sr
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
-
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0,Sport TV 1
+http://satznt.mine.nu:7002/sptv1
+#EXTINF:0,Sport TV 2
+http://satznt.mine.nu:7003/sptv2
+#EXTINF:0,Sport TV 3
+http://satznt.mine.nu:7003/sptv3
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:0,BEIN USA 2
@@ -1076,68 +1092,75 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
 #EXTINF:-1,[COLOR red]****************French TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, club1
-http://teleclub.fr/ch01.ts
-#EXTINF:-1, premiere
-http://teleclub.fr/ch02.ts
-#EXTINF:-1, cinefil
-http://teleclub.fr/ch03.ts
-#EXTINF:-1, documania
-http://teleclub.fr/ch04.ts
-#EXTINF:-1, Cinq+
-http://teleclub.fr/ch05.ts
-#EXTINF:-1, Gloubi
-http://teleclub.fr/ch06.ts
-#EXTINF:-1, MusicBox
-http://teleclub.fr/ch07.ts
-#EXTINF:-1, West
-http://teleclub.fr/ch08.ts
-#EXTINF:-1, gulli
-rtmp://frtvonline.no-ip.be/live/gullib
-#EXTINF:-1, tva
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, TeLeToOn Fr
-http://supertv.livehost.fr/toonf/4466.m3u8
-#EXTINF:-1, c+ familly
-http://178.33.88.129:888/udp/239.102.0.57:1234
-#EXTINF:-1, m6music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1, rouge tv
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1, rmc decouverte
-http://streaming-hub.com/stream/rmc.m3u8
-#EXTINF:-1, trace urban
-http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
-#EXTINF:-1, 6ter
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
-#EXTINF:-1, n23
-http://iptvfr.alwaysdata.net/miniproxism.php/http://stream-05.vty.dailymotion.com/06/dm/1/x13p3qi/live.isml/live.m3u8?e=1440539241&st=PbAOFN5bt9G0xi0E6PY6 Kw#cell=livev2
-#EXTINF:-1, d8
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAAdXFgeUVtRXVFZ WFQeXlVEH1kfVAhvAXAJBwMCCB9ZXlRVSG8JAABvUUYdQB5dA0 UI
-#EXTINF:-1, nt1
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAgdXFgeUVtRXVFZ WFQeXlVEH1kfXkQBbwFwCQcFAggfWV5UVUhvCQAAb1FGHUAeXQ NFCA==
-#EXTINF:-1, rts2
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAkdXFgeUVtRXVFZ WFQeXlVEH1kfQkRDAm8BcAkHBAcAH1leVFVIbwkAAG9RRh1AHl 0DRQg=
-#EXTINF:-1, tmc
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAMdXFgeUVtRXVFZ WFQeXlVEH1kfRF1TbwFwCQcDBwkfWV5UVUhvCQAAb1FGHUAeXQ NFCA==
-#EXTINF:-1, c+ decaler
-http://178.33.88.129:888/udp/239.102.0.56:1234
-#EXTINF:-1, cn
-http://178.33.88.129:888/udp/239.102.0.89:1234
-#EXTINF:-1, tf1
-http://streaming-hub.com/tv/i/tf1_1@97468/index_900_av-b.m3u8
-#EXTINF:-1, rtl9
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAIdXFgeUVtRXVFZ WFQeXlVEH1kfQkRcCW8BcAkHAwUEH1leVFVIbwkAAG9RRh1AHl 0DRQg=
-#EXTINF:-1, rts1
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAAkdXFgeUVtRXVFZ WFQeXlVEH1kfQkRDAW8BcAkHBAYJH1leVFVIbwkAAG9RRh1AHl 0DRQg=
-#EXTINF:-1, w9
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
-#EXTINF:-1, nrj12
-http://iptvfr.alwaysdata.net/sub/swiss.php?url=WEREQAofH0BVUlJcVUMBAgEdXFgeUVtRXVFZ WFQeXlVEH1kfXkJaAQJvAXABAwcHBQkfWV5UVUhvCQAAb1FGHU AeXQNFCA==
-#EXTINF:-1, m6
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:-1, mtv
-http://178.33.88.129:888/udp/239.102.0.74:1234
+#EXTM3U
+#EXTINF:-1,FRANCE 2
+http://82.135.224.134:88/udp/239.255.1.149:1234
+#EXTINF:-1,FRANCE 3
+http://82.135.224.134:88/udp/239.255.1.150:1234
+#EXTINF:-1,SCT HD
+http://82.135.224.134:88/udp/239.255.1.152:1234
+#EXTINF:-1,FRANCE 5
+http://82.135.224.134:88/udp/239.255.1.153:1234
+#EXTINF:-1,ARTE
+http://82.135.224.134:88/udp/239.255.1.155:1234
+#EXTINF:-1,D8
+http://82.135.224.134:88/udp/239.255.1.156:1234
+#EXTINF:-1,NT1
+http://82.135.224.134:88/udp/239.255.1.159:1234
+#EXTINF:-1,NRJ 12
+http://82.135.224.134:88/udp/239.255.1.160:1234
+#EXTINF:-1,LCP
+http://82.135.224.134:88/udp/239.255.1.161:1234
+#EXTINF:-1,iTELE
+http://82.135.224.134:88/udp/239.255.1.170:1234
+#EXTINF:-1,CANAL+ CINEMA
+http://82.135.224.134:88/udp/239.255.1.171:1234
+#EXTINF:-1,CINE+ PREMIER
+http://82.135.224.134:88/udp/239.255.1.173:1234
+#EXTINF:-1,M6
+http://82.135.224.134:88/udp/239.255.1.174:1234
+#EXTINF:-1,LCI
+http://82.135.224.134:88/udp/239.255.1.179:1234
+#EXTINF:-1,PLANETE+
+http://82.135.224.134:88/udp/239.255.1.180:1234
+#EXTINF:-1,FRANCE Ô
+http://82.135.224.134:88/udp/239.255.1.182:1234
+#EXTINF:-1,EUROSPORT 2
+http://82.135.224.134:88/udp/239.255.1.183:1234
+#EXTINF:-1,LCP
+http://82.135.224.134:88/udp/239.255.1.184:1234
+#EXTINF:-1,GULLI
+http://82.135.224.134:88/udp/239.255.1.185:1234
+#EXTINF:-1,EUROSPORT
+http://82.135.224.134:88/udp/239.255.1.186:1234
+#EXTINF:-1,CINE+ EMOTION
+http://82.135.224.134:88/udp/239.255.1.187:1234
+#EXTINF:-1,CINE+ FRISSON
+http://82.135.224.134:88/udp/239.255.1.188:1234
+#EXTINF:-1,D17
+http://82.135.224.134:88/udp/239.255.1.189:1234
+#EXTINF:-1,DISNEY CHANNEL
+http://82.135.224.134:88/udp/239.255.1.190:1234
+#EXTINF:-1,NATIONAL GEO
+http://82.135.224.134:88/udp/239.255.1.191:1234
+#EXTINF:-1,MCM
+http://82.135.224.134:88/udp/239.255.1.192:1234
+#EXTINF:-1,NUMERO 23
+http://82.135.224.134:88/udp/239.255.1.193:1234
+#EXTINF:-1,TMC
+http://82.135.224.134:88/udp/239.255.1.197:1234
+#EXTINF:-1,TF1
+http://82.135.224.134:88/udp/239.255.1.198:1234
+#EXTINF:-1,W9
+http://82.135.224.134:88/udp/239.255.1.199:1234
+#EXTINF:-1,FRANCE 4
+http://82.135.224.134:88/udp/239.255.1.200:1234
+#EXTINF:-1,CINE+ CLASSIC
+http://82.135.224.134:88/udp/239.255.1.203:1234
+#EXTINF:-1,TF1 HD
+http://82.135.224.134:88/udp/239.255.1.219:1234
+#EXTINF:-1,FDF
+http://82.135.224.134:88/udp/239.255.1.222:1234
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
