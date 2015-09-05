@@ -838,45 +838,93 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
 #EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,7NEWS BG
-http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8
-#EXTINF:-1,Balkanika
-http://185.13.236.197:4080/udp/224.0.0.120:1238
+#EXTM3U
 #EXTINF:-1,bTV
-http://185.13.236.197:4080/udp/224.0.0.110:1234
-#EXTINF:-1,CN (EN)
-http://185.13.236.197:4080/udp/224.0.0.120:1244
-#EXTINF:-1,Discovery Ch.(EN)
-http://185.13.236.197:4080/udp/224.0.0.110:1241
-#EXTINF:-1,Disney Ch. (ESP)
-http://185.13.236.197:4080/udp/224.0.0.120:1235
-#EXTINF:-1,DM Sat
-http://185.13.236.197:4080/udp/224.0.0.120:1246
-#EXTINF:-1,Fen TV
-http://185.13.236.197:4080/udp/224.0.0.120:1236
-#EXTINF:-1,Film Plus – Sport Plus
-http://185.13.236.197:4080/udp/224.0.0.110:1237
-#EXTINF:-1,Folklor TV
-http://185.13.236.197:4080/udp/224.0.0.120:1239
-#EXTINF:-1,Hobby TV
-http://185.13.236.197:4080/udp/224.0.0.110:1239
-#EXTINF:-1,Kanal6
-http://84.54.139.86:91/
-#EXTINF:-1,NG Wild (EN)
-http://185.13.236.197:4080/udp/224.0.0.120:1237
-#EXTINF:-1,Nick Jr. (EN)
-http://185.13.236.197:4080/udp/224.0.0.120:1240
-#EXTINF:-1,Nova
-http://185.13.236.197:4080/udp/224.0.0.110:1235
-#EXTINF:-1,Planeta Folk TV
-http://185.13.236.197:4080/udp/224.0.0.120:1242
-#EXTINF:-1,Planeta TV
-http://185.13.236.197:4080/udp/224.0.0.110:1236
+http://lag1.tv-mobile.org/prgb.m3u8
+#EXTINF:-1,bTV Action
+http://lag1.tv-mobile.org/prge.m3u8
+#EXTINF:-1,bTV Cinema
+http://lag1.tv-mobile.org/prgd.m3u8
+#EXTINF:-1,bTV Comedy
+http://lag1.tv-mobile.org/prgc.m3u8
+#EXTINF:-1,БНТ 1
+http://lag1.tv-mobile.org/prgf.m3u8
+#EXTINF:-1,БНТ Свјат
+http://lag1.tv-mobile.org/prgh.m3u8
+#EXTINF:-1,TV 7
+http://lag1.tv-mobile.org/prgi.m3u8
+#EXTINF:-1,Diema
+http://lag1.tv-mobile.org/prgj.m3u8
+#EXTINF:-1,News 7
+http://lag1.tv-mobile.org/prgk.m3u8
+#EXTINF:-1,FOX
+http://lag1.tv-mobile.org/prgl.m3u8
+#EXTINF:-1,FOX Life
+http://lag1.tv-mobile.org/prgm.m3u8
+#EXTINF:-1,FOX Crime
+http://lag1.tv-mobile.org/prgn.m3u8
+#EXTINF:-1,NOVA
+http://lag1.tv-mobile.org/prgo.m3u8
+#EXTINF:-1,NOVA Sport
+http://lag1.tv-mobile.org/prgp.m3u8
+#EXTINF:-1,Кино Нова
+http://lag1.tv-mobile.org/prgg.m3u8
+#EXTINF:-1,Ring BG
+http://lag1.tv-mobile.org/prgr.m3u8
+#EXTINF:-1,Eurosport BG
+http://lag1.tv-mobile.org/prgs.m3u8
+#EXTINF:-1,Eurosport 2 BG
+http://lag1.tv-mobile.org/prgt.m3u8
+#EXTINF:-1,Travel Channel
+http://lag1.tv-mobile.org/prgu.m3u8
+#EXTINF:-1,Animal Planet BG
+http://lag1.tv-mobile.org/prgw.m3u8
+#EXTINF:-1,National Geographic Channel BG
+http://lag2.tv-mobile.org/prgf.m3u8
+#EXTINF:-1,Nat Geo WILD
+http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1,Discovery Channel BG
+http://lag2.tv-mobile.org/prgh.m3u8
+#EXTINF:-1,Discovery Science
+http://lag2.tv-mobile.org/prgi.m3u8
+#EXTINF:-1,Viasat Nature
+http://lag2.tv-mobile.org/prgj.m3u8
+#EXTINF:-1,Viasat Explore
+http://lag2.tv-mobile.org/prgk.m3u8
+#EXTINF:-1,Охота и Рьбалка
+http://lag2.tv-mobile.org/prgl.m3u8
+#EXTINF:-1,HBO BG
+http://lag2.tv-mobile.org/prgp.m3u8
+#EXTINF:-1,HBO Comedy BG
+http://lag2.tv-mobile.org/prga.m3u8
+#EXTINF:-1,Cinemax
+http://lag2.tv-mobile.org/prgb.m3u8
+#EXTINF:-1,MovieStar
+http://lag2.tv-mobile.org/prgc.m3u8
+#EXTINF:-1,AXN
+http://lag2.tv-mobile.org/prgd.m3u8
+#EXTINF:-1,F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,Auto Motor Sport
+http://lag2.tv-mobile.org/prgu.m3u8
+#EXTINF:-1,FilmBox HD
+http://lag3.tv-mobile.org/prga.m3u8
+#EXTINF:-1,FilmBox+ HD
+http://lag3.tv-mobile.org/prgb.m3u8
 #EXTINF:-1,The Voice
-http://185.13.236.197:4080/udp/224.0.0.110:1240
-#EXTINF:-1,Viasat Explore (EN)
-http://185.13.236.197:4080/udp/224.0.0.120:1234
+http://lag2.tv-mobile.org/prgm.m3u8
+#EXTINF:-1,MTV Rocks
+http://lag3.tv-mobile.org/prgc.m3u8
+#EXTINF:-1,Euronews
+http://lag2.tv-mobile.org/prgn.m3u8
+#EXTINF:-1,CNN International
+http://lag2.tv-mobile.org/prgo.m3u8
+#EXTINF:-1,Sport Klub 1 HD
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Sport Klub 2 HD
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Sport Klub 3 HD
+http://77.76.140.251/prgt.m3u8
 
 
 #EXTINF:-1,[COLOR red]****************Turkey Channel****************[/COLOR]
