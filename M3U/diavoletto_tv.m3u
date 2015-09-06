@@ -612,146 +612,6 @@ http://37.187.160.187:8000/live/ressler/skype/54.m3u8
 
 #EXTINF:-1,[COLOR red]****************Deutsch CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, RTL
-rtmp://$OPT:rtmp-raw=rtmp://93.115.84.226:1935/live/ playpath=rtl.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=RTL+%28Germany%29&idtv=1502&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, SAT 1
-rtmp://68.232.37.6:1935/live/ playpath=sat1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=SAT+1+%28Germany%29&idtv=962&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, PRO 7
-rtmp://93.115.84.226:1935/live/ playpath=pro7.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ProSieben+%28Germany%29&idtv=685&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, DMAX
-rtmp://68.232.37.6:1935/live/ playpath=dmax.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=TLC+%28Germany%29&idtv=1310&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, Kabel 1
-rtmp://93.115.84.226:1935/live/ playpath=kabel1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Kabel+1+%28Germany%29&idtv=1656&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, SIXX
-rtmp://68.232.37.6:1935/live/ playpath=sixx.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=Sixx+%28Germany%29&idtv=890&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1 tvg-id=”disneychannel.de” tvg-logo=”disneychannel.png”, DISNEY CHANNEL
-http://pebbles104-lh.akamaihd.net/i/disney_channel_de_1@97396/index_900_av-p.m3u8|X-Forwarded-For=195.186.136.21
-#EXTINF:-1 tvg-id=”AnixeHD.de” tvg-logo=”anixesd.png”, ANIXE
-http://video1.anixehd.tv:8080/Apple/wifistream.m3u8|X-Forwarded-For=91.63.136.21
-#EXTINF:-1, ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:-1, ORF Eins
-rtmp://68.232.37.6:1935/live/ playpath=orf1.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ORF+Eins+%28Austria%29&idtv=898&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1, ORF 2
-rtmp://68.232.37.6:1935/live/ playpath=orf2.stream swfUrl=http://www.freeintertv.com/swf/JW6_12/jwplayer.flash.swf swfVfy=1 live=1 pageUrl=http://www.freeintertv.com/modules/View/screen.php?nametv=ORF+Sport+Plus+%28Germany%29&idtv=1030&TVSESS=79c599fca55625978118f3ae865e86d9
-#EXTINF:-1,ALEX TV 1024*576
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
-#EXTINF:0,Rfhv De
-rtmp://62.113.210.250/medienasa-live/RFH_high
-#EXTINF:0,Elbe Kanal De
-rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:-1,Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Wel der Wunder TV
-http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
-#EXTINF:-1,Das Neue TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,Family TV
-http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-#EXTINF:-1,Alex Berlin^
-http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w356398679_b540000_slGER.m3u8
-#EXTINF:-1, Das Neue TV
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,Deutsches Anlegerfernsehen
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
-#EXTINF:-1,Muenchen TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
-#EXTINF:-1,ORF Zwei (Austria)
-http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF Drei (Austria)
-http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF Sport + (Austria)
-http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1, Telebarn
-http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
-#EXTINF:-1,OKTO (Austria)
-http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-high.stream/chunklist_w2017128230.m3u8
-#EXTINF:-1,Austria 24 De
-rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:-1,Euronews De
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
-#EXTINF:-1,Juwelo De
-rtmp://85.214.72.27/juwelo_hd/live_DE1
-#EXTINF:-1,RAN 1 Dessau De
-rtmp://62.113.210.250/medienasa-live/ran1_high
-#EXTINF:-1,TV Aktuell De
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
-#EXTINF:-1,TV Oberfranken De
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
-#EXTINF:-1,TV Touring Schweinfurt De
-http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
-#EXTINF:-0,TV Touring Würzburg De
-http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
-#EXTINF:-1,Tva De
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:-1,Ok Stendal De
-http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1,Ran 1 De
-rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
-#EXTINF:-1,Rwb De
-rtmp://62.113.210.250/medienasa-live/rbw_high
-#EXTINF:-1 group-title=”BUSSINESS”,BUSINESS TV GERMANY
-mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃƒâ€š
-#EXTINF:-1 group-title=”EUROPE”,ALEX-BERLIN GERMANY
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8
-#EXTINF:-1 group-title=”EUROPE”,BADEN TV GERMANY
-rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp
-#EXTINF:-1 group-title=”EUROPE”,DRESDEN FEMSEHEN GERMANY
-rtmp://video07.kanal8.de/dresdenfernsehenlive/myStream.sdp
-#EXTINF:-1 group-title=”EUROPE”,Filstalwelle GERMANY
-rtmp://62.113.210.27/filstalwelle-live/livestream
-#EXTINF:-1 group-title=”EUROPE”,HT1 GERMANY
-mms://wmsstream22.v4.mytv.ris.at/live/stream_149
-#EXTINF:-1 group-title=”EUROPE”,Juwelo TV GERMANY
-rtmp://85.214.107.68/juwelo_hd/live_DE1
-#EXTINF:-1 group-title=”EUROPE”,Kabbalah TV GERMANY
-mms://vod.kab.tv/ger
-#EXTINF:-1 group-title=”EUROPE”,Leipzig TV GERMANY
-rtmp://video61.kanal8.de/leipzigfernsehenlive/myStream.sdp
-#EXTINF:-1 group-title=”EUROPE”,Light Channel TV GERMANY
-rtsp://streamer1.streamhost.org:1935/salive/lctvde
-#EXTINF:-1 group-title=”EUROPE”,LT – TV Baden Wuerttemberg GERMANY
-rtmp://62.113.210.105/ltv-live/livestream
-#EXTINF:-1 group-title=”EUROPE”,München TV GERMANY
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
-#EXTINF:-1 group-title=”EUROPE”,Mühlviertel TV AU GERMANY
-mms://wmsstream22.v4.mytv.ris.at/live/stream_149
-#EXTINF:-1 group-title=”EUROPE”,N24 GERMANY
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live.m3u8
-#EXTINF:-1 group-title=”EUROPE”,NOA4 Hamburg GERMANY
-mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asf
-#EXTINF:-1 group-title=”EUROPE”,NOA4 Norderstedt GERMANY
-mmsh://wt-wm1.wtnet.de/noa4-stream-mid?MSWMExt=.asf
-#EXTINF:-1 group-title=”EUROPE”,OK Salzwedel GERMANY
-rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
-#EXTINF:-1 group-title=”EUROPE”,OKTO TV GERMANY
-http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/sat_total.m3u8
-#EXTINF:-1 group-title=”EUROPE”,QVC GERMANY
-http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 group-title=”EUROPE”,RAN 1 Dessau GERMANY
-rtmp://62.113.210.250/medienasa-live/ran1_high
-#EXTINF:-1 group-title=”EUROPE”,RBW GERMANY
-rtmp://62.113.210.250/medienasa-live/rbw_high
-#EXTINF:-1 group-title=”EUROPE”,RFH TV GERMANY
-rtmp://62.113.210.250/medienasa-live/RFH_high
-#EXTINF:-1 group-title=”EUROPE”,Swamiji TV GERMANY
-mms://streaming.swamiji.tv/YogaIP-TV-LQ
-#EXTINF:-1 group-title=”EUROPE”,TELE BASEL GERMANY
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
-#EXTINF:-1 group-title=”EUROPE”,TELEBARN GERMANY
-http://rtmp.infomaniak.ch/livecast/barntele/SAT_TOTAL.m3u8
-#EXTINF:-1 group-title=”EUROPE”,TV AKTUELL GERMANY
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
-#EXTINF:-1 group-title=”EUROPE”,TVA OSTBAYERN GERMANY
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1,Deutsche Welle (Asia)
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,Deutsche Welle (Europa)
-http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
-#EXTINF:-1,Deutsche Welle (L.A)
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1,Deutsche Welle (U.S.A)
-http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
 #EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
 #EXTM3U
@@ -842,6 +702,133 @@ http://77.76.140.251/prgs.m3u8
 #EXTINF:-1,Sport Klub 3 HD
 http://77.76.140.251/prgt.m3u8
 
+#EXTINF:-1, Filmbox HD
+http://lag1.tv-mobile.org/prgw.m3u8
+#EXTINF:-1, Cars: Auto Motor Sport HD
+http://lag2.tv-mobile.org/prgu.m3u8
+#EXTINF:-1,Movie: AXN
+http://lag2.tv-mobile.org/prgd.m3u8
+#EXTİNF:-1, Bulgaria: bTV
+http://lag1.tv-mobile.org/prgb.m3u8
+#EXTİNF:-1, Bulgaria: bTV HD
+http://185.13.236.197:4080/udp/224.0.0.110:1234
+#EXTİNF:-1, Bulgaria: bTV Action
+http://lag1.tv-mobile.org/prge.m3u8
+#EXTİNF:-1, Bulgaria: bTV Cinema
+http://lag1.tv-mobile.org/prgd.m3u8
+#EXTİNF:-1, Bulgaria: bTV Comedy
+http://lag1.tv-mobile.org/prgc.m3u8
+#EXTİNF:-1, Bulgaria: БНТ 1
+http://lag1.tv-mobile.org/prgf.m3u8
+#EXTİNF:-1, Bulgaria: БНТ Свјат
+http://lag1.tv-mobile.org/prgh.m3u8
+#EXTINF:-1,Movie: Cinemax
+http://lag2.tv-mobile.org/prgb.m3u8
+#EXTINF:-1, Kids: CN (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1244
+#EXTINF:-1, News: CNN International
+http://lag2.tv-mobile.org/prgo.m3u8
+#EXTINF:-1, News: CNN International
+http://77.76.140.251/prgo.m3u8
+#EXTINF:-1, Musica: Balkanika Music Television
+http://185.13.236.197:4080/udp/224.0.0.120:1238
+#EXTINF:-1,Bulgaria: Diema
+http://lag1.tv-mobile.org/prgj.m3u8
+#EXTINF:-1, Documentario: Discovery Ch.(EN)
+http://185.13.236.197:4080/udp/224.0.0.110:1241
+#EXTINF:-1, Documentario: Discovery Channel BG
+http://lag2.tv-mobile.org/prgh.m3u8
+#EXTINF:-1, Documentario: Discovery Science BG
+http://lag2.tv-mobile.org/prgi.m3u8
+#EXTINF:-1, Kids: Disney Ch. (ESP)
+http://185.13.236.197:4080/udp/224.0.0.120:1235
+#EXTINF:-1,Bulgaria: DM Sat
+http://185.13.236.197:4080/udp/224.0.0.120:1246
+#EXTINF:-1, News: Euronews
+http://lag2.tv-mobile.org/prgn.m3u8
+#EXTINF:-1, Sport: Eurosport BG
+http://lag1.tv-mobile.org/prgs.m3u8
+#EXTINF:-1, Sport: Eurosport 2 BG
+http://lag1.tv-mobile.org/prgt.m3u8
+#EXTINF:-1, Sport: F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,Bulgaria: Fen TV
+http://185.13.236.197:4080/udp/224.0.0.120:1236
+#EXTINF:-1,Movie: FilmBox HD
+http://lag3.tv-mobile.org/prga.m3u8
+#EXTINF:-1,Movie: FilmBox+ HD
+http://lag3.tv-mobile.org/prgb.m3u8
+#EXTINF:-1, Musica: Folklor TV Bulgaria
+http://185.13.236.197:4080/udp/224.0.0.120:1239
+#EXTINF:-1, Movie: FOX BG
+http://lag1.tv-mobile.org/prgl.m3u8
+#EXTINF:-1, Movie: FOX Crime BG
+http://lag1.tv-mobile.org/prgn.m3u8
+#EXTINF:-1, Movie: FOX Life BG
+http://lag1.tv-mobile.org/prgm.m3u8
+#EXTINF:-1,Movie: HBO BG
+http://lag2.tv-mobile.org/prgp.m3u8
+#EXTINF:-1,Movie: HBO Comedy BG
+http://lag2.tv-mobile.org/prga.m3u8
+#EXTİNF:-1, Nature: Hobby TV Bulgaria
+http://185.13.236.197:4080/udp/224.0.0.110:1239
+#EXTINF:-1, Sport: ,Кино Нова
+http://lag1.tv-mobile.org/prgg.m3u8
+#EXTINF:-1,Bulgaria: Kanal6
+http://84.54.139.86:91/
+#EXTINF:-1, Movie: MovieStar
+http://lag2.tv-mobile.org/prgc.m3u8
+#EXTINF:-1,Musica: MTV Rocks
+http://lag3.tv-mobile.org/prgc.m3u8
+#EXTINF:-1, Documentario: National Geographic Channel BG
+http://lag2.tv-mobile.org/prgf.m3u8
+#EXTINF:-1, Documentario: Nat Geo WILD BG
+http://lag2.tv-mobile.org/prgg.m3u8
+#EXTINF:-1, Documentario: Nat Geo Wild (EN/BG)
+http://185.13.236.197:4080/udp/224.0.0.120:1237
+#EXTINF:-1, Kids: Nick Jr. (EN)
+http://185.13.236.197:4080/udp/224.0.0.120:1240
+#EXTINF:-1,Bulgaria: Nova
+http://185.13.236.197:4080/udp/224.0.0.110:1235
+#EXTINF:-1,Bulgaria: NOVA
+http://lag1.tv-mobile.org/prgo.m3u8
+#EXTINF:-1, Sport: NOVA Sport
+http://lag1.tv-mobile.org/prgp.m3u8
+#EXTINF:-1, Nature: Охота и Рьбалка
+http://lag2.tv-mobile.org/prgl.m3u8
+#EXTINF:-1, Musica: Planeta Folk TV BG
+http://185.13.236.197:4080/udp/224.0.0.120:1242
+#EXTINF:-1, Musica: Planeta TV BG
+http://185.13.236.197:4080/udp/224.0.0.110:1236
+#EXTINF:-1, Sport: Ring BG
+http://lag1.tv-mobile.org/prgr.m3u8
+#EXTINF:-1, Sport: Sport Klub 1 HD
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1, Sport: Sport Klub 2 HD
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1, Sport: Sport Klub 3 HD
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,Sport: Sport Plus Bulgaria
+http://185.13.236.197:4080/udp/224.0.0.110:1237
+#EXTINF:-1, Musica: The Voice BG
+http://185.13.236.197:4080/udp/224.0.0.110:1240
+#EXTINF:-1, Musica: The Voice BG
+http://lag2.tv-mobile.org/prgm.m3u8
+#EXTINF:-1, Documentario: Travel Channel BG
+http://lag1.tv-mobile.org/prgu.m3u8
+#EXTINF:-1,Bulgaria: TV 7
+http://lag1.tv-mobile.org/prgi.m3u8
+#EXTİNF:-1, News: TV7 News Bulgaria
+http://lag1.tv-mobile.org/prgk.m3u8
+#EXTİNF:-1, News: TV7 News Bulgaria
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7li…
+#EXTINF:-1, Documentario: Viasat Explore (EN/BG)
+http://185.13.236.197:4080/udp/224.0.0.120:1234
+#EXTINF:-1, Documentario: Viasat Explore BG
+http://lag2.tv-mobile.org/prgk.m3u8
+#EXTINF:-1, Documentario: Viasat Nature BG
+http://lag2.tv-mobile.org/prgj.m3u8
+
 
 #EXTINF:-1,[COLOR red]****************Turkey Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -885,152 +872,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10
 
 #EXTINF:-1,[COLOR red]****************Russian TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1,OceanTV
-http://213.95.47.104:8080/btv_00189/
-#EXTINF:-1,OhotnikRibolovHD
-http://213.95.47.104:8080/btv_00195/
-#EXTINF:-1,OTR
-http://213.95.47.104:8080/btv_00137/
-#EXTINF:-1,Pershiy
-http://213.95.47.104:8080/btv_00174/
-#EXTINF:-1,PerviyHD
-http://213.95.47.104:8080/btv_00173/
-#EXTINF:-1,Premiera
-http://213.95.47.104:8080/btv_00175/
-#EXTINF:-1,Prosveshenie
-http://213.95.47.104:8080/btv_00176/
-#EXTINF:-1,RadostMoya
-http://213.95.47.104:8080/btv_00105/
-#EXTINF:-1,RazTV
-http://213.95.47.104:8080/btv_00103/
-#EXTINF:-1,RossiaHD
-http://213.95.47.104:8080/btv_00177/
-#EXTINF:-1,RusBestseller
-http://213.95.47.104:8080/btv_00178/
-#EXTINF:-1,RusDetektiv
-http://213.95.47.104:8080/btv_00179/
-#EXTINF:-1,RusIlluzion
-http://213.95.47.104:8080/btv_00180/
-#EXTINF:-1,RusRoman
-http://213.95.47.104:8080/btv_00181/
-#EXTINF:-1,RussianExtreme
-http://213.95.47.104:8080/btv_00191/
-#EXTINF:-1,RusskayaNoch
-http://213.95.47.104:8080/btv_00113/
-#EXTINF:-1,SmileOfChild
-http://213.95.47.104:8080/btv_00100/
-#EXTINF:-1,SovershennoSekretno
-http://213.95.47.104:8080/btv_00182/
-#EXTINF:-1,SPAS
-http://213.95.47.104:8080/btv_00152/
-#EXTINF:-1,Sport1
-http://213.95.47.104:8080/btv_00183/
-#EXTINF:-1,Sport1HD
-http://213.95.47.104:8080/btv_00184/
-#EXTINF:-1,SportVGTRK
-http://213.95.47.104:8080/btv_00185/
-#EXTINF:-1,Strana
-http://213.95.47.104:8080/btv_00135/
-#EXTINF:-1,StyleTv
-http://213.95.47.104:8080/btv_00153/
-#EXTINF:-1,TBN
-http://213.95.47.104:8080/btv_00107/
-#EXTINF:-1,TeenTV
-http://213.95.47.104:8080/btv_00111/
-#EXTINF:-1,Telecafe
-http://213.95.47.104:8080/btv_00109/
-#EXTINF:-1,TeletravelHD
-http://213.95.47.104:8080/btv_00194/
-#EXTINF:-1,TochkaTV
-http://213.95.47.104:8080/btv_00200/
-#EXTINF:-1,TonusTV
-http://213.95.47.104:8080/btv_00150/
-#EXTINF:-1,TV25
-http://213.95.47.104:8080/btv_00142/
-#EXTINF:-1,VoprosyIOtvety
-http://213.95.47.104:8080/btv_00159/
-#EXTINF:-1,Vremya
-http://213.95.47.104:8080/btv_00116/
-#EXTINF:-1,Zagorodniy
-http://213.95.47.104:8080/btv_00151/
-#EXTINF:-1,ZooPark
-http://213.95.47.104:8080/btv_00193/
-#EXTINF:-1,1TV
-http://213.95.47.104:8080/btv_00139/
-#EXTINF:-1,24Techno
-http://213.95.47.104:8080/btv_00156/
-#EXTINF:-1,8kanal
-http://213.95.47.104:8080/btv_00129/
-#EXTINF:-1,AnimalFamilyHD
-http://213.95.47.104:8080/btv_00197/
-#EXTINF:-1,BoicovskyKlub
-http://213.95.47.104:8080/btv_00158/
-#EXTINF:-1,CNL
-http://213.95.47.104:8080/btv_00145/
-#EXTINF:-1,DangeTV
-http://213.95.47.104:8080/btv_00127/
-#EXTINF:-1,Detskiy
-http://213.95.47.104:8080/btv_00160/
-#EXTINF:-1,Draiv
-http://213.95.47.104:8080/btv_00186/
-#EXTINF:-1,EdaHD
-http://213.95.47.104:8080/btv_00162/
-#EXTINF:-1,Eurokino
-http://213.95.47.104:8080/btv_00161/
-#EXTINF:-1,EuropePlusTV
-http://213.95.47.104:8080/btv_00101/
-#EXTINF:-1,FashionTV
-http://213.95.47.104:8080/btv_00108/
-#EXTINF:-1,HDKino1
-http://213.95.47.104:8080/btv_00187/
-#EXTINF:-1,HDLife
-http://213.95.47.104:8080/btv_00136/
-#EXTINF:-1,History
-http://213.95.47.104:8080/btv_00104/
-#EXTINF:-1,IlluzionPlus
-http://213.95.47.104:8080/btv_00163/
-#EXTINF:-1,InteresnoeTv
-http://213.95.47.104:8080/btv_00115/
-#EXTINF:-1,Istoriya
-http://213.95.47.104:8080/btv_00164/
-#EXTINF:-1,K1
-http://213.95.47.104:8080/btv_00130/
-#EXTINF:-1,K2
-http://213.95.47.104:8080/btv_00131/
-#EXTINF:-1,KazakhTV
-http://213.95.47.104:8080/btv_00120/
-#EXTINF:-1,KentronTV
-http://213.95.47.104:8080/btv_00117/
-#EXTINF:-1,KtoEstKto
-http://213.95.47.104:8080/btv_00165/
-#EXTINF:-1,KuhnaTv
-http://213.95.47.104:8080/btv_00114/
-#EXTINF:-1,LaMinor
-http://213.95.47.104:8080/btv_00112/
-#EXTINF:-1,LifeNews
-http://213.95.47.104:8080/btv_00154/
-#EXTINF:-1,MirHD
-http://213.95.47.104:8080/btv_00199/
-#EXTINF:-1,Moskva24
-http://213.95.47.104:8080/btv_00134/
-#EXTINF:-1,Mult
-http://213.95.47.104:8080/btv_00166/
-#EXTINF:-1,Multimania
-http://213.95.47.104:8080/btv_00128/
-#EXTINF:-1,NanoTV
-http://213.95.47.104:8080/btv_00198/
-#EXTINF:-1,NasheNovoeKino
-http://213.95.47.104:8080/btv_00168/
-#EXTINF:-1,Nauka20
-http://213.95.47.104:8080/btv_00167/
-#EXTINF:-1,NTVPlusFootbal
-http://213.95.47.104:8080/btv_00171/
-#EXTINF:-1,NTVPlusFootbalHD
-http://213.95.47.104:8080/btv_00172/
-#EXTINF:-1,NTVPlusSport
-http://213.95.47.104:8080/btv_00169/
-#EXTINF:-1,NTVPlusSportPlus
-http://213.95.47.104:8080/btv_00170
+
 
 #EXTINF:-1,[COLOR red]****************Switzerland TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
