@@ -475,6 +475,16 @@ http://proxiiptv.dyndns.tv:8000/live/haris/haris/305.m3u8
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1, SKY SPORT 1
+rtmp://pub.yocast.tv:1935/live/_definst_/ss1
+#EXTINF:-1, SKY SPORT 2
+rtmp://pub.yocast.tv:1935/live/_definst_/sss2
+#EXTINF:-1, SKY SPORT 3
+rtmp://pub.yocast.tv:1935/live/_definst_/sss3
+#EXTINF:-1, SKY SPORT 4
+rtmp://pub.yocast.tv:1935/live/_definst_/sss4
+#EXTINF:-1, SKY SPORT 5
+rtmp://pub.yocast.tv:1935/live/_definst_/sss5
 #EXTINF:0,Sport TV 1
 http://satznt.mine.nu:7002/sptv1
 #EXTINF:0,Sport TV 2
@@ -1546,78 +1556,404 @@ rtmp://wowza.tvlux.imust.org/live/tvlux-live
 
 #EXTINF:-1,[COLOR red]****************French TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-#EXTINF:-1,FRANCE 2
-http://82.135.224.134:88/udp/239.255.1.149:1234
-#EXTINF:-1,FRANCE 3
-http://82.135.224.134:88/udp/239.255.1.150:1234
-#EXTINF:-1,SCT HD
-http://82.135.224.134:88/udp/239.255.1.152:1234
-#EXTINF:-1,FRANCE 5
-http://82.135.224.134:88/udp/239.255.1.153:1234
-#EXTINF:-1,ARTE
-http://82.135.224.134:88/udp/239.255.1.155:1234
-#EXTINF:-1,D8
-http://82.135.224.134:88/udp/239.255.1.156:1234
-#EXTINF:-1,NT1
-http://82.135.224.134:88/udp/239.255.1.159:1234
-#EXTINF:-1,NRJ 12
-http://82.135.224.134:88/udp/239.255.1.160:1234
-#EXTINF:-1,LCP
-http://82.135.224.134:88/udp/239.255.1.161:1234
-#EXTINF:-1,iTELE
-http://82.135.224.134:88/udp/239.255.1.170:1234
-#EXTINF:-1,CANAL+ CINEMA
-http://82.135.224.134:88/udp/239.255.1.171:1234
-#EXTINF:-1,CINE+ PREMIER
-http://82.135.224.134:88/udp/239.255.1.173:1234
-#EXTINF:-1,M6
-http://82.135.224.134:88/udp/239.255.1.174:1234
-#EXTINF:-1,LCI
-http://82.135.224.134:88/udp/239.255.1.179:1234
-#EXTINF:-1,PLANETE+
-http://82.135.224.134:88/udp/239.255.1.180:1234
-#EXTINF:-1,FRANCE Ô
-http://82.135.224.134:88/udp/239.255.1.182:1234
-#EXTINF:-1,EUROSPORT 2
-http://82.135.224.134:88/udp/239.255.1.183:1234
-#EXTINF:-1,LCP
-http://82.135.224.134:88/udp/239.255.1.184:1234
-#EXTINF:-1,GULLI
-http://82.135.224.134:88/udp/239.255.1.185:1234
-#EXTINF:-1,EUROSPORT
-http://82.135.224.134:88/udp/239.255.1.186:1234
-#EXTINF:-1,CINE+ EMOTION
-http://82.135.224.134:88/udp/239.255.1.187:1234
-#EXTINF:-1,CINE+ FRISSON
-http://82.135.224.134:88/udp/239.255.1.188:1234
-#EXTINF:-1,D17
-http://82.135.224.134:88/udp/239.255.1.189:1234
-#EXTINF:-1,DISNEY CHANNEL
-http://82.135.224.134:88/udp/239.255.1.190:1234
-#EXTINF:-1,NATIONAL GEO
-http://82.135.224.134:88/udp/239.255.1.191:1234
-#EXTINF:-1,MCM
-http://82.135.224.134:88/udp/239.255.1.192:1234
-#EXTINF:-1,NUMERO 23
-http://82.135.224.134:88/udp/239.255.1.193:1234
-#EXTINF:-1,TMC
-http://82.135.224.134:88/udp/239.255.1.197:1234
-#EXTINF:-1,TF1
-http://82.135.224.134:88/udp/239.255.1.198:1234
-#EXTINF:-1,W9
-http://82.135.224.134:88/udp/239.255.1.199:1234
-#EXTINF:-1,FRANCE 4
-http://82.135.224.134:88/udp/239.255.1.200:1234
-#EXTINF:-1,CINE+ CLASSIC
-http://82.135.224.134:88/udp/239.255.1.203:1234
-#EXTINF:-1,TF1 HD
-http://82.135.224.134:88/udp/239.255.1.219:1234
-#EXTINF:-1,FDF
-http://82.135.224.134:88/udp/239.255.1.222:1234
+
 
 #EXTINF:-1,[COLOR red]****************Arabic TV****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1 tvg-id=”137″ tvg-name=”Cairo-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Cairo-Cinema – Cairo-Cinema
+http://iptv-star-app.com:80/live?channelId=137&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”155″ tvg-name=”Rotana-Khalejia” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Rotana-Khalejia – Rotana-Khalejia
+http://iptv-star-app.com:80/live?channelId=155&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”156″ tvg-name=”Alhayat-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alhayat-TV – Alhayat-TV
+http://iptv-star-app.com:80/live?channelId=156&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”157″ tvg-name=”CBC-Extra” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CBC-Extra – CBC-Extra
+http://iptv-star-app.com:80/live?channelId=157&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”158″ tvg-name=”CN-Arabia” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CN-Arabia – CN-Arabia
+http://iptv-star-app.com:80/live?channelId=158&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”159″ tvg-name=”Alnahar” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alnahar – Alnahar
+http://iptv-star-app.com:80/live?channelId=159&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”160″ tvg-name=”Alhayat-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alhayat-Cinema – Alhayat-Cinema
+http://iptv-star-app.com:80/live?channelId=160&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”161″ tvg-name=”Alnahar-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alnahar-Drama – Alnahar-Drama
+http://iptv-star-app.com:80/live?channelId=161&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”162″ tvg-name=”MBC-Pro-Sport-1″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Pro-Sport-1 – MBC-Pro-Sport-1
+http://iptv-star-app.com:80/live?channelId=162&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”163″ tvg-name=”MBC-Pro-Sport-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Pro-Sport-2 – MBC-Pro-Sport-2
+http://iptv-star-app.com:80/live?channelId=163&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”164″ tvg-name=”MBC-Pro-Sport-3″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Pro-Sport-3 – MBC-Pro-Sport-3
+http://iptv-star-app.com:80/live?channelId=164&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”165″ tvg-name=”MBC-Pro-Sport-4″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Pro-Sport-4 – MBC-Pro-Sport-4
+http://iptv-star-app.com:80/live?channelId=165&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”166″ tvg-name=”Tunisianat-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Tunisianat-2 – Tunisianat-2
+http://iptv-star-app.com:80/live?channelId=166&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”167″ tvg-name=”Toyor-Aljanah” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Toyor-Aljanah – Toyor-Aljanah
+http://iptv-star-app.com:80/live?channelId=167&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”168″ tvg-name=”Qatar-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Qatar-TV – Qatar-TV
+http://iptv-star-app.com:80/live?channelId=168&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”169″ tvg-name=”JSC-Mubasher” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,JSC-Mubasher – JSC-Mubasher
+http://iptv-star-app.com:80/live?channelId=169&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”170″ tvg-name=”Iqraa” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Iqraa – Iqraa
+http://iptv-star-app.com:80/live?channelId=170&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”171″ tvg-name=”Funoon” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Funoon – Funoon
+http://iptv-star-app.com:80/live?channelId=171&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”172″ tvg-name=”Almustakila” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almustakila – Almustakila
+http://iptv-star-app.com:80/live?channelId=172&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”173″ tvg-name=”Aljazeera” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljazeera – Aljazeera
+http://iptv-star-app.com:80/live?channelId=173&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”174″ tvg-name=”Alhurra” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alhurra – Alhurra
+http://iptv-star-app.com:80/live?channelId=174&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”175″ tvg-name=”Alarabiya-Alhadath” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alarabiya-Alhadath – Alarabiya-Alhadath
+http://iptv-star-app.com:80/live?channelId=175&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”176″ tvg-name=”Alarabiya” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alarabiya – Alarabiya
+http://iptv-star-app.com:80/live?channelId=176&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”177″ tvg-name=”Aghanina” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aghanina – Aghanina
+http://iptv-star-app.com:80/live?channelId=177&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”178″ tvg-name=”Syrian-Education” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Syrian-Education – Syrian-Education
+http://iptv-star-app.com:80/live?channelId=178&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”179″ tvg-name=”Syria-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Syria-TV – Syria-TV
+http://iptv-star-app.com:80/live?channelId=179&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”180″ tvg-name=”Sama-tv” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Sama-tv – Sama-tv
+http://iptv-star-app.com:80/live?channelId=180&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”181″ tvg-name=”LBC-Sat” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,LBC-Sat – LBC-Sat
+http://iptv-star-app.com:80/live?channelId=181&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”182″ tvg-name=”Aljadeed” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljadeed – Aljadeed
+http://iptv-star-app.com:80/live?channelId=182&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”183″ tvg-name=”Almayadeen-tv” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almayadeen-tv – Almayadeen-tv
+http://iptv-star-app.com:80/live?channelId=183&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”184″ tvg-name=”Cima-Metro” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Cima-Metro – Cima-Metro
+http://iptv-star-app.com:80/live?channelId=184&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”185″ tvg-name=”Alnahar-Alyoum” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alnahar-Alyoum – Alnahar-Alyoum
+http://iptv-star-app.com:80/live?channelId=185&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”248″ tvg-name=”Aljazeera-Documentary” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljazeera-Documentary – Aljazeera-Documentary
+http://89.163.145.166:80/live?channelId=248&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”142″ tvg-name=”Rotana-Classic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Rotana-Classic – Rotana-Classic
+http://iptv-star-app.com:80/live?channelId=142&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”249″ tvg-name=”MBC-Bollywood” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Bollywood – MBC-Bollywood
+http://89.163.145.166:80/live?channelId=249&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”139″ tvg-name=”Nile-Comedy” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-Comedy – Nile-Comedy
+http://iptv-star-app.com:80/live?channelId=139&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”153″ tvg-name=”Nile-life” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-life – Nile-life
+http://iptv-star-app.com:80/live?channelId=153&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”250″ tvg-name=”MBC-Action” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Action – MBC-Action
+http://89.163.145.166:80/live?channelId=250&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”150″ tvg-name=”CBC-Sofra” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CBC-Sofra – CBC-Sofra
+http://iptv-star-app.com:80/live?channelId=150&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”143″ tvg-name=”Rotana-Masriya” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Rotana-Masriya – Rotana-Masriya
+http://iptv-star-app.com:80/live?channelId=143&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”251″ tvg-name=”MBC-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Drama – MBC-Drama
+http://89.163.145.166:80/live?channelId=251&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”252″ tvg-name=”MBC-Max” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Max – MBC-Max
+http://89.163.145.166:80/live?channelId=252&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”140″ tvg-name=”Nile-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-Cinema – Nile-Cinema
+http://iptv-star-app.com:80/live?channelId=140&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”253″ tvg-name=”MBC-1″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-1 – MBC-1
+http://89.163.145.166:80/live?channelId=253&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”254″ tvg-name=”MBC-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-2 – MBC-2
+http://89.163.145.166:80/live?channelId=254&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”255″ tvg-name=”MBC-4″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-4 – MBC-4
+http://89.163.145.166:80/live?channelId=255&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”256″ tvg-name=”Zee-Aflam” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Zee-Aflam – Zee-Aflam
+http://89.163.145.166:80/live?channelId=256&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”257″ tvg-name=”MBC-Masr” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Masr – MBC-Masr
+http://89.163.145.166:80/live?channelId=257&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”154″ tvg-name=”Zee-Alwan” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Zee-Alwan – Zee-Alwan
+http://iptv-star-app.com:80/live?channelId=154&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”146″ tvg-name=”Rotana-Clip” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Rotana-Clip – Rotana-Clip
+http://iptv-star-app.com:80/live?channelId=146&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”258″ tvg-name=”MBC-3″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-3 – MBC-3
+http://89.163.145.166:80/live?channelId=258&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”259″ tvg-name=”Alhayat-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alhayat-2 – Alhayat-2
+http://89.163.145.166:80/live?channelId=259&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”138″ tvg-name=”Fox-Movies” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Fox-Movies – Fox-Movies
+http://iptv-star-app.com:80/live?channelId=138&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”262″ tvg-name=”Nile-Sport” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-Sport – Nile-Sport
+http://89.163.145.166:80/live?channelId=262&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”263″ tvg-name=”MBC-Masr-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MBC-Masr-2 – MBC-Masr-2
+http://89.163.145.166:80/live?channelId=263&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”264″ tvg-name=”Wesal-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Wesal-TV – Wesal-TV
+http://89.163.145.166:80/live?channelId=264&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”265″ tvg-name=”Sunnah-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Sunnah-TV – Sunnah-TV
+http://89.163.145.166:80/live?channelId=265&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”266″ tvg-name=”Sky-News-Arabic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Sky-News-Arabic – Sky-News-Arabic
+http://89.163.145.166:80/live?channelId=266&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”144″ tvg-name=”Dream-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Dream-2 – Dream-2
+http://iptv-star-app.com:80/live?channelId=144&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”149″ tvg-name=”CBC-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CBC-Drama – CBC-Drama
+http://iptv-star-app.com:80/live?channelId=149&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”267″ tvg-name=”Saudi-Quran” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Saudi-Quran – Saudi-Quran
+http://89.163.145.166:80/live?channelId=267&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”268″ tvg-name=”France-24″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,France-24 – France-24
+http://89.163.145.166:80/live?channelId=268&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”269″ tvg-name=”Al-Rahma” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Al-Rahma – Al-Rahma
+http://89.163.145.166:80/live?channelId=269&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”270″ tvg-name=”Space-toon-Arabic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Space-toon-Arabic – Space-toon-Arabic
+http://89.163.145.166:80/live?channelId=270&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”271″ tvg-name=”Sama-Dubai” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Sama-Dubai – Sama-Dubai
+http://89.163.145.166:80/live?channelId=271&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”272″ tvg-name=”RT-Arab” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,RT-Arab – RT-Arab
+http://89.163.145.166:80/live?channelId=272&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”273″ tvg-name=”Noor-Dubai” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Noor-Dubai – Noor-Dubai
+http://89.163.145.166:80/live?channelId=273&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”274″ tvg-name=”Nessma” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nessma – Nessma
+http://89.163.145.166:80/live?channelId=274&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”141″ tvg-name=”Rotana-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Rotana-Cinema – Rotana-Cinema
+http://iptv-star-app.com:80/live?channelId=141&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”275″ tvg-name=”Misr-Alaan” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Misr-Alaan – Misr-Alaan
+http://89.163.145.166:80/live?channelId=275&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”148″ tvg-name=”CBC” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CBC – CBC
+http://iptv-star-app.com:80/live?channelId=148&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”276″ tvg-name=”libya-tv” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,libya-tv – libya-tv
+http://89.163.145.166:80/live?channelId=276&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”278″ tvg-name=”Dubai-One” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Dubai-One – Dubai-One
+http://89.163.145.166:80/live?channelId=278&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”151″ tvg-name=”Nile-Culture” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-Culture – Nile-Culture
+http://iptv-star-app.com:80/live?channelId=151&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”279″ tvg-name=”Cima” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Cima – Cima
+http://89.163.145.166:80/live?channelId=279&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”280″ tvg-name=”BBC-Arabic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,BBC-Arabic – BBC-Arabic
+http://89.163.145.166:80/live?channelId=280&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”145″ tvg-name=”Nile-News” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-News – Nile-News
+http://iptv-star-app.com:80/live?channelId=145&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”281″ tvg-name=”Assadissa” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Assadissa – Assadissa
+http://89.163.145.166:80/live?channelId=281&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”282″ tvg-name=”Arriadia” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Arriadia – Arriadia
+http://89.163.145.166:80/live?channelId=282&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”283″ tvg-name=”Arrabiaa” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Arrabiaa – Arrabiaa
+http://89.163.145.166:80/live?channelId=283&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”284″ tvg-name=”Alsharjah” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alsharjah – Alsharjah
+http://89.163.145.166:80/live?channelId=284&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”285″ tvg-name=”Almagaribia” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almagaribia – Almagaribia
+http://89.163.145.166:80/live?channelId=285&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”286″ tvg-name=”Ajyal” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Ajyal – Ajyal
+http://89.163.145.166:80/live?channelId=286&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”287″ tvg-name=”Alresalah” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alresalah – Alresalah
+http://89.163.145.166:80/live?channelId=287&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”288″ tvg-name=”Syrian-Drama-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Syrian-Drama-TV – Syrian-Drama-TV
+http://89.163.145.166:80/live?channelId=288&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”289″ tvg-name=”Noor-Alsham” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Noor-Alsham – Noor-Alsham
+http://89.163.145.166:80/live?channelId=289&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”147″ tvg-name=”Cairo-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Cairo-Drama – Cairo-Drama
+http://iptv-star-app.com:80/live?channelId=147&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”290″ tvg-name=”NBN” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,NBN – NBN
+http://89.163.145.166:80/live?channelId=290&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”291″ tvg-name=”MTV-Lebanon” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,MTV-Lebanon – MTV-Lebanon
+http://89.163.145.166:80/live?channelId=291&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”292″ tvg-name=”Lebanon-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Lebanon-TV – Lebanon-TV
+http://89.163.145.166:80/live?channelId=292&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”293″ tvg-name=”Future-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Future-TV – Future-TV
+http://89.163.145.166:80/live?channelId=293&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”295″ tvg-name=”Almanar” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almanar – Almanar
+http://89.163.145.166:80/live?channelId=295&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”296″ tvg-name=”AD-Aloula” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,AD-Aloula – AD-Aloula
+http://89.163.145.166:80/live?channelId=296&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”152″ tvg-name=”Nile-family” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Nile-family – Nile-family
+http://iptv-star-app.com:80/live?channelId=152&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”302″ tvg-name=”Alkass-one-sport-HD” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alkass-one-sport-HD – Alkass-one-sport-HD
+http://89.163.145.166:80/live?channelId=302&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”303″ tvg-name=”Alkass-two-sport-HD” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alkass-two-sport-HD – Alkass-two-sport-HD
+http://89.163.145.166:80/live?channelId=303&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”304″ tvg-name=”Dubai-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Dubai-Drama – Dubai-Drama
+http://89.163.145.166:80/live?channelId=304&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”305″ tvg-name=”Panoram-Afilm” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Panoram-Afilm – Panoram-Afilm
+http://89.163.145.166:80/live?channelId=305&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”306″ tvg-name=”Panorama-Comedy” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Panorama-Comedy – Panorama-Comedy
+http://89.163.145.166:80/live?channelId=306&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”307″ tvg-name=”Top-Movies” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Top-Movies – Top-Movies
+http://89.163.145.166:80/live?channelId=307&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”308″ tvg-name=”AD-Sport-Xxtra” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,AD-Sport-Xxtra – AD-Sport-Xxtra
+http://89.163.145.166:80/live?channelId=308&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”332″ tvg-name=”Orient-News-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Orient-News-TV – Orient-News-TV
+http://iptv-star-app.com:80/live?channelId=332&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”333″ tvg-name=”Aljameela” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aljameela – Aljameela
+http://iptv-star-app.com:80/live?channelId=333&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”334″ tvg-name=”Almajd-1″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajd-1 – Almajd-1
+http://iptv-star-app.com:80/live?channelId=334&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”335″ tvg-name=”Almajd-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajd-2 – Almajd-2
+http://iptv-star-app.com:80/live?channelId=335&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”336″ tvg-name=”Almajd-3″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajd-3 – Almajd-3
+http://iptv-star-app.com:80/live?channelId=336&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”337″ tvg-name=”Almajd-4″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajd-4 – Almajd-4
+http://iptv-star-app.com:80/live?channelId=337&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”338″ tvg-name=”Almajd-8″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajd-8 – Almajd-8
+http://iptv-star-app.com:80/live?channelId=338&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”339″ tvg-name=”Karameesh” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Karameesh – Karameesh
+http://89.163.145.166:80/live?channelId=339&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”340″ tvg-name=”Toyor-Aliraq” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Toyor-Aliraq – Toyor-Aliraq
+http://89.163.145.166:80/live?channelId=340&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”342″ tvg-name=”Massaya” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Massaya – Massaya
+http://89.163.145.166:80/live?channelId=342&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”312″ tvg-name=”Sky-Living-HD-(UK)” tvg-logo=”/noicon.png” group-title=”UK_Channels”,Sky-Living-HD-(UK) – Sky-Living-HD-(UK)
+http://89.163.145.166:80/live?channelId=312&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”328″ tvg-name=”Sky-Greats-HD-(UK)” tvg-logo=”/noicon.png” group-title=”UK_Channels”,Sky-Greats-HD-(UK) – Sky-Greats-HD-(UK)
+http://89.163.145.166:80/live?channelId=328&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”343″ tvg-name=”Ulke-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Ulke-HD-(TR) – Ulke-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=343&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”344″ tvg-name=”TV-8–HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,TV-8–HD-(TR) – TV-8–HD-(TR)
+http://iptv-star-app.com:80/live?channelId=344&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”345″ tvg-name=”TRT-Turk-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,TRT-Turk-HD-(TR) – TRT-Turk-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=345&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”346″ tvg-name=”TRT-Spor-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,TRT-Spor-HD-(TR) – TRT-Spor-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=346&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”348″ tvg-name=”TRT-Muzik-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,TRT-Muzik-HD-(TR) – TRT-Muzik-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=348&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”350″ tvg-name=”TRT-1-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,TRT-1-HD-(TR) – TRT-1-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=350&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”351″ tvg-name=”Star-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Star-HD-(TR) – Star-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=351&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”352″ tvg-name=”Sports-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Sports-HD-(TR) – Sports-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=352&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”353″ tvg-name=”Samanyolu-Avrupa-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Samanyolu-Avrupa-HD-(TR) – Samanyolu-Avrupa-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=353&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”354″ tvg-name=”Sinema-Aile-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Sinema-Aile-HD-(TR) – Sinema-Aile-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=354&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”355″ tvg-name=”Sinema-2-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Sinema-2-HD-(TR) – Sinema-2-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=355&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”356″ tvg-name=”Sinema-1-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Sinema-1-HD-(TR) – Sinema-1-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=356&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”357″ tvg-name=”Show-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Show-HD-(TR) – Show-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=357&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”358″ tvg-name=”Samanyolu-Haber-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Samanyolu-Haber-HD-(TR) – Samanyolu-Haber-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=358&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”359″ tvg-name=”Salon-3D-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Salon-3D-HD-(TR) – Salon-3D-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=359&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”360″ tvg-name=”Salon-3-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Salon-3-HD-(TR) – Salon-3-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=360&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”361″ tvg-name=”Salon-2-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Salon-2-HD-(TR) – Salon-2-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=361&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”362″ tvg-name=”Power-Turk-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Power-Turk-HD-(TR) – Power-Turk-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=362&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”363″ tvg-name=”Planet-Mutfak-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Planet-Mutfak-HD-(TR) – Planet-Mutfak-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=363&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”364″ tvg-name=”NTV-Spor-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,NTV-Spor-HD-(TR) – NTV-Spor-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=364&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”365″ tvg-name=”NTV-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,NTV-HD-(TR) – NTV-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=365&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”366″ tvg-name=”National-Geographic-Wild-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,National-Geographic-Wild-HD-(TR) – National-Geographic-Wild-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=366&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”367″ tvg-name=”Nat-Geo-People-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Nat-Geo-People-HD-(TR) – Nat-Geo-People-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=367&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”368″ tvg-name=”MGM-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,MGM-HD-(TR) – MGM-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=368&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”369″ tvg-name=”Mavi-Karadeniz-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Mavi-Karadeniz-HD-(TR) – Mavi-Karadeniz-HD-(TR)
+http://89.163.145.166:80/live?channelId=369&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”370″ tvg-name=”Loca-3-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Loca-3-HD-(TR) – Loca-3-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=370&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”371″ tvg-name=”Loca-1-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Loca-1-HD-(TR) – Loca-1-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=371&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”372″ tvg-name=”Kral-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Kral-HD-(TR) – Kral-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=372&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”373″ tvg-name=”Kral-Pop-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Kral-Pop-HD-(TR) – Kral-Pop-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=373&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”374″ tvg-name=”Karadeniz TV (TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Karadeniz TV (TR) – Karadeniz TV (TR)
+http://iptv-star-app.com:80/live?channelId=374&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”375″ tvg-name=”Karadeniz-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Karadeniz-HD-(TR) – Karadeniz-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=375&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”376″ tvg-name=”Kanal-B-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Kanal-B-HD-(TR) – Kanal-B-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=376&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”377″ tvg-name=”Kanal-7-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Kanal-7-HD-(TR) – Kanal-7-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=377&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”378″ tvg-name=”Kanal-24-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Kanal-24-HD-(TR) – Kanal-24-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=378&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”379″ tvg-name=”Sinema-Yesilcam-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Sinema-Yesilcam-HD-(TR) – Sinema-Yesilcam-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=379&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”380″ tvg-name=”History-Channel-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,History-Channel-HD-(TR) – History-Channel-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=380&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”381″ tvg-name=”Fox-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Fox-HD-(TR) – Fox-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=381&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”382″ tvg-name=”Dream-Turk-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Dream-Turk-HD-(TR) – Dream-Turk-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=382&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”383″ tvg-name=”Disney-Junior-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Disney-Junior-HD-(TR) – Disney-Junior-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=383&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”384″ tvg-name=”A-Spor-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,A-Spor-HD-(TR) – A-Spor-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=384&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”385″ tvg-name=”Smart-Spor-2-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Smart-Spor-2-HD-(TR) – Smart-Spor-2-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=385&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”386″ tvg-name=”Smart-Spor-1-HD-(TR)” tvg-logo=”/noicon.png” group-title=”TR-Channels”,Smart-Spor-1-HD-(TR) – Smart-Spor-1-HD-(TR)
+http://iptv-star-app.com:80/live?channelId=386&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”387″ tvg-name=”Lana” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Lana – Lana
+http://89.163.145.166:80/live?channelId=387&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”388″ tvg-name=”Baraem” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Baraem – Baraem
+http://iptv-star-app.com:80/live?channelId=388&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”389″ tvg-name=”Baraem-Europe” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Baraem-Europe – Baraem-Europe
+http://iptv-star-app.com:80/live?channelId=389&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”390″ tvg-name=”Taha” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Taha – Taha
+http://iptv-star-app.com:80/live?channelId=390&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”391″ tvg-name=”Jeem” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Jeem – Jeem
+http://iptv-star-app.com:80/live?channelId=391&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”392″ tvg-name=”Atfalandmawaheb” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Atfalandmawaheb – Atfalandmawaheb
+http://iptv-star-app.com:80/live?channelId=392&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”393″ tvg-name=”Canary” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Canary – Canary
+http://iptv-star-app.com:80/live?channelId=393&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”394″ tvg-name=”Jeem-Europe” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Jeem-Europe – Jeem-Europe
+http://iptv-star-app.com:80/live?channelId=394&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”395″ tvg-name=”Hodhod-Arabic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Hodhod-Arabic – Hodhod-Arabic
+http://iptv-star-app.com:80/live?channelId=395&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”396″ tvg-name=”Ma3akom” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Ma3akom – Ma3akom
+http://iptv-star-app.com:80/live?channelId=396&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”397″ tvg-name=”Shabab” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Shabab – Shabab
+http://iptv-star-app.com:80/live?channelId=397&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”398″ tvg-name=”Melody” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Melody – Melody
+http://iptv-star-app.com:80/live?channelId=398&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”399″ tvg-name=”Melody-Classic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Melody-Classic – Melody-Classic
+http://iptv-star-app.com:80/live?channelId=399&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”400″ tvg-name=”Almajlis” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Almajlis – Almajlis
+http://iptv-star-app.com:80/live?channelId=400&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”401″ tvg-name=”Saudi-1″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Saudi-1 – Saudi-1
+http://iptv-star-app.com:80/live?channelId=401&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”402″ tvg-name=”Saudi-2″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Saudi-2 – Saudi-2
+http://iptv-star-app.com:80/live?channelId=402&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”403″ tvg-name=”Alrai” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alrai – Alrai
+http://iptv-star-app.com:80/live?channelId=403&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”404″ tvg-name=”Oscar-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Oscar-Cinema – Oscar-Cinema
+http://iptv-star-app.com:80/live?channelId=404&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”405″ tvg-name=”Oscar-Drama” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Oscar-Drama – Oscar-Drama
+http://iptv-star-app.com:80/live?channelId=405&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”406″ tvg-name=”ABC-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,ABC-Cinema – ABC-Cinema
+http://iptv-star-app.com:80/live?channelId=406&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”407″ tvg-name=”Majestic-Cinema” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Majestic-Cinema – Majestic-Cinema
+http://iptv-star-app.com:80/live?channelId=407&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”408″ tvg-name=”Time-Ekhtarnalak” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Time-Ekhtarnalak – Time-Ekhtarnalak
+http://iptv-star-app.com:80/live?channelId=408&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”409″ tvg-name=”ONTV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,ONTV – ONTV
+http://iptv-star-app.com:80/live?channelId=409&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”410″ tvg-name=”Saudi-Sport” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Saudi-Sport – Saudi-Sport
+http://iptv-star-app.com:80/live?channelId=410&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”411″ tvg-name=”TV-Coran” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,TV-Coran – TV-Coran
+http://iptv-star-app.com:80/live?channelId=411&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”412″ tvg-name=”Huda-TV” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Huda-TV – Huda-TV
+http://iptv-star-app.com:80/live?channelId=412&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”413″ tvg-name=”ANB” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,ANB – ANB
+http://iptv-star-app.com:80/live?channelId=413&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”414″ tvg-name=”Alsharqiya-News” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alsharqiya-News – Alsharqiya-News
+http://iptv-star-app.com:80/live?channelId=414&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”415″ tvg-name=”Alekhbaria” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alekhbaria – Alekhbaria
+http://iptv-star-app.com:80/live?channelId=415&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”416″ tvg-name=”CNBC-Arabiya” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,CNBC-Arabiya – CNBC-Arabiya
+http://iptv-star-app.com:80/live?channelId=416&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”417″ tvg-name=”Echourouk” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Echourouk – Echourouk
+http://iptv-star-app.com:80/live?channelId=417&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”418″ tvg-name=”Echorouk-News” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Echorouk-News – Echorouk-News
+http://iptv-star-app.com:80/live?channelId=418&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”419″ tvg-name=”Euro-News-Arabic” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Euro-News-Arabic – Euro-News-Arabic
+http://iptv-star-app.com:80/live?channelId=419&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”420″ tvg-name=”Kbcalgeria” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Kbcalgeria – Kbcalgeria
+http://iptv-star-app.com:80/live?channelId=420&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”421″ tvg-name=”Iraq-TV-Channel” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Iraq-TV-Channel – Iraq-TV-Channel
+http://89.163.145.166:80/live?channelId=421&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”422″ tvg-name=”Aliraqia-1″ tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Aliraqia-1 – Aliraqia-1
+http://iptv-star-app.com:80/live?channelId=422&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”423″ tvg-name=”Alkadhmy” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alkadhmy – Alkadhmy
+http://iptv-star-app.com:80/live?channelId=423&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”424″ tvg-name=”Alrafiden” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alrafiden – Alrafiden
+http://iptv-star-app.com:80/live?channelId=424&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”425″ tvg-name=”Alanwar” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alanwar – Alanwar
+http://iptv-star-app.com:80/live?channelId=425&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”426″ tvg-name=”Albaghdadia” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Albaghdadia – Albaghdadia
+http://iptv-star-app.com:80/live?channelId=426&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”427″ tvg-name=”Alghadeer” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Alghadeer – Alghadeer
+http://iptv-star-app.com:80/live?channelId=427&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
+#EXTINF:-1 tvg-id=”428″ tvg-name=”Bedaya” tvg-logo=”/noicon.png” group-title=”Arabic_Channels”,Bedaya – Bedaya
+http://iptv-star-app.com:80/live?channelId=428&uid=5&deviceUser=skype:iptv-star@hotmail.com&devicePass=skype:iptv-star@hotmail.com
 #EXTINF:-1,Addounia TV
 rtmp://sama-tv.net/live/samatv
 #EXTINF:-1,Al Falstiniah TV
