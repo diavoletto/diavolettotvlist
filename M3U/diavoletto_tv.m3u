@@ -16,6 +16,35 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0, Eurosport 1 uk
+http://195.154.226.186:1935/livee/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livee/vesp2lsh/playlist.m3u8
+#EXTINF:0, SkySport 1
+http://195.154.226.186:1935/livee/skysports1lsh/playlist.m3u8
+#EXTINF:0, SkySport2
+http://195.154.226.186:1935/livee/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3
+http://195.154.226.186:1935/livee/skysports3lsh/playlist.m3u8
+#EXTINF:0, SkySport 4
+http://195.154.226.186:1935/livee/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5
+http://195.154.226.186:1935/livee/skysports5lsh/playlist.m3u8
+#EXTINF:0, SkySport F1
+http://195.154.226.186:1935/livee/vskysf1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 1
+http://195.154.226.186:1935/livee/btsports1lsh/playlist.m3u8
+#EXTINF:0, BT Sport 2
+http://195.154.226.186:1935/livee/btsports2lsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 1 HD
+http://195.154.226.186:1935/livee/bein1frlsh/playlist.m3u8
+#EXTINF:-1, beIN Sports 2 HD
+http://195.154.226.186:1935/livee/bein2frlsh/playlist.m3u8
+#EXTINF:0, ESPN UK
+http://195.154.226.186:1935/livee/espnuklsh/playlist.m3u8
+#EXTINF:0,Premier sports
+http://195.154.226.186:1935/livee/vpremsplsh/playlist.m3u8
+
 #EXTINF:-1, Sport Klub 1 HD
 http://77.76.140.251/prgr.m3u8
 #EXTINF:-1, Sport Klub 2 HD
