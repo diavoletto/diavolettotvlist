@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 14/09/2015 10h44*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 15/09/2015 17h10*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE For More Content & Update*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -500,7 +500,124 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************UK IPTV CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:-1, RTE 1
+http://37.187.248.101:8080/rte1.stream/index.m3u8
+#EXTINF:-1, RTE 2
+http://37.187.248.101:8080/rte2.stream/index.m3u8
+#EXTINF:-1, BBC 1
+http://37.187.248.101:8080/bbc1.stream/index.m3u8
+#EXTINF:-1, BBC 2
+http://37.187.248.101:8080/bbc2.stream/index.m3u8
+#EXTINF:-1, BBC 3/ CBBC
+http://37.187.248.101:8080/bbc3.stream/index.m3u8
+#EXTINF:-1, BBC 4/ CBEEBIES
+http://37.187.248.101:8080/bbc4.stream/index.m3u8
+#EXTINF:-1, MOTORS TV
+http://37.187.248.101:8080/motorstv.stream/index.m3u8
+#EXTINF:-1, H2
+http://37.187.248.101:8080/h2.stream/index.m3u8
+#EXTINF:-1, SCUZZ
+http://37.187.248.101:8080/livingit.stream/index.m3u8
+#EXTINF:-1, LIVING IT
+http://37.187.248.101:8080/livingit.stream/index.m3u8
+#EXTINF:-1, WATCH
+http://37.187.248.101:8080/watch.stream/index.m3u8
+#EXTINF:-1, UNIVERSAL
+http://37.187.248.101:8080/universal.stream/index.m3u8
+#EXTINF:-1, FOX NEWS
+http://37.187.248.101:8080/foxnews.stream/index.m3u8
+#EXTINF:-1, EDEN
+http://37.187.248.101:8080/eden.stream/index.m3u8
+#EXTINF:-1, MTV MUSIC
+http://37.187.248.101:8080/mtvmusic.stream/index.m3u8
+#EXTINF:-1, MTV BASE
+http://37.187.248.101:8080/mtvbase.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SHOWCASE
+http://37.187.248.101:8080/skymovshowcase.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES FAMILY
+http://37.187.248.101:8080/skymovfamily.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES DISNEY
+http://37.187.248.101:8080/skymovdisney.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES MODERN GREATS/ 80,S
+http://37.187.248.101:8080/skymovgreats.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES THRILLER
+http://37.187.248.101:8080/skymovthriller.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SCI FI
+http://37.187.248.101:8080/skymovscifi.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SELECT
+http://37.187.248.101:8080/skymovselect.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES DRAMA
+http://37.187.248.101:8080/skymovdrama.stream/index.m3u8
+#EXTINF:-1, FLAVA
+http://37.187.248.101:8080/flava.stream/index.m3u8
+#EXTINF:-1, MORE 4
+http://37.187.248.101:8080/more4.stream/index.m3u8
+#EXTINF:-1, 4 SEVEN
+http://37.187.248.101:8080/4seven.stream/index.m3u8
+#EXTINF:-1, ITV BE
+http://37.187.248.101:8080/itvbe.stream/index.m3u8
+#EXTINF:-1, TSN 1
+http://37.187.248.101:8080/tsn1.stream/index.m3u8
+#EXTINF:-1, TSN 2
+http://37.187.248.101:8080/tsn2.stream/index.m3u8
+#EXTINF:-1, TSN 3
+http://37.187.248.101:8080/tsn3.stream/index.m3u8
+#EXTINF:-1, TSN 4
+http://37.187.248.101:8080/tsn4.stream/index.m3u8
+#EXTINF:-1, TSN 5
+http://37.187.248.101:8080/tsn5.stream/index.m3u8
+#EXTINF:-1, SKY ARTS
+http://37.187.248.101:8080/skyarts.stream/index.m3u8
+#EXTINF:-1, YESTERDAY
+http://37.187.248.101:8080/yesterday.stream/index.m3u8
+#EXTINF:-1, PICK
+http://37.187.248.101:8080/picktv.stream/index.m3u8
+#EXTINF:-1, DAVE
+http://37.187.248.101:8080/dave.stream/index.m3u8
+#EXTINF:-1, FOX SPORT 1
+http://37.187.248.101:8080/foxsp1.stream/index.m3u8
+#EXTINF:-1, FOX SPORT 2
+http://37.187.248.101:8080/foxsp2.stream/index.m3u8
+#EXTINF:-1, HISTORY CHANNEL
+http://37.187.248.101:8080/history.stream/index.m3u8
+#EXTINF:-1, ITV 1
+http://37.187.248.101:8080/itv.stream/index.m3u8
+#EXTINF:-1, ITV 2
+http://37.187.248.101:8080/itv2.stream/index.m3u8
+#EXTINF:-1, ITV 3
+http://37.187.248.101:8080/itv3.stream/index.m3u8
+#EXTINF:-1, ITV 4
+http://37.187.248.101:8080/itv4.stream/index.m3u8
+#EXTINF:-1, 5 USA
+http://37.187.248.101:8080/5usa.stream/index.m3u8
+#EXTINF:-1, 5 STAR
+http://37.187.248.101:8080/5star.stream/index.m3u8
+#EXTINF:-1, FILM 4
+http://37.187.248.101:8080/film4.stream/index.m3u8
+#EXTINF:-1, E4
+http://37.187.248.101:8080/e4.stream/index.m3u8
+#EXTINF:-1, PREMIER SPORTS
+http://37.187.248.101:8080/premier.stream/index.m3u8
+#EXTINF:-1, GOLD
+http://37.187.248.101:8080/gold.stream/index.m3u8
+#EXTINF:-1, NICK UK
+http://37.187.248.101:8080/nick.stream/index.m3u8
+#EXTINF:-1, AT THE RACES
+http://37.187.248.101:8080/attheraces.stream/index.m3u8
+#EXTINF:-1, RACING UK
+http://37.187.248.101:8080/racinguk.stream/index.m3u8
+#EXTINF:-1, FOX UK
+http://37.187.248.101:8080/fox.stream/index.m3u8
+#EXTINF:-1, SYFY UK
+http://37.187.248.101:8080/syfy.stream/index.m3u8
+#EXTINF:-1, ALIBI
+http://37.187.248.101:8080/alibi.stream/index.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://37.187.248.101:8080/disney.stream/index.m3u8
+#EXTINF:-1, SKY LIVING
+http://37.187.248.101:8080/skyliving.stream/index.m3u8
+#EXTINF:-1, SKY ATLANTIC
+http://37.187.248.101:8080/skyatlantic.stream/index.m3u8
 
 #EXTINF:-1,[COLOR red]****************Albania CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
