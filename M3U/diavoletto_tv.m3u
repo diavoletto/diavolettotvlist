@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 18/09/2015 13h30*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 18/09/2015 17h21*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE For More Content & Update*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -11,6 +11,13 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1,Astro Supersport 1
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDEucGhw
+#EXTINF:-1,Astro Supersport 2
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+#EXTINF:-1,Astro Supersport 3
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+
 #EXTINF:-1, Football 1
 http://tv1.no-ip.info/stream/HXGUN530BX/130.m3u8
 #EXTINF:-1, Football 2
@@ -1087,6 +1094,61 @@ http://tring-amd-live.tring.tv/out/u/108_16.m3u8
 http://tring-amd-live.tring.tv/out/u/108_17.m3u8
 #EXTINF:-1,Alsat M
 http://tring-amd-live.tring.tv/out/u/110_33.m3u8
+
+#EXTINF:-1,[COLOR red]****************Pink Channel****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0,Pink Horror
+http://178.253.194.68:1935/liveloworigin/pinkhorror.stream/playlist.m3u8
+#EXTINF:0,Pink Pedia
+http://178.253.194.68:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
+#EXTINF:0,Pink Comedy
+http://178.253.194.68:1935/liveloworigin/pinkcomedy.stream/playlist.m3u8
+#EXTINF:0,Pink Premium
+http://178.253.194.68:1935/liveloworigin/pinkpremium.stream/playlist.m3u8
+#EXTINF:0,Pink Reality
+http://178.253.194.68:1935/liveloworigin/pinkreality.stream/playlist.m3u8
+#EXTINF:0,Pink Film
+http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
+#EXTINF:0,Pink Classic
+http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+#EXTINF:0,Pink Movies
+http://109.206.96.129:1935/live/pinkmovies.stream/playlist.m3u8
+#EXTINF:0,Pink Action
+http://178.253.194.68:1935/liveloworigin/pinkaction.stream/playlist.m3u8
+#EXTINF:0,Pink 2
+http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
+#EXTINF:0,Pink Family
+http://178.253.194.68:1935/liveloworigin/pinkfamily.stream/playlist.m3u8
+#EXTINF:0,Pink Fashion
+http://178.253.194.68:1935/liveloworigin/pinkfashion.stream/playlist.m3u8
+#EXTINF:0,Pink Music
+http://178.253.194.68:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
+#EXTINF:0,Pink Music 2
+http://178.253.194.68:1935/liveloworigin/pinkmusic2.stream/playlist.m3u8
+#EXTINF:0,Pink BH
+http://178.253.194.68:1935/liveloworigin/pinkbih.stream/playlist.m3u8
+#EXTINF:0,Pink Kids
+http://178.253.194.68:1935/liveloworigin/pinkkids.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC
+http://178.253.194.68:1935/liveloworigin/pinkerotic.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 2
+http://178.253.194.68:1935/liveloworigin/pinkerotic2.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 3
+http://178.253.194.68:1935/liveloworigin/pinkerotic3.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 4
+http://178.253.194.68:1935/liveloworigin/pinkerotic4.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 5
+http://178.253.194.68:1935/liveloworigin/pinkerotic5.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 6
+http://178.253.194.68:1935/liveloworigin/pinkerotic6.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 7
+http://178.253.194.68:1935/liveloworigin/pinkerotic7.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 8
+http://178.253.194.68:1935/liveloworigin/pinkerotic8.stream/playlist.m3u8
+#EXTINF:0,PINK EROTIC 9
+http://178.253.194.68:1935/liveloworigin/pinkerotic9.stream/playlist.m3u8
 
 
 #EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
@@ -3018,9 +3080,6 @@ http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3
 rtmp://77.92.76.135:1935/tvce/livestream
 #EXTINF:-1,TVC NEWS
 rtmp://77.92.76.135:1935/tvcnews/livestream
-
-#EXTINF:-1,[COLOR red]****************Us Canada****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 
 #EXTINF:-1,[COLOR red]******Romania Channel******[/COLOR]
