@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 17/09/2015 17h00*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 18/09/2015 13h30*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE For More Content & Update*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -11,6 +11,20 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:-1, Football 1
+http://tv1.no-ip.info/stream/HXGUN530BX/130.m3u8
+#EXTINF:-1, Football 2
+http://tv1.no-ip.info/stream/HXGUN530BX/142.m3u8
+#EXTINF:-1, Viasat Sport HD
+http://tv1.no-ip.info/stream/HXGUN530BX/102.m3u8
+#EXTINF:-1, SKY SPORTS 1 HD
+http://01s2.vp9.tv/chn/sks1/v.m3u8
+#EXTINF:-1, SKY SPORTS 2 HD
+http://01s2.vp9.tv/chn/sks2/v.m3u8
+#EXTINF:-1, SKY SPORTS 5 HD
+http://01s2.vp9.tv/chn/sks5/v.m3u8
+
+
 #EXTINF:-1, Sport Klub 1 HD
 http://77.76.140.251/prgr.m3u8
 #EXTINF:-1, Sport Klub 2 HD
@@ -462,9 +476,508 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 
 
-#EXTINF:-1,[COLOR red]****************UK IPTV CHANNEL****************[/COLOR]
+#EXTINF:-1,[COLOR red]****************Ukr Russ Eng IPTV CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
+#EXTINF:-1 group-title = »Children», Disney Channel
+http://91.213.59.190:8000/239.0.0.31
+#EXTINF:-1 group-title = »Baby” Plus Plus
+http://91.213.59.190:8000/239.0.0.111
+#EXTINF:-1 group-title = »Kids’ Pixel
+http://91.213.59.190:8000/239.0.0.121
+#EXTINF:-1 group-title = »Children», Nickelodeon
+http://91.213.59.190:8000/239.0.0.86
+#EXTINF:-1 group-title = »Children», QTV
+http://91.213.59.190:8000/239.0.0.110
+#EXTINF:-1 group-title = »Children», Cartoon Networks
+http://91.213.59.190:8000/239.0.0.46
+#EXTINF:-1 group-title = »Baby” Teleclub / Children’s World
+http://91.213.59.190:8000/239.0.0.145
+#EXTINF:-1 group-title = »Children», TiJi
+http://91.213.59.190:8000/239.0.0.174
+#EXTINF:-1 group-title = »Children», JimJam
+http://91.213.59.190:8000/239.0.0.192
+#EXTINF:-1 group-title = »Kids’ Carousel
+http://91.213.59.190:8000/239.0.0.208
+#EXTINF:-1 group-title = »Children», Nickelodeon HD
+http://91.213.59.190:8000/239.0.0.128
+#EXTINF:-1 group-title = »Kids’ Multimania
+http://91.213.59.190:8000/239.0.0.241
+#EXTINF:-1 group-title = »Children», Gulli
+http://91.213.59.190:8000/239.0.0.27
+#EXTINF:-1 group-title = »Infotainment» Male Channel
+http://91.213.59.190:8000/239.0.0.232
+#EXTINF:-1 group-title = »Infotainment ‘Union
+http://91.213.59.190:8000/239.0.0.132
+#EXTINF:-1 group-title = »Infotainment» Revival
+http://91.213.59.190:8000/239.0.0.30
+#EXTINF:-1 group-title = »Infotainment”, Moscow Trust
+http://91.213.59.190:8000/239.0.1.59
+#EXTINF:-1 group-title = »Infotainment» Alex
+http://91.213.59.190:8000/alex
+#EXTINF:-1 group-title = »Infotainment” World 24
+http://91.213.59.190:8000/239.0.1.40
+#EXTINF:-1 group-title = »Infotainment” Mom
+http://91.213.59.190:8000/239.0.1.36
+#EXTINF:-1 group-title = »Infotainment” 360 Moscow
+http://91.213.59.190:8000/239.0.1.33
+#EXTINF:-1 group-title = »Infotainment” Tonis HD
+http://91.213.59.190:8000/239.0.0.217
+#EXTINF:-1 group-title = »Infotainment” TRK UKRAINE
+http://91.213.59.190:8000/239.0.0.222
+#EXTINF:-1 group-title = »Infotainment” Rada
+http://91.213.59.190:8000/239.0.0.52
+#EXTINF:-1 group-title = »Infotainment», REN TV
+http://91.213.59.190:8000/239.0.0.13
+#EXTINF:-1 group-title = »Infotainment” Glas
+http://91.213.59.190:8000/239.0.0.54
+#EXTINF:-1 group-title = »Infotainment” TVC
+http://91.213.59.190:8000/239.0.1.25
+#EXTINF:-1 group-title = »Infotainment” Country
+http://91.213.59.190:8000/239.0.0.233
+#EXTINF:-1 group-title = »Infotainment” Planet TV
+http://91.213.59.190:8000/239.0.0.245
+#EXTINF:-1 group-title = »Infotainment ‘Trophy
+http://91.213.59.190:8000/239.0.0.90
+#EXTINF:-1 group-title = »Infotainment», Paramount Comedy
+http://91.213.59.190:8000/239.0.0.101
+#EXTINF:-1 group-title = »Infotainment” Curler
+http://91.213.59.190:8000/239.0.0.151
+#EXTINF:-1 group-title = »Infotainment” 2 × 2
+http://91.213.59.190:8000/239.0.0.161
+#EXTINF:-1 group-title = »Infotainment” TET
+http://91.213.59.190:8000/239.0.0.62
+#EXTINF:-1 group-title = »Infotainment» UFO TV
+http://91.213.59.190:8000/239.0.0.244
+#EXTINF:-1 group-title = »Infotainment”, Friday
+http://91.213.59.190:8000/239.0.0.162
+#EXTINF:-1 group-title = »Infotainment», Egoist TV
+http://91.213.59.190:8000/239.0.0.7
+#EXTINF:-1 group-title = »Infotainment», THT comedy
+http://91.213.59.190:8000/239.0.0.11
+#EXTINF:-1 group-title = »Infotainment” Kitchen TV
+http://91.213.59.190:8000/239.0.0.23
+#EXTINF:-1 group-title = »Infotainment», TLC
+http://91.213.59.190:8000/239.0.0.32
+#EXTINF:-1 group-title = »Infotainment» TNT
+http://91.213.59.190:8000/239.0.0.55
+#EXTINF:-1 group-title = »Infotainment» Home
+http://91.213.59.190:8000/239.0.0.45
+#EXTINF:-1 group-title = »Infotainment», Gamma
+http://91.213.59.190:8000/239.0.0.6
+#EXTINF:-1 group-title = »Infotainment», Zoom
+http://91.213.59.190:8000/239.0.0.126
+#EXTINF:-1 group-title = »Infotainment” Purshia Natsіonalny
+http://91.213.59.190:8000/239.0.0.187
+#EXTINF:-1 group-title = »Infotainment”, NTN
+http://91.213.59.190:8000/239.0.0.78
+#EXTINF:-1 group-title = »Infotainment” K1
+http://91.213.59.190:8000/239.0.0.70
+#EXTINF:-1 group-title = »Infotainment” INTER
+http://91.213.59.190:8000/239.0.0.72
+#EXTINF:-1 group-title = »Infotainment», K2
+http://91.213.59.190:8000/239.0.0.122
+#EXTINF:-1 group-title = »Infotainment», impact TV
+http://91.213.59.190:8000/239.0.0.139
+#EXTINF:-1 group-title = »Infotainment” CTC
+http://91.213.59.190:8000/239.0.0.92
+#EXTINF:-1 group-title = »Infotainment”, STB
+http://91.213.59.190:8000/239.0.0.102
+#EXTINF:-1 group-title = »Infotainment” New Channel
+http://91.213.59.190:8000/239.0.0.105
+#EXTINF:-1 group-title = »Infotainment», ICTV
+http://91.213.59.190:8000/239.0.0.106
+#EXTINF:-1 group-title = »Infotainment” 1 +1
+http://91.213.59.190:8000/239.0.0.120
+#EXTINF:-1 group-title = »Infotainment” Mega
+http://91.213.59.190:8000/239.0.0.127
+#EXTINF:-1 group-title = »Infotainment” Top Secret
+http://91.213.59.190:8000/239.0.0.140
+#EXTINF:-1 group-title = »Infotainment” Telecafe
+http://91.213.59.190:8000/239.0.0.150
+#EXTINF:-1 group-title = »Infotainment” Pepper TV
+http://91.213.59.190:8000/239.0.0.43
+#EXTINF:-1 group-title = »Infotainment”, the 2 + 2
+http://91.213.59.190:8000/239.0.0.156
+#EXTINF:-1 group-title = »Infotainment”, NTA
+http://91.213.59.190:8000/239.0.0.215
+#EXTINF:-1 group-title = »Infotainment», Shopping TV
+http://91.213.59.190:8000/239.0.0.167
+#EXTINF:-1 group-title = »Infotainment” Yu TV
+http://91.213.59.190:8000/239.0.0.180
+#EXTINF:-1 group-title = »Infotainment” Nostalgia
+http://91.213.59.190:8000/239.0.0.181
+#EXTINF:-1 group-title = »Infotainment» TDK
+http://91.213.59.190:8000/239.0.0.211
+#EXTINF:-1 group-title = »Infotainment», Fashion HD
+http://91.213.59.190:8000/239.0.0.213
+#EXTINF:-1 group-title = »Infotainment” Good TV
+http://91.213.59.190:8000/239.0.0.56
+#EXTINF:-1 group-title = »Infotainment” RBC
+http://91.213.59.190:8000/239.0.0.63
+#EXTINF:-1 group-title = »Infotainment» Right TV
+http://91.213.59.190:8000/239.0.1.12
+#EXTINF:-1 group-title = »Infotainment», TLC HD
+http://91.213.59.190:8000/239.0.0.247
+#EXTINF:-1 group-title = »Infotainment” Sontce
+http://91.213.59.190:8000/239.0.1.11
+#EXTINF:-1 group-title = »Infotainment» CMT
+http://91.213.59.190:8000/239.0.1.14
+#EXTINF:-1 group-title = »Infotainment», Pro All
+http://91.213.59.190:8000/239.0.1.16
+#EXTINF:-1 group-title = »Infotainment” Nadiya
+http://91.213.59.190:8000/239.0.1.10
+#EXTINF:-1 group-title = »Infotainment”, Homesteads TV
+http://91.213.59.190:8000/239.0.1.5
+#EXTINF:-1 group-title = »Infotainment” Maksі
+http://91.213.59.190:8000/239.0.1.17
+#EXTINF:-1 group-title = »Infotainment” Drive
+http://91.213.59.190:8000/239.0.1.2
+#EXTINF:-1 group-title = »Infotainment” Healthy TV
+http://91.213.59.190:8000/239.0.1.4
+#EXTINF:-1 group-title = »Infotainment» FAQ
+http://91.213.59.190:8000/239.0.1.8
+#EXTINF:-1 group-title = »Infotainment», World Fashion
+http://91.213.59.190:8000/239.0.0.183
+#EXTINF:-1 group-title = »Infotainment”, NST
+http://91.213.59.190:8000/239.0.1.24
+#EXTINF:-1 group-title = »Infotainment” OTP
+http://91.213.59.190:8000/239.0.1.151
+#EXTINF:-1 group-title = »Infotainment” TNV Planet
+http://91.213.59.190:8000/239.0.1.145
+#EXTINF:-1 group-title = »Infotainment», CBS Reality
+http://91.213.59.190:8000/239.0.0.91
+#EXTINF:-1 group-title = »Infotainment” Who’s Who
+http://91.213.59.190:8000/239.0.1.45
+#EXTINF:-1 group-title = »Infotainment” Channel 8
+http://91.213.59.190:8000/239.0.1.49
+#EXTINF:-1 group-title = »Infotainment”, 365 Dnei
+http://91.213.59.190:8000/239.0.0.17
+#EXTINF:-1 group-title = »Infotainment”, Kyiv TV
+http://91.213.59.190:8000/239.0.0.66
+#EXTINF:-1 group-title = »Infotainment” Zaporizhzhya
+http://91.213.59.190:8000/zaporizhzha
+#EXTINF:-1 group-title = »Infotainment” VPTV
+http://91.213.59.190:8000/vptv
+#EXTINF:-1 group-title = »Infotainment», Fashion TV Russia
+http://91.213.59.190:8000/239.0.0.79
+#EXTINF:-1 group-title = »Infotainment” Amusement Park
+http://91.213.59.190:8000/239.0.0.172
+#EXTINF:-1 group-title = »Cinema” Nashe Kino
+http://91.213.59.190:8000/239.0.0.15
+#EXTINF:-1 group-title = »Movies» Movies Plus
+http://91.213.59.190:8000/239.0.0.16
+#EXTINF:-1 group-title = »Movies» India TV
+http://91.213.59.190:8000/239.0.0.20
+#EXTINF:-1 group-title = »Cinema” Many TV
+http://91.213.59.190:8000/239.0.0.21
+#EXTINF:-1 group-title = »Movies» Interesting TV
+http://91.213.59.190:8000/239.0.0.22
+#EXTINF:-1 group-title = »Movies» Cinema Union
+http://91.213.59.190:8000/239.0.0.36
+#EXTINF:-1 group-title = »Film», Enter
+http://91.213.59.190:8000/239.0.0.123
+#EXTINF:-1 group-title = »Movies» NTV Kinohit
+http://91.213.59.190:8000/239.0.0.83
+#EXTINF:-1 group-title = »Cinema” Our New Movie
+http://91.213.59.190:8000/239.0.0.85
+#EXTINF:-1 group-title = »Movies» NTV premiere
+http://91.213.59.190:8000/239.0.0.87
+#EXTINF:-1 group-title = »Cinema” NTV + Cinema Club
+http://91.213.59.190:8000/239.0.0.88
+#EXTINF:-1 group-title = »Film», HD-Kino
+http://91.213.59.190:8000/239.0.0.116
+#EXTINF:-1 group-title = »Film», Fox
+http://91.213.59.190:8000/239.0.0.141
+#EXTINF:-1 group-title = »Film», Fox Life
+http://91.213.59.190:8000/239.0.0.144
+#EXTINF:-1 group-title = »Film», TV1000
+http://91.213.59.190:8000/239.0.0.153
+#EXTINF:-1 group-title = »Film», TV1000 Action
+http://91.213.59.190:8000/239.0.0.152
+#EXTINF:-1 group-title = »Film», TV1000 Russian cinema
+http://91.213.59.190:8000/239.0.0.178
+#EXTINF:-1 group-title = »Movies» Comedy TV
+http://91.213.59.190:8000/239.0.0.19
+#EXTINF:-1 group-title = »Movies» Russian Illusion
+http://91.213.59.190:8000/239.0.0.188
+#EXTINF:-1 group-title = »Cinema” Illusion +
+http://91.213.59.190:8000/239.0.0.189
+#EXTINF:-1 group-title = »Movies» Evrokino
+http://91.213.59.190:8000/239.0.0.190
+#EXTINF:-1 group-title = »Film», AMC
+http://91.213.59.190:8000/239.0.0.89
+#EXTINF:-1 group-title = »Movies» Kinoreys 1
+http://91.213.59.190:8000/239.0.0.202
+#EXTINF:-1 group-title = »Movies» Kinoreys 2
+http://91.213.59.190:8000/239.0.0.203
+#EXTINF:-1 group-title = »Cinema” Cinema House
+http://91.213.59.190:8000/239.0.0.206
+#EXTINF:-1 group-title = »Cinema” Our favorite movie
+http://91.213.59.190:8000/239.0.0.61
+#EXTINF:-1 group-title = »Film», NTV + 3D by Panasonic
+http://91.213.59.190:8000/239.0.0.125
+#EXTINF:-1 group-title = »Film», Amedia HD
+http://91.213.59.190:8000/239.0.1.102
+#EXTINF:-1 group-title = »Film», HD Kino 2
+http://91.213.59.190:8000/239.0.0.236
+#EXTINF:-1 group-title = »Film», MGM channel HD
+http://91.213.59.190:8000/239.0.0.104
+#EXTINF:-1 group-title = »Movies» Retro
+http://91.213.59.190:8000/239.0.1.1
+#EXTINF:-1 group-title = »Film», Amedia 2
+http://91.213.59.190:8000/239.0.1.158
+#EXTINF:-1 group-title = »Film», Amedia SD
+http://91.213.59.190:8000/239.0.1.159
+#EXTINF:-1 group-title = »Movies» Phoenix + Movie
+http://91.213.59.190:8000/239.0.1.44
+#EXTINF:-1 group-title = »Film», TV1000 MegaHit HD
+http://91.213.59.190:8000/239.0.1.180
+#EXTINF:-1 group-title = »Film», TV1000 Premium HD
+http://91.213.59.190:8000/239.0.1.182
+#EXTINF:-1 group-title = »Film», CBS Drama
+http://91.213.59.190:8000/239.0.1.86
+#EXTINF:-1 group-title = »Film», TV XXI
+http://91.213.59.190:8000/239.0.0.191
+#EXTINF:-1 group-title = »Music», Muz TV
+http://91.213.59.190:8000/239.0.1.120
+#EXTINF:-1 group-title = »Music», A-one Hip-Hop
+http://91.213.59.190:8000/239.0.1.56
+#EXTINF:-1 group-title = »Music», RUMusic
+http://91.213.59.190:8000/239.0.0.3
+#EXTINF:-1 group-title = »Music», MCM Top
+http://91.213.59.190:8000/239.0.0.49
+#EXTINF:-1 group-title = »Music», VH1 Classic
+http://91.213.59.190:8000/239.0.0.44
+#EXTINF:-1 group-title = »Music», VH1
+http://91.213.59.190:8000/239.0.0.58
+#EXTINF:-1 group-title = »Music», MTV Dance
+http://91.213.59.190:8000/239.0.0.80
+#EXTINF:-1 group-title = »Music» M1
+http://91.213.59.190:8000/239.0.0.103
+#EXTINF:-1 group-title = »Music», MTV Rocks
+http://91.213.59.190:8000/239.0.0.143
+#EXTINF:-1 group-title = »Music», A-One
+http://91.213.59.190:8000/239.0.0.160
+#EXTINF:-1 group-title = »Music», MTV Russia
+http://91.213.59.190:8000/239.0.0.170
+#EXTINF:-1 group-title = »Music» Minor
+http://91.213.59.190:8000/239.0.0.18
+#EXTINF:-1 group-title = »Music», Bridge TV
+http://91.213.59.190:8000/239.0.0.176
+#EXTINF:-1 group-title = »Music», Rusong TV
+http://91.213.59.190:8000/239.0.0.177
+#EXTINF:-1 group-title = »Music» M2
+http://91.213.59.190:8000/239.0.0.107
+#EXTINF:-1 group-title = »Music», MTV Live HD
+http://91.213.59.190:8000/239.0.0.196
+#EXTINF:-1 group-title = »Music», MTV HITS
+http://91.213.59.190:8000/239.0.0.205
+#EXTINF:-1 group-title = »Music» Music First
+http://91.213.59.190:8000/239.0.0.207
+#EXTINF:-1 group-title = »Music», Europa Plus TV
+http://91.213.59.190:8000/239.0.0.218
+#EXTINF:-1 group-title = »Music», Mezzo HD
+http://91.213.59.190:8000/239.0.0.124
+#EXTINF:-1 group-title = »Music», Music BOX
+http://91.213.59.190:8000/239.0.0.135
+#EXTINF:-1 group-title = »Music» Chanson TV
+http://91.213.59.190:8000/239.0.1.184
+#EXTINF:-1 group-title = »News» 24 Byelorussia
+http://91.213.59.190:8000/239.0.1.38
+#EXTINF:-1 group-title = »News» 112
+http://91.213.59.190:8000/239.0.0.242
+#EXTINF:-1 group-title = »News» Sotsіalna Krayina
+http://91.213.59.190:8000/239.0.0.8
+#EXTINF:-1 group-title = »News’ UTR
+http://91.213.59.190:8000/239.0.0.57
+#EXTINF:-1 group-title = »News» 112 HD
+http://91.213.59.190:8000/239.0.0.216
+#EXTINF:-1 group-title = »News” Channel 5
+http://91.213.59.190:8000/239.0.0.1
+#EXTINF:-1 group-title = »News», News One
+http://91.213.59.190:8000/239.0.0.2
+#EXTINF:-1 group-title = »News» Purshia Dіlovy
+http://91.213.59.190:8000/239.0.0.9
+#EXTINF:-1 group-title = »News», TBi
+http://91.213.59.190:8000/239.0.0.112
+#EXTINF:-1 group-title = »News» News 24
+http://91.213.59.190:8000/239.0.0.193
+#EXTINF:-1 group-title = »News» Espreso TV
+http://91.213.59.190:8000/239.0.0.209
+#EXTINF:-1 group-title = »News», Euronews UA
+http://91.213.59.190:8000/239.0.0.159
+#EXTINF:-1 group-title = »News» BTB
+http://91.213.59.190:8000/239.0.1.18
+#EXTINF:-1 group-title = »News» Ukraine First
+http://91.213.59.190:8000/239.0.0.254
+#EXTINF:-1 group-title = »News», UNIAN
+http://91.213.59.190:8000/239.0.0.133
+#EXTINF:-1 group-title = »News», UBR
+http://91.213.59.190:8000/239.0.0.113
+#EXTINF:-1 group-title = »News», UBC
+http://91.213.59.190:8000/239.0.0.166
+#EXTINF:-1 group-title = »News», EuroNews
+http://91.213.59.190:8000/239.0.0.185
+#EXTINF:-1 group-title = »News», OTV
+http://91.213.59.190:8000/239.0.0.4
+#EXTINF:-1 group-title = »News» Eco TV
+http://91.213.59.190:8000/239.0.0.5
+#EXTINF:-1 group-title = »News», STV
+http://91.213.59.190:8000/239.0.0.175
+#EXTINF:-1 group-title = »News» Time
+http://91.213.59.190:8000/239.0.0.142
+#EXTINF:-1 group-title = »News», UA Weather
+http://91.213.59.190:8000/239.0.0.163
+#EXTINF:-1 group-title = »News», Channel 100
+http://91.213.59.190:8000/239.0.0.100
+#EXTINF:-1 group-title = »News» Success
+http://91.213.59.190:8000/239.0.0.228
+#EXTINF:-1 group-title = »News», NHK World
+http://91.213.59.190:8000/239.0.0.234
+#EXTINF:-1 group-title = »News», ZIK TV
+http://91.213.59.190:8000/239.0.0.67
+#EXTINF:-1 group-title = »News», emergency info
+http://91.213.59.190:8000/239.0.0.68
+#EXTINF:-1 group-title = »News», France 24
+http://91.213.59.190:8000/239.0.1.51
+#EXTINF:-1 group-title = »News», Bloomberg
+http://91.213.59.190:8000/239.0.1.48
+#EXTINF:-1 group-title = »News», BBC News
+http://91.213.59.190:8000/239.0.1.50
+#EXTINF:-1 group-title = »Learning” Living Planet
+http://91.213.59.190:8000/239.0.1.39
+#EXTINF:-1 group-title = »Learning” 24 Techno
+http://91.213.59.190:8000/239.0.1.19
+#EXTINF:-1 group-title = »Educational» History
+http://91.213.59.190:8000/239.0.1.149
+#EXTINF:-1 group-title = »Educational», Animal Planet HD
+http://91.213.59.190:8000/239.0.0.129
+#EXTINF:-1 group-title = »Educational», Discovery Channel
+http://91.213.59.190:8000/239.0.0.29
+#EXTINF:-1 group-title = »Educational», Animal Planet
+http://91.213.59.190:8000/239.0.0.34
+#EXTINF:-1 group-title = »Educational», National Geographic
+http://91.213.59.190:8000/239.0.0.35
+#EXTINF:-1 group-title = »Educational», Discovery World
+http://91.213.59.190:8000/239.0.0.47
+#EXTINF:-1 group-title = »Educational», Discovery Science
+http://91.213.59.190:8000/239.0.0.48
+#EXTINF:-1 group-title = »Educational», Nat Geo Wild
+http://91.213.59.190:8000/239.0.0.51
+#EXTINF:-1 group-title = »Educational», Discovery HD
+http://91.213.59.190:8000/239.0.0.136
+#EXTINF:-1 group-title = »Educational», HD Life
+http://91.213.59.190:8000/239.0.0.118
+#EXTINF:-1 group-title = »Educational», Discovery HD Showcase
+http://91.213.59.190:8000/239.0.0.119
+#EXTINF:-1 group-title = »Educational», RTG
+http://91.213.59.190:8000/239.0.0.37
+#EXTINF:-1 group-title = »Educational», Ocean TV
+http://91.213.59.190:8000/239.0.0.38
+#EXTINF:-1 group-title = »Cognitive” My Planet
+http://91.213.59.190:8000/239.0.0.39
+#EXTINF:-1 group-title = »Educational» Science 2.0
+http://91.213.59.190:8000/239.0.0.40
+#EXTINF:-1 group-title = »Educational», Outdoor Channel
+http://91.213.59.190:8000/239.0.0.41
+#EXTINF:-1 group-title = »Educational» 24 DOC
+http://91.213.59.190:8000/239.0.0.42
+#EXTINF:-1 group-title = »Educational», Viasat Explorer
+http://91.213.59.190:8000/239.0.0.155
+#EXTINF:-1 group-title = »Educational», Viasat Nature
+http://91.213.59.190:8000/239.0.0.154
+#EXTINF:-1 group-title = »Educational», Nat Geo Wild HD
+http://91.213.59.190:8000/239.0.0.168
+#EXTINF:-1 group-title = »Educational» Pets
+http://91.213.59.190:8000/239.0.1.6
+#EXTINF:-1 group-title = »Educational», Da Vinci Learning
+http://91.213.59.190:8000/239.0.0.194
+#EXTINF:-1 group-title = »Educational», Viasat History
+http://91.213.59.190:8000/239.0.0.197
+#EXTINF:-1 group-title = »Learning” Hunting and Fishing
+http://91.213.59.190:8000/239.0.1.3
+#EXTINF:-1 group-title = »Educational», Nat Geo HD
+http://91.213.59.190:8000/239.0.1.101
+#EXTINF:-1 group-title = »Educational», History
+http://91.213.59.190:8000/239.0.0.246
+#EXTINF:-1 group-title = »Educational», Travel HD
+http://91.213.59.190:8000/239.0.0.248
+#EXTINF:-1 group-title = »Learning”, Psychology 21
+http://91.213.59.190:8000/239.0.1.7
+#EXTINF:-1 group-title = »Educational» Culture
+http://91.213.59.190:8000/239.0.0.165
+#EXTINF:-1 group-title = »Learning» Education
+http://91.213.59.190:8000/239.0.1.150
+#EXTINF:-1 group-title = »Educational», Travel Channel
+http://91.213.59.190:8000/239.0.0.214
+#EXTINF:-1 group-title = »Educational», History HD
+http://91.213.59.190:8000/239.0.1.160
+#EXTINF:-1 group-title = »Educational», Viasat Nature HD
+http://91.213.59.190:8000/239.0.1.30
+#EXTINF:-1 group-title = »Educational» Spas
+http://91.213.59.190:8000/239.0.1.148
+#EXTINF:-1 group-title = »Learning” Auto Plus
+http://91.213.59.190:8000/239.0.0.137
+#EXTINF:-1 group-title = »Educational» Weapons
+http://91.213.59.190:8000/239.0.0.53
+#EXTINF:-1 group-title = »Educational», English Club TV
+http://91.213.59.190:8000/239.0.0.75
+#EXTINF:-1 group-title = »Sport», Viasat Sport East HD
+http://91.213.59.190:8000/239.0.1.183
+#EXTINF:-1 group-title = »Sport» Football NTV Plus 3 HD
+http://91.213.59.190:8000/239.0.1.179
+#EXTINF:-1 group-title = »Sports» Fighter TV
+http://91.213.59.190:8000/239.0.0.24
+#EXTINF:-1 group-title = »Sport», Eurosport
+http://91.213.59.190:8000/239.0.0.33
+#EXTINF:-1 group-title = »Sport», Extreme Sports
+http://91.213.59.190:8000/239.0.0.50
+#EXTINF:-1 group-title = »Sports», NTV + Sport
+http://91.213.59.190:8000/239.0.0.60
+#EXTINF:-1 group-title = »Sports», NTV + Football
+http://91.213.59.190:8000/239.0.0.93
+#EXTINF:-1 group-title = »Sports», NTV + Tennis
+http://91.213.59.190:8000/239.0.0.94
+#EXTINF:-1 group-title = »Sports», NTV + Basketball
+http://91.213.59.190:8000/239.0.0.95
+#EXTINF:-1 group-title = »Sports», NTV Plus Football 2
+http://91.213.59.190:8000/239.0.0.96
+#EXTINF:-1 group-title = »Sports», NTV + Our Football
+http://91.213.59.190:8000/239.0.0.97
+#EXTINF:-1 group-title = »Sports», NTV Plus Sport Plus
+http://91.213.59.190:8000/239.0.0.99
+#EXTINF:-1 group-title = »Sport», HD Sport
+http://91.213.59.190:8000/239.0.0.117
+#EXTINF:-1 group-title = »Sports» KHL
+http://91.213.59.190:8000/239.0.0.147
+#EXTINF:-1 group-title = »Sports», NTV Plus Football HD
+http://91.213.59.190:8000/239.0.0.169
+#EXTINF:-1 group-title = »Sport», Viasat Sport
+http://91.213.59.190:8000/239.0.0.179
+#EXTINF:-1 group-title = »Sport», Eurosport HD
+http://91.213.59.190:8000/239.0.0.195
+#EXTINF:-1 group-title = »Sport» Our Football HD
+http://91.213.59.190:8000/239.0.1.100
+#EXTINF:-1 group-title = »Sports» Sports 1
+http://91.213.59.190:8000/239.0.0.225
+#EXTINF:-1 group-title = »Sports» Sports
+http://91.213.59.190:8000/239.0.0.226
+#EXTINF:-1 group-title = »Sports» Fight Club
+http://91.213.59.190:8000/239.0.0.227
+#EXTINF:-1 group-title = »Sport» Sport 1 Ukraine
+http://91.213.59.190:8000/239.0.0.65
+#EXTINF:-1 group-title = »Sport» Football 3
+http://91.213.59.190:8000/239.0.0.98
+#EXTINF:-1 group-title = »Sports», NTV Plus Football 2 HD
+http://91.213.59.190:8000/239.0.0.235
+#EXTINF:-1 group-title = »Sport» Football +
+http://91.213.59.190:8000/239.0.0.224
+#EXTINF:-1 group-title = »Sports» Sports 1 HD
+http://91.213.59.190:8000/239.0.0.237
+#EXTINF:-1 group-title = »Sport» Football 1
+http://91.213.59.190:8000/239.0.1.203
+#EXTINF:-1 group-title = »Sport», Eurosport 2
+http://91.213.59.190:8000/239.0.0.81
 
 #EXTINF:-1,[COLOR red]****************Albania CHANNEL****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
