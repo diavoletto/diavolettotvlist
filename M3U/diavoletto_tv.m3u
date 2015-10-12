@@ -500,8 +500,191 @@ http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1, KBS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/chunklist.m3u8
 
-#EXTINF:-1,[COLOR red]****************Bulgaria CHANNEL****************[/COLOR]
-
+#EXTINF:-1,[COLOR red]****************Serbia CHANNEL****************[/COLOR]
+#EXTINF:-1,24 kitchen
+http://master.nika.rs.ba:80/live?channelId=1&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,AXN ACTION DE – AXN ACTION DE
+http://master.nika.rs.ba:80/live?channelId=9&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,B92 – B92
+http://master.nika.rs.ba:80/live?channelId=10&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Bang Bang – Bang Bang
+http://master.nika.rs.ba:80/live?channelId=147&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,BHT R – BHT
+http://master.nika.rs.ba:80/live?channelId=13&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,BN – BN
+http://master.nika.rs.ba:80/live?channelId=14&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,BN SAT – BN SAT
+http://master.nika.rs.ba:80/live?channelId=15&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,CINESTAR PREMIERE 1 – CINESTAR PREMIERE 1
+http://master.nika.rs.ba:80/live?channelId=21&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,CRIME & INVESTIGATION – CRIME & INVESTIGATION
+http://master.nika.rs.ba:80/live?channelId=23&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,CufoTV – CufoTV
+http://master.nika.rs.ba:80/live?channelId=143&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,DISCOVERY – DISCOVERY
+http://master.nika.rs.ba:80/live?channelId=24&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,DISCOVERY DE – DISCOVERY DE
+http://master.nika.rs.ba:80/live?channelId=25&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,DM SAT – DM SAT
+http://master.nika.rs.ba:80/live?channelId=26&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,DOMA TV – DOMA TV
+http://master.nika.rs.ba:80/live?channelId=27&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FACE TV – FACE TV
+http://master.nika.rs.ba:80/live?channelId=144&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FACE TV R – FACE TV
+http://master.nika.rs.ba:80/live?channelId=28&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FOX CRIME R – FOX CRIME
+http://master.nika.rs.ba:80/live?channelId=29&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FOX LIFE – FOX LIFE
+http://master.nika.rs.ba:80/live?channelId=30&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FOX MOVIES – FOX MOVIES
+http://master.nika.rs.ba:80/live?channelId=31&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FOX SERIEN DE – FOX SERIEN DE
+http://master.nika.rs.ba:80/live?channelId=32&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,FTV – FTV
+http://master.nika.rs.ba:80/live?channelId=33&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,GRAND TV – GRAND TV
+http://master.nika.rs.ba:80/live?channelId=34&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HAPY TV – HAPY TV
+http://master.nika.rs.ba:80/live?channelId=35&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HAYAT – HAYAT
+http://master.nika.rs.ba:80/live?channelId=36&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HAYAT FOLK – HAYAT FOLK
+http://master.nika.rs.ba:80/live?channelId=37&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HAYAT PLUS – HAYAT PLUS
+http://master.nika.rs.ba:80/live?channelId=38&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HAYATOVCI – HAYATOVCI
+http://master.nika.rs.ba:80/live?channelId=146&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HBO – HBO
+http://master.nika.rs.ba:80/live?channelId=39&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HISTORX – HISTORX
+http://master.nika.rs.ba:80/live?channelId=41&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HRT1 – HRT1
+http://master.nika.rs.ba:80/live?channelId=42&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,HRT2 – HRT2
+http://master.nika.rs.ba:80/live?channelId=43&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,KINOWELT DE – KINOWELT DE
+http://master.nika.rs.ba:80/live?channelId=44&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,KLASIK TV – KLASIK TV
+http://master.nika.rs.ba:80/live?channelId=45&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,LOV I RIBOLOV – LOV I RIBOLOV
+http://master.nika.rs.ba:80/live?channelId=47&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,MINI TV – MINI TV
+http://master.nika.rs.ba:80/live?channelId=48&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,N1 Bosna – N1 Bosna
+http://master.nika.rs.ba:80/live?channelId=49&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,NAT GEO WILD DE – NAT GEO WILD DE
+http://master.nika.rs.ba:80/live?channelId=50&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,NATIONAL GEO – NATIONAL GEO
+http://master.nika.rs.ba:80/live?channelId=51&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,NOVA RS – NOVA RS
+http://master.nika.rs.ba:80/live?channelId=52&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,NOVA TV HR – NOVA TV HR
+http://master.nika.rs.ba:80/live?channelId=53&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,OBN – OBN
+http://master.nika.rs.ba:80/live?channelId=54&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,PINK – PINK
+http://master.nika.rs.ba:80/live?channelId=55&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink 2
+http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/index.m3u8
+#EXTINF:-1,PINK 2 – PINK 2
+http://master.nika.rs.ba:80/live?channelId=56&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink 3
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/index.m3u8
+#EXTINF:-1,PINK ACTION – PINK ACTION
+http://master.nika.rs.ba:80/live?channelId=57&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,PINK ACTION 2 – PINK ACTION 2
+http://master.nika.rs.ba:80/live?channelId=58&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,PINK BIH – PINK BIH
+http://master.nika.rs.ba:80/live?channelId=59&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Comedy
+http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,PINK EXTRA – PINK EXTRA
+http://master.nika.rs.ba:80/live?channelId=60&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Fashion
+http://str108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,PINK FILM – PINK FILM
+http://master.nika.rs.ba:80/live?channelId=61&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Folk 1
+http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Folk 2
+http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Kids
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Movies
+http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/index.m3u8
+#EXTINF:-1,PINK MOVIES – PINK MOVIES
+http://master.nika.rs.ba:80/live?channelId=62&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,PINK MOVIES 2 – PINK MOVIES 2
+http://master.nika.rs.ba:80/live?channelId=63&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Music
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Pedia
+http://str108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,PINK PLUS – PINK PLUS
+http://master.nika.rs.ba:80/live?channelId=64&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Reality
+http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink Sci-Fi & Fantasy – Pink Sci-Fi & Fantasy
+http://master.nika.rs.ba:80/live?channelId=65&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,Pink Soap
+http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,Pink World
+http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/index.m3u8
+#EXTINF:-1,PRVA PLUS SR – PRVA PLUS SR
+http://master.nika.rs.ba:80/live?channelId=67&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,RTL KOCKICA – RTL KOCKICA
+http://master.nika.rs.ba:80/live?channelId=70&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,RTL hr – RTL hr
+http://master.nika.rs.ba:80/live?channelId=68&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,RTRS – RTRS
+http://master.nika.rs.ba:80/live?channelId=72&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,RTS1 – RTS1
+http://master.nika.rs.ba:80/live?channelId=73&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,RTS2 – RTS2
+http://master.nika.rs.ba:80/live?channelId=74&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,SKY ACTION DE – SKY ACTION DE
+http://master.nika.rs.ba:80/live?channelId=148&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,SKY HITS DE – SKY HITS DE
+http://master.nika.rs.ba:80/live?channelId=149&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,TV 1 – TV 1
+http://master.nika.rs.ba:80/live?channelId=145&uid=66&deviceUser=besplatno&devicePass=besplatno
+#EXTINF:-1,zzz Pink
+http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/index.m3u8
+#EXTINF:-1,zzz Pink Action
+http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/index.m3u8
+#EXTINF:-1,zzz Pink Action 2
+http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Action 3
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Family
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Live
+http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink M
+http://str108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/index.m3u8
+#EXTINF:-1,zzz Pink Movies 2
+http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/index.m3u8
+#EXTINF:-1,zzz Pink Movies 3
+http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/index.m3u8
+#EXTINF:-1,zzz Pink Music 2
+http://str108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Music 3
+http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Music 4
+http://str108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Music 5
+http://str108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Nostalgija
+http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Western
+http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/index.m3u8
+#EXTINF:-1,zzz Pink Zabava
+http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/index.m3u8
 
 
 #EXTINF:-1,[COLOR red]****************Turkey Channel****************[/COLOR]
