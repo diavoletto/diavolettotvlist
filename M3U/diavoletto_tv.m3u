@@ -1,7 +1,7 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 13/10/2015 19h45*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 15/10/2015 18h05*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
@@ -9,51 +9,11 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 
 #EXTINF:-1,[COLOR red]****************Sport****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-#EXTINF:-1, bt sports 1
-http://alturl.com/54bsh
-#EXTINF:-1, bt sport 2
-http://alturl.com/2megs
-#EXTINF:-1, bt sports euro
-http://alturl.com/asbge
-#EXTINF:-1, sky sports 1
-http://alturl.com/b543q
-#EXTINF:-1, sky sports 2
-http://alturl.com/5zv7h
-#EXTINF:-1, sky sports 3
-http://alturl.com/pr8aj
-#EXTINF:-1, sky sports 4
-http://alturl.com/bmfpe
-#EXTINF:-1, sky sports 5
-http://alturl.com/soxsu
-#EXTINF:-1, Sky Sp News HQ
-http://alturl.com/jbqz6
-#EXTINF:-1, Racing UK
-http://alturl.com/fzjwq
-#EXTINF:-1, BT Sports / ESPN
-http://alturl.com/8ojfm
-#EXTINF:-1, PremierSports
-http://alturl.com/q3f4o
-#EXTINF:-1, Sports F1
-http://alturl.com/uhibz
-#EXTINF:-1, Box Nation
-http://alturl.com/u2wud
-#EXTINF:-1, NBA
-http://alturl.com/wvxzt
-#EXTINF:-1, British Eurosport
-http://alturl.com/mpedu
-#EXTINF:-1, British Eurosport2
-http://alturl.com/kddsc
-#EXTINF:-1, Chelsea TV
-http://alturl.com/2t3om
-#EXTINF:-1, lFC TV
-http://alturl.com/4jcam
+
 #EXTINF:-1, Viasat Sport
 http://alturl.com/8wi4k
 
 #EXTM3U
-#EXTINF:-1,[COLOR magenta][I][B]leon branco (Magellan)[/B][/I][/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1,[COLOR yellow]» » PORTUGAL« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
