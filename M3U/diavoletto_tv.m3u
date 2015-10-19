@@ -1,10 +1,78 @@
 ﻿#EXTM3U 
 #EXTINF:-1, [COLOR gold] *Welcome To Diavoletto Tv Entertainment*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 17/10/2015 14h30*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 19/10/2015 18h30*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DONATE ON www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
+
+#EXTINF:-1,[COLOR red]****************Latino Channel****************[/COLOR]
+https://www.youtube.com/watch?v=C9x--FZq5oQ
+#EXTINF:0,Latino:UNIVERSAL MOVIES
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,Mex:AZTECA NOTICIAS HD
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:0,Mex:AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:0,Mex:Radio y Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:0,Mex:TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:0,Mex:MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:0,Mex:CANAL ONCE
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:0,Mex:OCHO TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:0,Mex:TVMas VERACRUZ
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:0,Arg:CANAL 13 HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:0,Arg:Canal Rural 1 HD
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:0,Arg:Quiero Musica mms
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:0,Arg:C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:0,Chil:TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+
+#EXTINF:0,Chil:MEGA HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:0,Per:AMERICA TV HD
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:0,Dom:Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+
+#EXTINF:0,Dom:TELEANTILLAS 2 HD
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0,Dom:Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+
+#EXTINF:0,Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:0,Pan:TVN 2
+http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+
+#EXTINF:0,Nic:CANAL 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************Germany Channel****************[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
