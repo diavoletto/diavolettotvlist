@@ -5,114 +5,12 @@ https://www.youtube.com/watch?v=C9x--FZq5oQ
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *www.diavoletto-beats.com*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:-1, [COLOR gold] *Update 01/11/2015 15H00*[/COLOR]
+#EXTINF:-1, [COLOR gold] *Update 05/11/2015 15H00*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *IF YOU WANT A IPTV PAID SERVICE CONTACT US AT*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
 #EXTINF:-1, [COLOR gold] *DIAVOLETTO.MUSIC.GROUP@GMAIL.COM*[/COLOR]
 https://www.youtube.com/watch?v=C9x--FZq5oQ
-
-#EXTINF:-1,[COLOR red]****************French Tv****************[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTM3U
-
-EXTINF:0202,TF 1 HD
-http://hls.tv.iptv.ink/tf1fr@444423.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0205,France 2 HD
-http://hls.tv.iptv.ink/france2fr@432137.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0206,France 3
-http://hls.tv.iptv.ink/france3fr@217153.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0208,France 5
-http://hls.tv.iptv.ink/france5fr@308859.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0209,M6 HD
-http://hls.tv.iptv.ink/m6fr@700162.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,M6
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
-#EXTINF:0210,arte HD
-http://hls.tv.iptv.ink/artefr@849930.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0211,D8
-http://hls.tv.iptv.ink/d8fr@711979.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0212,W9
-http://hls.tv.iptv.ink/w9fr@985019.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0213,TMC
-http://hls.tv.iptv.ink/tmcfr@989571.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0214,NT1
-http://hls.tv.iptv.ink/nt1fr@892431.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0215,NRJ12
-http://hls.tv.iptv.ink/nrj12fr@427412.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0216,France 4
-http://hls.tv.iptv.ink/france4fr@313527.m3u8|X-Forwarded-For=81.17.18.55
-
-#EXTINF:0219,D17
-http://hls.tv.iptv.ink/d17fr@217576.m3u8|X-Forwarded-For=81.17.18.55
-
-#EXTINF:0221,France Ô
-http://hls.tv.iptv.ink/franceofr@857573.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0222,HD1 HD
-http://hls.tv.iptv.ink/hd1fr@938750.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0223,L'Equipe 21 HD
-http://hls.tv.iptv.ink/lequipefr@256612.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0224,6ter HD
-http://hls.tv.iptv.ink/6terfr@820597.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0225,Numéro 23 HD
-http://hls.tv.iptv.ink/numero23fr@844608.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0226,RMC Découverte HD
-http://hls.tv.iptv.ink/rmcdfr@562326.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0227,Chérie 25 HD
-http://hls.tv.iptv.ink/cherie25fr@719525.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0228,RTL 9
-http://hls.tv.iptv.ink/rtl9fr@356117.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0229,TV5MONDE
-http://hls.tv.iptv.ink/tv5mondefr@305813.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0220,gulli
-http://hls.tv.iptv.ink/gullifr@841822.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:0234,Cartoon Network
-http://hls.tv.iptv.ink/cnfr@143244.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,Disney XD 
-http://178.33.88.129:888/udp/239.102.0.88:1234
-#EXTINF:-1,Cartoon Network 
-http://178.33.88.129:888/udp/239.102.0.89:1234
-
-#EXTINF:-1,TV5 MONDE Europe 
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,Arte (German/French Tv)
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,TVA Montréal
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1,ICI RDI HD
-http://hdflash_1-lh.akamaihd.net/i/canrdi_1@95877/master.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1,Discovery Channel 
-
-http://178.33.88.129:888/udp/239.102.0.90:1234
-#EXTINF:-1,Ushuaia TV 
-http://178.33.88.129:888/udp/239.102.0.91:1234
-#EXTINF:-1,Planete+ Thalassa 
-http://178.33.88.129:888/udp/239.102.0.92:1234
-#EXTINF:-1,Voyage 
-http://178.33.88.129:888/udp/239.102.0.85:1234
-#EXTINF:-1,Animaux 
-http://87.248.160.8/edge/smil:animaux/playlist.m3u8
-#EXTINF:0,Club1
-http://tv.ut.cx/club1.mp4
-#EXTINF:-1,Club 1 (stream 2)
-http://teleclub.fr/club1.mp4
-#EXTINF:-1,Cine Fil
-http://teleclub.fr/cinefil.mp4
-#EXTINF:-1,CineFil (stream 2)
-http://tv.ut.cx/cinefil.mp4
-#EXTINF:-1,Cinetoile
-http://teleclub.fr/cinetoile.mp4
-#EXTINF:-1,Cinetoile (stream 2)
-http://tv.ut.cx/cinetoile.mp4
-#EXTINF:-1,Cinq+
-http://tv.ut.cx/cinqplus.mp4
-#EXTINF:-1,Cinq+ (stream2)
-http://teleclub.fr/cinqplus.mp4
-
-
 
 ############################################################
 
